@@ -27,7 +27,7 @@ const initialProducts = [
     name: 'Stencil PRIVATE 25x35cm OS45',
     price: '6.35',
     images: [
-      'https://i.ibb.co/GkWQhwV/private-stencils-cadence-25x35cm-0s45.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/8xfkkodjmhsgbniq49cmf/private-stencils-cadence-25x35cm-0s45.jpg?rlkey=zj1buxeec2fgjcl7f9e9fwc8k&st=qj7292jw&dl=0',
     ],
     label: '25x35cm',
     description: 'Stencils CADENCE para home decor de formato MEDIANO 25x35cm; ideal para decoración de paredes, cuadros de gran formato, muebles como comodas, mesillas, butacas, cajas... ',
@@ -38,7 +38,7 @@ const initialProducts = [
     name: 'Stencil PRIVATE 25x35cm OS43',
     price: '6.35',
     images: [
-      'https://i.ibb.co/vsBcxDx/private-stencils-cadence-25x35cm-0s43.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/tdn8g1zgrxtsygixw8vhl/private-stencils-cadence-25x35cm-0s43.jpg?rlkey=cs6yqh6kq51w1ionk2pinnlr8&st=fzbsapke&dl=0',
     ],
     label: '25x35cm',
     description: 'Stencils CADENCE para home decor de formato MEDIANO 25x35cm; ideal para decoración de paredes, cuadros de gran formato, muebles como comodas, mesillas, butacas, cajas... ',
@@ -49,7 +49,7 @@ const initialProducts = [
     name: 'Stencil PRIVATE 25x35cm OS54',
     price: '6.35',
     images: [
-      'https://i.ibb.co/t22KkX9/private-stencils-cadence-25x35cm-0s54.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/o2r7k7xvct0pofe7vkzyh/private-stencils-cadence-25x35cm-0s54.jpg?rlkey=0ybxeez48fk6dnpv80ysv6ad3&st=2ychkdu2&dl=0',
     ],
     label: '25x35cm',
     description: 'Stencils CADENCE para home decor de formato MEDIANO 25x35cm; ideal para decoración de paredes, cuadros de gran formato, muebles como comodas, mesillas, butacas, cajas... ',
@@ -87,7 +87,7 @@ export const Tienda3StencilsPrivate = () => {
   const [filterButtonIcon, setFilterButtonIcon] = useState(<ViewOffIcon />);
 
   const [currentPage, setCurrentPage] = useState(1);
-  const [itemsPerPage, setItemsPerPage] = useState(44); // Cambia el número según tus necesidades
+  const [itemsPerPage, setItemsPerPage] = useState(12); // Cambia el número según tus necesidades
 
   const startIndex = (currentPage - 1) * itemsPerPage;
   const endIndex = startIndex + itemsPerPage;

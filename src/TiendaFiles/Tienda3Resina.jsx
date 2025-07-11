@@ -23,160 +23,46 @@ import { Navbar3 } from '../navbar/Navbar3';
 
 const initialProducts = [
   {
-    id: 428,
-    name: 'Stencil ZEPPELIN 21x30cm ',
-    price: '4.15',
+    id: 722,
+    name: 'Caballito de mar Nº1 24,5x13cm',
+    price: '6.50',
     images: [
-      'https://dl.dropboxusercontent.com/scl/fi/c3z3ije6ijh3iz8cgm71r/stencil-cadence.jpg?rlkey=e79docwwce5foai5v1ephzcgd&st=wdtknzgx&dl=0',
+      'https://www.artesaniasmontejo.com/21893-28900-thickbox_default/caballito-de-mar-n1.jpg',
     ],
-    label: '21x30cm',
-    description: 'Stencils CADENCE para decoración, manualidades, scrapbook, home decor...',
+    label: '24,5x13',
+    description: 'Resina de poliuretano blanco CADENCE para decorar con las pinturas y pastas Cadence.',
     selected: false,
   },
   {
-    id: 429,
-    name: 'Stencil GEOMÉTRICOS 21x30cm ',
-    price: '4.15',
+    id: 723,
+    name: 'Estrella de mar mediana 13,5x13,5cm',
+    price: '6.20',
     images: [
-      'https://dl.dropboxusercontent.com/scl/fi/lpor95b3835hx8eoroefx/stencil-cadence-1.jpg?rlkey=mnciqu94gwbvvx00dyclmahuj&st=425rhm36&dl=0',
+      'https://www.artesaniasmontejo.com/21896-28903-large_default/estrella-de-mar-mediana.jpg',
     ],
-    label: '21x30cm',
-    description: 'Stencils CADENCE para decoración, manualidades, scrapbook, home decor...',
+    label: '13,5x13,5',
+    description: 'Resina de poliuretano blanco CADENCE para decorar con las pinturas y pastas Cadence.',
     selected: false,
   },
   {
-    id: 430,
-    name: 'Stencil FILIGRANAS GRANDE 21x30cm ',
-    price: '4.15',
+    id: 724,
+    name: 'Tortuga de mar garnde 15,5x12cm',
+    price: '6.20',
     images: [
-      'https://dl.dropboxusercontent.com/scl/fi/dl5ylgelhjao1a32qdy2x/stencil-textura-floral.jpg?rlkey=f0gf2fnmgmnkc2dr9q1fcsidu&st=bifq5598&dl=0',
+      'https://www.artesaniasmontejo.com/21898-28908-large_default/tortuga-de-mar-grande.jpg',
     ],
-    label: '21x30cm',
-    description: 'Stencils CADENCE para decoración, manualidades, scrapbook, home decor...',
+    label: '15,5x12',
+    description: 'Resina de poliuretano blanco CADENCE para decorar con las pinturas y pastas Cadence.',
     selected: false,
   },
-  {
-    id: 431,
-    name: 'Stencil FONDOS FLORES 21x30cm ',
-    price: '4.15',
-    images: [
-      'https://dl.dropboxusercontent.com/scl/fi/wmtfip8uwgi9190qcf3mc/stencil-textura-floral-2.jpg?rlkey=fgqgukvsq8vse9t1ubv6qqa10&st=9r032p3l&dl=0',
-    ],
-    label: '21x30cm',
-    description: 'Stencils CADENCE para decoración, manualidades, scrapbook, home decor...',
-    selected: false,
-  },
-  {
-    id: 432,
-    name: 'Stencil MARIPOSAS Y ESTRELLAS 21x30cm ',
-    price: '4.15',
-    images: [
-      'https://dl.dropboxusercontent.com/scl/fi/silmoax16mll0473rv7uj/stencil-textura-floral-1.jpg?rlkey=y0pu5ez6q1jh9b4opc9k309gi&st=drladqs4&dl=0',
-    ],
-    label: '21x30cm',
-    description: 'Stencils CADENCE para decoración, manualidades, scrapbook, home decor...',
-    selected: false,
-  },
-  {
-    id: 433,
-    name: 'Stencil RELIEVE METÁLICO 21x30cm ',
-    price: '4.15',
-    images: [
-      'https://dl.dropboxusercontent.com/scl/fi/235vdu3dld4fllb8613tj/stencil-textura-floral-6.jpg?rlkey=cn9ae72g8ujwa87hgaosmrwo4&st=e3xnxebu&dl=0',
-    ],
-    label: '21x30cm',
-    description: 'Stencils CADENCE para decoración, manualidades, scrapbook, home decor...',
-    selected: false,
-  },
-  {
-    id: 434,
-    name: 'Stencil MOTHER 21x30cm ',
-    price: '4.15',
-    images: [
-      'https://dl.dropboxusercontent.com/scl/fi/c17e0n5tg7g1rt7lrwkn1/stencil-textura-floral-4.jpg?rlkey=xjolkmkro5okwzh96jqf845d5&st=g2mapsms&dl=0',
-    ],
-    label: '21x30cm',
-    description: 'Stencils CADENCE para decoración, manualidades, scrapbook, home decor...',
-    selected: false,
-  },
-  {
-    id: 435,
-    name: 'Stencil TIJERAS VINTAGE 21x30cm ',
-    price: '4.15',
-    images: [
-      'https://dl.dropboxusercontent.com/scl/fi/adtq7xxloap7ss1rtutsz/stencil-textura-floral-5.jpg?rlkey=4f3fxu2zksfazv409n72irpoa&st=4f8e92c1&dl=0',
-    ],
-    label: '21x30cm',
-    description: 'Stencils CADENCE para decoración, manualidades, scrapbook, home decor...',
-    selected: false,
-  },
-  {
-    id: 436,
-    name: 'Stencil ROSA DE LOS VIENTOS 21x30cm ',
-    price: '4.15',
-    images: [
-      'https://dl.dropboxusercontent.com/scl/fi/m7py9xxvxknugsp42p37m/stencil-lavande.jpg?rlkey=a8dpgcmk9jak41789lcrm13x5&st=f2xm5x63&dl=0',
-    ],
-    label: '21x30cm',
-    description: 'Stencils CADENCE para decoración, manualidades, scrapbook, home decor...',
-    selected: false,
-  },
-  {
-    id: 437,
-    name: 'Stencil FILIGRANA 21x30cm ',
-    price: '4.15',
-    images: [
-      'https://dl.dropboxusercontent.com/scl/fi/m7py9xxvxknugsp42p37m/stencil-lavande.jpg?rlkey=a8dpgcmk9jak41789lcrm13x5&st=f2xm5x63&dl=0',
-    ],
-    label: '21x30cm',
-    description: 'Stencils CADENCE para decoración, manualidades, scrapbook, home decor...',
-    selected: false,
-  },
-  {
-    id: 438,
-    name: 'Stencil 3 ROSAS 21x30cm ',
-    price: '4.15',
-    images: [
-      'https://dl.dropboxusercontent.com/scl/fi/3a97uyl6hi7qes1nccn8v/stencil-lavande-2.jpg?rlkey=0roovtsocaazeq9uvak3eh50v&st=fn6tlhdg&dl=0',
-    ],
-    label: '21x30cm',
-    description: 'Stencils CADENCE para decoración, manualidades, scrapbook, home decor...',
-    selected: false,
-  },
-  {
-    id: 439,
-    name: 'Stencil LÁMPARAS 21x30cm ',
-    price: '4.15',
-    images: [
-      'https://dl.dropboxusercontent.com/scl/fi/6whhxb8cogef1brsl8d1z/stencil-lamparas.jpg?rlkey=w0zmwm0lcgmlnr19rbhbi9jrq&st=ue2ojr1f&dl=0',
-    ],
-    label: '21x30cm',
-    description: 'Stencils CADENCE para decoración, manualidades, scrapbook, home decor...',
-    selected: false,
-  },
-  
-  
-  
-  
-  
-  
-  
-
-
-
-  
-
-
-
-
 
 ];
 
 // Define el rango de precios mínimo y máximo de tus productos
 const precioMinimo = 0;
-const precioMaximo = 20;
+const precioMaximo = 50;
 
-export const Tienda3StencilsMiscellaneous = () => {
+export const Tienda3Resina = () => {
   const [products, setProducts] = useState(initialProducts);
   const [priceRange, setPriceRange] = useState([precioMinimo, precioMaximo]);
   const [selectedClasses, setSelectedClasses] = useState([]);
@@ -363,9 +249,10 @@ export const Tienda3StencilsMiscellaneous = () => {
         <div className="menu">
 
           <h1>Tienda de productos para artistas - Cadence 📘</h1>
-          <h2>Stencil Cadence Miscellaneous🎨</h2>
+          <h2>Soportes de Madera🎨</h2>
 
-          <h3>Stencils o Plantillas CADENCE para decoración, manualidades, scrapbook, home decor...</h3>
+          <h3>Pintura CADENCE de gesso con base de agua, especialmente formulada con partículas de diferentes tamaños y colores en su interior para crear una superficie antigua vintage rota. </h3>
+
 
           <Button className="remove-button3" rightIcon={filterButtonIcon} onClick={handleToggleFilters} colorScheme='blue' variant='solid'>
             Filtrar Productos
@@ -380,21 +267,9 @@ export const Tienda3StencilsMiscellaneous = () => {
 
         {showFilters && (
           <div data-aos="fade-right"><div className="filter">
+
             
-            {Array.from(new Set(initialProducts.map((product) => product.label)).values()).map(
-              (selectedClass) => (
-                <Tag size={'lg'} key={'lg'} variant='solid' colorScheme='blue' >
-                  <label key={selectedClass} className="filter-item" id='checkbox'>
-                    <input
-                      type="checkbox"
-                      checked={selectedClasses.includes(selectedClass)}
-                      onChange={() => toggleSelectedClass(selectedClass)} />
-                    {selectedClass}
-                  </label>
-                </Tag>
-              )
-            )}
-                
+
           </div> <div className="price-slider">
 
               <input
@@ -443,7 +318,7 @@ export const Tienda3StencilsMiscellaneous = () => {
         </div>
 
         <br></br><br></br>
-        
+
 
 
 

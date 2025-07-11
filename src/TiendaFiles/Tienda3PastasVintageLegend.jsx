@@ -27,7 +27,7 @@ const initialProducts = [
     name: 'Negro Vintage Legend 150ml.',
     price: '4.50',
     images: [
-      'https://i.ibb.co/VgK0c0y/vintage-legend-cadence.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/oot6j3rgzlumj6t4n879l/vintage-legend-cadence.jpg?rlkey=ve9aa6wn5f7ylh1yb7dxcl49q&st=lqomp89k&dl=0',
     ],
     label: '150ml',
     description: 'Pintura de gesso con base de agua, especialmente formulada con partículas de diferentes tamaños y colores en su interior para crear una superficie antigua vintage rota. Todos los tipos de pinturas acrílicas de Cadence se pueden usar como primera capa. Para superficies metálicas y de vidrio, se recomienda usar la pintura multisuperficies Hybrid como primera capa. Aplicar Vintage Legend sobre la primera capa. Para la última capa se recomienda Very Chalky. Espere un mínimo de 12 horas antes de raspar fuertemente. La cera Cadence Home Decor Wax se usa entre capas para facilitar el raspado y para protección final. Las ceras de colores, marrón o negra, se usan para aportar profundidad a los colores.',
@@ -38,7 +38,7 @@ const initialProducts = [
     name: 'Marrón Vintage Legend 150ml.',
     price: '4.50',
     images: [
-      'https://i.ibb.co/cvnLMCQ/vintage-legend-cadence-1.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/88p965qdfojya1rti0p6y/vintage-legend-cadence-1.jpg?rlkey=b7pu4hl93dgzjyn1oiocsgvtv&st=g3zv96q2&dl=0',
     ],
     label: '150ml',
     description: 'Pintura de gesso con base de agua, especialmente formulada con partículas de diferentes tamaños y colores en su interior para crear una superficie antigua vintage rota. Todos los tipos de pinturas acrílicas de Cadence se pueden usar como primera capa. Para superficies metálicas y de vidrio, se recomienda usar la pintura multisuperficies Hybrid como primera capa. Aplicar Vintage Legend sobre la primera capa. Para la última capa se recomienda Very Chalky. Espere un mínimo de 12 horas antes de raspar fuertemente. La cera Cadence Home Decor Wax se usa entre capas para facilitar el raspado y para protección final. Las ceras de colores, marrón o negra, se usan para aportar profundidad a los colores.',
@@ -49,7 +49,7 @@ const initialProducts = [
     name: 'Visón Vintage Legend 150ml.',
     price: '4.50',
     images: [
-      'https://i.ibb.co/92p3YZt/vintage-legend-cadence-2.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/ilbysu3xtz7h5nhvkjcx2/vintage-legend-cadence-2.jpg?rlkey=dglp460f7zjvheuechh43yv8d&st=v23skwa2&dl=0',
     ],
     label: '150ml',
     description: 'Pintura de gesso con base de agua, especialmente formulada con partículas de diferentes tamaños y colores en su interior para crear una superficie antigua vintage rota. Todos los tipos de pinturas acrílicas de Cadence se pueden usar como primera capa. Para superficies metálicas y de vidrio, se recomienda usar la pintura multisuperficies Hybrid como primera capa. Aplicar Vintage Legend sobre la primera capa. Para la última capa se recomienda Very Chalky. Espere un mínimo de 12 horas antes de raspar fuertemente. La cera Cadence Home Decor Wax se usa entre capas para facilitar el raspado y para protección final. Las ceras de colores, marrón o negra, se usan para aportar profundidad a los colores.',
@@ -60,7 +60,7 @@ const initialProducts = [
     name: 'Gris Pizarra Vintage Legend 150ml.',
     price: '4.50',
     images: [
-      'https://i.ibb.co/y4c1g1K/vintage-legend-cadence-3.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/hmpcs89znu7byh9nbfnp0/vintage-legend-cadence-3.jpg?rlkey=kcopsmubwenm77fxmnityqlcq&st=awz984he&dl=0',
     ],
     label: '150ml',
     description: 'Pintura de gesso con base de agua, especialmente formulada con partículas de diferentes tamaños y colores en su interior para crear una superficie antigua vintage rota. Todos los tipos de pinturas acrílicas de Cadence se pueden usar como primera capa. Para superficies metálicas y de vidrio, se recomienda usar la pintura multisuperficies Hybrid como primera capa. Aplicar Vintage Legend sobre la primera capa. Para la última capa se recomienda Very Chalky. Espere un mínimo de 12 horas antes de raspar fuertemente. La cera Cadence Home Decor Wax se usa entre capas para facilitar el raspado y para protección final. Las ceras de colores, marrón o negra, se usan para aportar profundidad a los colores.',
@@ -71,7 +71,7 @@ const initialProducts = [
     name: 'Gris Vintage Legend 150ml.',
     price: '4.50',
     images: [
-      'https://i.ibb.co/ZfT50Wb/vintage-legend-cadence-4.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/d9ankqcum8jg5qo9njdv9/vintage-legend-cadence-4.jpg?rlkey=to3fifiswk40urw4iz1dux9pq&st=kxly3pi8&dl=0',
     ],
     label: '150ml',
     description: 'Pintura de gesso con base de agua, especialmente formulada con partículas de diferentes tamaños y colores en su interior para crear una superficie antigua vintage rota. Todos los tipos de pinturas acrílicas de Cadence se pueden usar como primera capa. Para superficies metálicas y de vidrio, se recomienda usar la pintura multisuperficies Hybrid como primera capa. Aplicar Vintage Legend sobre la primera capa. Para la última capa se recomienda Very Chalky. Espere un mínimo de 12 horas antes de raspar fuertemente. La cera Cadence Home Decor Wax se usa entre capas para facilitar el raspado y para protección final. Las ceras de colores, marrón o negra, se usan para aportar profundidad a los colores.',
@@ -82,7 +82,7 @@ const initialProducts = [
     name: 'Fresco Vintage Legend 150ml.',
     price: '4.50',
     images: [
-      'https://i.ibb.co/nmhPgCv/vintage-legend-cadence-5.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/tqzcsw1qbq5k6gjumcocz/vintage-legend-cadence-5.jpg?rlkey=bzj2rtg9clisx6wp0zr3ubb6i&st=tfqi14dk&dl=0',
     ],
     label: '150ml',
     description: 'Pintura de gesso con base de agua, especialmente formulada con partículas de diferentes tamaños y colores en su interior para crear una superficie antigua vintage rota. Todos los tipos de pinturas acrílicas de Cadence se pueden usar como primera capa. Para superficies metálicas y de vidrio, se recomienda usar la pintura multisuperficies Hybrid como primera capa. Aplicar Vintage Legend sobre la primera capa. Para la última capa se recomienda Very Chalky. Espere un mínimo de 12 horas antes de raspar fuertemente. La cera Cadence Home Decor Wax se usa entre capas para facilitar el raspado y para protección final. Las ceras de colores, marrón o negra, se usan para aportar profundidad a los colores.',
@@ -93,7 +93,7 @@ const initialProducts = [
     name: 'Verde Hoja Vintage Legend 150ml.',
     price: '4.50',
     images: [
-      'https://i.ibb.co/qNz92n9/vintage-legend-cadence-6.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/ybyyn40lghguhq10cq5da/vintage-legend-cadence-6.jpg?rlkey=eumkm73b2x6qjd0b10xif1b02&st=80joh841&dl=0',
     ],
     label: '150ml',
     description: 'Pintura de gesso con base de agua, especialmente formulada con partículas de diferentes tamaños y colores en su interior para crear una superficie antigua vintage rota. Todos los tipos de pinturas acrílicas de Cadence se pueden usar como primera capa. Para superficies metálicas y de vidrio, se recomienda usar la pintura multisuperficies Hybrid como primera capa. Aplicar Vintage Legend sobre la primera capa. Para la última capa se recomienda Very Chalky. Espere un mínimo de 12 horas antes de raspar fuertemente. La cera Cadence Home Decor Wax se usa entre capas para facilitar el raspado y para protección final. Las ceras de colores, marrón o negra, se usan para aportar profundidad a los colores.',
@@ -104,7 +104,7 @@ const initialProducts = [
     name: 'Verde Moho Vintage Legend 150ml.',
     price: '4.50',
     images: [
-      'https://i.ibb.co/wr38Sk6/vintage-legend-cadence-7.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/x4gie032hhxtvru9zpip2/vintage-legend-cadence-7.jpg?rlkey=0fhjyoqju0fptkiudwrt70cbf&st=yhstzyr2&dl=0',
     ],
     label: '150ml',
     description: 'Pintura de gesso con base de agua, especialmente formulada con partículas de diferentes tamaños y colores en su interior para crear una superficie antigua vintage rota. Todos los tipos de pinturas acrílicas de Cadence se pueden usar como primera capa. Para superficies metálicas y de vidrio, se recomienda usar la pintura multisuperficies Hybrid como primera capa. Aplicar Vintage Legend sobre la primera capa. Para la última capa se recomienda Very Chalky. Espere un mínimo de 12 horas antes de raspar fuertemente. La cera Cadence Home Decor Wax se usa entre capas para facilitar el raspado y para protección final. Las ceras de colores, marrón o negra, se usan para aportar profundidad a los colores.',
@@ -115,7 +115,7 @@ const initialProducts = [
     name: 'Nurdeos Vintage Legend 150ml.',
     price: '4.50',
     images: [
-      'https://i.ibb.co/cw2PF6Z/vintage-legend-cadence-8.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/vpzk4dftfxxddj39gxep2/vintage-legend-cadence-8.jpg?rlkey=ekrj6dm406j17aux5dnymqo9q&st=yxrfmi1w&dl=0',
     ],
     label: '150ml',
     description: 'Pintura de gesso con base de agua, especialmente formulada con partículas de diferentes tamaños y colores en su interior para crear una superficie antigua vintage rota. Todos los tipos de pinturas acrílicas de Cadence se pueden usar como primera capa. Para superficies metálicas y de vidrio, se recomienda usar la pintura multisuperficies Hybrid como primera capa. Aplicar Vintage Legend sobre la primera capa. Para la última capa se recomienda Very Chalky. Espere un mínimo de 12 horas antes de raspar fuertemente. La cera Cadence Home Decor Wax se usa entre capas para facilitar el raspado y para protección final. Las ceras de colores, marrón o negra, se usan para aportar profundidad a los colores.',
@@ -126,7 +126,7 @@ const initialProducts = [
     name: 'Amarillo Óxido Vintage Legend 150ml.',
     price: '4.50',
     images: [
-      'https://i.ibb.co/TbFpbvs/vintage-legend-cadence-9.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/bgmaqmi8gjqs2h90i8f92/vintage-legend-cadence-9.jpg?rlkey=x32tsfh4r1rzr7iu35an4m5fm&st=j1npj9gi&dl=0',
     ],
     label: '150ml',
     description: 'Pintura de gesso con base de agua, especialmente formulada con partículas de diferentes tamaños y colores en su interior para crear una superficie antigua vintage rota. Todos los tipos de pinturas acrílicas de Cadence se pueden usar como primera capa. Para superficies metálicas y de vidrio, se recomienda usar la pintura multisuperficies Hybrid como primera capa. Aplicar Vintage Legend sobre la primera capa. Para la última capa se recomienda Very Chalky. Espere un mínimo de 12 horas antes de raspar fuertemente. La cera Cadence Home Decor Wax se usa entre capas para facilitar el raspado y para protección final. Las ceras de colores, marrón o negra, se usan para aportar profundidad a los colores.',
@@ -134,10 +134,10 @@ const initialProducts = [
   },
   {
     id: 555,
-    name: 'Crudo VintageLegend 150ml.',
+    name: 'Crudo Vintage Legend 150ml.',
     price: '4.50',
     images: [
-      'https://i.ibb.co/YhH3Xfm/vintage-legend-cadence-10.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/axxw44nu158t8gjvatwta/vintage-legend-cadence-10.jpg?rlkey=rpj7s9gbrhm8t5br84260cmpi&st=5e6qxmma&dl=0',
     ],
     label: '150ml',
     description: 'Pintura de gesso con base de agua, especialmente formulada con partículas de diferentes tamaños y colores en su interior para crear una superficie antigua vintage rota. Todos los tipos de pinturas acrílicas de Cadence se pueden usar como primera capa. Para superficies metálicas y de vidrio, se recomienda usar la pintura multisuperficies Hybrid como primera capa. Aplicar Vintage Legend sobre la primera capa. Para la última capa se recomienda Very Chalky. Espere un mínimo de 12 horas antes de raspar fuertemente. La cera Cadence Home Decor Wax se usa entre capas para facilitar el raspado y para protección final. Las ceras de colores, marrón o negra, se usan para aportar profundidad a los colores.',
@@ -148,7 +148,7 @@ const initialProducts = [
     name: 'Blanco Vintage Legend 150ml.',
     price: '4.50',
     images: [
-      'https://i.ibb.co/25XSR82/vintage-legend-cadence-11.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/vsdv49t7u9d0dsgjxctsa/vintage-legend-cadence-11.jpg?rlkey=k4hd31zsqk96j72h5ji4iu3f7&st=4fqwd4r9&dl=0',
     ],
     label: '150ml',
     description: 'Pintura de gesso con base de agua, especialmente formulada con partículas de diferentes tamaños y colores en su interior para crear una superficie antigua vintage rota. Todos los tipos de pinturas acrílicas de Cadence se pueden usar como primera capa. Para superficies metálicas y de vidrio, se recomienda usar la pintura multisuperficies Hybrid como primera capa. Aplicar Vintage Legend sobre la primera capa. Para la última capa se recomienda Very Chalky. Espere un mínimo de 12 horas antes de raspar fuertemente. La cera Cadence Home Decor Wax se usa entre capas para facilitar el raspado y para protección final. Las ceras de colores, marrón o negra, se usan para aportar profundidad a los colores.',
@@ -177,7 +177,7 @@ export const Tienda3PastasVintageLegend = () => {
   const [filterButtonIcon, setFilterButtonIcon] = useState(<ViewOffIcon />);
 
   const [currentPage, setCurrentPage] = useState(1);
-  const [itemsPerPage, setItemsPerPage] = useState(44); // Cambia el número según tus necesidades
+  const [itemsPerPage, setItemsPerPage] = useState(12); // Cambia el número según tus necesidades
 
   const startIndex = (currentPage - 1) * itemsPerPage;
   const endIndex = startIndex + itemsPerPage;

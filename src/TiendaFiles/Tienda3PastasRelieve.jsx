@@ -27,7 +27,7 @@ const initialProducts = [
     name: 'Pasta de Relieve CRAQUELADOR Cadence 150ml.',
     price: '10.95',
     images: [
-      'https://i.ibb.co/27W4gB2/relief-paste-cracle-150-ml.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/jddy3lhxw8ekubq7ultcs/relief-paste-cracle-150-ml.jpg?rlkey=8wwff6wt2h27s79ptwb14tmux&st=lzlv4tli&dl=0',
     ],
     label: '150ml',
     description: 'Esta es una Pasta de Relieve blanca con base de agua, dimensional y de un sólo componente que crea un efecto crackelado cuando se seca al aire. Ideal en superficies porosas. Necesita el Crackle Primer en superficies lisas. Se puede pintar y tintar con pinturas acrílicas Cadence. Para su uso de un sólo componente, la superficie debería de estar pintada. Acabado permanente. Puede ser secado con secador. La pasta se empezará a agrietas conforme se seca, la estructura del crackelado y el tamaño de sus grietas dependerá del grosor de la pasta aplicada. Para grietas más grandes aplique el Primer y una capa gruesa de pasta; y para grietas más finas aplique una capa más delgada.',
@@ -38,7 +38,7 @@ const initialProducts = [
     name: 'Orquídea Oscuro DORA PASTE RELIEF 150ml.',
     price: '9.10',
     images: [
-      'https://i.ibb.co/QpWQFjP/dora-paste-relief-oro-antiguo.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/yenx53gv7jdmz3v6my6q5/dora-paste-relief-oro-antiguo.jpg?rlkey=7auinkt5t7d6a7loqjk0bz8cw&st=e7ajtth2&dl=0',
     ],
     label: '150ml',
     description: 'Pasta de relieve de alta calidad CADENCE, para crear texturas dimensionales con efectos metalizados. Con base de agua. Muy facil de usar con pincel o esponja y stencils. Limpieza con agua y jabón.',
@@ -49,7 +49,7 @@ const initialProducts = [
     name: 'Plata DORA PASTE RELIEF 150ml.',
     price: '9.10',
     images: [
-      'https://i.ibb.co/3pzGsM9/dora-paste-relief-oro-antiguo-1.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/ea1lhy8jmw6sb8tcopwcw/dora-paste-relief-oro-antiguo-1.jpg?rlkey=irsgfmhptp304zlt62up6w77s&st=8wuba0qx&dl=0',
     ],
     label: '150ml',
     description: 'Pasta de relieve de alta calidad CADENCE, para crear texturas dimensionales con efectos metalizados. Con base de agua. Muy facil de usar con pincel o esponja y stencils. Limpieza con agua y jabón.',
@@ -60,7 +60,7 @@ const initialProducts = [
     name: 'Antracita DORA PASTE RELIEF 150ml.',
     price: '9.10',
     images: [
-      'https://i.ibb.co/QXk7Wrt/dora-paste-relief-oro-antiguo-2.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/hmlou73y7af1jtkhqjawc/dora-paste-relief-oro-antiguo-2.jpg?rlkey=zhusk0470db175yd93idq611i&st=44xywsxy&dl=0',
     ],
     label: '150ml',
     description: 'Pasta de relieve de alta calidad CADENCE, para crear texturas dimensionales con efectos metalizados. Con base de agua. Muy facil de usar con pincel o esponja y stencils. Limpieza con agua y jabón.',
@@ -71,7 +71,7 @@ const initialProducts = [
     name: 'Platino DORA PASTE RELIEF 150ml.',
     price: '9.10',
     images: [
-      'https://i.ibb.co/KG7yqw1/dora-paste-relief-oro-antiguo-3.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/er8j6b0bg53kiq9rrd6ei/dora-paste-relief-oro-antiguo-3.jpg?rlkey=kj6s3lsjiyvjekecvc9u2aqoy&st=71ud226u&dl=0',
     ],
     label: '150ml',
     description: 'Pasta de relieve de alta calidad CADENCE, para crear texturas dimensionales con efectos metalizados. Con base de agua. Muy facil de usar con pincel o esponja y stencils. Limpieza con agua y jabón.',
@@ -82,7 +82,7 @@ const initialProducts = [
     name: 'Naranja DORA PASTE RELIEF 150ml.',
     price: '9.10',
     images: [
-      'https://i.ibb.co/2Scq6Rv/dora-paste-relief-oxido-naranja.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/nqo3osemxnu997c6gbd8v/dora-paste-relief-negro.jpg?rlkey=cwg191p1me0mfjk6pq09rlji2&st=frgixsba&dl=0',
     ],
     label: '150ml',
     description: 'Pasta de relieve de alta calidad CADENCE, para crear texturas dimensionales con efectos metalizados. Con base de agua. Muy facil de usar con pincel o esponja y stencils. Limpieza con agua y jabón.',
@@ -93,7 +93,7 @@ const initialProducts = [
     name: 'Negro DORA PASTE RELIEF 150ml.',
     price: '9.10',
     images: [
-      'https://i.ibb.co/NNRRf01/dora-paste-relief-negro.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/nqo3osemxnu997c6gbd8v/dora-paste-relief-negro.jpg?rlkey=cwg191p1me0mfjk6pq09rlji2&st=frgixsba&dl=0',
     ],
     label: '150ml',
     description: 'Pasta de relieve de alta calidad CADENCE, para crear texturas dimensionales con efectos metalizados. Con base de agua. Muy facil de usar con pincel o esponja y stencils. Limpieza con agua y jabón.',
@@ -104,7 +104,7 @@ const initialProducts = [
     name: 'Anquerita Oscuro DORA PASTE RELIEF 150ml.',
     price: '9.10',
     images: [
-      'https://i.ibb.co/pJj7wJL/dora-paste-relief-oro.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/a2dw5pjlexdocmdf7n2u1/dora-paste-relief-oro.jpg?rlkey=x8bcaf2y6ix4hjoqeyim76gdc&st=2zbsvy40&dl=0',
     ],
     label: '150ml',
     description: 'Pasta de relieve de alta calidad CADENCE, para crear texturas dimensionales con efectos metalizados. Con base de agua. Muy facil de usar con pincel o esponja y stencils. Limpieza con agua y jabón.',
@@ -115,7 +115,7 @@ const initialProducts = [
     name: 'Oro DORA PASTE RELIEF 150ml.',
     price: '9.10',
     images: [
-      'https://i.ibb.co/gM8JMpp/dora-paste-relief-oro-1.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/rz2y9tsblzgg3fahxxtbl/dora-paste-relief-oro-1.jpg?rlkey=2995xav7onzwzmak4a65d9j3b&st=3k2l8i33&dl=0',
     ],
     label: '150ml',
     description: 'Pasta de relieve de alta calidad CADENCE, para crear texturas dimensionales con efectos metalizados. Con base de agua. Muy facil de usar con pincel o esponja y stencils. Limpieza con agua y jabón.',
@@ -126,7 +126,7 @@ const initialProducts = [
     name: 'Diamante DORA PASTE RELIEF 150ml.',
     price: '9.10',
     images: [
-      'https://i.ibb.co/ynQDkRf/dora-paste-relief-diamante.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/hos016pzjgbk6mj86mzu1/dora-paste-relief-diamante.jpg?rlkey=iz7nedjjqz34nm88dytxmarlq&st=u70ctl2r&dl=0',
     ],
     label: '150ml',
     description: 'Pasta de relieve de alta calidad CADENCE, para crear texturas dimensionales con efectos metalizados. Con base de agua. Muy facil de usar con pincel o esponja y stencils. Limpieza con agua y jabón.',
@@ -137,7 +137,7 @@ const initialProducts = [
     name: 'Petróleo DORA PASTE RELIEF 150ml.',
     price: '9.10',
     images: [
-      'https://i.ibb.co/HDfvVMS/dora-paste-relief-petroleo.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/i5n0ipcj11g32sjtc9qqg/dora-paste-relief-petroleo.jpg?rlkey=starpixa4u5kbibq8rb9e3wd2&st=sfzp6d2r&dl=0',
     ],
     label: '150ml',
     description: 'Pasta de relieve de alta calidad CADENCE, para crear texturas dimensionales con efectos metalizados. Con base de agua. Muy facil de usar con pincel o esponja y stencils. Limpieza con agua y jabón.',
@@ -148,7 +148,7 @@ const initialProducts = [
     name: 'Malaquita DORA PASTE RELIEF 150ml.',
     price: '9.10',
     images: [
-      'https://i.ibb.co/wz20s70/dora-paste-relief-malaquita.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/o8v80hllgeqeyd7t86eds/dora-paste-relief-malaquita.jpg?rlkey=k0p39xklzhfrhplue1fqvry0g&st=o758lx08&dl=0',
     ],
     label: '150ml',
     description: 'Pasta de relieve de alta calidad CADENCE, para crear texturas dimensionales con efectos metalizados. Con base de agua. Muy facil de usar con pincel o esponja y stencils. Limpieza con agua y jabón.',
@@ -159,7 +159,7 @@ const initialProducts = [
     name: 'Oro Antiguo DORA PASTE RELIEF 150ml.',
     price: '9.10',
     images: [
-      'https://i.ibb.co/M6rWRxF/dora-paste-relief-oro-antiguo-4.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/i9ziftiwb3v6o0pqcksz2/dora-paste-relief-oro-antiguo-4.jpg?rlkey=r6ko6809ouw5t6k9gnlwki492&st=m2mwsfwp&dl=0',
     ],
     label: '150ml',
     description: 'Pasta de relieve de alta calidad CADENCE, para crear texturas dimensionales con efectos metalizados. Con base de agua. Muy facil de usar con pincel o esponja y stencils. Limpieza con agua y jabón.',
@@ -169,9 +169,9 @@ const initialProducts = [
   {
     id: 510,
     name: 'Pasta de Relieve CLÁSICA Cadence 150ml.',
-    price: '4.40',
+    price: '4.50',
     images: [
-      'https://i.ibb.co/3yjYTjV/pasta-de-relieve-clasica-lisa-250-cadence.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/mh9of6i3njj5pbax2g47z/pasta-de-relieve-clasica-lisa-250-cadence.jpg?rlkey=j25yl7bxp0rrzx0ekou9t6j6n&st=songdigb&dl=0',
     ],
     label: '150ml',
     description: 'Pasta LISA para crear efectos dimensionales sobre objetos. Formula acrílica con base de agua, el tiempo de secado puede cambiar de acuerdo con el espesor de la pasta. Puede ser aplicada con una espátula, pincel o esponja. Aplicar sobre en superficies duras. Apto para trabajar con stencil y con patrones libres. Limpie los materiales usados con agua. Proteger de las heladas.',
@@ -182,7 +182,7 @@ const initialProducts = [
     name: 'Pasta de Relieve FLEXIBLE Cadence 150ml.',
     price: '6.50',
     images: [
-      'https://i.ibb.co/xFNpScW/pasta-de-relieve-flexible-cadence.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/nkobztsrr8h2beczx4osm/pasta-de-relieve-flexible-cadence.jpg?rlkey=cx9baj2eamcasalovbuwhcqev&st=2vzvidwg&dl=0',
     ],
     label: '150ml',
     description: 'Pasta de relieve Cadence FLEXIBLE, satinada y suave con base de agua. Se puede aplicar en moldes decorativos blandos y se puede usar facilmente sobre superficies curvas. Esta pasta puede colorearse.',
@@ -193,7 +193,7 @@ const initialProducts = [
     name: 'Pasta de Relieve CRISTAL Granulada Cadence 150ml.',
     price: '6.50',
     images: [
-      'https://i.ibb.co/T4MkfTx/pasta-de-relieve-cristal-granulada-cadence.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/28og2df9ee2sar9e7cicx/pasta-de-relieve-cristal-granulada-cadence.jpg?rlkey=1nyc58ho5ay3kagi46rsl6gjm&st=2uegsypb&dl=0',
     ],
     label: '150ml',
     description: 'Pasta TRANSPARENTE GRANULADA para crear efectos dimensionales sobre objetos. Formula acrílica con base de agua, el tiempo de secado puede cambiar de acuerdo con el espesor de la pasta. Puede ser aplicada con una espátula, pincel o esponja. Aplicar sobre en superficies duras. Apto para trabajar con stencil y con patrones libres. Limpie los materiales usados con agua. Proteger de las heladas.',
@@ -235,7 +235,7 @@ export const Tienda3PastasRelieve = () => {
   const [filterButtonIcon, setFilterButtonIcon] = useState(<ViewOffIcon />);
 
   const [currentPage, setCurrentPage] = useState(1);
-  const [itemsPerPage, setItemsPerPage] = useState(44); // Cambia el número según tus necesidades
+  const [itemsPerPage, setItemsPerPage] = useState(12); // Cambia el número según tus necesidades
 
   const startIndex = (currentPage - 1) * itemsPerPage;
   const endIndex = startIndex + itemsPerPage;

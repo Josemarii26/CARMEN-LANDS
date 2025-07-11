@@ -27,7 +27,7 @@ const initialProducts = [
     name: 'Patina ASFALTO 100ml.',
     price: '3.40',
     images: [
-      'https://i.ibb.co/sCxNk0h/patina-asfalto-cadence.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/5p0usxnnhxum3auyrmrtw/patina-asfalto-cadence.jpg?rlkey=sahb7wpdp389hvgtaej4o9l1f&st=n9mbxjyy&dl=0',
     ],
     label: '100ml',
     description: 'Medium o pátina de asfalto de la marca CADENCE usada para técnicas de envejecido sobre pan de oro o plata. Tambien se usa para oscurecer pinturas y como pátina de envejecido.',
@@ -38,7 +38,7 @@ const initialProducts = [
     name: 'Imprimación Multiadherente MONTEJO 750ml.',
     price: '19.50',
     images: [
-      'https://i.ibb.co/zXhdMd3/imprimacion-multiadherente-montejo-750ml.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/5di9qasebp5b8x1cxksgb/imprimacion-multiadherente-montejo-750ml.jpg?rlkey=2r6yzuzb71z2kkp97lxeosxvx&st=evmlctp8&dl=0',
     ],
     label: '750ml',
     description: 'Imprimación antioxidante que actúa como preparación y/o selladora para pintar todo tipo de superficies. Permite el posterior esmaltado o barnizado, con productos al agua, de metales tales como hierro, zinc, chapa galvanizada, etc. Pintura de fondo para aplicar sobre PVC rígido y materiales plásticos. Fondo sobre azulejo, cerámica y vidrio. Sellado de superficies porosas de yeso, cemento, cartón yeso, superficies pintadas, etc. Revolver bien el contenido del envase. Superficies nuevas: Lijado previo (lija de grano fino) para conseguir cierta rugosidad y abrir poro. Eliminar restos de polvo, grasa, óxido o suciedad en general. Superficies viejas pintadas: Eliminar cualquier resto de pintura en mal estado. Limpiar la superficie de cualquier tipo de polvo, grasa o suciedad que pueda afectar al anclaje. Lijar (grano fino). Recomendado aplicar dos manos finas de IMPRIMACIÓN MULTIUSOS, respetando siempre los intervalos de repintado. Dureza total tras 3-5 días, dependiendo de la temperatura y del espesor de capa, por tanto se debe evitar el contacto con agua u otros elementos que pudieran remover la película antes de su endurecimiento. Dilución: con agua. Diluir entre 10-15% según aplicación.',
@@ -49,7 +49,7 @@ const initialProducts = [
     name: 'RUSTY PATINA Verde',
     price: '8.20',
     images: [
-      'https://www.artesaniasmontejo.com/13209-15763-large_default/rusty-patina-verde.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/ot74m92shxifyxbwp2lr6/rusty-patina-verde.jpg?rlkey=xz3x2yj4wagbqcl09n6apzthe&st=pfbcpgjn&dl=0',
     ],
     label: '150ml',
     description: 'Pasta de relieve de alta calidad CADENCE, para crear texturas con efectos de patinas rústicas u oxidadas. Con base de agua y lista para su uso sobre multiples superficies. ',
@@ -60,18 +60,7 @@ const initialProducts = [
     name: 'RUSTY PATINA Gris',
     price: '8.20',
     images: [
-      'https://www.artesaniasmontejo.com/13210-15765-large_default/rusty-patina-gris.jpg',
-    ],
-    label: '150ml',
-    description: 'Pasta de relieve de alta calidad CADENCE, para crear texturas con efectos de patinas rústicas u oxidadas. Con base de agua y lista para su uso sobre multiples superficies. ',
-    selected: false,
-  },
-  {
-    id: 618,
-    name: 'RUSTY PATINA Verde',
-    price: '8.20',
-    images: [
-      'https://www.artesaniasmontejo.com/13209-15763-large_default/rusty-patina-verde.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/0u94jfwwk5bz55vb8lh5z/rusty-patina-gris.jpg?rlkey=tby4boi51yilfv3d8v3ye10uk&st=sgbhdsn6&dl=0',
     ],
     label: '150ml',
     description: 'Pasta de relieve de alta calidad CADENCE, para crear texturas con efectos de patinas rústicas u oxidadas. Con base de agua y lista para su uso sobre multiples superficies. ',
@@ -82,7 +71,7 @@ const initialProducts = [
     name: 'RUSTY PATINA Crudo',
     price: '8.20',
     images: [
-      'https://www.artesaniasmontejo.com/13211-15767-large_default/rusty-patina-crudo.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/cs2idnmj7ito08c64x6li/rusty-patina-crudo.jpg?rlkey=6dsipjmsu6iw1q8a1oy0nq6cz&st=zfkxv3lf&dl=0',
     ],
     label: '150ml',
     description: 'Pasta de relieve de alta calidad CADENCE, para crear texturas con efectos de patinas rústicas u oxidadas. Con base de agua y lista para su uso sobre multiples superficies. ',
@@ -93,7 +82,7 @@ const initialProducts = [
     name: 'RUSTY PATINA Óxido Amarillo',
     price: '8.20',
     images: [
-      'https://www.artesaniasmontejo.com/13212-15769-large_default/rusty-patina-oxido-amarillo.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/sy9diza13fvugaltjl8ik/rusty-patina-oxido-amarillo.jpg?rlkey=8nd2dwm04de0kjeic03hbnyz0&st=h28kxnyz&dl=0',
     ],
     label: '150ml',
     description: 'Pasta de relieve de alta calidad CADENCE, para crear texturas con efectos de patinas rústicas u oxidadas. Con base de agua y lista para su uso sobre multiples superficies. ',
@@ -104,7 +93,7 @@ const initialProducts = [
     name: 'RUSTY PATINA Verde Moho',
     price: '8.20',
     images: [
-      'https://www.artesaniasmontejo.com/13209-15763-large_default/rusty-patina-verde-moho.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/sy9diza13fvugaltjl8ik/rusty-patina-oxido-amarillo.jpg?rlkey=8nd2dwm04de0kjeic03hbnyz0&st=h28kxnyz&dl=0',
     ],
     label: '150ml',
     description: 'Pasta de relieve de alta calidad CADENCE, para crear texturas con efectos de patinas rústicas u oxidadas. Con base de agua y lista para su uso sobre multiples superficies. ',
@@ -115,7 +104,7 @@ const initialProducts = [
     name: 'RUSTY PATINA Marrón',
     price: '8.20',
     images: [
-      'https://www.artesaniasmontejo.com/13209-15763-large_default/rusty-patina-marron.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/puyxup3fwaziwszw10cp7/rusty-patina-marron.jpg?rlkey=4fu95yqtfw1p75rpohff1qkpk&st=bjoitvaa&dl=0',
     ],
     label: '150ml',
     description: 'Pasta de relieve de alta calidad CADENCE, para crear texturas con efectos de patinas rústicas u oxidadas. Con base de agua y lista para su uso sobre multiples superficies. ',
@@ -126,7 +115,7 @@ const initialProducts = [
     name: 'RUSTY PATINA Azul Lapislázuli',
     price: '8.20',
     images: [
-      'https://www.artesaniasmontejo.com/13209-15763-large_default/rusty-patina-azul-lapislazuli.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/a0x7jeup0wb3fv5hk9k6w/rusty-patina-azul-lapislazuli.jpg?rlkey=kvs5r7wmuo13zxnmo1cundmk5&st=an6moyvo&dl=0',
     ],
     label: '150ml',
     description: 'Pasta de relieve de alta calidad CADENCE, para crear texturas con efectos de patinas rústicas u oxidadas. Con base de agua y lista para su uso sobre multiples superficies. ',
@@ -137,7 +126,7 @@ const initialProducts = [
     name: 'RUSTY PATINA Naranja',
     price: '8.20',
     images: [
-      'https://www.artesaniasmontejo.com/13209-15763-large_default/rusty-patina-naranja.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/cvvmviqw3pu1qnohr3oal/rusty-patina-naranja.jpg?rlkey=mmnjyp03waf2uzpwjihml6q5g&st=hl28tovx&dl=0',
     ],
     label: '150ml',
     description: 'Pasta de relieve de alta calidad CADENCE, para crear texturas con efectos de patinas rústicas u oxidadas. Con base de agua y lista para su uso sobre multiples superficies. ',
@@ -148,7 +137,7 @@ const initialProducts = [
     name: 'RUSTY PATINA Gris Antracita',
     price: '8.20',
     images: [
-      'https://www.artesaniasmontejo.com/13209-15763-large_default/rusty-patina-gris-antracita.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/w851dlxuv2a8cy395kgyn/rusty-patina-gris-antracita.jpg?rlkey=ewu2opek1qnvgsty308h22k6r&st=j5ruamkq&dl=0',
     ],
     label: '150ml',
     description: 'Pasta de relieve de alta calidad CADENCE, para crear texturas con efectos de patinas rústicas u oxidadas. Con base de agua y lista para su uso sobre multiples superficies. ',
@@ -159,7 +148,7 @@ const initialProducts = [
     name: 'RUSTY PATINA Blanco',
     price: '8.20',
     images: [
-      'https://www.artesaniasmontejo.com/13209-15763-large_default/rusty-patina-blanco.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/df18yirzv0meykruk45fr/rusty-patina-blanco.jpg?rlkey=ipebhohoavfc82nnrvyai8u6w&st=y7228ryt&dl=0',
     ],
     label: '150ml',
     description: 'Pasta de relieve de alta calidad CADENCE, para crear texturas con efectos de patinas rústicas u oxidadas. Con base de agua y lista para su uso sobre multiples superficies. ',
@@ -186,7 +175,7 @@ export const Tienda3PastasPatinaImprimacion = () => {
   const [filterButtonIcon, setFilterButtonIcon] = useState(<ViewOffIcon />);
 
   const [currentPage, setCurrentPage] = useState(1);
-  const [itemsPerPage, setItemsPerPage] = useState(44); // Cambia el número según tus necesidades
+  const [itemsPerPage, setItemsPerPage] = useState(12); // Cambia el número según tus necesidades
 
   const startIndex = (currentPage - 1) * itemsPerPage;
   const endIndex = startIndex + itemsPerPage;

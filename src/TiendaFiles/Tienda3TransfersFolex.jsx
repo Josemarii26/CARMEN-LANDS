@@ -27,7 +27,7 @@ const initialProducts = [
     name: 'Lámina FOLEX ORO 20x30cm FSE001',
     price: '5.20',
     images: [
-      'https://i.ibb.co/WtrmcGs/lamina-folex-oro-20x30cm.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/1ur67o2uh6nv4muhelgrh/lamina-folex-oro-20x30cm-1.jpg?rlkey=z7won8snj6hi9qdg5t1kc1s55&st=btgdrimm&dl=0',
     ],
     label: '20x30cm',
     description: 'Láminas decorativas FOLEX o también llamadas Folia, con hermosos diseños disponibles en color Oro o Peltre, con motivos naturales, fondos, motivos navideños, vintage, carteles y textos... Listos para tus TRANSFERENCIAS SOBRE CUALQUIER SUPERFICIE: Madera, vidrio, latón, tejidos...',
@@ -38,7 +38,7 @@ const initialProducts = [
     name: 'Lámina FOLEX PELTRE 20x30cm FSE001',
     price: '5.20',
     images: [
-      'https://i.ibb.co/ZWk8shT/lamina-folex-peltre-20x30cm.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/ropmh3us02ooblrpnk5ly/lamina-folex-peltre-20x30cm.jpg?rlkey=stnuaenzpulco11iytzfezlhz&st=05q351co&dl=0',
     ],
     label: '20x30cm',
     description: 'Láminas decorativas FOLEX o también llamadas Folia, con hermosos diseños disponibles en color Oro o Peltre, con motivos naturales, fondos, motivos navideños, vintage, carteles y textos... Listos para tus TRANSFERENCIAS SOBRE CUALQUIER SUPERFICIE: Madera, vidrio, latón, tejidos...',
@@ -49,7 +49,7 @@ const initialProducts = [
     name: 'Lámina FOLEX ORO 20x30cm FSE002',
     price: '5.20',
     images: [
-      'https://i.ibb.co/ThwRghS/lamina-folex-oro-20x30cm-1.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/1ur67o2uh6nv4muhelgrh/lamina-folex-oro-20x30cm-1.jpg?rlkey=z7won8snj6hi9qdg5t1kc1s55&st=btgdrimm&dl=0',
     ],
     label: '20x30cm',
     description: 'Láminas decorativas FOLEX o también llamadas Folia, con hermosos diseños disponibles en color Oro o Peltre, con motivos naturales, fondos, motivos navideños, vintage, carteles y textos... Listos para tus TRANSFERENCIAS SOBRE CUALQUIER SUPERFICIE: Madera, vidrio, latón, tejidos...',
@@ -60,7 +60,7 @@ const initialProducts = [
     name: 'Lámina FOLEX PELTRE 20x30cm FSE002',
     price: '5.20',
     images: [
-      'https://i.ibb.co/vPkS7qk/lamina-folex-peltre-20x30cm-1.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/18heclml995bx2gsfdzav/lamina-folex-peltre-20x30cm-1.jpg?rlkey=lqw3w3e4p3oq59u9nh7lscbmd&st=g6vj6ixn&dl=0',
     ],
     label: '20x30cm',
     description: 'Láminas decorativas FOLEX o también llamadas Folia, con hermosos diseños disponibles en color Oro o Peltre, con motivos naturales, fondos, motivos navideños, vintage, carteles y textos... Listos para tus TRANSFERENCIAS SOBRE CUALQUIER SUPERFICIE: Madera, vidrio, latón, tejidos...',
@@ -71,7 +71,7 @@ const initialProducts = [
     name: 'Lámina FOLEX ORO 20x30cm FSE004',
     price: '5.20',
     images: [
-      'https://i.ibb.co/YkFj3Bq/lamina-folex-oro-20x30cm-2.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/2h3bn2vim0xgmecazf5ke/lamina-folex-oro-20x30cm-2.jpg?rlkey=394l2tn1bxzsf15w240728sg5&st=gknpt142&dl=0',
     ],
     label: '20x30cm',
     description: 'Láminas decorativas FOLEX o también llamadas Folia, con hermosos diseños disponibles en color Oro o Peltre, con motivos naturales, fondos, motivos navideños, vintage, carteles y textos... Listos para tus TRANSFERENCIAS SOBRE CUALQUIER SUPERFICIE: Madera, vidrio, latón, tejidos...',
@@ -82,7 +82,7 @@ const initialProducts = [
     name: 'Lámina FOLEX PELTRE 20x30cm FSE004',
     price: '5.20',
     images: [
-      'https://i.ibb.co/6DKjR6M/lamina-folex-peltre-20x30cm-2.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/bl8h03ip8v5q6rbv1pp3r/lamina-folex-peltre-20x30cm-2.jpg?rlkey=01a3xcqe5v8gal141fkt3rt2y&st=js1c3nig&dl=0',
     ],
     label: '20x30cm',
     description: 'Láminas decorativas FOLEX o también llamadas Folia, con hermosos diseños disponibles en color Oro o Peltre, con motivos naturales, fondos, motivos navideños, vintage, carteles y textos... Listos para tus TRANSFERENCIAS SOBRE CUALQUIER SUPERFICIE: Madera, vidrio, latón, tejidos...',
@@ -93,7 +93,7 @@ const initialProducts = [
     name: 'Lámina FOLEX ORO 20x30cm FSE005',
     price: '5.20',
     images: [
-      'https://i.ibb.co/wMBM1Ff/lamina-folex-oro-20x30cm-3.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/ceoq4r8s858nnowop6d5j/lamina-folex-oro-20x30cm-3.jpg?rlkey=y3uslnp8fxpsu7npp6ccfhuyn&st=5lit5ncc&dl=0',
     ],
     label: '20x30cm',
     description: 'Láminas decorativas FOLEX o también llamadas Folia, con hermosos diseños disponibles en color Oro o Peltre, con motivos naturales, fondos, motivos navideños, vintage, carteles y textos... Listos para tus TRANSFERENCIAS SOBRE CUALQUIER SUPERFICIE: Madera, vidrio, latón, tejidos...',
@@ -104,7 +104,7 @@ const initialProducts = [
     name: 'Lámina FOLEX PELTRE 20x30cm FSE005',
     price: '5.20',
     images: [
-      'https://i.ibb.co/Fshftmv/lamina-folex-peltre-20x30cm-3.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/hqrubbjtmaoghhnutaotb/lamina-folex-peltre-20x30cm-3.jpg?rlkey=45d03knk4giu0x00bj57huxcx&st=c4s7otjp&dl=0',
     ],
     label: '20x30cm',
     description: 'Láminas decorativas FOLEX o también llamadas Folia, con hermosos diseños disponibles en color Oro o Peltre, con motivos naturales, fondos, motivos navideños, vintage, carteles y textos... Listos para tus TRANSFERENCIAS SOBRE CUALQUIER SUPERFICIE: Madera, vidrio, latón, tejidos...',
@@ -115,7 +115,7 @@ const initialProducts = [
     name: 'Lámina FOLEX ORO 20x30cm FSE009',
     price: '5.20',
     images: [
-      'https://i.ibb.co/CQs18y3/lamina-folex-oro-20x30cm-4.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/t67e2qflucqkzeyn3ake6/lamina-folex-oro-20x30cm-4.jpg?rlkey=9dtiuae4p4r4rfuccm3evtlqt&st=500j1wys&dl=0',
     ],
     label: '20x30cm',
     description: 'Láminas decorativas FOLEX o también llamadas Folia, con hermosos diseños disponibles en color Oro o Peltre, con motivos naturales, fondos, motivos navideños, vintage, carteles y textos... Listos para tus TRANSFERENCIAS SOBRE CUALQUIER SUPERFICIE: Madera, vidrio, latón, tejidos...',
@@ -126,7 +126,7 @@ const initialProducts = [
     name: 'Lámina FOLEX PELTRE 20x30cm FSE009',
     price: '5.20',
     images: [
-      'https://i.ibb.co/xFHYNc4/lamina-folex-peltre-20x30cm-4.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/anzjbcovp2xjlxmvdhbrk/lamina-folex-peltre-20x30cm-4.jpg?rlkey=zjoatxoxqf2n9a1yjv780koq6&st=rk48pv9e&dl=0',
     ],
     label: '20x30cm',
     description: 'Láminas decorativas FOLEX o también llamadas Folia, con hermosos diseños disponibles en color Oro o Peltre, con motivos naturales, fondos, motivos navideños, vintage, carteles y textos... Listos para tus TRANSFERENCIAS SOBRE CUALQUIER SUPERFICIE: Madera, vidrio, latón, tejidos...',
@@ -137,7 +137,7 @@ const initialProducts = [
     name: 'Lámina FOLEX ORO 20x30cm FSE012',
     price: '5.20',
     images: [
-      'https://i.ibb.co/JnYJKbW/lamina-folex-oro-20x30cm-5.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/1ewca3cd2s2iqae7r4pud/lamina-folex-oro-20x30cm-5.jpg?rlkey=noh66m68gkf3j02od99a55t79&st=1kgy7skk&dl=0',
     ],
     label: '20x30cm',
     description: 'Láminas decorativas FOLEX o también llamadas Folia, con hermosos diseños disponibles en color Oro o Peltre, con motivos naturales, fondos, motivos navideños, vintage, carteles y textos... Listos para tus TRANSFERENCIAS SOBRE CUALQUIER SUPERFICIE: Madera, vidrio, latón, tejidos...',
@@ -148,7 +148,7 @@ const initialProducts = [
     name: 'Lámina FOLEX PELTRE 20x30cm FSE012',
     price: '5.20',
     images: [
-      'https://i.ibb.co/YNd8Wkp/lamina-folex-peltre-20x30cm-5.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/tulxw81mlflbvqqk1g05u/lamina-folex-peltre-20x30cm-5.jpg?rlkey=u4xpsju72b4gvp3c6lksl6o9t&st=w4b9gvkv&dl=0',
     ],
     label: '20x30cm',
     description: 'Láminas decorativas FOLEX o también llamadas Folia, con hermosos diseños disponibles en color Oro o Peltre, con motivos naturales, fondos, motivos navideños, vintage, carteles y textos... Listos para tus TRANSFERENCIAS SOBRE CUALQUIER SUPERFICIE: Madera, vidrio, latón, tejidos...',
@@ -159,7 +159,7 @@ const initialProducts = [
     name: 'Lámina FOLEX ORO 20x30cm FSE020',
     price: '5.20',
     images: [
-      'https://i.ibb.co/N6WCTHt/lamina-folex-oro-20x30cm-6.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/o1w9tw2s7mgok5v9i4deo/lamina-folex-oro-20x30cm-6.jpg?rlkey=hweh9seduwzgfc37i91be3b4s&st=0ihhg0rm&dl=0',
     ],
     label: '20x30cm',
     description: 'Láminas decorativas FOLEX o también llamadas Folia, con hermosos diseños disponibles en color Oro o Peltre, con motivos naturales, fondos, motivos navideños, vintage, carteles y textos... Listos para tus TRANSFERENCIAS SOBRE CUALQUIER SUPERFICIE: Madera, vidrio, latón, tejidos...',
@@ -170,7 +170,7 @@ const initialProducts = [
     name: 'Lámina FOLEX PELTRE 20x30cm FSE020',
     price: '5.20',
     images: [
-      'https://i.ibb.co/gDvHgQX/lamina-folex-peltre-20x30cm-6.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/6fhw7gurfwvgazmhuacek/lamina-folex-peltre-20x30cm-6.jpg?rlkey=6zrrxycc4jp6elm1zwnytoxbc&st=jp2l61lq&dl=0',
     ],
     label: '20x30cm',
     description: 'Láminas decorativas FOLEX o también llamadas Folia, con hermosos diseños disponibles en color Oro o Peltre, con motivos naturales, fondos, motivos navideños, vintage, carteles y textos... Listos para tus TRANSFERENCIAS SOBRE CUALQUIER SUPERFICIE: Madera, vidrio, latón, tejidos...',
@@ -181,7 +181,7 @@ const initialProducts = [
     name: 'Lámina FOLEX ORO 20x30cm FSE028',
     price: '5.20',
     images: [
-      'https://i.ibb.co/gm4dHtd/lamina-folex-oro-20x30cm-7.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/2kedrajx5kwao6imdhy9b/lamina-folex-oro-20x30cm-7.jpg?rlkey=oxbd7be3bxe6dgecudv9n1brv&st=u4ymkfqy&dl=0',
     ],
     label: '20x30cm',
     description: 'Láminas decorativas FOLEX o también llamadas Folia, con hermosos diseños disponibles en color Oro o Peltre, con motivos naturales, fondos, motivos navideños, vintage, carteles y textos... Listos para tus TRANSFERENCIAS SOBRE CUALQUIER SUPERFICIE: Madera, vidrio, latón, tejidos...',
@@ -192,7 +192,7 @@ const initialProducts = [
     name: 'Lámina FOLEX PELTRE 20x30cm FSE028',
     price: '5.20',
     images: [
-      'https://i.ibb.co/bsCYsbf/lamina-folex-peltre-20x30cm-7.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/rnlaitxmvarf99fakelnh/lamina-folex-peltre-20x30cm-7.jpg?rlkey=f6492yivasbmj8vb0sx3z1z6b&st=nblklbi3&dl=0',
     ],
     label: '20x30cm',
     description: 'Láminas decorativas FOLEX o también llamadas Folia, con hermosos diseños disponibles en color Oro o Peltre, con motivos naturales, fondos, motivos navideños, vintage, carteles y textos... Listos para tus TRANSFERENCIAS SOBRE CUALQUIER SUPERFICIE: Madera, vidrio, latón, tejidos...',
@@ -203,7 +203,7 @@ const initialProducts = [
     name: 'Lámina FOLEX ORO 20x30cm FSE030',
     price: '5.20',
     images: [
-      'https://i.ibb.co/3SPNhdW/lamina-folex-oro-20x30cm-8.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/7h5p1uvllurl8yuc6m9zw/lamina-folex-oro-20x30cm-8.jpg?rlkey=liwzmzhfu4yt5s7nfrz6bdqub&st=h3zrph2g&dl=0',
     ],
     label: '20x30cm',
     description: 'Láminas decorativas FOLEX o también llamadas Folia, con hermosos diseños disponibles en color Oro o Peltre, con motivos naturales, fondos, motivos navideños, vintage, carteles y textos... Listos para tus TRANSFERENCIAS SOBRE CUALQUIER SUPERFICIE: Madera, vidrio, latón, tejidos...',
@@ -214,7 +214,7 @@ const initialProducts = [
     name: 'Lámina FOLEX PELTRE 20x30cm FSE030',
     price: '5.20',
     images: [
-      'https://i.ibb.co/XbYHDry/lamina-folex-peltre-20x30cm-8.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/lme44fud7ldar1m0vwc7l/lamina-folex-peltre-20x30cm-8.jpg?rlkey=f9ppx7dxctj4tt67yldmk03qi&st=uc809uha&dl=0',
     ],
     label: '20x30cm',
     description: 'Láminas decorativas FOLEX o también llamadas Folia, con hermosos diseños disponibles en color Oro o Peltre, con motivos naturales, fondos, motivos navideños, vintage, carteles y textos... Listos para tus TRANSFERENCIAS SOBRE CUALQUIER SUPERFICIE: Madera, vidrio, latón, tejidos...',
@@ -253,7 +253,7 @@ export const Tienda3TransfersFolex = () => {
   const [filterButtonIcon, setFilterButtonIcon] = useState(<ViewOffIcon />);
 
   const [currentPage, setCurrentPage] = useState(1);
-  const [itemsPerPage, setItemsPerPage] = useState(44); // Cambia el número según tus necesidades
+  const [itemsPerPage, setItemsPerPage] = useState(12); // Cambia el número según tus necesidades
 
   const startIndex = (currentPage - 1) * itemsPerPage;
   const endIndex = startIndex + itemsPerPage;

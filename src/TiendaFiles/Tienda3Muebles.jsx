@@ -27,13 +27,13 @@ const initialProducts = [
   {
     id: 348,
     name: 'MESITA ABRIL 🌸',
-    price: 295,
+    price: 190,
     images: [
-      "https://i.ibb.co/fGZyX1k/Whats-App-Image-2023-11-19-at-20-28-52-2.jpg",
-      "https://i.ibb.co/5r8CC3J/Whats-App-Image-2023-11-19-at-20-27-28-1.jpg",
-      "https://i.ibb.co/Mc69D3D/Whats-App-Image-2023-11-19-at-20-27-29.jpg",
-      "https://i.ibb.co/1nFSCnb/Whats-App-Image-2023-11-19-at-20-27-28.jpg",
-      "https://i.ibb.co/VWNgKG2/Whats-App-Image-2023-11-19-at-20-28-52.jpg"
+      "https://dl.dropboxusercontent.com/scl/fi/ykbfwseeupluzke03ng6e/Whats-App-Image-2023-11-19-at-20-28-52-2.jpg?rlkey=lu6w9cgv3tlwudhvdqytiyq3q&st=whdbqcpd&dl=0",
+      "https://dl.dropboxusercontent.com/scl/fi/tmhlpuxni4n560sl35rwb/Whats-App-Image-2023-11-19-at-20-27-28-1.jpg?rlkey=pyjtyiujv6maeuqqnaym4paor&st=k4h9u7dk&dl=0",
+      "https://dl.dropboxusercontent.com/scl/fi/umsaw9vyiwxv3qc5uwzd6/Whats-App-Image-2023-11-19-at-20-27-29.jpg?rlkey=p2y7pmgzw6eq5m7phipf0luhy&st=ylqm2t2r&dl=0",
+      "https://dl.dropboxusercontent.com/scl/fi/2yizyez79j8tkl0voylpv/Whats-App-Image-2023-11-19-at-20-27-28.jpg?rlkey=dnulb0wvo5e32m11neno0fc2c&st=ew6ead6q&dl=0",
+      "https://dl.dropboxusercontent.com/scl/fi/09taf1taoafw57fphet95/Whats-App-Image-2023-11-19-at-20-28-52.jpg?rlkey=tbiaaiyhd6c1a9ecm34u6g3b7&st=ydec7oln&dl=0"
     ],
     label: 'Mesas',
     description: 'Cuando gané el concurso de CasaTalentos 2021, tuve que crear un mueble original en directo, ¡en tan solo día y medio! En la grabación del programa, con cámaras, luces y cinco personas en mi pequeño taller, se impusieron el color rosa y las flores de acuarela, con pequeñas texturas de perlas.',
@@ -44,9 +44,9 @@ const initialProducts = [
     name: 'MESA LUZ ✨ ',
     price: 190,
     images: [
-      "https://i.ibb.co/W3L5fb3/mesaLuz1.jpg",
-      "https://i.ibb.co/7jL4Dkw/mesaLuz2.jpg",
-      "https://i.ibb.co/0rkprYB/mesaLuz3.jpg"
+      "https://dl.dropboxusercontent.com/scl/fi/wsqg9v18ydfl0nre4aa2b/mesaLuz1.jpg?rlkey=k9pjo5eun2l39iio8rst8olqf&st=s8lp96ey&dl=0",
+      "https://dl.dropboxusercontent.com/scl/fi/wxsbmg6eoa36xjoaymfgu/mesaLuz2.jpg?rlkey=488tlth1l2ntmitiroal42qu2&st=hxn0idf7&dl=0",
+      "https://dl.dropboxusercontent.com/scl/fi/4203o56gvuw9gv0rkyko0/mesaLuz3.jpg?rlkey=x3ky1huf6r2f0ot26m64753zd&st=boacgugx&dl=0"
       
     ],
     label: 'Mesas',
@@ -58,9 +58,9 @@ const initialProducts = [
     name: 'CUADRO SILLA ISABELINA SERIE 1 75x50 🪑⭐ ',
     price: 125,
     images: [
-      "https://i.ibb.co/4J59S1s/cuadro-Silla-Isabelina-Serie1.jpg",
-      "https://i.ibb.co/RBpNv9t/cuadro-Silla-Isabelina-Serie1-2.jpg",
-      "https://i.ibb.co/f2JYvPL/cuadro-Silla-Isabelina-Serie1-3.jpg"
+      "https://dl.dropboxusercontent.com/scl/fi/iwb679hq5lfbdylmq1yvt/cuadro-Silla-Isabelina-Serie1.jpg?rlkey=2sf7qf5x8ecerzuw2pre694iq&st=jd74jo42&dl=0",
+      "https://dl.dropboxusercontent.com/scl/fi/7wvu8v3fkgt2dm06eva37/cuadro-Silla-Isabelina-Serie2-2.jpg?rlkey=y23bdtyy6gfthgnvrd68z9hd9&st=zzfi07y3&dl=0",
+      "https://dl.dropboxusercontent.com/scl/fi/y5esgqbsjjbbr3kfo8wic/cuadro-Silla-Isabelina-Serie1-3.jpg?rlkey=zthx7qizkozrgpl8illwkvqgs&st=863eqk4h&dl=0"
       
     ],
     label: 'Cuadros',
@@ -72,9 +72,9 @@ const initialProducts = [
     name: 'CUADRO SILLA ISABELINA SERIE 2 75x50 🪑🌑 ',
     price: 125,
     images: [
-      "https://i.ibb.co/zHVzCrc/cuadro-Silla-Isabelina-Serie2.jpg",
-      "https://i.ibb.co/1v4JVY8/cuadro-Silla-Isabelina-Serie2-3.jpg",
-      "https://i.ibb.co/cYShwkr/cuadro-Silla-Isabelina-Serie2-2.jpg"
+      "https://dl.dropboxusercontent.com/scl/fi/ehc7lutb3dz9okr4sntcb/cuadro-Silla-Isabelina-Serie2.jpg?rlkey=avoca7uzvgkm47ja95d3lldzx&st=enqjnkt7&dl=0",
+      "https://dl.dropboxusercontent.com/scl/fi/fdlusod2bm848ipflb3ez/cuadro-Silla-Isabelina-Serie2-3.jpg?rlkey=26nnp2y4jwo42c1hb8obhw2nf&st=x8ugptov&dl=0",
+      "https://dl.dropboxusercontent.com/scl/fi/7wvu8v3fkgt2dm06eva37/cuadro-Silla-Isabelina-Serie2-2.jpg?rlkey=y23bdtyy6gfthgnvrd68z9hd9&st=kyfk58k5&dl=0"
       
     ],
     label: 'Cuadros',
@@ -86,9 +86,9 @@ const initialProducts = [
     name: 'BALINESA SERIE 1 🗝️ ',
     price: 65,
     images: [
-      "https://i.ibb.co/C6xNv1D/Balinesa-Serie1.jpg",
-      "https://i.ibb.co/jHxZc9T/Balinesa-Serie1-3.jpg",
-      "https://i.ibb.co/xShp4HZ/Balinesa-Serie1-2.jpg"
+      "https://dl.dropboxusercontent.com/scl/fi/nxf538v4kvky9acdd3lr8/Balinesa-Serie1.jpg?rlkey=jfv8bv8dtvxmgl97st2xuari3&st=4oy57zge&dl=0",
+      "https://dl.dropboxusercontent.com/scl/fi/nc81ynvuzgpa2ziwekbdt/Balinesa-Serie1-3.jpg?rlkey=zltf6a4r7q67xaqm5hiz4h93t&st=2dh78084&dl=0",
+      "https://dl.dropboxusercontent.com/scl/fi/cd1tdtttawcmit4b2xrno/Balinesa-Serie1-2.jpg?rlkey=s2rixhozn51mo5992g4edk32z&st=bx7191zg&dl=0"
       
     ],
     label: 'Cuadros',
@@ -119,7 +119,7 @@ export const Tienda3Muebles = () => {
   const [filterButtonIcon, setFilterButtonIcon] = useState(<ViewOffIcon />);
 
   const [currentPage, setCurrentPage] = useState(1);
-  const [itemsPerPage, setItemsPerPage] = useState(44); // Cambia el número según tus necesidades
+  const [itemsPerPage, setItemsPerPage] = useState(12); // Cambia el número según tus necesidades
 
   const startIndex = (currentPage - 1) * itemsPerPage;
   const endIndex = startIndex + itemsPerPage;

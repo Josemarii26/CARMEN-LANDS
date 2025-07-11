@@ -27,7 +27,7 @@ const initialProducts = [
     name: 'Ácido Magic Glass 70ml.',
     price: '5.80',
     images: [
-      'https://i.ibb.co/P5tNyKY/acido-magic-glass-cadence.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/mwy5bjy358xjkvy8l0r2u/acido-magic-glass-cadence.jpg?rlkey=w74m5k1anbokvupauqxpe2b42&st=hysvf9j9&dl=0',
     ],
     label: '70ml',
     description: 'Ácido en crema para esmerilar vidrio y sus derivados, espejos, ventanas, copas... Ideal para usar con cualquier tipo de Stencil o plantilla, ya que no las estropea. Modo de uso: Limpiar la superficie de vidrio, colocar una plantilla o stencil, aplicar una capa gruesa con un pincel o una espátula, dejar actuar unos 2 minutos y aclarar con agua.',
@@ -38,7 +38,7 @@ const initialProducts = [
     name: 'Aqua Block Coat Repellent Oil 250ml.',
     price: '12.10',
     images: [
-      'https://i.ibb.co/prh6t27/aqua-block-coat-repellent-oil-250-ml.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/hrg6n29q6ll9xhlq25wfs/aqua-block-coat-repellent-oil-250-ml.jpg?rlkey=n15fhdaanhh0t18hhfxuk3nm3&st=4p83xs5k&dl=0',
     ],
     label: '250ml',
     description: 'Gel a base de agua que transforma el tejido en un tejido recubierto, impermeable y lavable a máquina. Cuando se seca, crea una sensación de hule, con una capa hidrofóbica y hace que la tela sea resistente al agua. Planchar en modo satén, sin vapor, por el lado interior. Una vez tratada, la tela se puede coser, cortar y limpiar. Posee una gran resistencia al desgaste y es lavable a máquina a 30ºC. Es ideal para manteles de mesa, sombrillas, carteras, delantales, manteles individuales y bolsos de mano. El recubrimiento de gel repele el agua, el barro y el aceite. ',
@@ -49,7 +49,7 @@ const initialProducts = [
     name: 'Gel Enmascarador 100ml.',
     price: '3.20',
     images: [
-      'https://i.ibb.co/4dG6wkZ/gel-enmascarador-cadence.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/31bfxitf80irdg5mo1vtp/gel-enmascarador-cadence.jpg?rlkey=dlqi7kalairism8f3ckdzxsx5&st=j0pwawus&dl=0',
     ],
     label: '100ml',
     description: 'Gel para proteger superficies de trabajo impidiendo que las pinturas penetren a través de él, por lo que la superficie enmascarada permanece intacta. Después de secar, se quita con un borrador normal o se enrolla con los dedos. Úsalo para proteger detalles en decoupage, scrap y mix media. Se limpia fácilmente con agua y jabón. ',
@@ -60,7 +60,7 @@ const initialProducts = [
     name: 'Pan de Oro Cadence',
     price: '23.60',
     images: [
-      'https://i.ibb.co/TwGyHfh/pan-de-oro-cadence.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/vk92y0tmttesexn06l2r9/pan-de-oro-cadence.jpg?rlkey=2tgyuf9zyp5njyzwjia9pypeg&st=geluwj5d&dl=0',
     ],
     label: '100 hojas',
     description: 'Blister con 4 librillos de 25 hojas de 16x16cm sobre papel encerado para un fácil manejo de la marca CADENCE. Para decoración, manualidades, scrap, mixmedia....',
@@ -71,7 +71,7 @@ const initialProducts = [
     name: 'Foil Cobre 8cm x 120m',
     price: '22.85',
     images: [
-      'https://i.ibb.co/wd2JbJS/foil-cobre-cadence.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/uxg3g9iazrtrz0c0hytu9/foil-cobre-cadence.jpg?rlkey=9871963riblrhbziic97mdxy4&st=rhoohz1r&dl=0',
     ],
     label: '120m',
     description: 'Rollo de 120 metros por 8cm de ancho de foil metálizado de la marca CADENCE. Para decoración, manualidades, scrap, mixmedia....',
@@ -82,7 +82,7 @@ const initialProducts = [
     name: 'Foil Plata 8cm x 120m',
     price: '22.85',
     images: [
-      'https://i.ibb.co/Jt18Rrz/foil-plata-cadence.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/2aggfnn1goi435gwzzw6b/foil-plata-cadence.jpg?rlkey=zj5o5wgj77rofq5j47h3m98y4&st=or2ai617&dl=0',
     ],
     label: '120m',
     description: 'Rollo de 120 metros por 8cm de ancho de foil metálizado de la marca CADENCE. Para decoración, manualidades, scrap, mixmedia....',
@@ -93,7 +93,7 @@ const initialProducts = [
     name: 'Foil Oro 8cm x 120m',
     price: '22.85',
     images: [
-      'https://i.ibb.co/Hq11Mdx/foil-oro-cadence.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/br3zac7aknolmfedydoh8/foil-oro-cadence.jpg?rlkey=c211jilh2ew7rt7o9vft6xog4&st=3o0n24iy&dl=0',
     ],
     label: '120m',
     description: 'Rollo de 120 metros por 8cm de ancho de foil metálizado de la marca CADENCE. Para decoración, manualidades, scrap, mixmedia....',
@@ -104,7 +104,7 @@ const initialProducts = [
     name: 'Barniz PLUS+ para pan de oro 100ml.',
     price: '5.20',
     images: [
-      'https://i.ibb.co/Stv2fTn/barniz-plus-para-pan-de-oro-cadence.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/ik1fdluxmw5s3z74dh2zn/barniz-plus-para-pan-de-oro-cadence.jpg?rlkey=ufu2j00h4kp28ih0dq3xuz5qe&st=22nhglzd&dl=0',
     ],
     label: '120ml',
     description: 'Barniz Plus + de CADENCE puede ser usado de una manera sencilla sobre trabajos de imitación de metal, sobre en pan de oro o foil metalizado. Es un barniz listo para usar con pincel, muy brillante y que no se deslustra.',
@@ -115,7 +115,7 @@ const initialProducts = [
     name: 'Smarta - White 100g',
     price: '2.50',
     images: [
-      'https://www.artesaniasmontejo.com/21990-29026-large_default/smarta-white-100g.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/bhvlws5rxeekfhi2wybpp/smarta-white-100g.jpg?rlkey=rc32knqko5syysrgfjx16o8kr&st=byos65lg&dl=0',
     ],
     label: '100g',
     description: 'Smarta es una arcilla para modelar suave y flexible que se seca al aire. Suave y fácil de moldear, no requiere preparación y no se pega a las manos.',
@@ -126,7 +126,7 @@ const initialProducts = [
     name: 'Smarta BOLD - White 500g',
     price: '2.60',
     images: [
-      'https://www.artesaniasmontejo.com/21943-28974-large_default/smarta-bold-white-500g.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/1gd5ol0qk7vld9d26ysfy/smarta-bold-white-500g.jpg?rlkey=9yyqkzozroksl13t5mrsddhxw&st=ybtl1c8r&dl=0',
     ],
     label: '500g',
     description: 'La arcilla para modelar BOLD es una arcilla de modelado especial de secado al aire con una función similar a la arcilla cerámica, pero más cualificada que las arcillas naturales.Además de esculturas, maquetas y figuras, también se pueden diseñar decoraciones y joyas.',
@@ -137,7 +137,7 @@ const initialProducts = [
     name: 'Cola BLOK 70g',
     price: '5.90',
     images: [
-      'https://www.artesaniasmontejo.com/17882-21656-large_default/cola-blok.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/cp1ouuq30y2vbtyxr2zpd/cola-blok.jpg?rlkey=v8axzwporo0t33ck82msnfwa9&st=ov505tie&dl=0',
     ],
     label: '70g',
     description: 'Adhesivo universal BLOK de acetovinílico incoloro de rápido secado y transparente. La cola BLOK es ideal para tus trabajos de cartonaje, scrapbook, mix media, manualidades, proyectos home decor... por su gran variedad de usos y su agarre excepcional.',
@@ -146,9 +146,9 @@ const initialProducts = [
   {
     id: 610,
     name: 'Paletina Nº05',
-    price: '3.80',
+    price: '3.00',
     images: [
-      'https://www.artesaniasmontejo.com/15585-18845-large_default/paletina-montejo.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/i0iv0d4ggyu9kisgx5d0n/paletina-montejo.jpg?rlkey=d9gd96vfumq8y44yk0gixfdef&st=lej1jffu&dl=0',
     ],
     label: 'utensilio',
     description: 'Paletinas de alta calidad Montejo, serie 4101 de pelo sintético. Ideales para hacer veladuras, pintar grandes superficies en tus trabajos de Home Decor y para la aplicación de barnices e imprimaciones.',
@@ -159,7 +159,7 @@ const initialProducts = [
     name: 'Paletina Nº10',
     price: '4.20',
     images: [
-      'https://www.artesaniasmontejo.com/15586-18846-large_default/paletina-montejo.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/2x7w3wwehm40uh8puk7j0/paletina-montejo-1.jpg?rlkey=vi4dyd9wnz1nu75uftj2xuq2m&st=i1f92fue&dl=0',
     ],
     label: 'utensilio',
     description: 'Paletinas de alta calidad Montejo, serie 4101 de pelo sintético. Ideales para hacer veladuras, pintar grandes superficies en tus trabajos de Home Decor y para la aplicación de barnices e imprimaciones.',
@@ -168,9 +168,9 @@ const initialProducts = [
   {
     id: 612,
     name: 'Pincel Estarcir VERY CHALKY Nº2',
-    price: '4.20',
+    price: '2.80',
     images: [
-      'https://www.artesaniasmontejo.com/20794-26889-large_default/pincel-estarcir-very-chalky-n2.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/ndry6c1nozg1egdknxm70/pincel-estarcir-very-chalky-n2.jpg?rlkey=1cm0eqnhos618g4zvxnox2ohy&st=3iwjjd61&dl=0',
     ],
     label: 'utensilio',
     description: 'Pincel para estarcido de mango de madera corto lacado en rosa y pelo de cerda con corte recto. De alta calidad MONTEJO ideal para usar con plantillas o stencil por su corte recto y para la aplicación de las pinturas DORA de Cadence.',
@@ -181,7 +181,7 @@ const initialProducts = [
     name: 'Pincel Estarcir VERY CHALKY nº10',
     price: '4.70',
     images: [
-      'https://www.artesaniasmontejo.com/19175-23457-large_default/pincel-estarcir-very-chalky.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/largrk4z1basngb6xnbue/pincel-estarcir-very-chalky.jpg?rlkey=k50u0cbjm5r0rofq8vhvg5q8d&st=py2rlj45&dl=0',
     ],
     label: 'utensilio',
     description: 'Pincel para estarcido de mango de madera corto lacado en rosa y pelo de cerda con corte recto. De alta calidad MONTEJO ideal para usar con plantillas o stencil por su corte recto y para la aplicación de las pinturas DORA de Cadence.',
@@ -192,7 +192,7 @@ const initialProducts = [
     name: 'Pincel Abanico 464 Nº8',
     price: '4.20',
     images: [
-      'https://www.artesaniasmontejo.com/16276-19730-large_default/pincel-abanico-464-n1.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/nu5phx8hr7cqoydxavy1x/pincel-abanico-464-n1.jpg?rlkey=ssbfs41agywu34m16unqn8n6s&st=q6j957u5&dl=0',
     ],
     label: 'utensilio',
     description: 'Pinceles de alta calidad Montejo, serie 464 para técnicas de: Óleo, Acrílico, Acuarela, Témpera   ',
@@ -203,7 +203,7 @@ const initialProducts = [
     name: 'Espátula metálica 102mm',
     price: '4.35',
     images: [
-      'https://www.artesaniasmontejo.com/20515-26521-large_default/espatula-metalica-102mm.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/l99kcu9fwq33sdye2qhxe/espatula-metalica-102mm.jpg?rlkey=m6er5t3oddaxzze2uavycib4p&st=mnp5pun1&dl=0',
     ],
     label: 'utensilio',
     description: 'Las espátulas ofrecen texturas diferentes a las creadas por el pincel y un contacto más directo con el lienzo.',
@@ -229,7 +229,7 @@ export const Tienda3Variado= () => {
   const [filterButtonIcon, setFilterButtonIcon] = useState(<ViewOffIcon />);
 
   const [currentPage, setCurrentPage] = useState(1);
-  const [itemsPerPage, setItemsPerPage] = useState(44); // Cambia el número según tus necesidades
+  const [itemsPerPage, setItemsPerPage] = useState(12); // Cambia el número según tus necesidades
 
   const startIndex = (currentPage - 1) * itemsPerPage;
   const endIndex = startIndex + itemsPerPage;

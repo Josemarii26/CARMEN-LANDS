@@ -27,7 +27,7 @@ const initialProducts = [
     name: 'Stencil DETALLE Cadence BN98',
     price: '5.90',
     images: [
-      'https://i.ibb.co/6JgYqx8/stencils-cadence-25x36cm-bn098.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/eym70gobraugs2kcg3whf/stencils-cadence-25x36cm-bn098.jpg?rlkey=splkewpq60ursy8ilomy7fhxc&st=95ih8wih&dl=0',
     ],
     label: '25x36cm',
     description: 'Stencils o Plantillas CADENCE para decoración, manualidades, scrapbook, home decor... con motivos vegetales.',
@@ -38,7 +38,7 @@ const initialProducts = [
     name: 'Stencil DETALLE Cadence BN88',
     price: '5.90',
     images: [
-      'https://i.ibb.co/YptW3M6/stencils-cadence-25x36cm-bn088.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/k0rbvvw7im08nqa6xcd7t/stencils-cadence-25x36cm-bn088.jpg?rlkey=kq9przg19y96njsky92g72bjy&st=gn7pznxw&dl=0',
     ],
     label: '25x36cm',
     description: 'Stencils o Plantillas CADENCE para decoración, manualidades, scrapbook, home decor... con motivos vegetales.',
@@ -50,7 +50,7 @@ const initialProducts = [
     name: 'Stencil VEGETAL Cadence BN175',
     price: '5.90',
     images: [
-      'https://i.ibb.co/94jRPw1/stencil-vegetal-cadence.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/fwln44cpka35uvzflgvyu/stencil-vegetal-cadence.jpg?rlkey=8reshma78wxok7umgmqa3wjsf&st=riokw6hf&dl=0',
     ],
     label: '25x36cm',
     description: 'Stencils o Plantillas CADENCE para decoración, manualidades, scrapbook, home decor... con motivos vegetales.',
@@ -62,7 +62,7 @@ const initialProducts = [
     name: 'Stencil FONDO Cadence',
     price: '5.90',
     images: [
-      'https://i.ibb.co/V9Z7yws/stencil-vegetal-cadence-1.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/p7gpzdxw8hv0ecvr9y73c/stencil-vegetal-cadence-1.jpg?rlkey=1o41gna3c4v8vhduyi95xi8zn&st=0q2g4i8o&dl=0',
     ],
     label: '25x36cm',
     description: 'Stencils o Plantillas CADENCE para decoración, manualidades, scrapbook, home decor... con motivos vegetales.',
@@ -74,7 +74,7 @@ const initialProducts = [
     name: 'Stencil VEGETAL Cadence BN160',
     price: '5.90',
     images: [
-      'https://i.ibb.co/XXWDZgL/stencil-vegetal-cadence-2.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/7jb5hbrx8oee69zkobe65/stencil-vegetal-cadence-2.jpg?rlkey=av123tlnees2tabha0v9h7dvx&st=4szop2o1&dl=0',
     ],
     label: '25x36cm',
     description: 'Stencils o Plantillas CADENCE para decoración, manualidades, scrapbook, home decor... con motivos vegetales.',
@@ -112,7 +112,7 @@ export const Tienda3StencilsSerieBN = () => {
   const [filterButtonIcon, setFilterButtonIcon] = useState(<ViewOffIcon />);
 
   const [currentPage, setCurrentPage] = useState(1);
-  const [itemsPerPage, setItemsPerPage] = useState(44); // Cambia el número según tus necesidades
+  const [itemsPerPage, setItemsPerPage] = useState(12); // Cambia el número según tus necesidades
 
   const startIndex = (currentPage - 1) * itemsPerPage;
   const endIndex = startIndex + itemsPerPage;

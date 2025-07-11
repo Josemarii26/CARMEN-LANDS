@@ -35,6 +35,11 @@ import { Tienda3PastasFlexibleMetalica } from "./TiendaFiles/Tienda3PastasFlexib
 import { Tienda3PastasVintageLegend } from "./TiendaFiles/Tienda3PastasVintageLegend";
 import { Tienda3Madera } from "./TiendaFiles/Tienda3Madera";
 import { Tienda3Variado } from "./TiendaFiles/Tienda3Variado";
+import { Tienda3Papeles } from "./TiendaFiles/Tienda3Papeles";
+import { Tienda3PapelesJapones } from "./TiendaFiles/Tienda3PapelesJapones";
+import { Tienda3PapelesCiaoBella } from "./TiendaFiles/Tienda3PapelesCiaoBella";
+import { Tienda3TransfersColors } from "./TiendaFiles/Tienda3TransfersColors";
+import { Tienda3Resina } from "./TiendaFiles/Tienda3Resina";
 
 
 
@@ -64,6 +69,7 @@ function App() {
           <Route path="/tienda/cadence/transfers/folex" element={<Tienda3TransfersFolex/>} />
           <Route path="/tienda/cadence/transfers/home-decor" element={<Tienda3TransfersHomeDecor/>} />
           <Route path="/tienda/cadence/transfers/textil" element={<Tienda3TransfersTextil/>} />
+          <Route path="/tienda/cadence/transfers/colors" element={<Tienda3TransfersColors/>} />
           <Route path="/tienda/cadence/pastas" element={<Tienda3Pastas/>} />
           <Route path="/tienda/cadence/pastas/relieve" element={<Tienda3PastasRelieve/>} />
           <Route path="/tienda/cadence/pastas/mixtion" element={<Tienda3PastasMixtion/>} />
@@ -74,7 +80,11 @@ function App() {
           <Route path="/tienda/cadence/pastas/flexible-metalica" element={<Tienda3PastasFlexibleMetalica/>} />
           <Route path="/tienda/cadence/pastas/vintage-legend" element={<Tienda3PastasVintageLegend/>} />
           <Route path="/tienda/cadence/soportes-madera" element={<Tienda3Madera/>} />
+          <Route path="/tienda/cadence/soportes-resina" element={<Tienda3Resina/>} />
           <Route path="/tienda/cadence/variados" element={<Tienda3Variado/>} />
+          <Route path="/tienda/cadence/papeles" element={<Tienda3Papeles/>} />
+          <Route path="/tienda/cadence/papeles/japones" element={<Tienda3PapelesJapones/>} />
+          <Route path="/tienda/cadence/papeles/ciao-bella" element={<Tienda3PapelesCiaoBella/>} />
           <Route path="/tienda/muebles-ornamentos" element={<Tienda3Muebles/>} />
           <Route path="/aviso-legal" element={<AvisoLegal/>} />
           <Route path="/tienda/finalizar-pedido" element={<FinalizarPedido/>} />

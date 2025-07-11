@@ -27,7 +27,7 @@ const initialProducts = [
     name: 'Blanco AMBIANTE WATER RESIST 250ml. + CATALIZADOR',
     price: '13.25',
     images: [
-      'https://i.ibb.co/rfjYSMj/ambiente-water-resist-white-250ml-cat.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/9h15mwshp51ruk56lbd5p/ambiente-water-resist-white-250ml-cat.jpg?rlkey=ru4moi5wq1k3l3gk9u6esz8j6&st=7ryx8qy4&dl=0',
     ],
     label: '250 ml.',
     description: 'Pintura acrílica mate a base de agua con excelente adherencia a superficies en sitios húmedos o inorgánicas como vidrio, cerámica, porcelana, azulejos, metal, aluminio, etc. Larga duración, no amarillea ni se desvanece, resistente a las manchas, cobertura perfecta, sin marcas de pincel , producto de resistencia al impacto. Se recomiendan 10 gr de Catalizador para 250 ml de Pintura Acrílica Mate Resistente al Agua Ambiente.',
@@ -38,7 +38,7 @@ const initialProducts = [
     name: 'Blanco Antiguo AMBIANTE WATER RESIST 250ml. + CATALIZADOR ',
     price: '13.25',
     images: [
-      'https://i.ibb.co/8gj9YMC/ambiente-water-resist-ancient-white-250ml-cat.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/emd93gau1w9fhe90eb3am/ambiente-water-resist-ancient-white-250ml-cat.jpg?rlkey=lsl3kwulo8eopekx0kulfw1vh&st=wjbqqk8e&dl=0',
     ],
     label: '250 ml.',
     description: 'Pintura acrílica mate a base de agua con excelente adherencia a superficies en sitios húmedos o inorgánicas como vidrio, cerámica, porcelana, azulejos, metal, aluminio, etc. Larga duración, no amarillea ni se desvanece, resistente a las manchas, cobertura perfecta, sin marcas de pincel , producto de resistencia al impacto. Se recomiendan 10 gr de Catalizador para 250 ml de Pintura Acrílica Mate Resistente al Agua Ambiente.',
@@ -49,7 +49,7 @@ const initialProducts = [
     name: 'Piedra AMBIANTE WATER RESIST 250ml. + CATALIZADOR ',
     price: '13.25',
     images: [
-      'https://i.ibb.co/ZHv8bt7/ambiente-water-resist-sandstone-250ml-cat.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/d2wdhodnvlu6xt0f5pady/ambiente-water-resist-sandstone-250ml-cat.jpg?rlkey=92lxubnq77l4heq3c8qx428wf&st=pak22khs&dl=0',
     ],
     label: '250 ml.',
     description: 'Pintura acrílica mate a base de agua con excelente adherencia a superficies en sitios húmedos o inorgánicas como vidrio, cerámica, porcelana, azulejos, metal, aluminio, etc. Larga duración, no amarillea ni se desvanece, resistente a las manchas, cobertura perfecta, sin marcas de pincel , producto de resistencia al impacto. Se recomiendan 10 gr de Catalizador para 250 ml de Pintura Acrílica Mate Resistente al Agua Ambiente.',
@@ -60,7 +60,7 @@ const initialProducts = [
     name: 'Marfil AMBIANTE WATER RESIST 250ml. + CATALIZADOR',
     price: '13.25',
     images: [
-      'https://i.ibb.co/1fjVp5V/ambiente-water-resist-ivory-coast-250ml-cat.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/p7qc4sj91nrn5odvx1j8g/ambiente-water-resist-ivory-coast-250ml-cat.jpg?rlkey=bcuv5tjb7gqb1g55hd0d8dibc&st=abjxo2pm&dl=0',
     ],
     label: '250 ml.',
     description: 'Pintura acrílica mate a base de agua con excelente adherencia a superficies en sitios húmedos o inorgánicas como vidrio, cerámica, porcelana, azulejos, metal, aluminio, etc. Larga duración, no amarillea ni se desvanece, resistente a las manchas, cobertura perfecta, sin marcas de pincel , producto de resistencia al impacto. Se recomiendan 10 gr de Catalizador para 250 ml de Pintura Acrílica Mate Resistente al Agua Ambiente.',
@@ -71,7 +71,7 @@ const initialProducts = [
     name: 'Cartón AMBIANTE WATER RESIST 250ml. + CATALIZADOR ',
     price: '13.25',
     images: [
-      'https://i.ibb.co/KwnkdyS/ambiente-water-resist-cardboard-250ml-cat.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/c30h04ogir4egz7t2rtj2/ambiente-water-resist-cardboard-250ml-cat.jpg?rlkey=5twfykex0mi6ohv6t4miv98rp&st=wai346uy&dl=0',
     ],
     label: '250 ml.',
     description: 'Pintura acrílica mate a base de agua con excelente adherencia a superficies en sitios húmedos o inorgánicas como vidrio, cerámica, porcelana, azulejos, metal, aluminio, etc. Larga duración, no amarillea ni se desvanece, resistente a las manchas, cobertura perfecta, sin marcas de pincel , producto de resistencia al impacto. Se recomiendan 10 gr de Catalizador para 250 ml de Pintura Acrílica Mate Resistente al Agua Ambiente.',
@@ -82,7 +82,7 @@ const initialProducts = [
     name: 'Verde Linden AMBIANTE WATER RESIST 250ml. + CATALIZADOR',
     price: '13.25',
     images: [
-      'https://i.ibb.co/r7D0871/ambiente-water-resist-linden-green-250ml-cat.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/123bbnn7xxr419klgop0n/ambiente-water-resist-linden-green-250ml-cat.jpg?rlkey=vnos7sav55ne649bf7i1a4yt7&st=bkperaop&dl=0',
     ],
     label: '250 ml.',
     description: 'Pintura acrílica mate a base de agua con excelente adherencia a superficies en sitios húmedos o inorgánicas como vidrio, cerámica, porcelana, azulejos, metal, aluminio, etc. Larga duración, no amarillea ni se desvanece, resistente a las manchas, cobertura perfecta, sin marcas de pincel , producto de resistencia al impacto. Se recomiendan 10 gr de Catalizador para 250 ml de Pintura Acrílica Mate Resistente al Agua Ambiente.',
@@ -93,7 +93,7 @@ const initialProducts = [
     name: 'Verde Esmeralda AMBIANTE WATER RESIST 250ml. + CATALIZADOR',
     price: '13.25',
     images: [
-      'https://i.ibb.co/mH01gbW/ambiente-water-resist-emerald-green-250ml-cat.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/4zcnwr2smt5aukjywtoxr/ambiente-water-resist-emerald-green-250ml-cat.jpg?rlkey=y8umz0n80tomm7tlwjikalwn8&st=uf5480p3&dl=0',
     ],
     label: '250 ml.',
     description: 'Pintura acrílica mate a base de agua con excelente adherencia a superficies en sitios húmedos o inorgánicas como vidrio, cerámica, porcelana, azulejos, metal, aluminio, etc. Larga duración, no amarillea ni se desvanece, resistente a las manchas, cobertura perfecta, sin marcas de pincel , producto de resistencia al impacto. Se recomiendan 10 gr de Catalizador para 250 ml de Pintura Acrílica Mate Resistente al Agua Ambiente.',
@@ -104,7 +104,7 @@ const initialProducts = [
     name: 'Nuez AMBIANTE WATER RESIST 250ml. + CATALIZADOR',
     price: '13.25',
     images: [
-      'https://i.ibb.co/4FvBrRF/ambiente-water-resist-walnut-250ml-cat.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/z8n3qv9bvbw7rl6fidm5c/ambiente-water-resist-walnut-250ml-cat.jpg?rlkey=1ldlmvej9zh8yu2n5g6ykvo7l&st=17b6h5ne&dl=0',
     ],
     label: '250 ml.',
     description: 'Pintura acrílica mate a base de agua con excelente adherencia a superficies en sitios húmedos o inorgánicas como vidrio, cerámica, porcelana, azulejos, metal, aluminio, etc. Larga duración, no amarillea ni se desvanece, resistente a las manchas, cobertura perfecta, sin marcas de pincel , producto de resistencia al impacto. Se recomiendan 10 gr de Catalizador para 250 ml de Pintura Acrílica Mate Resistente al Agua Ambiente.',
@@ -115,7 +115,7 @@ const initialProducts = [
     name: 'Azul Océano AMBIANTE WATER RESIST 250ml. + CATALIZADOR',
     price: '13.25',
     images: [
-      'https://i.ibb.co/rZWChk2/ambiente-water-resist-ocean-250ml-cat.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/pfykl01tnwxxe6pn2pfhq/ambiente-water-resist-ocean-250ml-cat.jpg?rlkey=5kro8qj1nhrg1nm0fzsu6eera&st=10ye0met&dl=0',
     ],
     label: '250 ml.',
     description: 'Pintura acrílica mate a base de agua con excelente adherencia a superficies en sitios húmedos o inorgánicas como vidrio, cerámica, porcelana, azulejos, metal, aluminio, etc. Larga duración, no amarillea ni se desvanece, resistente a las manchas, cobertura perfecta, sin marcas de pincel , producto de resistencia al impacto. Se recomiendan 10 gr de Catalizador para 250 ml de Pintura Acrílica Mate Resistente al Agua Ambiente.',
@@ -126,7 +126,7 @@ const initialProducts = [
     name: 'Azul Fresco AMBIANTE WATER RESIST 250ml. + CATALIZADOR ',
     price: '13.25',
     images: [
-      'https://i.ibb.co/3Yrr8FQ/ambiente-water-resist-fresco-250ml-cat.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/ezer8folivz2sxyqr1ta6/ambiente-water-resist-fresco-250ml-cat.jpg?rlkey=5vx24hbsjl8it8ehrflhxevvj&st=un4uhsgb&dl=0',
     ],
     label: '250 ml.',
     description: 'Pintura acrílica mate a base de agua con excelente adherencia a superficies en sitios húmedos o inorgánicas como vidrio, cerámica, porcelana, azulejos, metal, aluminio, etc. Larga duración, no amarillea ni se desvanece, resistente a las manchas, cobertura perfecta, sin marcas de pincel , producto de resistencia al impacto. Se recomiendan 10 gr de Catalizador para 250 ml de Pintura Acrílica Mate Resistente al Agua Ambiente.',
@@ -137,7 +137,7 @@ const initialProducts = [
     name: 'Azul Medianoche AMBIANTE WATER RESIST 250ml. + CATALIZADOR',
     price: '13.25',
     images: [
-      'https://i.ibb.co/VMFNFmG/ambiente-water-resist-midnight-blue-250ml-cat.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/8wig775af6etncc3eastu/ambiente-water-resist-midnight-blue-250ml-cat.jpg?rlkey=vc9ow4fpvywkb67vo7nemjk7n&st=3jw8y9xw&dl=0',
     ],
     label: '250 ml.',
     description: 'Pintura acrílica mate a base de agua con excelente adherencia a superficies en sitios húmedos o inorgánicas como vidrio, cerámica, porcelana, azulejos, metal, aluminio, etc. Larga duración, no amarillea ni se desvanece, resistente a las manchas, cobertura perfecta, sin marcas de pincel , producto de resistencia al impacto. Se recomiendan 10 gr de Catalizador para 250 ml de Pintura Acrílica Mate Resistente al Agua Ambiente.',
@@ -148,7 +148,7 @@ const initialProducts = [
     name: 'Gris Pizarra AMBIANTE WATER RESIST 250ml. + CATALIZADOR ',
     price: '13.25',
     images: [
-      'https://i.ibb.co/h8cTqKZ/ambiente-water-resist-dark-slate-gray-250ml-cat.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/o0mh1zhegjzzfii46pwk5/ambiente-water-resist-dark-slate-gray-250ml-cat.jpg?rlkey=3ahld7wfa1xshayt3ge9ygwi3&st=1gys1j9w&dl=0',
     ],
     label: '250 ml.',
     description: 'Pintura acrílica mate a base de agua con excelente adherencia a superficies en sitios húmedos o inorgánicas como vidrio, cerámica, porcelana, azulejos, metal, aluminio, etc. Larga duración, no amarillea ni se desvanece, resistente a las manchas, cobertura perfecta, sin marcas de pincel , producto de resistencia al impacto. Se recomiendan 10 gr de Catalizador para 250 ml de Pintura Acrílica Mate Resistente al Agua Ambiente.',
@@ -159,7 +159,7 @@ const initialProducts = [
     name: 'Gris Oscuro AMBIANTE WATER RESIST 250ml. + CATALIZADOR',
     price: '13.25',
     images: [
-      'https://i.ibb.co/R20SG6R/ambiente-water-resist-dark-gray-250ml-cat.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/v38vf7zhpbphutgm6bkz5/ambiente-water-resist-dark-gray-250ml-cat.jpg?rlkey=7jmc9h0i1w5df8kkmhst8uvcf&st=k0oz5ia1&dl=0',
     ],
     label: '250 ml.',
     description: 'Pintura acrílica mate a base de agua con excelente adherencia a superficies en sitios húmedos o inorgánicas como vidrio, cerámica, porcelana, azulejos, metal, aluminio, etc. Larga duración, no amarillea ni se desvanece, resistente a las manchas, cobertura perfecta, sin marcas de pincel , producto de resistencia al impacto. Se recomiendan 10 gr de Catalizador para 250 ml de Pintura Acrílica Mate Resistente al Agua Ambiente.',
@@ -170,7 +170,7 @@ const initialProducts = [
     name: 'Gris Antracita AMBIANTE WATER RESIST 250ml. + CATALIZADOR',
     price: '13.25',
     images: [
-      'https://i.ibb.co/MR8D4mL/ambiente-water-resist-anthracite-black-250ml-cat.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/i165qnft5vf45cv9akot3/ambiente-water-resist-anthracite-black-250ml-cat.jpg?rlkey=78iz19exfq5dzzeh3l1wy6kc9&st=0uy57c2w&dl=0',
     ],
     label: '250 ml.',
     description: 'Pintura acrílica mate a base de agua con excelente adherencia a superficies en sitios húmedos o inorgánicas como vidrio, cerámica, porcelana, azulejos, metal, aluminio, etc. Larga duración, no amarillea ni se desvanece, resistente a las manchas, cobertura perfecta, sin marcas de pincel , producto de resistencia al impacto. Se recomiendan 10 gr de Catalizador para 250 ml de Pintura Acrílica Mate Resistente al Agua Ambiente.',
@@ -181,7 +181,7 @@ const initialProducts = [
     name: 'Gris Grafitti AMBIANTE WATER RESIST 250ml. + CATALIZADOR ',
     price: '13.25',
     images: [
-      'https://i.ibb.co/YLxs1Xv/ambiente-water-resist-grafitti-gray-250ml-cat.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/v26wa4a60krarpkqu7jdb/ambiente-water-resist-grafitti-gray-250ml-cat.jpg?rlkey=6fs4prucaqgbghoa2jrwz40x6&st=fzh2fhy2&dl=0',
     ],
     label: '250 ml.',
     description: 'Pintura acrílica mate a base de agua con excelente adherencia a superficies en sitios húmedos o inorgánicas como vidrio, cerámica, porcelana, azulejos, metal, aluminio, etc. Larga duración, no amarillea ni se desvanece, resistente a las manchas, cobertura perfecta, sin marcas de pincel , producto de resistencia al impacto. Se recomiendan 10 gr de Catalizador para 250 ml de Pintura Acrílica Mate Resistente al Agua Ambiente.',
@@ -192,7 +192,7 @@ const initialProducts = [
     name: 'Moka AMBIANTE WATER RESIST 250ml. + CATALIZADOR ',
     price: '13.25',
     images: [
-      'https://i.ibb.co/Gn6h3m4/ambiente-water-resist-mink-250ml-cat.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/kwl6s4bxs7bsxv46mvrqe/ambiente-water-resist-mink-250ml-cat.jpg?rlkey=idbb38mot1ewj8r4tu3ftc4r3&st=jgb065m2&dl=0',
     ],
     label: '250 ml.',
     description: 'Pintura acrílica mate a base de agua con excelente adherencia a superficies en sitios húmedos o inorgánicas como vidrio, cerámica, porcelana, azulejos, metal, aluminio, etc. Larga duración, no amarillea ni se desvanece, resistente a las manchas, cobertura perfecta, sin marcas de pincel , producto de resistencia al impacto. Se recomiendan 10 gr de Catalizador para 250 ml de Pintura Acrílica Mate Resistente al Agua Ambiente.',
@@ -225,7 +225,7 @@ export const Tienda3Ambientes = () => {
   const [filterButtonIcon, setFilterButtonIcon] = useState(<ViewOffIcon />);
 
   const [currentPage, setCurrentPage] = useState(1);
-  const [itemsPerPage, setItemsPerPage] = useState(44); // Cambia el número según tus necesidades
+  const [itemsPerPage, setItemsPerPage] = useState(12); // Cambia el número según tus necesidades
 
   const startIndex = (currentPage - 1) * itemsPerPage;
   const endIndex = startIndex + itemsPerPage;

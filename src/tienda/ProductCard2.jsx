@@ -1,21 +1,13 @@
-import React, { useState, useEffect } from 'react';
-import { Carousel } from 'react-responsive-carousel';
-import 'react-responsive-carousel/lib/styles/carousel.min.css';
-import './ProductCard.css';
-import { Tag, Button, Spinner } from '@chakra-ui/react';
-import { ArrowForwardIcon } from '@chakra-ui/icons';
+import React, { useState } from "react";
+import { Carousel } from "react-responsive-carousel";
+import "react-responsive-carousel/lib/styles/carousel.min.css";
+import "./ProductCard.css";
+import { Tag, Button, Spinner, Box } from "@chakra-ui/react";
+import { ArrowForwardIcon } from "@chakra-ui/icons";
 
 export const ProductCard2 = ({ product, addToCart, handleToggleCart }) => {
   const [isHovered, setIsHovered] = useState(false);
   const [loading, setLoading] = useState(true);
-  const [error, setError] = useState(false);
-  const [imageUrls, setImageUrls] = useState(product.images);
-
-  useEffect(() => {
-    // Reset loading and error states when imageUrls change
-    setLoading(true);
-    setError(false);
-  }, [imageUrls]);
 
   const handleAddToCart = () => {
     addToCart(product);
@@ -34,108 +26,109 @@ export const ProductCard2 = ({ product, addToCart, handleToggleCart }) => {
     setLoading(false);
   };
 
-  const handleImageError = (index) => {
-    setError(true);
-    setTimeout(() => {
-      setError(false);
-      setLoading(true); // Mostrar el loader nuevamente
-      setImageUrls(prevUrls => {
-        const newUrls = [...prevUrls];
-        newUrls[index] = `${newUrls[index]}?timestamp=${new Date().getTime()}`; // Añadir timestamp para forzar recarga
-        return newUrls;
-      });
-    }, 2000); // Reintentar después de 2 segundos
-  };
-
   const isMobile = window.innerWidth < 1050;
-
-  const renderImage = (imagen, index) => (
-    <>
-      {loading && <Spinner />}
-      {error ? (
-        <div>Reintentando...</div>
-      ) : (
-        <img
-          src={imagen}
-          alt='imagen'
-          onLoad={handleImageLoad}
-          onError={() => handleImageError(index)}
-          style={{ display: loading ? 'none' : '' }}
-        />
-      )}
-    </>
-  );
 
   return (
     <div
-      className={`product-card ${isHovered ? 'hovered' : ''}`}
+      className={`product-card ${isHovered ? "hovered" : ""}`}
       onMouseEnter={handleHover}
       onMouseLeave={handleHoverLeave}
     >
       {isHovered || isMobile ? (
         <>
-          {isMobile && (
-            <div className='carousel-2-mobile'>
-              <Carousel
-                autoPlay={false}
-                infiniteLoop={false}
-                showThumbs={false}
-                showStatus={false}
-                showIndicators={false}
-                centerMode={false}
-                swipeable={true}
-                emulateTouch={true}
-                showArrows={false}
-              >
-                {imageUrls.map((imagen, index) => (
-                  <div key={index} className="image-container">
-                    {renderImage(imagen, index)}
-                  </div>
-                ))}
-              </Carousel>
-            </div>
-          )}
-          {isHovered && !isMobile && (
-            <div className='carousel-2'>
-              <Carousel
-                autoPlay={false}
-                infiniteLoop={false}
-                showThumbs={false}
-                showStatus={false}
-                showIndicators={false}
-                centerMode={false}
-                swipeable={true}
-                emulateTouch={true}
-                showArrows={false}
-              >
-                {imageUrls.map((imagen, index) => (
-                  <div key={index} className="image-container">
-                    {renderImage(imagen, index)}
-                  </div>
-                ))}
-              </Carousel>
-            </div>
-          )}
+          <div className={isMobile ? "carousel-2-mobile" : "carousel-2"}>
+            <Carousel
+              autoPlay={false}
+              infiniteLoop={false}
+              showThumbs={false}
+              showStatus={false}
+              showIndicators={true}
+              centerMode={false}
+              swipeable={true}
+              emulateTouch={true}
+              showArrows={!isMobile}
+            >
+              {product.images.map((image, index) => (
+                <div key={index} className="image-container">
+                  {loading && (
+                    <Box
+                      display="flex"
+                      justifyContent="center"
+                      alignItems="center"
+                      height="100%"
+                    >
+                      <Spinner
+                        sthickness="6px"
+                        speed="0.65s"
+                        emptyColor="gray.200"
+                        color="blue"
+                        size="xl"
+                      />
+                    </Box>
+                  )}
+                  <img
+                    src={image}
+                    alt={`imagen-${index}`}
+                    className="product-image"
+                    style={{ display: loading ? "none" : "inline-flex" }}
+                    onLoad={handleImageLoad}
+                  />
+                </div>
+              ))}
+            </Carousel>
+          </div>
           <h4>{product.name}</h4>
           <p>✅En Stock✅</p>
-          <p id='description'>{product.description}</p>
-          <Tag size={'md'} key={'md'} variant='solid' colorScheme='blue'>
+          <p id="description">{product.description}</p>
+          <Tag size={"md"} key={"md"} variant="solid" colorScheme="blue">
             {product.label}
           </Tag>
 
           <h3>{product.price} €</h3>
-          <Button rightIcon={<ArrowForwardIcon />} onClick={handleAddToCart} colorScheme='blue' variant='solid'>
+          <Button
+            rightIcon={<ArrowForwardIcon />}
+            onClick={handleAddToCart}
+            colorScheme="blue"
+            variant="solid"
+          >
             Añadir al carrito
           </Button>
         </>
       ) : (
         <>
           <div className="image-container">
-            {renderImage(`${imageUrls[0]}?timestamp=${new Date().getTime()}`, 0)}
+            {loading && (
+              <Box
+                display="flex"
+                justifyContent="center"
+                alignItems="center"
+                height="100%"
+              >
+                <Spinner
+                  sthickness="4px"
+                  speed="0.65s"
+                  emptyColor="gray.200"
+                  color="blue"
+                  size="xl"
+                />
+              </Box>
+            )}
+            <img
+              src={product.images[0]}
+              alt={product.name}
+              className="product-image"
+              style={{ display: loading ? "none" : "block" }}
+              onLoad={handleImageLoad}
+            />
           </div>
           <h3>{product.name}</h3>
           <h4>{product.price} €</h4>
-          <Button rightIcon={<ArrowForwardIcon />} onClick={handleAddToCart} colorScheme='blue' variant='solid'>
+          <Button
+            rightIcon={<ArrowForwardIcon />}
+            onClick={handleAddToCart}
+            colorScheme="blue"
+            variant="solid"
+          >
             Añadir al carrito
           </Button>
         </>

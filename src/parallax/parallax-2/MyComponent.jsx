@@ -183,7 +183,7 @@ export function MyComponent({
         >
           {imagenes.map((imagen, index) => (
             <div className="imagenCarrusel" key={index}>
-              <img src={imagen} alt={tituloH2} />
+              <img src={imagen} alt={tituloH2} loading="lazy" />
             </div>
           ))}
         </Carousel>

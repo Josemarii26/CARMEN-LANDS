@@ -23,7 +23,7 @@ import { WavyContainer, WavyLink } from "react-wavy-transitions";
 
 
 
-export const Tienda3Transfers = () => {
+export const Tienda3Papeles = () => {
 
   const [cart, setCart] = useState([]);
   const [showOverlay, setShowOverlay] = useState(false);
@@ -89,50 +89,32 @@ export const Tienda3Transfers = () => {
 
         <div className="menu">
 
-          <h1>Transfers  - Cadence 📘</h1>
+          <h1>Papeles  - Cadence 📘</h1>
 
-          <h3>Stencils y plantillas de diversos estilos de la marca CADENCE. Para mix media, home decor, manualidades...</h3>
+          <h3>Papeles de diversos estilos de la marca CADENCE.</h3>
 
 
 
         </div>
 
         <div className="marcas2">
-          <WavyLink direction="up" to="/tienda/cadence/transfers/folex" color="#4593db">
+          <WavyLink direction="up" to="/tienda/cadence/papeles/japones" color="#4593db">
             <div className="cadence-card">
-              <img src='https://i.ibb.co/zRXMt5b/folex-transferencia.jpg' alt='cadence'></img>
+              <img src='https://www.artesaniasmontejo.com/c/1099-pos_category/papel-de-arroz-soft-japones.jpg' alt='cadence'></img>
               <br></br>
-              <p>Transfers FOLEX Cadence</p>
+              <p>Papel de Arroz Soft Japones</p>
             </div>
       
           </WavyLink>
 
-          <WavyLink direction="up" to="/tienda/cadence/transfers/home-decor" color="#4593db">
+          <WavyLink direction="up" to="/tienda/cadence/papeles/ciao-bella" color="#4593db">
             <div className="cadence-card">
-              <img src='https://i.ibb.co/tQtmJYG/transfers-home-decor-cadence-14.jpg' alt='cadence'></img>
+              <img src='https://www.artesaniasmontejo.com/c/1072-pos_category/ciao-bella-rice-paper.jpg' alt='cadence'></img>
               <br></br>
-              <p>Transfers HOME DECOR</p>
+              <p>Papel de Arroz CIAO BELLA</p>
             </div>
       
           </WavyLink>
-          <WavyLink direction="up" to="/tienda/cadence/transfers/textil" color="#4593db">
-            <div className="cadence-card">
-              <img src='https://i.ibb.co/C6s5fwX/transfers-para-tela-cadence.jpg' alt='cadence'></img>
-              <br></br>
-              <p>Transfers PARA TEXTIL</p>
-            </div>
-      
-          </WavyLink>
-
-          <WavyLink direction="up" to="/tienda/cadence/transfers/colors" color="#4593db">
-            <div className="cadence-card">
-              <img src='https://www.artesaniasmontejo.com/c/1145-pos_category/transfer-color.jpg' alt='cadence'></img>
-              <br></br>
-              <p>Transfers COLORS</p>
-            </div>
-      
-          </WavyLink>
-
           
 
           

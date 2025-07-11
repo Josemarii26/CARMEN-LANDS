@@ -27,7 +27,7 @@ const initialProducts = [
     name: 'PEARL Pasta Flexible Metálica 150ml.',
     price: '5.70',
     images: [
-      'https://i.ibb.co/gDWC2cY/pasta-flexible-metalica-150ml-cadence.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/yb483sh1p1wqrhst80ut0/pasta-flexible-metalica-150ml-cadence.jpg?rlkey=32eijphtgkgj5aqeosi0og23q&st=ydil6owj&dl=0',
     ],
     label: '150ml',
     description: 'Pasta de relieve Cadence metalizada FLEXIBLE y ligera a base de agua. Se puede trabajar en moldes blandos decorativos y se puede aplicar fácilmente sobre superficies curvas. Colores mezclables entre si.',
@@ -38,7 +38,7 @@ const initialProducts = [
     name: 'SILVER Pasta Flexible Metálica 150ml.',
     price: '5.70',
     images: [
-      'https://i.ibb.co/bP4KFSv/pasta-flexible-metalica-150ml-cadence-1.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/yb483sh1p1wqrhst80ut0/pasta-flexible-metalica-150ml-cadence.jpg?rlkey=32eijphtgkgj5aqeosi0og23q&st=ydil6owj&dl=0',
     ],
     label: '150ml',
     description: 'Pasta de relieve Cadence metalizada FLEXIBLE y ligera a base de agua. Se puede trabajar en moldes blandos decorativos y se puede aplicar fácilmente sobre superficies curvas. Colores mezclables entre si.',
@@ -49,7 +49,7 @@ const initialProducts = [
     name: 'CHAMPAGNE Pasta Flexible Metálica 150ml.',
     price: '5.70',
     images: [
-      'https://i.ibb.co/FKN7wvk/pasta-flexible-metalica-150ml-cadence-2.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/lykcecoe1fy53eq93nwis/pasta-flexible-metalica-150ml-cadence-2.jpg?rlkey=fxrez88x8vybmbcxb56919y6q&st=iusmpn3x&dl=0',
     ],
     label: '150ml',
     description: 'Pasta de relieve Cadence metalizada FLEXIBLE y ligera a base de agua. Se puede trabajar en moldes blandos decorativos y se puede aplicar fácilmente sobre superficies curvas. Colores mezclables entre si.',
@@ -60,7 +60,7 @@ const initialProducts = [
     name: 'ROSE GOLD Pasta Flexible Metálica 150ml.',
     price: '5.70',
     images: [
-      'https://i.ibb.co/ph5FSTt/pasta-flexible-metalica-150ml-cadence-3.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/iuf9vdq366kz5qxq17l1e/pasta-flexible-metalica-150ml-cadence-3.jpg?rlkey=mfycxyal17ro7srtog1frkjgh&st=c5udgg15&dl=0',
     ],
     label: '150ml',
     description: 'Pasta de relieve Cadence metalizada FLEXIBLE y ligera a base de agua. Se puede trabajar en moldes blandos decorativos y se puede aplicar fácilmente sobre superficies curvas. Colores mezclables entre si.',
@@ -71,7 +71,7 @@ const initialProducts = [
     name: 'GOLD Pasta Flexible Metálica 150ml.',
     price: '5.70',
     images: [
-      'https://i.ibb.co/6J0cmq2/pasta-flexible-metalica-150ml-cadence-4.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/w3ak0teumn0msrju2awze/pasta-flexible-metalica-150ml-cadence-4.jpg?rlkey=1ym8gr5woxt7vzg5q5fcyow8y&st=m8l5d64e&dl=0',
     ],
     label: '150ml',
     description: 'Pasta de relieve Cadence metalizada FLEXIBLE y ligera a base de agua. Se puede trabajar en moldes blandos decorativos y se puede aplicar fácilmente sobre superficies curvas. Colores mezclables entre si.',
@@ -100,7 +100,7 @@ export const Tienda3PastasFlexibleMetalica = () => {
   const [filterButtonIcon, setFilterButtonIcon] = useState(<ViewOffIcon />);
 
   const [currentPage, setCurrentPage] = useState(1);
-  const [itemsPerPage, setItemsPerPage] = useState(44); // Cambia el número según tus necesidades
+  const [itemsPerPage, setItemsPerPage] = useState(12); // Cambia el número según tus necesidades
 
   const startIndex = (currentPage - 1) * itemsPerPage;
   const endIndex = startIndex + itemsPerPage;

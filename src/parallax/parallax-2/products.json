@@ -1,300 +1,292 @@
 {
-    "products": [
-        {
-            "id": 1,
-            "tituloH2": "GALERÍA DE ARTE 🎨📷",
-            "descripcionA": "Desliza para disfrutar de un pasaje por mi escaparate donde podrás ver mis diferentes creaciones hechas a mano con toda mi ilusión y cariño.",
-            "descripcionB": "Estas piezas son 1 de 1, es decir, son piezas únicas que solo tienen un comprador, echa un vistazo si alguna está en stock y, ¡no dudes en preguntar por ella!",
-            "imagenes": [
-                "https://i.ibb.co/dWzLMKP/Whats-App-Image-2023-11-19-at-20-13-48-2.jpg",
-                "https://i.ibb.co/pn4NSGp/Whats-App-Image-2023-11-19-at-20-18-42.jpg"
-            ],
-            "curiosidad": "El tiempo que se tarda en realizar cada uno de los proyectos es muy variable, dependiendo de la complejidad del mismo."
-        },
-        {
-            "id": 2,
-            "tituloH2": "CÓMODA FERIA 🎡",
-            "descripcionA": "Cómoda Feria es en principio una modesta cómoda que una abuela regala a su preciosa nieta, cuando se independiza con su novio. Cuando su abuela falta, es su mayor tesoro.",
-            "descripcionB": "De ahí escogí un precioso papel de seda de la casa Mint by Michelle (de la cual soy distribuidora), para que siempre tenga la alegría  al contemplarla de una niña, y la variedad de verdes es por su amor por la naturaleza.",
-            "imagenes": [
-                "https://i.ibb.co/M87v2qd/IMG-20211122-103839-463-2.jpg",
-                "https://i.ibb.co/0jzh49z/20211122-103524.jpg",
-                "https://i.ibb.co/7vrZXCD/Whats-App-Image-2023-09-24-at-17-03-00.jpg",
-                "https://i.ibb.co/ZVtTDhc/IMG-20211109-101138-079.jpg"
-            ],
-            "curiosidad": "¡Los muebles de Melamina también pueden ser bellos!"
-        },
-        
-        {
-            "id": 3,
-            "tituloH2": "MUEBLE JOYA LILIBETH 🏅",
-            "descripcionA": "Lilibeth desde que me la encontré al lado de un contenedor, vi que era diferente y muy especial. Interpreté los pasos según me lo iba pidiendo el propio mueble.",
-            "descripcionB": "Un espectacular papel, y lo más destacado es que, en el momento que la creé, en Junio 2021, las texturas / relieves (especialmente creado desde cero) en los muebles no se solían dar, y ahora es tendencia.",
-            "imagenes": [
-                
-                "https://i.ibb.co/0ZdTr6G/Whats-App-Image-2023-09-24-at-17-15-55.jpg",
-                "https://i.ibb.co/n6ttMWP/20220623-104431-2.jpg",
-                "https://i.ibb.co/qrfpVk7/20220623-105104-2.jpg",
-                "https://i.ibb.co/0ZdTr6G/Whats-App-Image-2023-09-24-at-17-15-55.jpg"
-            ],
-            "curiosidad": "El mueble Lilibeth, fue el que me hizo ganar un concurso nacional de la famosa cadena CanalDecasa. ¡Donde hice mi propio programa de televisión! Programa que aún se puede ver en diferentes plataformas de TV."
-        },
-        {
-            "id": 4,
-            "tituloH2": "BANQUETA IKEA 🎈",
-            "descripcionA": "Banqueta Ikea, es la archiconocida banqueta de esa famosísima tienda, a la que en un momento de locura romántica le hice un Decoupage y Envejecidos (técnicas) con globos antiguos, y reconvertirla en un pequeño mueble auxiliar.",
-            "descripcionB": "Mesita / Banqueta",
-            "imagenes": [
-                "https://i.ibb.co/ykWfZRY/20220121-093804-2.jpg",
-                "https://i.ibb.co/9yZWgJb/20220121-094417.jpg",
-                "https://i.ibb.co/RvfnWB0/Whats-App-Image-2023-09-24-at-17-04-23.jpg",
-                "https://i.ibb.co/5TSWMPR/Screenshot-20210404-134044-Chrome.jpg"
-            ],
-            "curiosidad": "¡Un mueble no sólo tiene una función, a veces es una mesita de noche y a veces sirve pata subirse dos escalones!"
-        },
-        {
-            "id": 5,
-            "tituloH2": "CÓMODA JARDÍN DE CARMEN 🌿",
-            "descripcionA": "Después de una herencia, lo que queda, recuerda irremediablemente a la persona que partió y esta cómoda típicamente de Ronda, recordaba la alegría y las ganas de vivir de su antigua dueña.",
-            "descripcionB": "La idea de este mueble de convertirla en un jardín permanente es, la necesidad de vivir feliz y en alegría permanente cada segundo.",
-            "imagenes": [
-                "https://i.ibb.co/Jry6SYH/20220403-125107-2.jpg",
-                "https://i.ibb.co/VqSS3q1/Whats-App-Image-2023-11-14-at-23-26-07-3.jpg",
-                "https://i.ibb.co/wzQqT3R/Whats-App-Image-2023-11-14-at-23-26-07-2.jpg",
-                "https://i.ibb.co/gw80n1m/Whats-App-Image-2023-11-14-at-23-26-08.jpg",
-                "https://i.ibb.co/M56W7n4/Whats-App-Image-2023-11-14-at-23-26-08-1.jpg",
-                "https://i.ibb.co/DgsvH32/Whats-App-Image-2023-11-14-at-23-26-07-1.jpg",
-                "https://i.ibb.co/ckfbF12/Whats-App-Image-2023-11-14-at-23-26-07.jpg",
-                "https://i.ibb.co/m9w3s2P/Whats-App-Image-2023-11-14-at-23-27-01.jpg",
-                "https://i.ibb.co/Khtw3jt/20220303-134758.jpg"
-            ],
-            "curiosidad": "El nombre de este mueble es debido a que en mis obras los colores de la naturaleza es un contante, de ahí 'El jardín de Carmen'"
-        },
-        {
-            "id": 6,
-            "tituloH2": "CÓMODA MAYO 🌹",
-            "descripcionA": "Cada mueble que cae en mis manos me dice de qué color quiere vestirse, si los oyes te cuentan su historia, lo vivido y su futuro, te indican lo que necesitan, hablan y respiran, dando pistas sobre sus cambios.",
-            "descripcionB": "Este deseaba mucha vida y mucho color; el azul del cielo en primavera, su nombre Mayo.",
-            "imagenes": [
-                "https://i.ibb.co/fkbgDLc/Whats-App-Image-2023-09-24-at-17-03-30.jpg",
-                "https://i.ibb.co/pdgTvdr/20220212-105723.jpg",
-                "https://i.ibb.co/ncTzFvk/20220212-110307.jpg",
-                "https://i.ibb.co/pJ6DLXx/20220212-105507.jpg",
-                "https://i.ibb.co/2stRWD1/Whats-App-Image-2023-11-19-at-20-11-26.jpg"
-            ],
-            "curiosidad": "Mientras lo limpiaba antes de pintarlo, una gota de color en uno de sus cajones, ¡me dió la pista!"
-        },
-        {
-            "id": 7,
-            "tituloH2": "MESITA GRETA 🐝",
-            "descripcionA": "Greta es mi visión del modernismo, concretamente del 'Art Noveau'.",
-            "descripcionB": "Formas sinuosas, detalles que hacen pensar en la naturaleza y su textura es un guiño a la tierra.",
-            "imagenes": [
-                "https://i.ibb.co/Q9kTRFP/Whats-App-Image-2023-11-19-at-20-22-05-2.jpg",
-                "https://i.ibb.co/848TBnh/IMG-20211107-104351-834-2.jpg",
-                "https://i.ibb.co/s3JjMPZ/Whats-App-Image-2023-09-24-at-17-05-41.jpg",
-                "https://i.ibb.co/PzYpVKX/Whats-App-Image-2023-09-24-at-17-06-36.jpg",
-                "https://i.ibb.co/2WgtgfJ/Whats-App-Image-2023-11-19-at-20-22-07.jpg"
-            ],
-            "curiosidad": "La abeja reina de la superficie, ¡es un guiño a mi eterna búsqueda de la naturaleza alrededor!"
-        },
-        {
-            "id": 8,
-            "tituloH2": "MESA BAJA SALÓN TARA 🪘",
-            "descripcionA": "Tara es una mesa bodega para salón. Mesa baja, ideal para zona de sofa por su altura.",
-            "descripcionB": "La necesidad de reciclar en mi mente transformó un sencillo cajón de una antigua cómoda (encontrada en la calle), en un mueble innovador en color y en estilo. Mezcla un original papel hindi, con unas sencillas patas metálicas ligeras ópticamente.",
-            "imagenes": [
-                "https://i.ibb.co/fvs88hD/Whats-App-Image-2023-09-24-at-17-08-04.jpg",
-                "https://i.ibb.co/yhh9pFj/Whats-App-Image-2023-11-14-at-22-55-13-1.jpg",
-                "https://i.ibb.co/Dp1PjVy/Whats-App-Image-2023-11-14-at-22-55-14.jpg",
-                "https://i.ibb.co/2NLjsgj/Whats-App-Image-2023-11-14-at-22-56-48.jpg",
-                "https://i.ibb.co/4fpKKfG/Whats-App-Image-2023-11-14-at-22-55-13.jpg"
-            ],
-            "curiosidad": "La necesidad de una zona de almacenaje para el vino, hizo necesario un gran espacio para ello. Dando el interior de esta mesa la medida para la reserva de una buena cantidad de botellas, ¡en el mejor ángulo de Bodega!"
-        },
-        {
-            "id": 9,
-            "tituloH2": "MESITA RONDEÑA 🧘",
-            "descripcionA": "La mesita Rondeña, según su dueña, tenía que fresca luminosa y llena de vida.",
-            "descripcionB": "Aquí el detalle de sus espigas, ¡pintadas a mano con mimo!",
-            "imagenes": [
-                "https://i.ibb.co/yyxmhTd/Screenshot-20221011-173600-Facebook.jpg",
-                "https://i.ibb.co/VMpQtz0/Whats-App-Image-2023-09-24-at-17-09-23.jpg",
-                "https://i.ibb.co/TtR0wbR/Whats-App-Image-2023-11-12-at-10-49-26.jpg",
-                "https://i.ibb.co/RSsNVh2/Whats-App-Image-2023-11-12-at-10-49-28.jpg"
-            ],
-            "curiosidad": "Tiene la luminosidad de la ciudad donde se hizo: ¡Ronda, Málaga!"
-        },
-        {
-            "id": 10,
-            "tituloH2": "MUEBLE BAJO LAVABO AMAPOLAS 🌼",
-            "descripcionA": "Esta cómoda fue encontrada a las puertas de un hotel, con una madera demasiado bonita para dejarla allí. Ha tenido diferentes vidas, muchos usos y la necesidad de tener capacidad de almacenaje en el baño, hizo que fuese perfecta para tal fin.",
-            "descripcionB": "Solo necesitaba un cajón más y subir la altura para el lavabo. Me puse manos a la obra y, ¡lógicamente usé amapolas para dar alegría en el baño!",
-            "imagenes": [
-                "https://i.ibb.co/SfLTQxk/Whats-App-Image-2023-09-24-at-17-18-24.jpg",
-                "https://i.ibb.co/SfLTQxk/Whats-App-Image-2023-09-24-at-17-18-24.jpg",
-                "https://i.ibb.co/cLMcV4W/Screenshot-20220711-085513-Instagram.jpg"
-            ],
-            "curiosidad": "El pequeño cajón es una caja de vinos que tenía por casa!"
-        },
-        {
-            "id": 11,
-            "tituloH2": "SILLA PRIMAVERA 🪑",
-            "descripcionA": "Adoro los muebles 'Thonet'. Son piezas con elegancia y una delicada sencillez, sin pretensiones, pero que destacan, y eso me hizo pensar.",
-            "descripcionB": "Creé una visión en la madera, de muchas capas de diferentes colores, observándose a través de ellos, ¡como si una larguísima vida hubiese pasado en su superficie!",
-            "imagenes": [
-                "https://i.ibb.co/tJ5ckhy/Whats-App-Image-2023-08-25-at-18-40-46.jpg",
-                "https://i.ibb.co/JzvHv7J/Whats-App-Image-2023-11-16-at-16-26-37.jpg",
-                "https://i.ibb.co/6ZYSjHR/Whats-App-Image-2023-11-16-at-16-26-36.jpg",
-                "https://i.ibb.co/LtW2KmT/Whats-App-Image-2023-09-24-at-16-46-49.jpg",
-                "https://i.ibb.co/bBfPqVW/FB-IMG-1629018293638.jpg"
-            ],
-            "curiosidad": "¡Será siempre mi mueble favorito! ❤️"
-        },
-        {
-            "id": 12,
-            "tituloH2": "KOSMOS 🪐",
-            "descripcionA": "Este es Kosmos, un escritorio que estaba a punto de convertirse en leña para la chimenea.",
-            "descripcionB": "En él, se dan de la mano clasicismo Isabelino y modernidad con el color azul noche.",
-            "imagenes": [
-                "https://i.ibb.co/j3D0VpP/Whats-App-Image-2023-11-12-at-10-41-04.jpg",
-                "https://i.ibb.co/KsDzvz1/Whats-App-Image-2023-11-12-at-10-41-04-2.jpg",
-                "https://i.ibb.co/2kczd9y/Whats-App-Image-2023-11-12-at-10-41-04-1.jpg",
-                "https://i.ibb.co/j6Kkq68/Whats-App-Image-2023-11-12-at-10-41-03-1.jpg",
-                "https://i.ibb.co/jzz2fKx/Whats-App-Image-2023-11-12-at-10-41-03.jpg",
-                "https://i.ibb.co/SRLTMXy/Whats-App-Image-2023-11-12-at-10-41-04-3.jpg"
-            ],
-            "curiosidad": "¡Tiene una nueva técnica llamada Sombreado!"
-        },
-        {
-            "id": 13,
-            "tituloH2": "MESITA ABRIL 🌸",
-            "descripcionA": "Cuando gané el concurso de CasaTalentos 2021, tuve que crear un mueble original en directo, ¡en tan solo día y medio!",
-            "descripcionB": "En la grabación del programa, con cámaras, luces y cinco personas en mi pequeño taller, se impusieron el color rosa y las flores de acuarela, con pequeñas texturas de perlas.",
-            "disponible": "✅ En stock ✅",
-            "ask": "¡Compra aquí!",
-            "precio": "Precio: 295€",
-            "imagenes": [
-                "https://i.ibb.co/fGZyX1k/Whats-App-Image-2023-11-19-at-20-28-52-2.jpg",
-                "https://i.ibb.co/5r8CC3J/Whats-App-Image-2023-11-19-at-20-27-28-1.jpg",
-                "https://i.ibb.co/Mc69D3D/Whats-App-Image-2023-11-19-at-20-27-29.jpg",
-                "https://i.ibb.co/1nFSCnb/Whats-App-Image-2023-11-19-at-20-27-28.jpg",
-                "https://i.ibb.co/VWNgKG2/Whats-App-Image-2023-11-19-at-20-28-52.jpg"
-            ],
-            "curiosidad": "¡Hasta los muebles Provenzales, pueden ser bellos!"
-        },
-        {
-            "id": 14,
-            "tituloH2": "CESTO DE ROPA 💚",
-            "descripcionA": "La necesidad de sacar la belleza escondida en todos los objetos, hace que busque en ellos momentos, imágenes e inspiración para que luzcan en todo su esplendor.",
-            "descripcionB": "Este cesto de ropa, es un claro ejemplo de ello.",
-            "imagenes": [
-                "https://i.ibb.co/3B6fpWD/Whats-App-Image-2023-11-19-at-20-32-36.jpg",
-                "https://i.ibb.co/3mHZvsk/Whats-App-Image-2023-11-19-at-20-32-36-1.jpg",
-                "https://i.ibb.co/nfg3S7t/Whats-App-Image-2023-11-19-at-20-32-36-2.jpg",
-                "https://i.ibb.co/DKCRksD/Whats-App-Image-2023-11-19-at-20-32-36-3.jpg",
-                "https://i.ibb.co/n0Nzskc/Whats-App-Image-2023-11-19-at-20-33-25.jpg"
-            ],
-            "curiosidad": "En este cesto de ropa, hallé un Jardín escondido."
-        },
-        {
-            "id": 15,
-            "tituloH2": "VOLANDO CON IKEA 🪁",
-            "descripcionA": "Siempre con la necesidad de encontrar nuevas formas de utilizar diferentes muebles y dar otra visión a la idea de crear con papel y pintura.",
-            "descripcionB": "Además de, por supuesto, salir de mi zona de confort: la aplicación de 'Papel de Oro'",
-            "imagenes": [
-                "https://i.ibb.co/zR1pFPH/Whats-App-Image-2023-12-13-at-13-02-17.jpg",
-                "https://i.ibb.co/t3Js1YC/Whats-App-Image-2023-11-26-at-11-34-37.jpg",
-                "https://i.ibb.co/27Y19pJ/Whats-App-Image-2023-12-13-at-13-02-18.jpg",
-                "https://i.ibb.co/Yy41zj9/Whats-App-Image-2023-12-13-at-13-02-18-1.jpg",
-                "https://i.ibb.co/w4DwdB6/Whats-App-Image-2023-12-13-at-13-02-18-2.jpg"
-            ],
-            "curiosidad": "¡Creo que el oro y yo vamos a tener una amistad bonita y duradera!"
-        },
-        {
-            "id": 16,
-            "tituloH2": "MESA LUZ ✨",
-            "descripcionA": "Es la necesidad de atrapar las sensaciones de las vetas de una piedra marmoleada en la madera. ",
-            "descripcionB": "Con el tacto en relieve de delicadas flores de muguet doradas y preciosos tiradores de libélulas.",
-            "disponible": "✅ En stock ✅",
-            "ask": "¡Compra aquí!",
-            "precio": "Precio: 190€",
-            "imagenes": [
-                "https://i.ibb.co/W3L5fb3/mesaLuz1.jpg",
-                "https://i.ibb.co/7jL4Dkw/mesaLuz2.jpg",
-                "https://i.ibb.co/0rkprYB/mesaLuz3.jpg"
-            ],
-            "curiosidad": "¡Crean el perfecto jardín para cualquier estancia!"
-        },
-        {
-            "id": 17,
-            "tituloH2": "CUADRO SILLA ISABELINA SERIE 1 75x50 🪑⭐",
-            "descripcionA": "Puros relieves. Craquelados en oro. ",
-            "descripcionB": "Tiempos pasados reconvertidos, en colores de naturaleza. ¡Azules, turquesas, verdes!",
-            "disponible": "✅ En stock ✅",
-            "ask": "¡Compra aquí!",
-            "precio": "Precio: 125€",
-            "imagenes": [
-                "https://i.ibb.co/4J59S1s/cuadro-Silla-Isabelina-Serie1.jpg",
-                "https://i.ibb.co/RBpNv9t/cuadro-Silla-Isabelina-Serie1-2.jpg",
-                "https://i.ibb.co/f2JYvPL/cuadro-Silla-Isabelina-Serie1-3.jpg"
-            ],
-            "curiosidad": "¡Serie de sólo 10 cuadros!"
-        },
-        {
-            "id": 18,
-            "tituloH2": "CUADRO SILLA ISABELINA SERIE 2 75x50 🪑🌑",
-            "descripcionA": "La calidez y la nobleza de puro terciopelo negro en un cuadro, utilizando un clásico y actualizándolo con un radical aspecto.",
-            "descripcionB": "¡La idea melliza del contrario!",
-            "disponible": "✅ En stock ✅",
-            "ask": "¡Compra aquí!",
-            "precio": "Precio: 125€",
-            "imagenes": [
-                "https://i.ibb.co/zHVzCrc/cuadro-Silla-Isabelina-Serie2.jpg",
-                "https://i.ibb.co/1v4JVY8/cuadro-Silla-Isabelina-Serie2-3.jpg",
-                "https://i.ibb.co/cYShwkr/cuadro-Silla-Isabelina-Serie2-2.jpg"
-            ],
-            "curiosidad": "¡Una idea que parte de mi profesora!"
-        },
-        {
-            "id": 19,
-            "tituloH2": "BALINESA SERIE 1 🗝️",
-            "descripcionA": "El deseo de encontrar una pieza en el fondo de mar hace de esta pequeña escultura, una pieza seudoarqueologica. ",
-            "descripcionB": "La textura y el relieve recrean incrustaciones marinas y la oxidación de metal.",
-            "disponible": "✅ En stock ✅ ",
-            "ask": "¡Compra aquí!",
-            "precio": "Precio: 65€",
-            "imagenes": [
-                "https://i.ibb.co/C6xNv1D/Balinesa-Serie1.jpg",
-                "https://i.ibb.co/jHxZc9T/Balinesa-Serie1-3.jpg",
-                "https://i.ibb.co/xShp4HZ/Balinesa-Serie1-2.jpg"
-            ],
-            "curiosidad": "¡Adoro recrear auténtica piedra marina!"
-        },
-        {
-            "id": 20,
-            "tituloH2": "🚧 SEGUIMOS TRABAJANDO EN ELLO ⚒️",
-            "descripcionA": "Terminar un proyecto de este tipo requiere mucha paciencia y dedicación, por lo que estamos trabajando en ello para poder ofrecerte más productos lo antes posible.",
-            "descripcionB": "Echa un vistazo de vez en cuando para ver las novedades.",
-            "imagenes": [
-                "https://i.ibb.co/KKJPRBD/Whats-App-Image-2023-11-19-at-20-17-27.jpg",
-                "https://i.ibb.co/19QHtY4/Whats-App-Image-2023-11-19-at-20-15-43.jpg"
-                
-            ]
-           
-        },
-        {
-            "id": 21,
-            "tituloH2": "💬 CONTACTA CONMIGO 📲",
-            "legal": "  Aviso Legal ",
-            "imagenes": [
-                "https://i.ibb.co/wB8LC5f/Whats-App-Image-2023-11-19-at-22-54-32-2.jpg"
-                
-            ]
-           
-        }
-        
-        
-        
-    ]
+  "products": [
+    {
+      "id": 1,
+      "tituloH2": "GALERÍA DE ARTE 🎨📷",
+      "descripcionA": "Desliza para disfrutar de un pasaje por mi escaparate donde podrás ver mis diferentes creaciones hechas a mano con toda mi ilusión y cariño.",
+      "descripcionB": "Estas piezas son 1 de 1, es decir, son piezas únicas que solo tienen un comprador, echa un vistazo si alguna está en stock y, ¡no dudes en preguntar por ella!",
+      "imagenes": [
+        "https://dl.dropboxusercontent.com/scl/fi/7jxeuwdidp2ce23tsdfox/Whats-App-Image-2023-11-19-at-20-13-48-2.jpg?rlkey=u5juusjzoz574l2mbl8ep2pu0&st=w4cub5r2&dl=0",
+        "https://dl.dropboxusercontent.com/scl/fi/9m0xy1erqhlxbcg6915cz/Whats-App-Image-2023-11-19-at-20-18-42.jpg?rlkey=0uwkj3lqxe2qqq4lrlitc4pd9&st=wi03a99b&dl=0"
+      ],
+      "curiosidad": "El tiempo que se tarda en realizar cada uno de los proyectos es muy variable, dependiendo de la complejidad del mismo."
+    },
+    {
+      "id": 2,
+      "tituloH2": "CÓMODA FERIA 🎡",
+      "descripcionA": "Cómoda Feria es en principio una modesta cómoda que una abuela regala a su preciosa nieta, cuando se independiza con su novio. Cuando su abuela falta, es su mayor tesoro.",
+      "descripcionB": "De ahí escogí un precioso papel de seda de la casa Mint by Michelle (de la cual soy distribuidora), para que siempre tenga la alegría  al contemplarla de una niña, y la variedad de verdes es por su amor por la naturaleza.",
+      "imagenes": [
+        "https://dl.dropboxusercontent.com/scl/fi/yfftna5w4ea1c818zjq3t/IMG-20211122-103839-463-2.jpg?rlkey=7b84ws57ykrk4kwwpe4267t61&st=fcu6l6q1&dl=0",
+        "https://dl.dropboxusercontent.com/scl/fi/mrquwcuej15wkonhszjtt/20211122-103524.jpg?rlkey=xm65g1vvlqaxsw4wzb77otkmg&st=9qwpejqf&dl=0",
+        "https://dl.dropboxusercontent.com/scl/fi/hs12u9k71ikc5dpjux41e/Whats-App-Image-2023-09-24-at-17-03-00.jpg?rlkey=e1kizwqrpjygleigvc8ibjfi5&st=u3vy1ngt&dl=0",
+        "https://dl.dropboxusercontent.com/scl/fi/ggrogmn64h5ocqghg48tr/IMG-20211109-101138-079.jpg?rlkey=r6p0ic4zqqfu9l5r6jga02nrc&st=cifla4qk&dl=0"
+      ],
+      "curiosidad": "¡Los muebles de Melamina también pueden ser bellos!"
+    },
+
+    {
+      "id": 3,
+      "tituloH2": "MUEBLE JOYA LILIBETH 🏅",
+      "descripcionA": "Lilibeth desde que me la encontré al lado de un contenedor, vi que era diferente y muy especial. Interpreté los pasos según me lo iba pidiendo el propio mueble.",
+      "descripcionB": "Un espectacular papel, y lo más destacado es que, en el momento que la creé, en Junio 2021, las texturas / relieves (especialmente creado desde cero) en los muebles no se solían dar, y ahora es tendencia.",
+      "imagenes": [
+        "https://dl.dropboxusercontent.com/scl/fi/fmhcp9jfh1r6oc242kh5p/Whats-App-Image-2023-09-24-at-17-15-55.jpg?rlkey=e3x4wsyyeyhfyl0bbh47semy3&st=5vhzj3qp&dl=0",
+        "https://dl.dropboxusercontent.com/scl/fi/t4t1hn4jjjoy2ql6q0rwr/20220623-104431-2.jpg?rlkey=u8uk63bhjf0uyfbqcwnvbqelb&st=eyhb1eky&dl=0",
+        "https://dl.dropboxusercontent.com/scl/fi/9hqse2wei9bemua6txm19/20220623-105104-2.jpg?rlkey=268mbzfhzef2zdp12ye3tu9pb&st=sywiupxa&dl=0",
+        "https://dl.dropboxusercontent.com/scl/fi/fmhcp9jfh1r6oc242kh5p/Whats-App-Image-2023-09-24-at-17-15-55.jpg?rlkey=e3x4wsyyeyhfyl0bbh47semy3&st=5vhzj3qp&dl=0"
+      ],
+      "curiosidad": "El mueble Lilibeth, fue el que me hizo ganar un concurso nacional de la famosa cadena CanalDecasa. ¡Donde hice mi propio programa de televisión! Programa que aún se puede ver en diferentes plataformas de TV."
+    },
+    {
+      "id": 4,
+      "tituloH2": "BANQUETA IKEA 🎈",
+      "descripcionA": "Banqueta Ikea, es la archiconocida banqueta de esa famosísima tienda, a la que en un momento de locura romántica le hice un Decoupage y Envejecidos (técnicas) con globos antiguos, y reconvertirla en un pequeño mueble auxiliar.",
+      "descripcionB": "Mesita / Banqueta",
+      "imagenes": [
+        "https://dl.dropboxusercontent.com/scl/fi/flvvah6kspgryyto0tt6j/20220121-093804-2.jpg?rlkey=29ewmn9lo0j0ahhz2wawvg2dv&st=mgtc3mxm&dl=0",
+        "https://dl.dropboxusercontent.com/scl/fi/f62wfe3y3eby36k36h3e8/20220121-094417.jpg?rlkey=u5oslcglnyl7zgb20k2b73wr1&st=1nqcfu1q&dl=0",
+        "https://dl.dropboxusercontent.com/scl/fi/tr74d7fvx68107jn7rkzx/Whats-App-Image-2023-09-24-at-17-04-23.jpg?rlkey=375v8lib7newu31xhtqljms9w&st=uti86so6&dl=0",
+        "https://dl.dropboxusercontent.com/scl/fi/bmeo0q5bc4gvlotmqcom6/Screenshot-20210404-134044-Chrome.jpg?rlkey=pdpakzdpu2gryvyobgv593yc6&st=r26xcydb&dl=0"
+      ],
+      "curiosidad": "¡Un mueble no sólo tiene una función, a veces es una mesita de noche y a veces sirve pata subirse dos escalones!"
+    },
+    {
+      "id": 5,
+      "tituloH2": "CÓMODA JARDÍN DE CARMEN 🌿",
+      "descripcionA": "Después de una herencia, lo que queda, recuerda irremediablemente a la persona que partió y esta cómoda típicamente de Ronda, recordaba la alegría y las ganas de vivir de su antigua dueña.",
+      "descripcionB": "La idea de este mueble de convertirla en un jardín permanente es, la necesidad de vivir feliz y en alegría permanente cada segundo.",
+      "imagenes": [
+        "https://dl.dropboxusercontent.com/scl/fi/3r38rukyi8i5ic644gqcw/20220403-125107-2.jpg?rlkey=qx9yplepqiosr5xl6gw42gdcf&st=f3rl01yc&dl=0",
+        "https://dl.dropboxusercontent.com/scl/fi/sxs5yc6yvkpms2m9281tt/Whats-App-Image-2023-11-14-at-23-26-07-3.jpg?rlkey=j693m2k04pvzhe1z1ke60ere4&st=mka48lqx&dl=0",
+        "https://dl.dropboxusercontent.com/scl/fi/t80ts46zvd9r8yikxbax2/Whats-App-Image-2023-11-14-at-23-26-07-2.jpg?rlkey=t7jg8rpqijprmsa6opl66uisk&st=x5ye01m0&dl=0",
+        "https://dl.dropboxusercontent.com/scl/fi/b727xuttcsihohxtavc64/Whats-App-Image-2023-11-14-at-23-26-08.jpg?rlkey=4x1kwiytl645uk7dm7dax0cx4&st=7p30kolw&dl=0",
+        "https://dl.dropboxusercontent.com/scl/fi/7iy4js26im3wlu1cvtx5r/Whats-App-Image-2023-11-14-at-23-26-08-1.jpg?rlkey=pd394feswkn0jubz2svw9q6id&st=i0q439ga&dl=0",
+        "https://dl.dropboxusercontent.com/scl/fi/9dgfa56pyy1a2z8z6nrj6/Whats-App-Image-2023-11-14-at-23-26-07-1.jpg?rlkey=z0hm2din5jnb8hf6styclu2yz&st=ru8oiicu&dl=0",
+        "https://dl.dropboxusercontent.com/scl/fi/3v6j6rlrn4ix6gygtrtbv/Whats-App-Image-2023-11-14-at-23-26-07.jpg?rlkey=nw01vc4m3isqrtbla59dms1t2&st=dpk8g6p1&dl=0",
+        "https://dl.dropboxusercontent.com/scl/fi/y2h5md75s9uubhsy4lnrq/Whats-App-Image-2023-11-14-at-23-27-01.jpg?rlkey=z793hd8nwl1zgchtqqc2yaz8p&st=c58tbpg2&dl=0",
+        "https://dl.dropboxusercontent.com/scl/fi/cw2tcwy4s4c76jvac5bie/20220303-134758.jpg?rlkey=sc71482g263927gnev3ur6ysd&st=ux2jwzvb&dl=0"
+      ],
+      "curiosidad": "El nombre de este mueble es debido a que en mis obras los colores de la naturaleza es un contante, de ahí 'El jardín de Carmen'"
+    },
+    {
+      "id": 6,
+      "tituloH2": "CÓMODA MAYO 🌹",
+      "descripcionA": "Cada mueble que cae en mis manos me dice de qué color quiere vestirse, si los oyes te cuentan su historia, lo vivido y su futuro, te indican lo que necesitan, hablan y respiran, dando pistas sobre sus cambios.",
+      "descripcionB": "Este deseaba mucha vida y mucho color; el azul del cielo en primavera, su nombre Mayo.",
+      "imagenes": [
+        "https://dl.dropboxusercontent.com/scl/fi/6l2ftljy2w6jlx82xzbc4/Whats-App-Image-2023-09-24-at-17-03-30.jpg?rlkey=a479h8cfp3qtsq4oarq700e9l&st=bb8zgml2&dl=0",
+        "https://dl.dropboxusercontent.com/scl/fi/iyt3bk0n3swu5ubjjm660/20220212-105723.jpg?rlkey=c9dq2l21lgigugf7a87wggoy1&st=z8haksd9&dl=0",
+        "https://dl.dropboxusercontent.com/scl/fi/p96sg1ckbn7wzc2a47156/20220212-110307.jpg?rlkey=zq38czfqd2lsysnyjeq6bamnz&st=cityr3mr&dl=0",
+        "https://dl.dropboxusercontent.com/scl/fi/jmfti6viw64vcxfoxcv68/20220212-105507.jpg?rlkey=ugi9vcxdnk5lu2xd2vmlf7een&st=omrs5vor&dl=0",
+        "https://dl.dropboxusercontent.com/scl/fi/f26ldjknhpykbw5fldbts/Whats-App-Image-2023-11-19-at-20-11-26.jpg?rlkey=ygo90tvdubl3jpaaqy2cdzla1&st=3jehd5ka&dl=0"
+      ],
+      "curiosidad": "Mientras lo limpiaba antes de pintarlo, una gota de color en uno de sus cajones, ¡me dió la pista!"
+    },
+    {
+      "id": 7,
+      "tituloH2": "MESITA GRETA 🐝",
+      "descripcionA": "Greta es mi visión del modernismo, concretamente del 'Art Noveau'.",
+      "descripcionB": "Formas sinuosas, detalles que hacen pensar en la naturaleza y su textura es un guiño a la tierra.",
+      "imagenes": [
+        "https://dl.dropboxusercontent.com/scl/fi/l78v4brrd7mq4d86rwd7x/Whats-App-Image-2023-11-19-at-20-22-05-2.jpg?rlkey=243050hzcpide8omnq26y9fyu&st=e065kjid&dl=0",
+        "https://dl.dropboxusercontent.com/scl/fi/c4qu2svp4w7j1iu3kthjm/IMG-20211107-104351-834-2.jpg?rlkey=9t6qglg75qrx5oyg9ztdtbikr&st=qxx44gif&dl=0",
+        "https://dl.dropboxusercontent.com/scl/fi/a9t6hj3e6yh5fv2321j55/Whats-App-Image-2023-09-24-at-17-05-41.jpg?rlkey=4jrhzi34v8sm75gs0fj03l74u&st=u7aj8bxk&dl=0",
+        "https://dl.dropboxusercontent.com/scl/fi/74nvwtn12eajjgnysbkyu/Whats-App-Image-2023-09-24-at-17-06-36.jpg?rlkey=m2e2bo7it8ilqno5uzlwl1nuh&st=acd4u9mh&dl=0",
+        "https://dl.dropboxusercontent.com/scl/fi/cm0ryf4kxwtl5egtjmigp/Whats-App-Image-2023-11-19-at-20-22-07.jpg?rlkey=vhj29penhon55bcko9otdfblm&st=g6mmlosx&dl=0"
+      ],
+      "curiosidad": "La abeja reina de la superficie, ¡es un guiño a mi eterna búsqueda de la naturaleza alrededor!"
+    },
+    {
+      "id": 8,
+      "tituloH2": "MESA BAJA SALÓN TARA 🪘",
+      "descripcionA": "Tara es una mesa bodega para salón. Mesa baja, ideal para zona de sofa por su altura.",
+      "descripcionB": "La necesidad de reciclar en mi mente transformó un sencillo cajón de una antigua cómoda (encontrada en la calle), en un mueble innovador en color y en estilo. Mezcla un original papel hindi, con unas sencillas patas metálicas ligeras ópticamente.",
+      "imagenes": [
+        "https://dl.dropboxusercontent.com/scl/fi/n7993rikvup4f0e9gf0dm/Whats-App-Image-2023-09-24-at-17-08-04.jpg?rlkey=gurrvjmw2kwk5289981tpm4id&st=8aunhe1x&dl=0",
+        "https://dl.dropboxusercontent.com/scl/fi/urcbjgmzrm5xuniq8sczn/Whats-App-Image-2023-11-14-at-22-55-13-1.jpg?rlkey=jl88v0c4lsmg6wmbnvothq90a&st=70ftdn39&dl=0",
+        "https://dl.dropboxusercontent.com/scl/fi/314p4i6bda0cpgb9jrx3l/Whats-App-Image-2023-11-14-at-22-55-14.jpg?rlkey=2l4sgb509kbk9lmds993xecym&st=8jba47wz&dl=0",
+        "https://dl.dropboxusercontent.com/scl/fi/kctmblm5xuziegyr9qqfj/Whats-App-Image-2023-11-14-at-22-56-48.jpg?rlkey=9vxjjrtsi5k669eoukxqq0iq0&st=9vmkdyna&dl=0",
+        "https://dl.dropboxusercontent.com/scl/fi/qe8oiccxemnwu5ujxxed9/Whats-App-Image-2023-11-14-at-22-55-13.jpg?rlkey=dwh692ve0735lzrcwdep61ipj&st=k9s8nywa&dl=0"
+      ],
+      "curiosidad": "La necesidad de una zona de almacenaje para el vino, hizo necesario un gran espacio para ello. Dando el interior de esta mesa la medida para la reserva de una buena cantidad de botellas, ¡en el mejor ángulo de Bodega!"
+    },
+    {
+      "id": 9,
+      "tituloH2": "MESITA RONDEÑA 🧘",
+      "descripcionA": "La mesita Rondeña, según su dueña, tenía que fresca luminosa y llena de vida.",
+      "descripcionB": "Aquí el detalle de sus espigas, ¡pintadas a mano con mimo!",
+      "imagenes": [
+        "https://dl.dropboxusercontent.com/scl/fi/hcsk4svd79o0rvl8ieiq9/Screenshot-20221011-173600-Facebook.jpg?rlkey=p1new0014x8qhznbu9n01h1iy&st=pp8rl23x&dl=0",
+        "https://dl.dropboxusercontent.com/scl/fi/dzxnc5p17nidwcm21gqqp/Whats-App-Image-2023-09-24-at-17-09-23.jpg?rlkey=wq2l1okynow0znl24worxyraa&st=47kn9ka0&dl=0",
+        "https://dl.dropboxusercontent.com/scl/fi/bh4sd19gwbh7iubc3zrop/Whats-App-Image-2023-11-12-at-10-49-26.jpg?rlkey=tbxjcv5sh5qiysr2e0pe030mr&st=yewegzlp&dl=0",
+        "https://dl.dropboxusercontent.com/scl/fi/fxqizz8xnhwrk28welj4k/Whats-App-Image-2023-11-12-at-10-49-28.jpg?rlkey=uelxl2457rr5aqjz27fy533zc&st=rc26pd3e&dl=0"
+      ],
+      "curiosidad": "Tiene la luminosidad de la ciudad donde se hizo: ¡Ronda, Málaga!"
+    },
+    {
+      "id": 10,
+      "tituloH2": "MUEBLE BAJO LAVABO AMAPOLAS 🌼",
+      "descripcionA": "Esta cómoda fue encontrada a las puertas de un hotel, con una madera demasiado bonita para dejarla allí. Ha tenido diferentes vidas, muchos usos y la necesidad de tener capacidad de almacenaje en el baño, hizo que fuese perfecta para tal fin.",
+      "descripcionB": "Solo necesitaba un cajón más y subir la altura para el lavabo. Me puse manos a la obra y, ¡lógicamente usé amapolas para dar alegría en el baño!",
+      "imagenes": [
+        "https://dl.dropboxusercontent.com/scl/fi/7mv3r83qopek6v5da275i/Whats-App-Image-2023-09-24-at-17-18-24.jpg?rlkey=j174zfdxl9vef4tpkbuiohhfa&st=jyeagr67&dl=0",
+        "https://dl.dropboxusercontent.com/scl/fi/7mv3r83qopek6v5da275i/Whats-App-Image-2023-09-24-at-17-18-24.jpg?rlkey=j174zfdxl9vef4tpkbuiohhfa&st=jyeagr67&dl=0",
+        "https://dl.dropboxusercontent.com/scl/fi/26z7ox1ztllrj89yt6dvq/Screenshot-20220711-085513-Instagram.jpg?rlkey=590yl067785c00q54cfsnhxhs&st=4kb3u66u&dl=0"
+      ],
+      "curiosidad": "El pequeño cajón es una caja de vinos que tenía por casa!"
+    },
+    {
+      "id": 11,
+      "tituloH2": "SILLA PRIMAVERA 🪑",
+      "descripcionA": "Adoro los muebles 'Thonet'. Son piezas con elegancia y una delicada sencillez, sin pretensiones, pero que destacan, y eso me hizo pensar.",
+      "descripcionB": "Creé una visión en la madera, de muchas capas de diferentes colores, observándose a través de ellos, ¡como si una larguísima vida hubiese pasado en su superficie!",
+      "imagenes": [
+        "https://dl.dropboxusercontent.com/scl/fi/rnqd5ljd8wftpn7x43iq2/Whats-App-Image-2023-08-25-at-18-40-46.jpg?rlkey=zd2vn9h3w5e4m7w489rwihrdy&st=epobux2u&dl=0",
+        "https://dl.dropboxusercontent.com/scl/fi/t430r2g10suwe0jhb0u3y/Whats-App-Image-2023-11-16-at-16-26-37.jpg?rlkey=2mve8a6xafxctlydtr8pkhfov&st=h5orwk7l&dl=0",
+        "https://dl.dropboxusercontent.com/scl/fi/gwjenhphmz3aqgt3lvtrc/Whats-App-Image-2023-11-16-at-16-26-36.jpg?rlkey=o4h9jtlsykjcp9y24sd846o4p&st=ur49yvzf&dl=0",
+        "https://dl.dropboxusercontent.com/scl/fi/5ctgbsuxfyld7iu6ypr9p/Whats-App-Image-2023-09-24-at-16-46-49.jpg?rlkey=7r43rjah9kz7vhntkah9395ll&st=6nnv9hct&dl=0",
+        "https://dl.dropboxusercontent.com/scl/fi/3pelioxo9rmf9uug8zhbt/FB-IMG-1629018293638.jpg?rlkey=6zxvclnzjunwpns2inibo7wf7&st=9w7zgl1r&dl=0"
+      ],
+      "curiosidad": "¡Será siempre mi mueble favorito! ❤️"
+    },
+    {
+      "id": 12,
+      "tituloH2": "KOSMOS 🪐",
+      "descripcionA": "Este es Kosmos, un escritorio que estaba a punto de convertirse en leña para la chimenea.",
+      "descripcionB": "En él, se dan de la mano clasicismo Isabelino y modernidad con el color azul noche.",
+      "imagenes": [
+        "https://i.ibb.co/j3D0VpP/Whats-App-Image-2023-11-12-at-10-41-04.jpg",
+        "https://i.ibb.co/KsDzvz1/Whats-App-Image-2023-11-12-at-10-41-04-2.jpg",
+        "https://i.ibb.co/2kczd9y/Whats-App-Image-2023-11-12-at-10-41-04-1.jpg",
+        "https://i.ibb.co/j6Kkq68/Whats-App-Image-2023-11-12-at-10-41-03-1.jpg",
+        "https://i.ibb.co/jzz2fKx/Whats-App-Image-2023-11-12-at-10-41-03.jpg",
+        "https://i.ibb.co/SRLTMXy/Whats-App-Image-2023-11-12-at-10-41-04-3.jpg"
+      ],
+      "curiosidad": "¡Tiene una nueva técnica llamada Sombreado!"
+    },
+    {
+      "id": 13,
+      "tituloH2": "MESITA ABRIL 🌸",
+      "descripcionA": "Cuando gané el concurso de CasaTalentos 2021, tuve que crear un mueble original en directo, ¡en tan solo día y medio!",
+      "descripcionB": "En la grabación del programa, con cámaras, luces y cinco personas en mi pequeño taller, se impusieron el color rosa y las flores de acuarela, con pequeñas texturas de perlas.",
+      "disponible": "✅ En stock ✅",
+      "ask": "¡Compra aquí!",
+      "precio": "Precio: 190€",
+      "imagenes": [
+        "https://dl.dropboxusercontent.com/scl/fi/ykbfwseeupluzke03ng6e/Whats-App-Image-2023-11-19-at-20-28-52-2.jpg?rlkey=lu6w9cgv3tlwudhvdqytiyq3q&st=whdbqcpd&dl=0",
+        "https://dl.dropboxusercontent.com/scl/fi/tmhlpuxni4n560sl35rwb/Whats-App-Image-2023-11-19-at-20-27-28-1.jpg?rlkey=pyjtyiujv6maeuqqnaym4paor&st=k4h9u7dk&dl=0",
+        "https://dl.dropboxusercontent.com/scl/fi/umsaw9vyiwxv3qc5uwzd6/Whats-App-Image-2023-11-19-at-20-27-29.jpg?rlkey=p2y7pmgzw6eq5m7phipf0luhy&st=ylqm2t2r&dl=0",
+        "https://dl.dropboxusercontent.com/scl/fi/2yizyez79j8tkl0voylpv/Whats-App-Image-2023-11-19-at-20-27-28.jpg?rlkey=dnulb0wvo5e32m11neno0fc2c&st=ew6ead6q&dl=0",
+        "https://dl.dropboxusercontent.com/scl/fi/09taf1taoafw57fphet95/Whats-App-Image-2023-11-19-at-20-28-52.jpg?rlkey=tbiaaiyhd6c1a9ecm34u6g3b7&st=ydec7oln&dl=0"
+      ],
+      "curiosidad": "¡Hasta los muebles Provenzales, pueden ser bellos!"
+    },
+    {
+      "id": 14,
+      "tituloH2": "CESTO DE ROPA 💚",
+      "descripcionA": "La necesidad de sacar la belleza escondida en todos los objetos, hace que busque en ellos momentos, imágenes e inspiración para que luzcan en todo su esplendor.",
+      "descripcionB": "Este cesto de ropa, es un claro ejemplo de ello.",
+      "imagenes": [
+        "https://dl.dropboxusercontent.com/scl/fi/uh2ryxauns220kiaizfww/Whats-App-Image-2023-11-19-at-20-32-36.jpg?rlkey=jeolii6pmyn23qz354id9nxbw&st=h42ff7ev&dl=0",
+        "https://dl.dropboxusercontent.com/scl/fi/w8ewg872sqdelqwvjrv0h/Whats-App-Image-2023-11-19-at-20-32-36-1.jpg?rlkey=j4024er27ht4u4afi2iw6iyzv&st=0843kdvt&dl=0",
+        "https://dl.dropboxusercontent.com/scl/fi/fiy6vyekfmofs0001up7e/Whats-App-Image-2023-11-19-at-20-32-36-2.jpg?rlkey=qjwtnqzr0vcx95uanyetlj5fx&st=wkn7lt2v&dl=0",
+        "https://dl.dropboxusercontent.com/scl/fi/yio4cfr8dhciut012mk7x/Whats-App-Image-2023-11-19-at-20-32-36-3.jpg?rlkey=rdc96jx9qngj5c1vle9viwi57&st=v84siswj&dl=0",
+        "https://dl.dropboxusercontent.com/scl/fi/qljrvjrpc3uff4vd1btlc/Whats-App-Image-2023-11-19-at-20-33-25.jpg?rlkey=5y66zthx1zu6nq2bizuk3xi57&st=xmobajm8&dl=0"
+      ],
+      "curiosidad": "En este cesto de ropa, hallé un Jardín escondido."
+    },
+    {
+      "id": 15,
+      "tituloH2": "VOLANDO CON IKEA 🪁",
+      "descripcionA": "Siempre con la necesidad de encontrar nuevas formas de utilizar diferentes muebles y dar otra visión a la idea de crear con papel y pintura.",
+      "descripcionB": "Además de, por supuesto, salir de mi zona de confort: la aplicación de 'Papel de Oro'",
+      "imagenes": [
+        "https://dl.dropboxusercontent.com/scl/fi/k0mno5e361jfi41mxn182/Whats-App-Image-2023-12-13-at-13-02-17.jpg?rlkey=2jgttnucvoz2u0jj9b3ac9w2u&st=7j9t2t39&dl=0",
+        "https://dl.dropboxusercontent.com/scl/fi/rw262ao0217lnxqfglx27/Whats-App-Image-2023-11-26-at-11-34-37.jpg?rlkey=qncen2xyfvvmig1mpck9ih23f&st=7usa0yus&dl=0",
+        "https://dl.dropboxusercontent.com/scl/fi/25u534acl8jrerv6bmceu/Whats-App-Image-2023-12-13-at-13-02-18.jpg?rlkey=84i5z334wxa94njcnn1xdhfq7&st=t8fj7sht&dl=0",
+        "https://dl.dropboxusercontent.com/scl/fi/zcu85uc6tk5djohpatf47/Whats-App-Image-2023-12-13-at-13-02-18-1.jpg?rlkey=dvche052ro01xq1527spep5p9&st=cwmg61f1&dl=0",
+        "https://dl.dropboxusercontent.com/scl/fi/qv6xl8hj1wl69jo9ey1dv/Whats-App-Image-2023-12-13-at-13-02-18-2.jpg?rlkey=gaw0m3hvdzd53lui4ipwgkcza&st=mblhjl8b&dl=0"
+      ],
+      "curiosidad": "¡Creo que el oro y yo vamos a tener una amistad bonita y duradera!"
+    },
+    {
+      "id": 16,
+      "tituloH2": "MESA LUZ ✨",
+      "descripcionA": "Es la necesidad de atrapar las sensaciones de las vetas de una piedra marmoleada en la madera. ",
+      "descripcionB": "Con el tacto en relieve de delicadas flores de muguet doradas y preciosos tiradores de libélulas.",
+      "disponible": "✅ En stock ✅",
+      "ask": "¡Compra aquí!",
+      "precio": "Precio: 190€",
+      "imagenes": [
+        "https://dl.dropboxusercontent.com/scl/fi/wsqg9v18ydfl0nre4aa2b/mesaLuz1.jpg?rlkey=k9pjo5eun2l39iio8rst8olqf&st=s8lp96ey&dl=0",
+        "https://dl.dropboxusercontent.com/scl/fi/wxsbmg6eoa36xjoaymfgu/mesaLuz2.jpg?rlkey=488tlth1l2ntmitiroal42qu2&st=hxn0idf7&dl=0",
+        "https://dl.dropboxusercontent.com/scl/fi/4203o56gvuw9gv0rkyko0/mesaLuz3.jpg?rlkey=x3ky1huf6r2f0ot26m64753zd&st=boacgugx&dl=0"
+      ],
+      "curiosidad": "¡Crean el perfecto jardín para cualquier estancia!"
+    },
+    {
+      "id": 17,
+      "tituloH2": "CUADRO SILLA ISABELINA SERIE 1 75x50 🪑⭐",
+      "descripcionA": "Puros relieves. Craquelados en oro. ",
+      "descripcionB": "Tiempos pasados reconvertidos, en colores de naturaleza. ¡Azules, turquesas, verdes!",
+      "disponible": "✅ En stock ✅",
+      "ask": "¡Compra aquí!",
+      "precio": "Precio: 125€",
+      "imagenes": [
+        "https://dl.dropboxusercontent.com/scl/fi/iwb679hq5lfbdylmq1yvt/cuadro-Silla-Isabelina-Serie1.jpg?rlkey=2sf7qf5x8ecerzuw2pre694iq&st=jd74jo42&dl=0",
+        "https://dl.dropboxusercontent.com/scl/fi/7wvu8v3fkgt2dm06eva37/cuadro-Silla-Isabelina-Serie2-2.jpg?rlkey=y23bdtyy6gfthgnvrd68z9hd9&st=zzfi07y3&dl=0",
+        "https://dl.dropboxusercontent.com/scl/fi/y5esgqbsjjbbr3kfo8wic/cuadro-Silla-Isabelina-Serie1-3.jpg?rlkey=zthx7qizkozrgpl8illwkvqgs&st=863eqk4h&dl=0"
+      ],
+      "curiosidad": "¡Serie de sólo 10 cuadros!"
+    },
+    {
+      "id": 18,
+      "tituloH2": "CUADRO SILLA ISABELINA SERIE 2 75x50 🪑🌑",
+      "descripcionA": "La calidez y la nobleza de puro terciopelo negro en un cuadro, utilizando un clásico y actualizándolo con un radical aspecto.",
+      "descripcionB": "¡La idea melliza del contrario!",
+      "disponible": "✅ En stock ✅",
+      "ask": "¡Compra aquí!",
+      "precio": "Precio: 125€",
+      "imagenes": [
+        "https://dl.dropboxusercontent.com/scl/fi/ehc7lutb3dz9okr4sntcb/cuadro-Silla-Isabelina-Serie2.jpg?rlkey=avoca7uzvgkm47ja95d3lldzx&st=enqjnkt7&dl=0",
+        "https://dl.dropboxusercontent.com/scl/fi/fdlusod2bm848ipflb3ez/cuadro-Silla-Isabelina-Serie2-3.jpg?rlkey=26nnp2y4jwo42c1hb8obhw2nf&st=x8ugptov&dl=0",
+        "https://dl.dropboxusercontent.com/scl/fi/7wvu8v3fkgt2dm06eva37/cuadro-Silla-Isabelina-Serie2-2.jpg?rlkey=y23bdtyy6gfthgnvrd68z9hd9&st=kyfk58k5&dl=0"
+      ],
+      "curiosidad": "¡Una idea que parte de mi profesora!"
+    },
+    {
+      "id": 19,
+      "tituloH2": "BALINESA SERIE 1 🗝️",
+      "descripcionA": "El deseo de encontrar una pieza en el fondo de mar hace de esta pequeña escultura, una pieza seudoarqueologica. ",
+      "descripcionB": "La textura y el relieve recrean incrustaciones marinas y la oxidación de metal.",
+      "disponible": "✅ En stock ✅ ",
+      "ask": "¡Compra aquí!",
+      "precio": "Precio: 65€",
+      "imagenes": [
+        "https://dl.dropboxusercontent.com/scl/fi/nxf538v4kvky9acdd3lr8/Balinesa-Serie1.jpg?rlkey=jfv8bv8dtvxmgl97st2xuari3&st=4oy57zge&dl=0",
+        "https://dl.dropboxusercontent.com/scl/fi/nc81ynvuzgpa2ziwekbdt/Balinesa-Serie1-3.jpg?rlkey=zltf6a4r7q67xaqm5hiz4h93t&st=2dh78084&dl=0",
+        "https://dl.dropboxusercontent.com/scl/fi/cd1tdtttawcmit4b2xrno/Balinesa-Serie1-2.jpg?rlkey=s2rixhozn51mo5992g4edk32z&st=bx7191zg&dl=0"
+      ],
+      "curiosidad": "¡Adoro recrear auténtica piedra marina!"
+    },
+    {
+      "id": 20,
+      "tituloH2": "🚧 SEGUIMOS TRABAJANDO EN ELLO ⚒️",
+      "descripcionA": "Terminar un proyecto de este tipo requiere mucha paciencia y dedicación, por lo que estamos trabajando en ello para poder ofrecerte más productos lo antes posible.",
+      "descripcionB": "Echa un vistazo de vez en cuando para ver las novedades.",
+      "imagenes": [
+        "https://dl.dropboxusercontent.com/scl/fi/9m0xy1erqhlxbcg6915cz/Whats-App-Image-2023-11-19-at-20-18-42.jpg?rlkey=0uwkj3lqxe2qqq4lrlitc4pd9&st=2y83dx63&dl=0",
+        "https://dl.dropboxusercontent.com/scl/fi/c137ylx7rihc7z1mdqbk8/Whats-App-Image-2023-11-19-at-20-15-43.jpg?rlkey=nppw3u6xbmbmj43ljv79ezos5&st=hbgcjv42&dl=0"
+      ]
+    },
+    {
+      "id": 21,
+      "tituloH2": "💬 CONTACTA CONMIGO 📲",
+      "legal": "  Aviso Legal ",
+      "imagenes": [
+        "https://dl.dropboxusercontent.com/scl/fi/71hbh3qtyj7b6a8rns0va/Whats-App-Image-2023-11-19-at-22-54-32-2.jpg?rlkey=q73q2qyntti33xpy97xvtwfot&st=wroz7npy&dl=0"
+      ]
+    }
+  ]
 }

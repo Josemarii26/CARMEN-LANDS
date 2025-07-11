@@ -27,7 +27,7 @@ const initialProducts = [
     name: 'Stencil CADENCE cenefa 10x25cm UA36',
     price: '2.30',
     images: [
-      'https://i.ibb.co/3RNsDFy/stencil-cadence-ua36-10x25cm.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/r5tk1lzgdx5z201c7w4s3/stencil-cadence-ua36-10x25cm.jpg?rlkey=oowwf8fody1gbntprjmmg3b6p&st=9tnou0mx&dl=0',
     ],
     label: '10x25cm',
     description: 'Stencils o Plantillas CADENCE con diseños de cenefas y filigranas para usar en proyectos de decoración, manualidades, scrapbook, home decor...',
@@ -38,7 +38,7 @@ const initialProducts = [
     name: 'Stencil CADENCE cenefa 10x25cm UA29',
     price: '2.30',
     images: [
-      'https://i.ibb.co/X30gyNW/stencil-cadence-ua29-10x25cm.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/m0o1fj2ivc57jislb6obd/stencil-cadence-ua29-10x25cm.jpg?rlkey=sou3k62jzqtbtk9hcazi1rh7i&st=2iuwnloy&dl=0',
     ],
     label: '10x25cm',
     description: 'Stencils o Plantillas CADENCE con diseños de cenefas y filigranas para usar en proyectos de decoración, manualidades, scrapbook, home decor...',
@@ -49,7 +49,7 @@ const initialProducts = [
     name: 'Stencil CADENCE cenefa 6x20cm K165',
     price: '1.80',
     images: [
-      'https://i.ibb.co/7pCQFz7/stencil-cadence-k165-6x20cm.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/jbs0x5q8rl6a3lx80gdb3/stencil-cadence-k165-6x20cm.jpg?rlkey=zr4noksoukni8ax1f6m06v50u&st=l5lkbwg2&dl=0',
     ],
     label: '6x20cm',
     description: 'Stencils o Plantillas CADENCE con diseños de cenefas y filigranas para usar en proyectos de decoración, manualidades, scrapbook, home decor...',
@@ -61,7 +61,7 @@ const initialProducts = [
     name: 'Stencil CADENCE cenefa 6x20cm K163',
     price: '1.80',
     images: [
-      'https://i.ibb.co/mSP9NS7/Stencil-CADENCE-K163-6x20cm.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/0cbde8olzf6cwcztafje1/Stencil-CADENCE-K163-6x20cm.jpg?rlkey=4jgq2hjr9fcvtsro5w7od8lip&st=3g6u1f44&dl=0',
     ],
     label: '6x20cm',
     description: 'Stencils o Plantillas CADENCE con diseños de cenefas y filigranas para usar en proyectos de decoración, manualidades, scrapbook, home decor...',
@@ -73,7 +73,7 @@ const initialProducts = [
     name: 'Stencil CADENCE cenefa 6x20cm K120',
     price: '1.80',
     images: [
-      'https://i.ibb.co/gmCFBXG/stencil-cadence-k120-6x20cm.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/e4sipa0wsgjvre3n9128w/stencil-cadence-k120-6x20cm.jpg?rlkey=3tpdxtfomp3hahifqac4hkoos&st=20y057il&dl=0',
     ],
     label: '6x20cm',
     description: 'Stencils o Plantillas CADENCE con diseños de cenefas y filigranas para usar en proyectos de decoración, manualidades, scrapbook, home decor...',
@@ -112,7 +112,7 @@ export const Tienda3StencilsCenefas = () => {
   const [filterButtonIcon, setFilterButtonIcon] = useState(<ViewOffIcon />);
 
   const [currentPage, setCurrentPage] = useState(1);
-  const [itemsPerPage, setItemsPerPage] = useState(44); // Cambia el número según tus necesidades
+  const [itemsPerPage, setItemsPerPage] = useState(12); // Cambia el número según tus necesidades
 
   const startIndex = (currentPage - 1) * itemsPerPage;
   const endIndex = startIndex + itemsPerPage;

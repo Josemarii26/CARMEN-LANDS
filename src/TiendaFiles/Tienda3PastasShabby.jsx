@@ -27,7 +27,7 @@ const initialProducts = [
     name: 'Pasta SHABBY CHIC Salvia 150ml.',
     price: '6.15',
     images: [
-      'https://i.ibb.co/Qr6X6bh/pasta-shabby-chic.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/rom5pndj9wybfn2r6nrz1/pasta-shabby-chic.jpg?rlkey=pus1aco5xpnly4zur3vmbvrcj&st=z32odbls&dl=0',
     ],
     label: '150ml',
     description: 'Pasta de relieve al agua CADENCE con acabado MATE para dar preciosos efectos de relieve o volumen a tus proyectos de estilo Shabby Chic. Aplicar sobre superficies rígidas usando stencils, espatula, pincel o esponja. Limpieza de utensilios con agua y jabón',
@@ -38,7 +38,7 @@ const initialProducts = [
     name: 'Pasta SHABBY CHIC Menta Claro 150ml.',
     price: '6.15',
     images: [
-      'https://i.ibb.co/j87nDPd/pasta-shabby-chic-1.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/zsck0rpqeox46ef8mey4v/pasta-shabby-chic-1.jpg?rlkey=o4e66dhnirawapsnfe2is6wxd&st=nevm4m8u&dl=0',
     ],
     label: '150ml',
     description: 'Pasta de relieve al agua CADENCE con acabado MATE para dar preciosos efectos de relieve o volumen a tus proyectos de estilo Shabby Chic. Aplicar sobre superficies rígidas usando stencils, espatula, pincel o esponja. Limpieza de utensilios con agua y jabón',
@@ -49,7 +49,7 @@ const initialProducts = [
     name: 'Pasta SHABBY CHIC Azul Bebé 150ml.',
     price: '6.15',
     images: [
-      'https://i.ibb.co/P9ZHR49/pasta-shabby-chic-2.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/vpcp1fseoumbk1s97kwm4/pasta-shabby-chic-2.jpg?rlkey=gcpr94b5dkxyc3x3a4cbsrt3p&st=nuo6z3be&dl=0',
     ],
     label: '150ml',
     description: 'Pasta de relieve al agua CADENCE con acabado MATE para dar preciosos efectos de relieve o volumen a tus proyectos de estilo Shabby Chic. Aplicar sobre superficies rígidas usando stencils, espatula, pincel o esponja. Limpieza de utensilios con agua y jabón',
@@ -60,7 +60,7 @@ const initialProducts = [
     name: 'Pasta SHABBY CHIC Lavanda 150ml.',
     price: '6.15',
     images: [
-      'https://i.ibb.co/st4vrNm/pasta-shabby-chic-3.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/ck1u2u3cvigrx0kzh6j6z/pasta-shabby-chic-3.jpg?rlkey=kj74huyx0wot2ehjlmbx9xcgv&st=z2cqsoo6&dl=0',
     ],
     label: '150ml',
     description: 'Pasta de relieve al agua CADENCE con acabado MATE para dar preciosos efectos de relieve o volumen a tus proyectos de estilo Shabby Chic. Aplicar sobre superficies rígidas usando stencils, espatula, pincel o esponja. Limpieza de utensilios con agua y jabón',
@@ -71,7 +71,7 @@ const initialProducts = [
     name: 'Pasta SHABBY CHIC Rosa Bebé 150ml.',
     price: '6.15',
     images: [
-      'https://i.ibb.co/YTkc7L4/pasta-shabby-chic-4.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/i44w64xtvjgjw0g48qeqe/pasta-shabby-chic-4.jpg?rlkey=3av1ti7iwo3pempldbvlcyn5g&st=6ijl7k54&dl=0',
     ],
     label: '150ml',
     description: 'Pasta de relieve al agua CADENCE con acabado MATE para dar preciosos efectos de relieve o volumen a tus proyectos de estilo Shabby Chic. Aplicar sobre superficies rígidas usando stencils, espatula, pincel o esponja. Limpieza de utensilios con agua y jabón',
@@ -82,7 +82,7 @@ const initialProducts = [
     name: 'Pasta SHABBY CHIC Rosa Ceniza 150ml.',
     price: '6.15',
     images: [
-      'https://i.ibb.co/YfR1HpZ/pasta-shabby-chic-5.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/i44w64xtvjgjw0g48qeqe/pasta-shabby-chic-4.jpg?rlkey=3av1ti7iwo3pempldbvlcyn5g&st=6ijl7k54&dl=0',
     ],
     label: '150ml',
     description: 'Pasta de relieve al agua CADENCE con acabado MATE para dar preciosos efectos de relieve o volumen a tus proyectos de estilo Shabby Chic. Aplicar sobre superficies rígidas usando stencils, espatula, pincel o esponja. Limpieza de utensilios con agua y jabón',
@@ -93,7 +93,7 @@ const initialProducts = [
     name: 'Pasta SHABBY CHIC Coral Claro 150ml.',
     price: '6.15',
     images: [
-      'https://i.ibb.co/6tgfdt6/pasta-shabby-chic-6.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/xnrr3povyxsrxkqoanjj5/pasta-shabby-chic-6.jpg?rlkey=4za0lqr9ru4016pn1183xrksn&st=9bnio0k2&dl=0',
     ],
     label: '150ml',
     description: 'Pasta de relieve al agua CADENCE con acabado MATE para dar preciosos efectos de relieve o volumen a tus proyectos de estilo Shabby Chic. Aplicar sobre superficies rígidas usando stencils, espatula, pincel o esponja. Limpieza de utensilios con agua y jabón',
@@ -104,7 +104,7 @@ const initialProducts = [
     name: 'Pasta SHABBY CHIC Chocolate 150ml.',
     price: '6.15',
     images: [
-      'https://i.ibb.co/C15JfT6/pasta-shabby-chic-7.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/n4ffbc0mlg5lull4p15nl/pasta-shabby-chic-7.jpg?rlkey=xm6mm4vgwaxsfioyq7f72z4j4&st=tc6ls4ft&dl=0',
     ],
     label: '150ml',
     description: 'Pasta de relieve al agua CADENCE con acabado MATE para dar preciosos efectos de relieve o volumen a tus proyectos de estilo Shabby Chic. Aplicar sobre superficies rígidas usando stencils, espatula, pincel o esponja. Limpieza de utensilios con agua y jabón',
@@ -115,7 +115,7 @@ const initialProducts = [
     name: 'Pasta SHABBY CHIC Beige Barroco 150ml.',
     price: '6.15',
     images: [
-      'https://i.ibb.co/W6zqwB0/pasta-shabby-chic-8.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/bki11vmk100ia3nlp8k1s/pasta-shabby-chic-8.jpg?rlkey=onzwarvekjj2un7tk2eo7s77f&st=vakctmnq&dl=0',
     ],
     label: '150ml',
     description: 'Pasta de relieve al agua CADENCE con acabado MATE para dar preciosos efectos de relieve o volumen a tus proyectos de estilo Shabby Chic. Aplicar sobre superficies rígidas usando stencils, espatula, pincel o esponja. Limpieza de utensilios con agua y jabón',
@@ -126,7 +126,7 @@ const initialProducts = [
     name: 'Pasta SHABBY CHIC Lino 150ml.',
     price: '6.15',
     images: [
-      'https://i.ibb.co/QvfNjch/pasta-shabby-chic-9.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/vfouj7gv7pqhqfsuletvy/pasta-shabby-chic-9.jpg?rlkey=a40ktupjzm8mvt1a0a8fo7854&st=luf7d8dr&dl=0',
     ],
     label: '150ml',
     description: 'Pasta de relieve al agua CADENCE con acabado MATE para dar preciosos efectos de relieve o volumen a tus proyectos de estilo Shabby Chic. Aplicar sobre superficies rígidas usando stencils, espatula, pincel o esponja. Limpieza de utensilios con agua y jabón',
@@ -137,7 +137,7 @@ const initialProducts = [
     name: 'Pasta SHABBY CHIC Amarillo Claro 150ml.',
     price: '6.15',
     images: [
-      'https://i.ibb.co/6vz4sSW/pasta-shabby-chic-10.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/yuhnfg4iaebnm9ndfnnj3/pasta-shabby-chic-10.jpg?rlkey=n640k2wapx0xga5vshxyq7hgw&st=8fwf4t2x&dl=0',
     ],
     label: '150ml',
     description: 'Pasta de relieve al agua CADENCE con acabado MATE para dar preciosos efectos de relieve o volumen a tus proyectos de estilo Shabby Chic. Aplicar sobre superficies rígidas usando stencils, espatula, pincel o esponja. Limpieza de utensilios con agua y jabón',
@@ -148,7 +148,7 @@ const initialProducts = [
     name: 'Pasta SHABBY CHIC Taffy 150ml.',
     price: '6.15',
     images: [
-      'https://i.ibb.co/Kj8cy6M/pasta-shabby-chic-11.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/x5wonwte72kfl9yxeto4u/pasta-shabby-chic-11.jpg?rlkey=8dz4loa7lsql0cwmghdc7h46q&st=3eot3994&dl=0',
     ],
     label: '150ml',
     description: 'Pasta de relieve al agua CADENCE con acabado MATE para dar preciosos efectos de relieve o volumen a tus proyectos de estilo Shabby Chic. Aplicar sobre superficies rígidas usando stencils, espatula, pincel o esponja. Limpieza de utensilios con agua y jabón',
@@ -175,7 +175,7 @@ export const Tienda3PastasShabby = () => {
   const [filterButtonIcon, setFilterButtonIcon] = useState(<ViewOffIcon />);
 
   const [currentPage, setCurrentPage] = useState(1);
-  const [itemsPerPage, setItemsPerPage] = useState(44); // Cambia el número según tus necesidades
+  const [itemsPerPage, setItemsPerPage] = useState(12); // Cambia el número según tus necesidades
 
   const startIndex = (currentPage - 1) * itemsPerPage;
   const endIndex = startIndex + itemsPerPage;

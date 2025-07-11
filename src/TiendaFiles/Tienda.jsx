@@ -28,8 +28,7 @@ const initialProducts = [
     name: 'Butterflies - Mint Papel de seda',
     price: 21.95,
     images: [
-      'https://i.ibb.co/q5R1fJZ/shutterstock-1807575772-2-5000x.jpg',
-      'https://mintbymichelle.eu/pub/media/catalog/product/cache/fac465f6786493349529901840f5f3e4/b/u/butterflieschair_2048x.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/ti3qxixf9s455yb4l36y2/shutterstock-1807575772-2-5000x.jpg?rlkey=210elbbm1xthnsp9z5wly5s3x&st=qgas6vrg&dl=0',
     ],
     label: 'Papel de seda',
     description: 'Mint Tissue Papers ofrece elegancia y sofisticación con diseños sin interrupciones, tamaño generoso de 35x35 cm y calidad premium de 28gsm. Cada paquete incluye tres papeles, brindando un valor excepcional para proyectos creativos. A diferencia de Mint Decoupage Papers, son especializados y versátiles para envolver regalos y hacer tarjetas.',
@@ -40,9 +39,7 @@ const initialProducts = [
     name: 'Distressed Tile - Mint Papel de seda ',
     price: 21.95,
     images: [
-      'https://i.ibb.co/yfmjkHz/distressedtile-5000x.jpg',
-      'https://mintbymichelle.eu/pub/media/catalog/product/cache/fac465f6786493349529901840f5f3e4/d/i/distressedtileoriginalsizeiii_5000x.jpg',
-      'https://mintbymichelle.eu/pub/media/catalog/product/cache/fac465f6786493349529901840f5f3e4/d/i/distressedtileoriginalsizeiiii_5000x.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/5i42kvf36lmveel84u67s/distressedtile-5000x.jpg?rlkey=q0pzv7t358lyuicd2itckwt10&st=ww94ppcl&dl=0',
     ],
     label: 'Papel de seda',
     description: 'Mint Tissue Papers ofrece elegancia y sofisticación con diseños sin interrupciones, tamaño generoso de 35x35 cm y calidad premium de 28gsm. Cada paquete incluye tres papeles, brindando un valor excepcional para proyectos creativos. A diferencia de Mint Decoupage Papers, son especializados y versátiles para envolver regalos y hacer tarjetas.',
@@ -53,8 +50,7 @@ const initialProducts = [
     name: 'Green Leaves - Mint Papel de seda',
     price: 21.95,
     images: [
-      'https://i.ibb.co/5T7LcJy/untitleddesign-5000x-2.jpg',
-      'https://mintbymichelle.eu/pub/media/catalog/product/cache/fac465f6786493349529901840f5f3e4/g/r/greenleaves1080x1080cropped2_2048x.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/3lojupyg9ulejevnh10qb/untitleddesign-5000x-2.jpg?rlkey=wj8cyv3dfdxnxsilxvtbb0hlv&st=bf4ibr8z&dl=0',
     ],
     label: 'Papel de seda',
     description: 'Mint Tissue Papers ofrece elegancia y sofisticación con diseños sin interrupciones, tamaño generoso de 35x35 cm y calidad premium de 28gsm. Cada paquete incluye tres papeles, brindando un valor excepcional para proyectos creativos. A diferencia de Mint Decoupage Papers, son especializados y versátiles para envolver regalos y hacer tarjetas.',
@@ -65,9 +61,7 @@ const initialProducts = [
     name: 'Lace - Mint Papel de seda',
     price: 21.95,
     images: [
-      'https://i.ibb.co/5RLt5VP/lace-2048x.jpg',
-      'https://mintbymichelle.eu/pub/media/catalog/product/cache/fac465f6786493349529901840f5f3e4/l/a/laceoriginal1080x1080_2048x.jpg',
-      'https://mintbymichelle.eu/pub/media/catalog/product/cache/fac465f6786493349529901840f5f3e4/l/a/laceoriginalsizeii_2048x.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/rjbgrg6gzui3s43brelbq/lace-2048x.jpg?rlkey=usl068uc4b3vcv3qf9qweqxnr&st=pr8yn4zg&dl=0',
     ],
     label: 'Papel de seda',
     description: 'Mint Tissue Papers ofrece elegancia y sofisticación con diseños sin interrupciones, tamaño generoso de 35x35 cm y calidad premium de 28gsm. Cada paquete incluye tres papeles, brindando un valor excepcional para proyectos creativos. A diferencia de Mint Decoupage Papers, son especializados y versátiles para envolver regalos y hacer tarjetas.',
@@ -78,9 +72,7 @@ const initialProducts = [
     name: 'Lemons - Mint Papel de seda',
     price: 21.95,
     images: [
-      'https://i.ibb.co/khSC1hF/lemons-5000x.jpg',
-      'https://mintbymichelle.eu/pub/media/catalog/product/cache/fac465f6786493349529901840f5f3e4/l/e/lemons1080x1080ii_5000x.jpg',
-      'https://mintbymichelle.eu/pub/media/catalog/product/cache/fac465f6786493349529901840f5f3e4/l/e/lemons1080x1080iii_5000x.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/dcxjmniqq8hzcxa1a11o9/lemons-5000x.jpg?rlkey=5p75yz17g54ciniew2qn6fsj3&st=296v4eyk&dl=0',
     ],
     label: 'Papel de seda',
     description: 'Mint Tissue Papers ofrece elegancia y sofisticación con diseños sin interrupciones, tamaño generoso de 35x35 cm y calidad premium de 28gsm. Cada paquete incluye tres papeles, brindando un valor excepcional para proyectos creativos. A diferencia de Mint Decoupage Papers, son especializados y versátiles para envolver regalos y hacer tarjetas.',
@@ -91,8 +83,7 @@ const initialProducts = [
     name: 'Moroccan Tile - Mint Papel de seda',
     price: 21.95,
     images: [
-      'https://i.ibb.co/G3dCCPT/untitleddesign-85-5000x.png',
-      'https://mintbymichelle.eu/pub/media/catalog/product/cache/fac465f6786493349529901840f5f3e4/m/o/moroccantileoriginalsize_002_800x.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/wjj4v8fvir0b65hkpzo16/untitleddesign-85-5000x.png?rlkey=c53918h1lksjj9qjnv7l0cv0r&st=me3zadai&dl=0',
     ],
     label: 'Papel de seda',
     description: 'Mint Tissue Papers ofrece elegancia y sofisticación con diseños sin interrupciones, tamaño generoso de 35x35 cm y calidad premium de 28gsm. Cada paquete incluye tres papeles, brindando un valor excepcional para proyectos creativos. A diferencia de Mint Decoupage Papers, son especializados y versátiles para envolver regalos y hacer tarjetas.',
@@ -103,9 +94,8 @@ const initialProducts = [
     name: 'Pastel Florals - Mint Papel de seda',
     price: 21.95,
     images: [
-      'https://i.ibb.co/WBs1RN0/pastelflorals-2048x.jpg',
-      'https://mintbymichelle.eu/pub/media/catalog/product/cache/fac465f6786493349529901840f5f3e4/p/a/pastelfloralsoriginalsizeii_2048x.jpg',
-      'https://mintbymichelle.eu/pub/media/catalog/product/cache/fac465f6786493349529901840f5f3e4/p/a/pastelfloralsoriginalsizeiii_2048x.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/tpami207h9fs68h1ewt4m/pastelflorals-2048x.jpg?rlkey=ci22rrjovg6ub7o99aiy9b7xe&st=u5bhxh1u&dl=0',
+
     ],
     label: 'Papel de seda',
     description: 'Mint Tissue Papers ofrece elegancia y sofisticación con diseños sin interrupciones, tamaño generoso de 35x35 cm y calidad premium de 28gsm. Cada paquete incluye tres papeles, brindando un valor excepcional para proyectos creativos. A diferencia de Mint Decoupage Papers, son especializados y versátiles para envolver regalos y hacer tarjetas.',
@@ -116,9 +106,7 @@ const initialProducts = [
     name: 'Pink Peacocks - Mint Papel de seda',
     price: 21.95,
     images: [
-      'https://i.ibb.co/gjwf2Rm/pinkpeacocks-5000x.jpg',
-      'https://mintbymichelle.eu/pub/media/catalog/product/cache/fac465f6786493349529901840f5f3e4/u/n/untitleddesign_82_5000x.png',
-      'https://mintbymichelle.eu/pub/media/catalog/product/cache/fac465f6786493349529901840f5f3e4/p/i/pinkpeacocksoriginalsizei_800x.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/xe8on47oj0b8sig25d8ed/pinkpeacocks-5000x.jpg?rlkey=qfjp3vyf0biqvkq0ljs1yyh3j&st=nq13gv5u&dl=0',
     ],
     label: 'Papel de seda',
     description: 'Mint Tissue Papers ofrece elegancia y sofisticación con diseños sin interrupciones, tamaño generoso de 35x35 cm y calidad premium de 28gsm. Cada paquete incluye tres papeles, brindando un valor excepcional para proyectos creativos. A diferencia de Mint Decoupage Papers, son especializados y versátiles para envolver regalos y hacer tarjetas.',
@@ -129,7 +117,7 @@ const initialProducts = [
     name: 'White Flower - Mint Papel de seda',
     price: 21.95,
     images: [
-      'https://i.ibb.co/QK1Wgyh/untitleddesign-83-2048x.png',
+      'https://dl.dropboxusercontent.com/scl/fi/bciv1ehbbum0r11fpmpag/untitleddesign-83-2048x.png?rlkey=5fv1n72oaqdjd1mzbqdhyqaq7&st=9k9zm5i7&dl=0',
     ],
     label: 'Papel de seda',
     description: 'Mint Tissue Papers ofrece elegancia y sofisticación con diseños sin interrupciones, tamaño generoso de 35x35 cm y calidad premium de 28gsm. Cada paquete incluye tres papeles, brindando un valor excepcional para proyectos creativos. A diferencia de Mint Decoupage Papers, son especializados y versátiles para envolver regalos y hacer tarjetas.',
@@ -140,9 +128,7 @@ const initialProducts = [
     name: 'Yellow Chinoiserie - Mint Papel de seda',
     price: 21.95,
     images: [
-      'https://i.ibb.co/Lkrkz6K/yellow-chinoiserie.jpg',
-      'https://mintbymichelle.eu/pub/media/catalog/product/cache/fac465f6786493349529901840f5f3e4/y/e/yellow_chinoiserie_1080x1080.jpg',
-      'https://mintbymichelle.eu/pub/media/catalog/product/cache/fac465f6786493349529901840f5f3e4/y/e/yellow_chinoiserie_1080x1080_002_ii.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/sl93t7x889s6lu5yiuwss/yellow-chinoiserie.jpg?rlkey=yb90r4ys0ft941ev785igrlan&st=9nw004xe&dl=0',
     ],
     label: 'Papel de seda',
     description: 'Mint Tissue Papers ofrece elegancia y sofisticación con diseños sin interrupciones, tamaño generoso de 35x35 cm y calidad premium de 28gsm. Cada paquete incluye tres papeles, brindando un valor excepcional para proyectos creativos. A diferencia de Mint Decoupage Papers, son especializados y versátiles para envolver regalos y hacer tarjetas.',
@@ -150,45 +136,45 @@ const initialProducts = [
   },
   {
     id: 359,
-    name: 'A peacock pair - Papel para decoupage - A1 (Nuevo Lanzamiento Noviembre)',
+    name: 'A peacock pair - Papel para decoupage - A1 ',
     price: 29.95,
     images: [
-      'https://i.ibb.co/37W2BzK/img-7536-1-1.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/yavr024he2xjvpbhxjmso/img-7536-1-1.jpg?rlkey=j6olengiku2keoa7j8xgilmjg&st=783ics4y&dl=0',
     ],
-    label: 'Nuevo Lanzamiento Noviembre',
+    label: 'A1',
     description: 'Lanzados el 10 de noviembre de 2023, los papeles de decoupage MINT están diseñados para el arte y la renovación de muebles, disponibles en tamaños A1 (594mm x 841mm) y A3 (297mm x 420mm). Impresos en papel seleccionado específicamente para decoupage, estos papeles buscan convertir tus proyectos en obras de arte. Se incluyen instrucciones detalladas, y se recomienda usar pegamento Decopatch decoupage.',
     selected: false,
   },
   {
     id: 360,
-    name: 'A peacock pair - Papel para decoupage - A3 (Nuevo Lanzamiento Noviembre)',
+    name: 'A peacock pair - Papel para decoupage - A3 ',
     price: 19.95,
     images: [
-      'https://i.ibb.co/37W2BzK/img-7536-1-1.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/yavr024he2xjvpbhxjmso/img-7536-1-1.jpg?rlkey=j6olengiku2keoa7j8xgilmjg&st=783ics4y&dl=0',
     ],
-    label: 'Nuevo Lanzamiento Noviembre',
+    label: 'A3',
     description: 'Lanzados el 10 de noviembre de 2023, los papeles de decoupage MINT están diseñados para el arte y la renovación de muebles, disponibles en tamaños A1 (594mm x 841mm) y A3 (297mm x 420mm). Impresos en papel seleccionado específicamente para decoupage, estos papeles buscan convertir tus proyectos en obras de arte. Se incluyen instrucciones detalladas, y se recomienda usar pegamento Decopatch decoupage.',
     selected: false,
   },
   {
     id: 361,
-    name: 'A Vintage Christmas - Papel para decoupage - A1 (Nuevo Lanzamiento Noviembre)',
+    name: 'A Vintage Christmas - Papel para decoupage - A1 ',
     price: 29.95,
     images: [
-      'https://i.ibb.co/frGsm6p/img-7533.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/eisxmalv83qeosf7gwkcm/img-7533.jpg?rlkey=fbp8wo1c3iku9omaqw8o1g613&st=u07k0gpi&dl=0',
     ],
-    label: 'Nuevo Lanzamiento Noviembre',
+    label: 'A1',
     description: 'Lanzados el 10 de noviembre de 2023, los papeles de decoupage MINT están diseñados para el arte y la renovación de muebles, disponibles en tamaños A1 (594mm x 841mm) y A3 (297mm x 420mm). Impresos en papel seleccionado específicamente para decoupage, estos papeles buscan convertir tus proyectos en obras de arte. Se incluyen instrucciones detalladas, y se recomienda usar pegamento Decopatch decoupage.',
     selected: false,
   },
   {
     id: 362,
-    name: 'A Vintage Christmas - Papel para decoupage - A3 (Nuevo Lanzamiento Noviembre)',
+    name: 'A Vintage Christmas - Papel para decoupage - A3 ',
     price: 19.95,
     images: [
-      'https://i.ibb.co/frGsm6p/img-7533.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/eisxmalv83qeosf7gwkcm/img-7533.jpg?rlkey=fbp8wo1c3iku9omaqw8o1g613&st=u07k0gpi&dl=0',
     ],
-    label: 'Nuevo Lanzamiento Noviembre',
+    label: 'A3',
     description: 'Lanzados el 10 de noviembre de 2023, los papeles de decoupage MINT están diseñados para el arte y la renovación de muebles, disponibles en tamaños A1 (594mm x 841mm) y A3 (297mm x 420mm). Impresos en papel seleccionado específicamente para decoupage, estos papeles buscan convertir tus proyectos en obras de arte. Se incluyen instrucciones detalladas, y se recomienda usar pegamento Decopatch decoupage.',
     selected: false,
   },{
@@ -196,7 +182,7 @@ const initialProducts = [
     name: 'Hybrid VERDE ESMERALDA 70ml.',
     price: '2.60',
     images: [
-      'https://i.ibb.co/5rPYbqb/hybrid-emerald-green-70ml.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/q4dibnw79jzvcfeymmb8m/hybrid-emerald-green-70ml.jpg?rlkey=1t6kp6xbn2tpf8lwyc1s5ve3y&st=k6zpz84h&dl=0',
     ],
     label: '70 ml.',
     description: 'Pintura acrílica Multisuperficie a base de agua con una formula de última generación de la marca CADENCE. ',
@@ -207,7 +193,7 @@ const initialProducts = [
     name: 'Hybrid VERDE HOJA 70ml.',
     price: '2.60',
     images: [
-      'https://i.ibb.co/m9v6Ldm/hybrid-verde-hoja-70ml.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/nynkpubwsgcg34uie5p3f/hybrid-verde-hoja-70ml.jpg?rlkey=z64be1uzqggh3iaqzrsk6siqt&st=yeg88bm3&dl=0',
     ],
     label: '70 ml.',
     description: 'Pintura acrílica Multisuperficie a base de agua con una formula de última generación de la marca CADENCE. ',
@@ -218,7 +204,7 @@ const initialProducts = [
     name: 'Hybrid APPLE CANDY 70ml.',
     price: '2.60',
     images: [
-      'https://i.ibb.co/GdxQjHF/hybrid-apple-candy-70ml.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/v1nbsl5w6b6ca1xe450gv/hybrid-apple-candy-70ml.jpg?rlkey=0b7gp9zvd93dejfbvzv4qhx6k&st=s91du5ev&dl=0',
     ],
     label: '70 ml.',
     description: 'Pintura acrílica Multisuperficie a base de agua con una formula de última generación de la marca CADENCE. ',
@@ -229,7 +215,7 @@ const initialProducts = [
     name: 'Hybrid OCÉANO 70ml.',
     price: '2.60',
     images: [
-      'https://i.ibb.co/84kgmXM/hybrid-oceano-70ml.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/cny4ybopkuzjytvsff251/hybrid-oceano-70ml.jpg?rlkey=5aqd25xdf5006mkxplagmy9eh&st=egoiuw9f&dl=0',
     ],
     label: '70 ml.',
     description: 'Pintura acrílica Multisuperficie a base de agua con una formula de última generación de la marca CADENCE. ',
@@ -240,7 +226,7 @@ const initialProducts = [
     name: 'Hybrid AMARILLO SOL 70ml.',
     price: '2.60',
     images: [
-      'https://i.ibb.co/FgW3HxX/hybrid-sun-yellow-70ml.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/rkdgr35hvnkzfs7usntto/hybrid-sun-yellow-70ml.jpg?rlkey=tm6qf82qj8nj4wpfhw6d0u2bq&st=splqybtg&dl=0',
     ],
     label: '70 ml.',
     description: 'Pintura acrílica Multisuperficie a base de agua con una formula de última generación de la marca CADENCE. ',
@@ -251,7 +237,7 @@ const initialProducts = [
     name: 'Hybrid Metallic TURQUESA 70ml.',
     price: '3.30',
     images: [
-      'https://i.ibb.co/C8s00wk/hybrid-metallic-cadence-turquesa-70.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/ty8oys54dc76qmok3s6i2/hybrid-metallic-cadence-turquesa-70.jpg?rlkey=5v1bnwe7bgi3rmfm9qcssgboa&st=zsizrrsw&dl=0',
     ],
     label: '70 ml.',
     description: 'Pintura acrílica Multisuperficie a base de agua con una formula de última generación de la marca CADENCE. METALIZADA',
@@ -262,7 +248,7 @@ const initialProducts = [
     name: 'Hybrid Metallic COBRE 70ml.',
     price: '3.30',
     images: [
-      'https://i.ibb.co/ky006ZM/hybrid-metallic-cadence-cobre-70.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/rhb1w26ty411hpd13st6z/hybrid-metallic-cadence-cobre-70.jpg?rlkey=z642qn7lbiqtpy4r3hxmh836t&st=m27ommuo&dl=0',
     ],
     label: '70 ml.',
     description: 'Pintura acrílica Multisuperficie a base de agua con una formula de última generación de la marca CADENCE. METALIZADA',
@@ -273,7 +259,7 @@ const initialProducts = [
     name: 'Hybrid Metallic ORO OSCURO 120ml.',
     price: "5.30",
     images: [
-      'https://i.ibb.co/mqMZDVm/hybrid-metallic-cadence-oroscuro-120.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/oy6qj2s2mcy0fp4115w9a/hybrid-metallic-cadence-oroscuro-120.jpg?rlkey=j0k1qfj1cfnnihgs5x0iq7zzo&st=utrpvtk9&dl=0',
     ],
     label: '120 ml.',
     description: 'Pintura acrílica Multisuperficie a base de agua con una formula de última generación de la marca CADENCE. METALIZADA',
@@ -284,7 +270,7 @@ const initialProducts = [
     name: 'Hybrid Metallic PLATINO 120ml.',
     price: "5.30",
     images: [
-      'https://i.ibb.co/WvXS92F/hybrid-metallic-cadence-platino-120.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/x74qk63mqwdin6094cj7z/hybrid-metallic-cadence-platino-120.jpg?rlkey=a41bnrahg9ogm7kgxv9msj3mi&st=1mkcu3x3&dl=0',
     ],
     label: '120 ml.',
     description: 'Pintura acrílica Multisuperficie a base de agua con una formula de última generación de la marca CADENCE. METALIZADA',
@@ -310,7 +296,7 @@ export const Tienda = () => {
   const [showOverlay, setShowOverlay] = useState(false);
 
   const [currentPage, setCurrentPage] = useState(1);
-  const [itemsPerPage, setItemsPerPage] = useState(44); // Cambia el número según tus necesidades
+  const [itemsPerPage, setItemsPerPage] = useState(12); // Cambia el número según tus necesidades
 
   const startIndex = (currentPage - 1) * itemsPerPage;
   const endIndex = startIndex + itemsPerPage;

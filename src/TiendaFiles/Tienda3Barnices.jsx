@@ -27,7 +27,7 @@ const initialProducts = [
     name: 'Barníz MATE 120ml.',
     price: '5.20',
     images: [
-      'https://i.ibb.co/jgPtpKV/barniz-cadence-mate-250.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/7bs487brwuexa0t3xktjt/barniz-cadence-mate-250-1.jpg?rlkey=s304w1xksyoncqrog7q397mtg&st=wq9k5unp&dl=0',
     ],
     label: '120 ml.',
     description: 'Pintura acrílica Multisuperficie a base de agua con una formula de última generación de la marca CADENCE. METALIZADA',
@@ -38,7 +38,7 @@ const initialProducts = [
     name: 'Barníz MATE 250ml.',
     price: '9.40',
     images: [
-      'https://i.ibb.co/jgPtpKV/barniz-cadence-mate-250.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/7bs487brwuexa0t3xktjt/barniz-cadence-mate-250-1.jpg?rlkey=s304w1xksyoncqrog7q397mtg&st=wq9k5unp&dl=0',
     ],
     label: '250 ml.',
     description: 'Pintura acrílica Multisuperficie a base de agua con una formula de última generación de la marca CADENCE. METALIZADA',
@@ -49,7 +49,7 @@ const initialProducts = [
     name: 'Barníz MATE 500ml.', 
     price: '16.40',
     images: [
-      'https://i.ibb.co/m8j29ng/barniz-cadence-mate-500.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/2crok09kkl00mo30xexe9/barniz-cadence-mate-500.jpg?rlkey=ufz7xu775p44s8wp7ddo9g1co&st=v01jpd5a&dl=0',
     ],
     label: '500 ml.',
     description: 'Pintura acrílica Multisuperficie a base de agua con una formula de última generación de la marca CADENCE. METALIZADA',
@@ -60,7 +60,7 @@ const initialProducts = [
     name: 'Barníz SATINADO 120ml.',
     price: '5.20',
     images: [
-      'https://i.ibb.co/nmRfCfJ/barniz-cadence-satinado-120.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/53m23x38b1q6ec132fwtl/barniz-cadence-satinado-120.jpg?rlkey=yjukfpkb56c6wuemthemvtwsl&st=udr8xprt&dl=0',
     ],
     label: '120 ml.',
     description: 'Pintura acrílica Multisuperficie a base de agua con una formula de última generación de la marca CADENCE. METALIZADA',
@@ -71,7 +71,7 @@ const initialProducts = [
     name: 'Barníz SATINADO 250ml.',
     price: '9.40',
     images: [
-      'https://i.ibb.co/syMvyBP/barniz-cadence-satinado-250.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/vn9nksubsw9e8pxfgd228/barniz-cadence-satinado-250.jpg?rlkey=be20cm0qqin6lghunbbn2mmw7&st=8qdo69nb&dl=0',
     ],
     label: '250 ml.',
     description: 'Pintura acrílica Multisuperficie a base de agua con una formula de última generación de la marca CADENCE. METALIZADA',
@@ -82,7 +82,7 @@ const initialProducts = [
     name: 'Barníz SATINADO 500ml.', 
     price: '16.40',
     images: [
-      'https://i.ibb.co/v1sZ2nF/barniz-cadence-500-ml-satin.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/pij36laxww30of5hfefo5/barniz-cadence-500-ml-satin.jpg?rlkey=7xsge32xxz3jiwe2eywimq9ow&st=zypktafr&dl=0',
     ],
     label: '500 ml.',
     description: 'Pintura acrílica Multisuperficie a base de agua con una formula de última generación de la marca CADENCE. METALIZADA',
@@ -93,7 +93,7 @@ const initialProducts = [
     name: 'Barníz BRILLO 120ml.',
     price: '5.20',
     images: [
-      'https://i.ibb.co/Z8qj4CV/barniz-cadence-brillo-120.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/q5a46vdldu56i8n1e82w4/barniz-cadence-brillo-120.jpg?rlkey=lr671mq1nfpmded86x9ejv005&st=nqn6n9l2&dl=0',
     ],
     label: '120 ml.',
     description: 'Pintura acrílica Multisuperficie a base de agua con una formula de última generación de la marca CADENCE. METALIZADA',
@@ -104,7 +104,7 @@ const initialProducts = [
     name: 'Barníz BRILLO 250ml.',
     price: '9.40',
     images: [
-      'https://i.ibb.co/bFpwSjd/barniz-cadence-brillo-250.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/f6duwwyr9sqgqgdtksdvb/barniz-cadence-brillo-250.jpg?rlkey=by2atsh71hbdfnxp8fc9yb9kl&st=itvr1kgu&dl=0',
     ],
     label: '250 ml.',
     description: 'Pintura acrílica Multisuperficie a base de agua con una formula de última generación de la marca CADENCE. METALIZADA',
@@ -115,7 +115,7 @@ const initialProducts = [
     name: 'Barníz BRILLO 500ml.', 
     price: '16.40',
     images: [
-      'https://i.ibb.co/7KxSbSc/barniz-cadence-brillo-500.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/ucy9x28cdnsg2vu6fjlge/barniz-cadence-brillo-500.jpg?rlkey=ej2etxrelwlnmwajs7qzyksdk&st=ze5vjd96&dl=0',
     ],
     label: '500 ml.',
     description: 'Pintura acrílica Multisuperficie a base de agua con una formula de última generación de la marca CADENCE. METALIZADA',
@@ -126,7 +126,7 @@ const initialProducts = [
     name: 'Barníz CUERO 120ml.', 
     price: '8.40',
     images: [
-      'https://i.ibb.co/x2ZCrkK/barniz-cadence-cuero-120.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/hxi6bwkkxou20kvnwzfyo/barniz-cadence-cuero-120.jpg?rlkey=kxsejsrdnnvfwq1guotwy923g&st=tkftdp8g&dl=0',
     ],
     label: '120 ml.',
     description: 'Pintura acrílica Multisuperficie a base de agua con una formula de última generación de la marca CADENCE. METALIZADA',
@@ -137,95 +137,95 @@ const initialProducts = [
     name: 'Barníz ULTIMATE GLAZE MATE 120ml.', 
     price: '5.85',
     images: [
-      'https://i.ibb.co/wWm6SGL/barniz-ultimate-mate-120-ml.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/s51i71fimuel1gxm8qm95/barniz-ultimate-mate-120-ml.jpg?rlkey=chpgcr3ryd3tcr0js76vo33oe&st=xddrwe4e&dl=0',
     ],
     label: '120 ml.',
     description: 'Pintura acrílica Multisuperficie a base de agua con una formula de última generación de la marca CADENCE. METALIZADA',
     selected: false,
   },
   {
-    id: 354,
+    id: 3540,
     name: 'Barníz Aqua Stone MATE 120ml.',
     price: '8.40',
     images: [
-      'https://i.ibb.co/sFWZ9xY/barniz-exterior-aqua-stone-mate-120-ml.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/6sg758qnqz4bb3qvncgyd/barniz-exterior-aqua-stone-mate-120-ml.jpg?rlkey=6cvevkay8krth93pxc70ya9en&st=v5ge6mc6&dl=0',
     ],
     label: '120 ml.',
     description: 'Pintura acrílica Multisuperficie a base de agua con una formula de última generación de la marca CADENCE. METALIZADA',
     selected: false,
   },
   {
-    id: 355,
+    id: 3550,
     name: 'Barníz Aqua Stone MATE 250ml.',
     price: '14.40',
     images: [
-      'https://i.ibb.co/tQYgXTL/barniz-exterior-aqua-stone-mate-250-ml.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/tmhlcur7arulasd6fvngn/barniz-exterior-aqua-stone-mate-250-ml.jpg?rlkey=sdcvyixthuh0czw7291t8dn8u&st=frc22bck&dl=0',
     ],
     label: '250 ml.',
     description: 'Pintura acrílica Multisuperficie a base de agua con una formula de última generación de la marca CADENCE. METALIZADA',
     selected: false,
   },
   {
-    id: 356,
+    id: 3560,
     name: 'Barníz Aqua Stone MATE 500ml.', 
     price: '20.95',
     images: [
-      'https://i.ibb.co/thxvv9C/barniz-exterior-aqua-stone-mate-500-ml.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/g6c41hpmh9p6qr23r4x83/barniz-exterior-aqua-stone-mate-500-ml.jpg?rlkey=fn6cwyvjlug1on030fkgrwtxj&st=qf0dg3gw&dl=0',
     ],
     label: '500 ml.',
     description: 'Pintura acrílica Multisuperficie a base de agua con una formula de última generación de la marca CADENCE. METALIZADA',
     selected: false,
   },
   {
-    id: 354,
+    id: 3540,
     name: 'Barníz Aqua Stone BRILLO 120ml.',
     price: '8.40',
     images: [
-      'https://i.ibb.co/cy5GS72/barniz-cadence-aqua-stone-120ml.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/reb769yuw1zi9fawriqg0/barniz-cadence-aqua-stone-120ml.jpg?rlkey=b9fb1a0485wcm5cv3ca2rhmwr&st=s2t4o2vb&dl=0',
     ],
     label: '120 ml.',
     description: 'Pintura acrílica Multisuperficie a base de agua con una formula de última generación de la marca CADENCE. METALIZADA',
     selected: false,
   },
   {
-    id: 355,
+    id: 3550,
     name: 'Barníz Aqua Stone BRILLO 250ml.',
     price: '14.40',
     images: [
-      'https://i.ibb.co/dQKsDBH/barniz-cadence-aqua-stone-250ml.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/cejswc75vi2y4q8vwjxhd/barniz-cadence-aqua-stone-250ml.jpg?rlkey=35v9g7mh4ejf2nxxtcg7rk8gt&st=0y7pj7wq&dl=0',
     ],
     label: '250 ml.',
     description: 'Pintura acrílica Multisuperficie a base de agua con una formula de última generación de la marca CADENCE. METALIZADA',
     selected: false,
   },
   {
-    id: 356,
+    id: 3560,
     name: 'Barníz Aqua Stone BRILLO 500ml.', 
     price: '20.95',
     images: [
-      'https://i.ibb.co/qjkYLQR/barniz-cadence-aqua-stone-500ml.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/ucy9x28cdnsg2vu6fjlge/barniz-cadence-brillo-500.jpg?rlkey=ej2etxrelwlnmwajs7qzyksdk&st=kdswk2zx&dl=0',
     ],
     label: '500 ml.',
     description: 'Pintura acrílica Multisuperficie a base de agua con una formula de última generación de la marca CADENCE. METALIZADA',
     selected: false,
   },
   {
-    id: 357,
+    id: 3570,
     name: 'Barníz Craquelador UN PASO Cadence ', 
     price: '3.25',
     images: [
-      'https://i.ibb.co/6D1Hr0V/craquelador-de-1-paso-cadence.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/lrbkodsku16nr76jnym9v/craquelador-de-1-paso-cadence.jpg?rlkey=8hhu869p4szkhdzcmhdtxukgg&st=zjcphi0n&dl=0',
     ],
     label: '500 ml.',
     description: 'Pintura acrílica Multisuperficie a base de agua con una formula de última generación de la marca CADENCE. METALIZADA',
     selected: false,
   },
   {
-    id: 358,
+    id: 3580,
     name: 'Barníz Craquelador DOS PASOS Cadence ', 
     price: '5.80',
     images: [
-      'https://i.ibb.co/S7fYSTJ/craquelador-de-2-pasos-cadence.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/1ye0krnf5qnumkyev0tpx/craquelador-de-2-pasos-cadence.jpg?rlkey=ywnsyh16eighsedxi6btgjujb&st=ytwjqwdd&dl=0',
     ],
     label: '500 ml.',
     description: 'Pintura acrílica Multisuperficie a base de agua con una formula de última generación de la marca CADENCE. METALIZADA',
@@ -236,7 +236,7 @@ const initialProducts = [
     name: 'Decoupage Textil Cadence 120ml.', 
     price: '5.50',
     images: [
-      'https://i.ibb.co/ZBpy1YX/decoupage-textil-cadence.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/x3rvxavuapl82j45nxb6z/decoupage-textil-cadence.jpg?rlkey=mi33pto292idez6e7g85ibyo2&st=t3i6o5yz&dl=0',
     ],
     label: '120 ml.',
     description: 'Pintura acrílica Multisuperficie a base de agua con una formula de última generación de la marca CADENCE. METALIZADA',
@@ -247,7 +247,7 @@ const initialProducts = [
     name: 'Decoupage Plus MATT Cadence 250ml.', 
     price: '7.90',
     images: [
-      'https://i.ibb.co/K7dhw0R/decoupage-plus-cadence.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/x0sv6m90zyv48yvuca7if/decoupage-plus-cadence.jpg?rlkey=zns1vap1ac0v8nso3aav39klb&st=vd241jh2&dl=0',
     ],
     label: '250 ml.',
     description: 'Pintura acrílica Multisuperficie a base de agua con una formula de última generación de la marca CADENCE. METALIZADA',
@@ -258,7 +258,7 @@ const initialProducts = [
     name: 'Spray Adhesivo Stencils CADENCE', 
     price: '6.40',
     images: [
-      'https://www.artesaniasmontejo.com/13938-16822-large_default/spray-adhesivo-stencils-cadence.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/5wh9s1pm1xy81kk6w8tpn/spray-adhesivo-stencils-cadence.jpg?rlkey=dqth23sr3ip6jrbvp4vrprgih&st=51os782h&dl=0',
     ],
     label: '150 ml.',
     description: 'Protege su adhesión en baja y alta temperatura, no se transere a la supercie utilizada, permite una limpieza fácil y el uso múltiple. Se despega y se pega otra vez, permanezca pegajoso por un largo tiempo, y el color no mancha y no se arruga.',
@@ -269,7 +269,7 @@ const initialProducts = [
     name: 'ACRILEX Barniz Cristal 100ml', 
     price: '7.85',
     images: [
-      'https://www.artesaniasmontejo.com/8563-9442-large_default/pelicula-de-transferencia-pebeo.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/d8ep5ick6l9248abpdr6u/pelicula-de-transferencia-pebeo.jpg?rlkey=0bfdl0nmp4tmywl6h7diozbmf&st=nb9hx183&dl=0',
     ],
     label: '100 ml.',
     description: 'ACRILEX Barniz Cristal, 250ml Barniz efecto cristal de un solo componente. Aplicar a pincel o directamente del frasco si queremos cubrir una superficie grande.',
@@ -301,7 +301,7 @@ export const Tienda3Barnices = () => {
   const [filterButtonIcon, setFilterButtonIcon] = useState(<ViewOffIcon />);
 
   const [currentPage, setCurrentPage] = useState(1);
-  const [itemsPerPage, setItemsPerPage] = useState(44); // Cambia el número según tus necesidades
+  const [itemsPerPage, setItemsPerPage] = useState(12); // Cambia el número según tus necesidades
 
   const startIndex = (currentPage - 1) * itemsPerPage;
   const endIndex = startIndex + itemsPerPage;

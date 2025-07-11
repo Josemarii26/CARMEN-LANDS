@@ -187,6 +187,24 @@ export const Tienda3 = () => {
       
           </WavyLink>
 
+          <WavyLink direction="up" to="/tienda/cadence/papeles" color="#4593db">
+            <div className="cadence-card">
+              <img src='https://www.artesaniasmontejo.com/c/807-pos_category/papel-de-arroz-cadence-.jpg' alt='cadence'></img>
+              <br></br>
+              <p>Papeles de Arroz Cadence</p>
+            </div>
+      
+          </WavyLink>
+
+          <WavyLink direction="up" to="/tienda/cadence/soportes-resina" color="#4593db">
+            <div className="cadence-card">
+              <img src='https://www.artesaniasmontejo.com/c/909-pos_category/resina-cadence.jpg' alt='cadence'></img>
+              <br></br>
+              <p>Soportes de Resina Cadence</p>
+            </div>
+      
+          </WavyLink>
+
           <WavyLink direction="up" to="/tienda/cadence" color="#4593db">
             <div className="cadence-card">
               <img src='https://i.ibb.co/51krssD/Proximamente.png' alt='proximamente'></img>

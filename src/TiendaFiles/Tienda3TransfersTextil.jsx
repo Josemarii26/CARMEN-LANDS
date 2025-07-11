@@ -27,7 +27,7 @@ const initialProducts = [
     name: 'Transfer TELA W&B 21x30cm KTS05',
     price: '5.20',
     images: [
-      'https://i.ibb.co/PrxxhZw/transfer-tela-cadence.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/r8ol51srtcjbz8hvvdlqp/transfer-tela-cadence.jpg?rlkey=t17wjx8yqslgcqvsu5ffumzas&st=4z60dxwb&dl=0',
     ],
     label: '21x30cm',
     description: 'Transfers CADENCE para aplicar sobre telas de algodón. Diseños actuales con multitud de pequeños detalles. Acabado de alta calidad y flexible al tacto.',
@@ -38,7 +38,7 @@ const initialProducts = [
     name: 'Transfer TELA W&B 21x30cm KTS06',
     price: '5.20',
     images: [
-      'https://i.ibb.co/Cb3CdZH/transfer-tela-cadence-1.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/1orl92mgnzqiiys0rujiq/transfer-tela-cadence-1.jpg?rlkey=onom93xa4ibo81h8kezi6eafz&st=cpv4fm0h&dl=0',
     ],
     label: '21x30cm',
     description: 'Transfers CADENCE para aplicar sobre telas de algodón. Diseños actuales con multitud de pequeños detalles. Acabado de alta calidad y flexible al tacto.',
@@ -49,7 +49,7 @@ const initialProducts = [
     name: 'Transfer TELA Animal Portrait 25x35cm PAFT08',
     price: '5.20',
     images: [
-      'https://i.ibb.co/hYKDLdQ/transfer-tela-cadence-2.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/3ztgfgueye41foskcng0p/transfer-tela-cadence-2.jpg?rlkey=816rv1zu774x0vxmh4q3fmkcr&st=bim3259e&dl=0',
     ],
     label: '25x35cm',
     description: 'Transfers CADENCE para aplicar sobre telas de algodón. Diseños actuales con multitud de pequeños detalles. Acabado de alta calidad y flexible al tacto.',
@@ -60,7 +60,7 @@ const initialProducts = [
     name: 'Transfer TELA Animal Portrait 25x35cm PAFT07',
     price: '5.20',
     images: [
-      'https://i.ibb.co/vsRSpv8/transfer-tela-cadence-3.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/ox8rrcad3hxzc6gel6htl/transfer-tela-cadence-3.jpg?rlkey=6o6i0sl7e63tftvarfv3dssj8&st=7nvwix3z&dl=0',
     ],
     label: '25x35cm',
     description: 'Transfers CADENCE para aplicar sobre telas de algodón. Diseños actuales con multitud de pequeños detalles. Acabado de alta calidad y flexible al tacto.',
@@ -71,7 +71,7 @@ const initialProducts = [
     name: 'Transfer TELA Animal Portrait 25x35cm PAFT06',
     price: '5.20',
     images: [
-      'https://i.ibb.co/vk5JRn2/transfer-tela-cadence-4.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/m555xfpjidt82dq5cr8u2/transfer-tela-cadence-4.jpg?rlkey=k17quqkz122uy90p7agj7x2nn&st=qptgkpdx&dl=0',
     ],
     label: '25x35cm',
     description: 'Transfers CADENCE para aplicar sobre telas de algodón. Diseños actuales con multitud de pequeños detalles. Acabado de alta calidad y flexible al tacto.',
@@ -93,7 +93,7 @@ const initialProducts = [
     name: 'Transfer TELA Animal Portrait 25x35cm PAFT03',
     price: '5.20',
     images: [
-      'https://i.ibb.co/zZVrVrt/transfer-tela-cadence-6.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/b9h406cniqgi10hwg15ol/transfer-tela-cadence-6.jpg?rlkey=8yv0l939dyujgesl4b850sclp&st=enbbe9ud&dl=0',
     ],
     label: '25x35cm',
     description: 'Transfers CADENCE para aplicar sobre telas de algodón. Diseños actuales con multitud de pequeños detalles. Acabado de alta calidad y flexible al tacto.',
@@ -104,7 +104,7 @@ const initialProducts = [
     name: 'Transfer TELA Siluetas 25x35cm FT069',
     price: '5.20',
     images: [
-      'https://i.ibb.co/jrTN5QQ/transfer-tela-cadence-7.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/wovntoqyp1130h303hhu9/transfer-tela-cadence-7.jpg?rlkey=kli80dhm4srtg1cw45b8iw8oc&st=9qt6cp1z&dl=0',
     ],
     label: '25x35cm',
     description: 'Transfers CADENCE para aplicar sobre telas de algodón. Diseños actuales con multitud de pequeños detalles. Acabado de alta calidad y flexible al tacto.',
@@ -115,7 +115,7 @@ const initialProducts = [
     name: 'Transfer TELA Siluetas 25x35cm FT068',
     price: '5.20',
     images: [
-      'https://i.ibb.co/zfkRqmn/transfer-tela-cadence-8.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/ttf6gg2618l2rl8q9s3yf/transfer-tela-cadence-8.jpg?rlkey=xd4ealsveh1dtxlklil4pbuiz&st=baa8jxek&dl=0',
     ],
     label: '25x35cm',
     description: 'Transfers CADENCE para aplicar sobre telas de algodón. Diseños actuales con multitud de pequeños detalles. Acabado de alta calidad y flexible al tacto.',
@@ -126,7 +126,7 @@ const initialProducts = [
     name: 'Transfer TELA Siluetas 25x35cm FT067',
     price: '5.20',
     images: [
-      'https://i.ibb.co/xg5jsYF/transfer-tela-cadence-9.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/fgdxzjz5dup0fiksrvzya/transfer-tela-cadence-9.jpg?rlkey=46o8mf1n2cb6sfmldkgnck1w9&st=c4mla4fo&dl=0',
     ],
     label: '25x35cm',
     description: 'Transfers CADENCE para aplicar sobre telas de algodón. Diseños actuales con multitud de pequeños detalles. Acabado de alta calidad y flexible al tacto.',
@@ -137,7 +137,7 @@ const initialProducts = [
     name: 'Transfer TELA Siluetas 25x35cm FT064',
     price: '5.20',
     images: [
-      'https://i.ibb.co/dMN0tsf/transfer-tela-cadence-10.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/2tqm59fysvuiptopbisxw/transfer-tela-cadence-10.jpg?rlkey=kr3ig52tngodp3wbq3rlnucjt&st=ti08cays&dl=0',
     ],
     label: '25x35cm',
     description: 'Transfers CADENCE para aplicar sobre telas de algodón. Diseños actuales con multitud de pequeños detalles. Acabado de alta calidad y flexible al tacto.',
@@ -148,7 +148,7 @@ const initialProducts = [
     name: 'Transfer TELA Siluetas 25x35cm FT065',
     price: '5.20',
     images: [
-      'https://i.ibb.co/L0zXdk5/transfer-tela-cadence-11.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/gb38ofuvmjlu7q7kjqpjr/transfer-tela-cadence-11.jpg?rlkey=2440gb83ls58xvp97yr3vqsmu&st=gw5r53a6&dl=0',
     ],
     label: '25x35cm',
     description: 'Transfers CADENCE para aplicar sobre telas de algodón. Diseños actuales con multitud de pequeños detalles. Acabado de alta calidad y flexible al tacto.',
@@ -159,7 +159,7 @@ const initialProducts = [
     name: 'Transfer TELA Siluetas 25x35cm FT063',
     price: '5.20',
     images: [
-      'https://i.ibb.co/Vp8Bj96/transfer-tela-cadence-12.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/csmdwq64fs6i7shml6p08/transfer-tela-cadence-12.jpg?rlkey=8g3aqwetlldj7iwbdii8o4ym6&st=bmmwciqg&dl=0',
     ],
     label: '25x35cm',
     description: 'Transfers CADENCE para aplicar sobre telas de algodón. Diseños actuales con multitud de pequeños detalles. Acabado de alta calidad y flexible al tacto.',
@@ -170,7 +170,7 @@ const initialProducts = [
     name: 'Transfer TELA W&B 21x30cm KTS13',
     price: '5.20',
     images: [
-      'https://i.ibb.co/wzTSDNm/transfer-tela-cadence-14.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/ek3cudyrvvezezhgge22y/transfer-tela-cadence-14.jpg?rlkey=4pof1h1ozvbdftzfolswbbrh1&st=uindi5iq&dl=0',
     ],
     label: '21x30cm',
     description: 'Transfers CADENCE para aplicar sobre telas de algodón. Diseños actuales con multitud de pequeños detalles. Acabado de alta calidad y flexible al tacto.',
@@ -181,7 +181,7 @@ const initialProducts = [
     name: 'Transfer TELA W&B 21x30cm KTS14',
     price: '5.20',
     images: [
-      'https://i.ibb.co/Chzb73x/transfer-tela-cadence-13.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/4qzkaw9bsxm3t0jacoses/transfer-tela-cadence-13.jpg?rlkey=zkcot4y4w92w2zxr0hemb8lz3&st=mdaj27rf&dl=0',
     ],
     label: '21x30cm',
     description: 'Transfers CADENCE para aplicar sobre telas de algodón. Diseños actuales con multitud de pequeños detalles. Acabado de alta calidad y flexible al tacto.',
@@ -222,7 +222,7 @@ export const Tienda3TransfersTextil = () => {
   const [filterButtonIcon, setFilterButtonIcon] = useState(<ViewOffIcon />);
 
   const [currentPage, setCurrentPage] = useState(1);
-  const [itemsPerPage, setItemsPerPage] = useState(44); // Cambia el número según tus necesidades
+  const [itemsPerPage, setItemsPerPage] = useState(12); // Cambia el número según tus necesidades
 
   const startIndex = (currentPage - 1) * itemsPerPage;
   const endIndex = startIndex + itemsPerPage;

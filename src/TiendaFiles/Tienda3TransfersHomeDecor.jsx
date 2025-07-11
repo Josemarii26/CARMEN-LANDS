@@ -27,7 +27,7 @@ const initialProducts = [
     name: 'Universal Transfer CADENCE 25x35cm UTC020',
     price: '5.90',
     images: [
-      'https://i.ibb.co/8xFkGrn/universal-transfer-cadence-25x35cm-utc020.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/e1hpq165eo6vjj2l7ave1/universal-transfer-cadence-25x35cm-utc020.jpg?rlkey=ryay5paui84n9mbg8pcykmxxq&st=1tg69l10&dl=0',
     ],
     label: '25x35cm',
     description: 'Transfers de gran tamaño 25x35cm CADENCE para aplicar sobre bandejas, lienzos, cajas de madera, pequeños muebles... Sus diseños vintage son ideales para decoración. Aplicación: Colocar boca abajo sobre la superficie a transferir y presionar el papel trasero con una esponja húmeda. Cuando el papel está completamente humedecido, quitarlo deslizando poco a poco.',
@@ -38,7 +38,7 @@ const initialProducts = [
     name: 'Universal Transfer CADENCE 25x35cm UTC016',
     price: '5.90',
     images: [
-      'https://i.ibb.co/7JqKJ2w/universal-transfer-cadence-25x35cm-utc016.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/eq0xicjcojnr9loos70v0/universal-transfer-cadence-25x35cm-utc016.jpg?rlkey=704uc2qce059h0ng6zd50rzob&st=6m2ivicx&dl=0',
     ],
     label: '25x35cm',
     description: 'Transfers de gran tamaño 25x35cm CADENCE para aplicar sobre bandejas, lienzos, cajas de madera, pequeños muebles... Sus diseños vintage son ideales para decoración. Aplicación: Colocar boca abajo sobre la superficie a transferir y presionar el papel trasero con una esponja húmeda. Cuando el papel está completamente humedecido, quitarlo deslizando poco a poco.',
@@ -49,7 +49,7 @@ const initialProducts = [
     name: 'Universal Transfer CADENCE 25x35cm UTC013',
     price: '5.90',
     images: [
-      'https://i.ibb.co/NsMnKnF/universal-transfer-cadence-25x35cm-utc013.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/32amkflcrnpy2udmij6px/universal-transfer-cadence-25x35cm-utc013.jpg?rlkey=xhe0zlebythnmk9w43q6ag21w&st=sque2848&dl=0',
     ],
     label: '25x35cm',
     description: 'Transfers de gran tamaño 25x35cm CADENCE para aplicar sobre bandejas, lienzos, cajas de madera, pequeños muebles... Sus diseños vintage son ideales para decoración. Aplicación: Colocar boca abajo sobre la superficie a transferir y presionar el papel trasero con una esponja húmeda. Cuando el papel está completamente humedecido, quitarlo deslizando poco a poco.',
@@ -60,7 +60,7 @@ const initialProducts = [
     name: 'Universal Transfer CADENCE 25x35cm UTC008',
     price: '5.90',
     images: [
-      'https://i.ibb.co/phc3tBD/universal-transfer-cadence-25x35cm-utc008.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/hrhzy5y2z5ocr0obdwhah/universal-transfer-cadence-25x35cm-utc008.jpg?rlkey=hqk32lwdonlq0udu0n9k7dryc&st=sjadytfi&dl=0',
     ],
     label: '25x35cm',
     description: 'Transfers de gran tamaño 25x35cm CADENCE para aplicar sobre bandejas, lienzos, cajas de madera, pequeños muebles... Sus diseños vintage son ideales para decoración. Aplicación: Colocar boca abajo sobre la superficie a transferir y presionar el papel trasero con una esponja húmeda. Cuando el papel está completamente humedecido, quitarlo deslizando poco a poco.',
@@ -71,7 +71,7 @@ const initialProducts = [
     name: 'Universal Transfer CADENCE 25x35cm UTC003',
     price: '5.90',
     images: [
-      'https://i.ibb.co/yWfFSc6/universal-transfer-cadence-25x35cm-utc003.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/i5fw9ir2ye3k3x2hf4qyl/universal-transfer-cadence-25x35cm-utc003.jpg?rlkey=zy5pb0kipge6o59rphg6z64xj&st=emo86ve6&dl=0',
     ],
     label: '25x35cm',
     description: 'Transfers de gran tamaño 25x35cm CADENCE para aplicar sobre bandejas, lienzos, cajas de madera, pequeños muebles... Sus diseños vintage son ideales para decoración. Aplicación: Colocar boca abajo sobre la superficie a transferir y presionar el papel trasero con una esponja húmeda. Cuando el papel está completamente humedecido, quitarlo deslizando poco a poco.',
@@ -82,7 +82,7 @@ const initialProducts = [
     name: 'Universal Transfer CADENCE 25x35cm UTC001',
     price: '5.90',
     images: [
-      'https://i.ibb.co/CBN8g8T/universal-transfer-cadence-25x35cm-utc001.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/293olmammm6rrgg59l6is/universal-transfer-cadence-25x35cm-utc001.jpg?rlkey=bnwo99s6pkkhkptd07m8soss8&st=ttg5ym00&dl=0',
     ],
     label: '25x35cm',
     description: 'Transfers de gran tamaño 25x35cm CADENCE para aplicar sobre bandejas, lienzos, cajas de madera, pequeños muebles... Sus diseños vintage son ideales para decoración. Aplicación: Colocar boca abajo sobre la superficie a transferir y presionar el papel trasero con una esponja húmeda. Cuando el papel está completamente humedecido, quitarlo deslizando poco a poco.',
@@ -93,7 +93,7 @@ const initialProducts = [
     name: 'Cubiertos Transfers HOME DECOR',
     price: '5.90',
     images: [
-      'https://i.ibb.co/mDSB23t/transfers-home-decor-cadence.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/tghz2z8vbn0bio6tz54zd/transfers-home-decor-cadence.jpg?rlkey=oespjx6gth5778h85pd32j5e2&st=gx7hg9jz&dl=0',
     ],
     label: '25x35cm',
     description: 'Transfers de gran tamaño 25x35cm CADENCE para aplicar sobre bandejas, lienzos, cajas de madera, pequeños muebles... Sus diseños vintage son ideales para decoración. Aplicación: Colocar boca abajo sobre la superficie a transferir y presionar el papel trasero con una esponja húmeda. Cuando el papel está completamente humedecido, quitarlo deslizando poco a poco.',
@@ -104,7 +104,7 @@ const initialProducts = [
     name: 'Tea Room Transfers HOME DECOR',
     price: '5.90',
     images: [
-      'https://i.ibb.co/y5z6RvQ/transfers-home-decor-cadence-1.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/xgg1opv4cc2luppldkg7x/transfers-home-decor-cadence-1.jpg?rlkey=cls4sc69i1uvlpbyqcfum4zwj&st=9fy1o9pc&dl=0',
     ],
     label: '25x35cm',
     description: 'Transfers de gran tamaño 25x35cm CADENCE para aplicar sobre bandejas, lienzos, cajas de madera, pequeños muebles... Sus diseños vintage son ideales para decoración. Aplicación: Colocar boca abajo sobre la superficie a transferir y presionar el papel trasero con una esponja húmeda. Cuando el papel está completamente humedecido, quitarlo deslizando poco a poco.',
@@ -115,7 +115,7 @@ const initialProducts = [
     name: 'Eau de Cologne Transfers HOME DECOR',
     price: '5.90',
     images: [
-      'https://i.ibb.co/YPbdVWL/transfers-home-decor-cadence-2.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/j2vtv3vidrukgmk3z14wj/transfers-home-decor-cadence-2.jpg?rlkey=kiwk6a4muhieztllgynjzbgwi&st=nav40491&dl=0',
     ],
     label: '25x35cm',
     description: 'Transfers de gran tamaño 25x35cm CADENCE para aplicar sobre bandejas, lienzos, cajas de madera, pequeños muebles... Sus diseños vintage son ideales para decoración. Aplicación: Colocar boca abajo sobre la superficie a transferir y presionar el papel trasero con una esponja húmeda. Cuando el papel está completamente humedecido, quitarlo deslizando poco a poco.',
@@ -126,7 +126,7 @@ const initialProducts = [
     name: 'Founderie Transfers HOME DECOR',
     price: '5.90',
     images: [
-      'https://i.ibb.co/yWXRCBB/transfers-home-decor-cadence-3.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/43xam7hz9r7z02icq31f4/transfers-home-decor-cadence-3.jpg?rlkey=xyswwdro49h08a947r5yad4q4&st=ohzf8ak7&dl=0',
     ],
     label: '25x35cm',
     description: 'Transfers de gran tamaño 25x35cm CADENCE para aplicar sobre bandejas, lienzos, cajas de madera, pequeños muebles... Sus diseños vintage son ideales para decoración. Aplicación: Colocar boca abajo sobre la superficie a transferir y presionar el papel trasero con una esponja húmeda. Cuando el papel está completamente humedecido, quitarlo deslizando poco a poco.',
@@ -137,7 +137,7 @@ const initialProducts = [
     name: 'Bienvenue Transfers HOME DECOR',
     price: '5.90',
     images: [
-      'https://i.ibb.co/k6R4DTt/transfers-home-decor-cadence-4.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/i1qbop0zczqrw5pp2gkmm/transfers-home-decor-cadence-4.jpg?rlkey=h2ajf8nbrylcyybqmj273j216&st=dz4yie44&dl=0',
     ],
     label: '25x35cm',
     description: 'Transfers de gran tamaño 25x35cm CADENCE para aplicar sobre bandejas, lienzos, cajas de madera, pequeños muebles... Sus diseños vintage son ideales para decoración. Aplicación: Colocar boca abajo sobre la superficie a transferir y presionar el papel trasero con una esponja húmeda. Cuando el papel está completamente humedecido, quitarlo deslizando poco a poco.',
@@ -148,7 +148,7 @@ const initialProducts = [
     name: 'La Libellule Transfers HOME DECOR',
     price: '5.90',
     images: [
-      'https://i.ibb.co/QfdHLT9/transfers-home-decor-cadence-5.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/i8ggo9iljjyr05rhti2o2/transfers-home-decor-cadence-5.jpg?rlkey=wmuqo1n402q6jykxmrnlfjoqg&st=tb7oqsr7&dl=0',
     ],
     label: '25x35cm',
     description: 'Transfers de gran tamaño 25x35cm CADENCE para aplicar sobre bandejas, lienzos, cajas de madera, pequeños muebles... Sus diseños vintage son ideales para decoración. Aplicación: Colocar boca abajo sobre la superficie a transferir y presionar el papel trasero con una esponja húmeda. Cuando el papel está completamente humedecido, quitarlo deslizando poco a poco.',
@@ -159,7 +159,7 @@ const initialProducts = [
     name: 'Tea Time Transfers HOME DECOR',
     price: '5.90',
     images: [
-      'https://i.ibb.co/5THLP0X/transfers-home-decor-cadence-6.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/br1771x4jnt63nwzzb70b/transfers-home-decor-cadence-6.jpg?rlkey=6wo3dghf0r53fwnxdoaf8b4yy&st=1dq4rz7q&dl=0',
     ],
     label: '25x35cm',
     description: 'Transfers de gran tamaño 25x35cm CADENCE para aplicar sobre bandejas, lienzos, cajas de madera, pequeños muebles... Sus diseños vintage son ideales para decoración. Aplicación: Colocar boca abajo sobre la superficie a transferir y presionar el papel trasero con una esponja húmeda. Cuando el papel está completamente humedecido, quitarlo deslizando poco a poco.',
@@ -170,7 +170,7 @@ const initialProducts = [
     name: 'Le Petite Marmite Transfers HOME DECOR',
     price: '5.90',
     images: [
-      'https://i.ibb.co/KNK3RP7/transfers-home-decor-cadence-7.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/bto7kpr246ky9hvbbyieu/transfers-home-decor-cadence-7.jpg?rlkey=a0cdtpl4raxnp5lfmyzcxnskq&st=yrrc3d2u&dl=0',
     ],
     label: '25x35cm',
     description: 'Transfers de gran tamaño 25x35cm CADENCE para aplicar sobre bandejas, lienzos, cajas de madera, pequeños muebles... Sus diseños vintage son ideales para decoración. Aplicación: Colocar boca abajo sobre la superficie a transferir y presionar el papel trasero con una esponja húmeda. Cuando el papel está completamente humedecido, quitarlo deslizando poco a poco.',
@@ -181,7 +181,7 @@ const initialProducts = [
     name: 'Le Poulet Transfers HOME DECOR',
     price: '5.90',
     images: [
-      'https://i.ibb.co/mH5PHcv/transfers-home-decor-cadence-8.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/xh8s4s0wzcycxfy9xw9i4/transfers-home-decor-cadence-8.jpg?rlkey=04ko7kyxjn4az0q5edpk9ziir&st=sxxuf30a&dl=0',
     ],
     label: '25x35cm',
     description: 'Transfers de gran tamaño 25x35cm CADENCE para aplicar sobre bandejas, lienzos, cajas de madera, pequeños muebles... Sus diseños vintage son ideales para decoración. Aplicación: Colocar boca abajo sobre la superficie a transferir y presionar el papel trasero con una esponja húmeda. Cuando el papel está completamente humedecido, quitarlo deslizando poco a poco.',
@@ -192,7 +192,7 @@ const initialProducts = [
     name: 'Tea Transfers HOME DECOR',
     price: '5.90',
     images: [
-      'https://i.ibb.co/25C2XnQ/transfers-home-decor-cadence-9.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/14eyfe7buwhdpw1i3bems/transfers-home-decor-cadence-9.jpg?rlkey=380y7nos2pzgqgnex607l337o&st=m4b2oabp&dl=0',
     ],
     label: '25x35cm',
     description: 'Transfers de gran tamaño 25x35cm CADENCE para aplicar sobre bandejas, lienzos, cajas de madera, pequeños muebles... Sus diseños vintage son ideales para decoración. Aplicación: Colocar boca abajo sobre la superficie a transferir y presionar el papel trasero con una esponja húmeda. Cuando el papel está completamente humedecido, quitarlo deslizando poco a poco.',
@@ -203,7 +203,7 @@ const initialProducts = [
     name: 'Lingerier Corsets Transfers HOME DECOR',
     price: '5.90',
     images: [
-      'https://i.ibb.co/YNXjNFm/transfers-home-decor-cadence-10.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/y3peaf2hs3beao6qeram2/transfers-home-decor-cadence-10.jpg?rlkey=9olb37da8ofsfn67redixup6n&st=zyzhpitn&dl=0',
     ],
     label: '25x35cm',
     description: 'Transfers de gran tamaño 25x35cm CADENCE para aplicar sobre bandejas, lienzos, cajas de madera, pequeños muebles... Sus diseños vintage son ideales para decoración. Aplicación: Colocar boca abajo sobre la superficie a transferir y presionar el papel trasero con una esponja húmeda. Cuando el papel está completamente humedecido, quitarlo deslizando poco a poco.',
@@ -214,7 +214,7 @@ const initialProducts = [
     name: 'Salle de Bain Transfers HOME DECOR',
     price: '5.90',
     images: [
-      'https://i.ibb.co/Ycxb115/transfers-home-decor-cadence-11.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/kn2pbwpekeca3pniyno4t/transfers-home-decor-cadence-11.jpg?rlkey=kjlr86tyoa69cblrs1k3wey5e&st=4npojal9&dl=0',
     ],
     label: '25x35cm',
     description: 'Transfers de gran tamaño 25x35cm CADENCE para aplicar sobre bandejas, lienzos, cajas de madera, pequeños muebles... Sus diseños vintage son ideales para decoración. Aplicación: Colocar boca abajo sobre la superficie a transferir y presionar el papel trasero con una esponja húmeda. Cuando el papel está completamente humedecido, quitarlo deslizando poco a poco.',
@@ -225,7 +225,7 @@ const initialProducts = [
     name: 'Coutellerie Transfers HOME DECOR',
     price: '5.90',
     images: [
-      'https://i.ibb.co/PrjqRzf/transfers-home-decor-cadence-12.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/6334mvr8gqk530l3smvu0/transfers-home-decor-cadence-12.jpg?rlkey=2shvm1nqxmzeqhx8b24wyqhg2&st=nsagmdnn&dl=0',
     ],
     label: '25x35cm',
     description: 'Transfers de gran tamaño 25x35cm CADENCE para aplicar sobre bandejas, lienzos, cajas de madera, pequeños muebles... Sus diseños vintage son ideales para decoración. Aplicación: Colocar boca abajo sobre la superficie a transferir y presionar el papel trasero con una esponja húmeda. Cuando el papel está completamente humedecido, quitarlo deslizando poco a poco.',
@@ -236,7 +236,7 @@ const initialProducts = [
     name: 'Mademoiselle Transfers HOME DECOR',
     price: '5.90',
     images: [
-      'https://i.ibb.co/MpZcS9V/transfers-home-decor-cadence-13.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/2iybdrabusp64k9qx73c9/transfers-home-decor-cadence-13.jpg?rlkey=b69y8cup8qwrgfbdr6jtealmn&st=dd8qzs4v&dl=0',
     ],
     label: '25x35cm',
     description: 'Transfers de gran tamaño 25x35cm CADENCE para aplicar sobre bandejas, lienzos, cajas de madera, pequeños muebles... Sus diseños vintage son ideales para decoración. Aplicación: Colocar boca abajo sobre la superficie a transferir y presionar el papel trasero con una esponja húmeda. Cuando el papel está completamente humedecido, quitarlo deslizando poco a poco.',
@@ -274,7 +274,7 @@ export const Tienda3TransfersHomeDecor = () => {
   const [filterButtonIcon, setFilterButtonIcon] = useState(<ViewOffIcon />);
 
   const [currentPage, setCurrentPage] = useState(1);
-  const [itemsPerPage, setItemsPerPage] = useState(44); // Cambia el número según tus necesidades
+  const [itemsPerPage, setItemsPerPage] = useState(12); // Cambia el número según tus necesidades
 
   const startIndex = (currentPage - 1) * itemsPerPage;
   const endIndex = startIndex + itemsPerPage;

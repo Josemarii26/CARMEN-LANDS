@@ -27,7 +27,7 @@ const initialProducts = [
     name: 'Caja DM Asa 14x12x20cm',
     price: '16.80',
     images: [
-      'https://i.ibb.co/SK9dGrZ/caja-dm-asa-14x12x20-cms.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/dql0knxgfq4lqo9hafeqt/caja-dm-asa-14x12x20-cms.jpg?rlkey=igdqk946gcurjsnts5f35rysi&st=kxxpnysa&dl=0',
     ],
     label: '14x12x20',
     description: 'Caja DM con asa de cuerda y tapa con bisagras y cierre.',
@@ -38,7 +38,7 @@ const initialProducts = [
     name: 'Jaula DM 45x27x20cm',
     price: '47.50',
     images: [
-      'https://i.ibb.co/9TTQsww/jaula-dm.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/m9kmmnt48u3fj8dyg87m0/jaula-dm.jpg?rlkey=1g96p1er4c025tscskfozer82&st=dgbbw3td&dl=0',
     ],
     label: '45x27x20',
     description: 'Jaula de madera estilo vintage para decorar y pintar con productos CADENCE',
@@ -49,7 +49,7 @@ const initialProducts = [
     name: 'Joyero 9 cajones 37.5x15.5x20cm',
     price: '39.90',
     images: [
-      'https://i.ibb.co/71mhGrc/joyero-9-cajones-375x155x20-cm.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/3g9c3mggp9o2r0wtcznjo/joyero-9-cajones-375x155x20-cm.jpg?rlkey=hze4axfipkpqniehr3wiap1ix&st=emt778l2&dl=0',
     ],
     label: '37.5x15.5x20',
     description: 'Joyero con 9 cajones fabricado en madera de DM',
@@ -60,7 +60,7 @@ const initialProducts = [
     name: 'Caja con patas 28x18x21cm',
     price: '20.90',
     images: [
-      'https://i.ibb.co/WV5QjCv/caja-patas-28x18x21-cm.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/6e5ukpgw1dxki0rit7f5f/caja-patas-28x18x21-cm.jpg?rlkey=jnipfpsatknmo9h7gocgucw26&st=v78ca6ol&dl=0',
     ],
     label: '28x18x21',
     description: 'Caja con patas fabricada en madera de DM ',
@@ -71,7 +71,7 @@ const initialProducts = [
     name: 'Mueble 3 cajones Silvia 34x15x28cm',
     price: '39.90',
     images: [
-      'https://i.ibb.co/GxkxbWn/mueble-3-cajones-silvia.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/tlc9r694qppi7lrqcite5/mueble-3-cajones-silvia.jpg?rlkey=9ntk9a81nqmrarqr25i2q9p80&st=vnr4xmww&dl=0',
     ],
     label: '28x18x21',
     description: 'Cajonera en madera de DM con 3 alturas y tiradores',
@@ -82,7 +82,7 @@ const initialProducts = [
     name: 'Mueblecito Multifuncional 34x21x19cm',
     price: '39.90',
     images: [
-      'https://i.ibb.co/zR3gPB5/mueblecito-multifuncional.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/r5kymhplgnxe9w968vqm9/mueblecito-multifuncional.jpg?rlkey=auh877wuq954lgryd8upxazjm&st=699sx62f&dl=0',
     ],
     label: '234x21x19',
     description: 'Mueblecito DM multifuncional con 2 cajones, huecos laterales y parte superior con minicompartimentos',
@@ -93,9 +93,9 @@ const initialProducts = [
     name: 'Caja libro 21x17x5.3cm',
     price: '8.50',
     images: [
-      'https://i.ibb.co/rFSmZxV/caja-libro-21x17x53-cms.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/u2nvxwz9rbdc890da1srl/caja-libro-21x17x53-cms.jpg?rlkey=gpxewex3h97tf0hnm3zw2l9uc&st=18reidpc&dl=0',
     ],
-    label: '234x21x19',
+    label: '21x17x5.3',
     description: 'Caja con forma de libro, fabricada en madera de DM',
     selected: false,
   },
@@ -104,7 +104,7 @@ const initialProducts = [
     name: 'Revistero 2 Espacios DM 38x41x18.5cm',
     price: '27.10',
     images: [
-      'https://i.ibb.co/rFNY155/revistero-2-espacios-dm.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/xskfe5q28qotdwpau2ux1/revistero-2-espacios-dm.jpg?rlkey=pqdch94t69jx5fgjh7bnyfmep&st=eykvdmnw&dl=0',
     ],
     label: '38x41x18.5',
     description: 'Revistero 2 espacios, realizado en madera de DM ',
@@ -115,7 +115,7 @@ const initialProducts = [
     name: 'Huevera DM 12 unidades 25x13x34cm',
     price: '19.90',
     images: [
-      'https://i.ibb.co/wzXRNvC/huevera-dm-12-unid.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/44b3d3qedyw8hcjmoxjop/huevera-dm-12-unid.jpg?rlkey=gsyx8tz6v3gbl08kj7zi14kq4&st=qwurermy&dl=0',
     ],
     label: '25x13x34',
     description: 'Soporte fabricado en madera de DM  Listo para pintar o decorar con las pinturas y productos CADENCE.',
@@ -126,7 +126,7 @@ const initialProducts = [
     name: 'Pongotodo III 19x15x18cm',
     price: '17.10',
     images: [
-      'https://i.ibb.co/8cg2s9Y/Pongotodo-III.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/str794y5t1ywjq0y55y8p/Pongotodo-III.jpg?rlkey=t5viokrdbxgmklzx2oa8x2i93&st=zphrajwh&dl=0',
     ],
     label: '19x15x18',
     description: 'Soporte fabricado en madera de DM  Listo para pintar o decorar con las pinturas y productos CADENCE.',
@@ -137,7 +137,7 @@ const initialProducts = [
     name: 'Pongotodo II 21x17x20cm',
     price: '20.60',
     images: [
-      'https://i.ibb.co/4gGsJD1/Pongotodo-2-divisiones.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/2eoze8pax7wrz7z905lx3/Pongotodo-2-divisiones.jpg?rlkey=lv203nlks9hvbh0p1ylym029u&st=806k1i92&dl=0',
     ],
     label: '21x17x20',
     description: 'Soporte fabricado en madera de DM  Listo para pintar o decorar con las pinturas y productos CADENCE.',
@@ -148,7 +148,7 @@ const initialProducts = [
     name: 'Archivador Con Cajón 22x21x36cm',
     price: '29.50',
     images: [
-      'https://i.ibb.co/xFNqStZ/Archivador-con-cajon.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/1rlqx8fqujsw0k3a1sqks/Archivador-con-cajon.jpg?rlkey=m91ssrbrp74idugb3gypnkfw6&st=f211gv4e&dl=0',
     ],
     label: '22x21x36',
     description: 'Soporte fabricado en madera de DM  Listo para pintar o decorar con las pinturas y productos CADENCE.',
@@ -159,7 +159,7 @@ const initialProducts = [
     name: 'Portacubos con Patas 13x23x13cm',
     price: '16.80',
     images: [
-      'https://i.ibb.co/b5B9Hmg/portacubos-con-pastas.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/pgw5dn8mx7yo2hglvqt5t/portacubos-con-pastas.jpg?rlkey=71mlx1nazfsbflrzbs8jinl30&st=jb0v6ion&dl=0',
     ],
     label: '13x23x13',
     description: 'Soporte fabricado en madera de DM  Listo para pintar o decorar con las pinturas y productos CADENCE.',
@@ -170,7 +170,7 @@ const initialProducts = [
     name: 'Organizador Giratorio 22x26x22cm',
     price: '32.50',
     images: [
-      'https://i.ibb.co/ZHwQbp5/madera-cadence-1.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/487axgfcfdy9yq911o70i/madera-cadence-1.jpg?rlkey=vnst9bxmz8im9dze35vlkuv3n&st=eolb2xul&dl=0',
     ],
     label: '22x26x22',
     description: 'Organizador giratorio fabricado en madera de DM ',
@@ -181,7 +181,7 @@ const initialProducts = [
     name: 'Caja Combada 18x18x12cm',
     price: '17.10',
     images: [
-      'https://i.ibb.co/p0fDdSX/madera-cadence-2.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/e5d5y3du3th5jgl3vraye/madera-cadence-2.jpg?rlkey=1jd4y33zreso4ulcmu8nwk8b1&st=8adn3iub&dl=0',
     ],
     label: '18x18x12',
     description: 'Caja combada estilo bombonera, fabricada en madera de DM',
@@ -192,7 +192,7 @@ const initialProducts = [
     name: 'Set Bandejas DM 45x34x5.5cm',
     price: '24.80',
     images: [
-      'https://i.ibb.co/0C0scpC/madera-dm-cadence.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/aazbu8m9zy414imeklxun/madera-dm-cadence.jpg?rlkey=xwu25qott5jfmc5mw7016isyq&st=qc8xm2gm&dl=0',
     ],
     label: '45x34x5.5',
     description: 'Set de 2 bandejas con los cantos redondeados.',
@@ -203,7 +203,7 @@ const initialProducts = [
     name: 'Set 2 Bandejas DM 43x30x7cm 34x25x7cm',
     price: '15.00',
     images: [
-      'https://i.ibb.co/vvzz30n/set-3-bandejas-dm-cadence.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/pueum9iuwd9eb44365nkj/set-3-bandejas-dm-cadence.jpg?rlkey=2mg06dfevqmknxyu4pqmr7s6z&st=4e38zp4c&dl=0',
     ],
     label: '43x30x7 34x25x7',
     description: 'Set de 2 bandejas con los cantos redondeados.',
@@ -214,7 +214,7 @@ const initialProducts = [
     name: 'Set 3 Bandejas DM 30x40x3cm 25x35x2.5cm 20x30x2.5cm',
     price: '20.10',
     images: [
-      'https://i.ibb.co/k4k9P5T/set-3-bandejas-dm-cadence-1.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/oso16pz44m2jpcs6yp4gz/set-3-bandejas-dm-cadence-1.jpg?rlkey=6la7z32tmjpdim7xodql3xbmw&st=4yq3s7wn&dl=0',
     ],
     label: '30x40x3 25x35x2.5 20x30x2.5',
     description: 'Set de 3 bandejas, fabricada en madera de DM ',
@@ -240,7 +240,7 @@ export const Tienda3Madera = () => {
   const [filterButtonIcon, setFilterButtonIcon] = useState(<ViewOffIcon />);
 
   const [currentPage, setCurrentPage] = useState(1);
-  const [itemsPerPage, setItemsPerPage] = useState(44); // Cambia el número según tus necesidades
+  const [itemsPerPage, setItemsPerPage] = useState(12); // Cambia el número según tus necesidades
 
   const startIndex = (currentPage - 1) * itemsPerPage;
   const endIndex = startIndex + itemsPerPage;

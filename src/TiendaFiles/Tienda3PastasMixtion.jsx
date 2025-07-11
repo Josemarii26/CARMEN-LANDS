@@ -27,7 +27,7 @@ const initialProducts = [
     name: 'Mixtion CREAM FOIL BOLD 150ml',
     price: '5.25',
     images: [
-      'https://i.ibb.co/Q8vGdZw/mixtion-foil-cadence.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/l5l8tg8mvnt2jf03btk7v/mixtion-foil-cadence.jpg?rlkey=9u77md8kp8qidqxmftw1bfyen&st=gsv5y8fl&dl=0',
     ],
     label: '150ml',
     description: 'Mixtión adhesivo al agua, estilo pasta de relieve para crear efectos dimensionales con foil o pan de oro, con ayuda de stencils o con técnica libre.',
@@ -38,7 +38,7 @@ const initialProducts = [
     name: 'Mixtion PAN DE ORO 70ml',
     price: '3.25',
     images: [
-      'https://i.ibb.co/85kHRtV/mixtion-foil-cadence-1.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/0i35xqky6d8x30nuemtno/mixtion-foil-cadence-1.jpg?rlkey=cmzu6mdnu854mugzevhvdalvo&st=vzj04go3&dl=0',
     ],
     label: '70ml',
     description: 'Mixtión adhesivo al agua de CADENCE para pegar  pan de oro. Uso: aplicar, esperar a que quede mordiente (pasa de color blanquecino a transparente) y aplicar el pan de oro o plata.    ',
@@ -65,7 +65,7 @@ export const Tienda3PastasMixtion = () => {
   const [filterButtonIcon, setFilterButtonIcon] = useState(<ViewOffIcon />);
 
   const [currentPage, setCurrentPage] = useState(1);
-  const [itemsPerPage, setItemsPerPage] = useState(44); // Cambia el número según tus necesidades
+  const [itemsPerPage, setItemsPerPage] = useState(12); // Cambia el número según tus necesidades
 
   const startIndex = (currentPage - 1) * itemsPerPage;
   const endIndex = startIndex + itemsPerPage;

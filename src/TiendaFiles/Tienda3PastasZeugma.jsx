@@ -27,7 +27,7 @@ const initialProducts = [
     name: 'IKAROS ZEUGMA Pasta Relieve Efecto Piedra 150ml.',
     price: '4.25',
     images: [
-      'https://i.ibb.co/q1ZXV5F/zeugma-pasta-relieve-efecto-piedra.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/31ush3sqt6ktstll5weyr/zeugma-pasta-relieve-efecto-piedra.jpg?rlkey=twzrvl735o3dnmas25vbrh69a&st=j2l227gk&dl=0',
     ],
     label: '150ml',
     description: 'Se puede aplicar tanto es superficies porosas como no porosas, usándose con pincel, espatula, plantilla y esponja... La superficie se puede lijar y alisar o dejar con una gruesa textura irregular. Se puede mezclar con otras pinturas y pastas cadence para crear diferentes efectos de color y estilos Mix Media. Mezcla 2 tonos diferentes de pasta ZEUGMA efecto piedra para conseguir un efecto super realista. El tempo de secado depende del grosor aplicado y de las condiciones atmosféricas. Una vez seco es impermeable y resistente a los impactos. Proteger del calor y de las heladas.',
@@ -38,7 +38,7 @@ const initialProducts = [
     name: 'MINOS ZEUGMA Pasta Relieve Efecto Piedra 150ml.',
     price: '4.25',
     images: [
-      'https://i.ibb.co/XFtjj3t/zeugma-pasta-relieve-efecto-piedra-1.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/vq44gr5sqgi6z5ohwsvhx/zeugma-pasta-relieve-efecto-piedra-1.jpg?rlkey=78nmeufq2rge87dvj276vunpz&st=y0r19cez&dl=0',
     ],
     label: '150ml',
     description: 'Se puede aplicar tanto es superficies porosas como no porosas, usándose con pincel, espatula, plantilla y esponja... La superficie se puede lijar y alisar o dejar con una gruesa textura irregular. Se puede mezclar con otras pinturas y pastas cadence para crear diferentes efectos de color y estilos Mix Media. Mezcla 2 tonos diferentes de pasta ZEUGMA efecto piedra para conseguir un efecto super realista. El tempo de secado depende del grosor aplicado y de las condiciones atmosféricas. Una vez seco es impermeable y resistente a los impactos. Proteger del calor y de las heladas.',
@@ -49,7 +49,7 @@ const initialProducts = [
     name: 'SILENOS ZEUGMA Pasta Relieve Efecto Piedra 150ml.',
     price: '4.25',
     images: [
-      'https://i.ibb.co/QQHGphm/zeugma-pasta-relieve-efecto-piedra-2.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/zu0ds5179q5a5m1cl0f10/zeugma-pasta-relieve-efecto-piedra-2.jpg?rlkey=37p7nuktx4enkb3x7uhczjne2&st=etgig7y6&dl=0',
     ],
     label: '150ml',
     description: 'Se puede aplicar tanto es superficies porosas como no porosas, usándose con pincel, espatula, plantilla y esponja... La superficie se puede lijar y alisar o dejar con una gruesa textura irregular. Se puede mezclar con otras pinturas y pastas cadence para crear diferentes efectos de color y estilos Mix Media. Mezcla 2 tonos diferentes de pasta ZEUGMA efecto piedra para conseguir un efecto super realista. El tempo de secado depende del grosor aplicado y de las condiciones atmosféricas. Una vez seco es impermeable y resistente a los impactos. Proteger del calor y de las heladas.',
@@ -60,7 +60,7 @@ const initialProducts = [
     name: 'TRITON ZEUGMA Pasta Relieve Efecto Piedra 150ml.',
     price: '4.25',
     images: [
-      'https://i.ibb.co/t3pTynD/zeugma-pasta-relieve-efecto-piedra-3.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/i11gqjd36r7i08zsjspbn/zeugma-pasta-relieve-efecto-piedra-3.jpg?rlkey=18l9ueuy9jllf7wdcsoegd91f&st=wwnk0g8t&dl=0',
     ],
     label: '150ml',
     description: 'Se puede aplicar tanto es superficies porosas como no porosas, usándose con pincel, espatula, plantilla y esponja... La superficie se puede lijar y alisar o dejar con una gruesa textura irregular. Se puede mezclar con otras pinturas y pastas cadence para crear diferentes efectos de color y estilos Mix Media. Mezcla 2 tonos diferentes de pasta ZEUGMA efecto piedra para conseguir un efecto super realista. El tempo de secado depende del grosor aplicado y de las condiciones atmosféricas. Una vez seco es impermeable y resistente a los impactos. Proteger del calor y de las heladas.',
@@ -71,7 +71,7 @@ const initialProducts = [
     name: 'ASIA ZEUGMA Pasta Relieve Efecto Piedra 150ml.',
     price: '4.25',
     images: [
-      'https://i.ibb.co/0nW9Qsc/zeugma-pasta-relieve-efecto-piedra-4.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/kqvs7551ryk6fs9b4pfj2/zeugma-pasta-relieve-efecto-piedra-4.jpg?rlkey=d5l2szsagl7vopl3i3tgzykiy&st=0w9mtnnu&dl=0',
     ],
     label: '150ml',
     description: 'Se puede aplicar tanto es superficies porosas como no porosas, usándose con pincel, espatula, plantilla y esponja... La superficie se puede lijar y alisar o dejar con una gruesa textura irregular. Se puede mezclar con otras pinturas y pastas cadence para crear diferentes efectos de color y estilos Mix Media. Mezcla 2 tonos diferentes de pasta ZEUGMA efecto piedra para conseguir un efecto super realista. El tempo de secado depende del grosor aplicado y de las condiciones atmosféricas. Una vez seco es impermeable y resistente a los impactos. Proteger del calor y de las heladas.',
@@ -82,7 +82,7 @@ const initialProducts = [
     name: 'ADONIS ZEUGMA Pasta Relieve Efecto Piedra 150ml.',
     price: '4.25',
     images: [
-      'https://i.ibb.co/X309VBx/zeugma-pasta-relieve-efecto-piedra-5.jpg',
+      'https://dl.dropboxusercontent.com/scl/fi/qcbvkbomxqbkfrtex4j2u/zeugma-pasta-relieve-efecto-piedra-5.jpg?rlkey=rdpj137w6zhinpyke1oqiuter&st=w0icjpfe&dl=0',
     ],
     label: '150ml',
     description: 'Se puede aplicar tanto es superficies porosas como no porosas, usándose con pincel, espatula, plantilla y esponja... La superficie se puede lijar y alisar o dejar con una gruesa textura irregular. Se puede mezclar con otras pinturas y pastas cadence para crear diferentes efectos de color y estilos Mix Media. Mezcla 2 tonos diferentes de pasta ZEUGMA efecto piedra para conseguir un efecto super realista. El tempo de secado depende del grosor aplicado y de las condiciones atmosféricas. Una vez seco es impermeable y resistente a los impactos. Proteger del calor y de las heladas.',
@@ -109,7 +109,7 @@ export const Tienda3PastasZeugma = () => {
   const [filterButtonIcon, setFilterButtonIcon] = useState(<ViewOffIcon />);
 
   const [currentPage, setCurrentPage] = useState(1);
-  const [itemsPerPage, setItemsPerPage] = useState(44); // Cambia el número según tus necesidades
+  const [itemsPerPage, setItemsPerPage] = useState(12); // Cambia el número según tus necesidades
 
   const startIndex = (currentPage - 1) * itemsPerPage;
   const endIndex = startIndex + itemsPerPage;
