@@ -18,18 +18,15 @@ import 'aos/dist/aos.css';
 import ScrollToTopButton from '../parallax/parallax-2/ScrollToTopButton';
 import { Navbar2 } from '../navbar/Navbar2';
 import { ProductCard2 } from '../tienda/ProductCard2';
-import { Navbar3 } from '../navbar/Navbar3';
+import { Navbar5 } from '../navbar/Navbar5';
 import { WavyContainer, WavyLink } from "react-wavy-transitions";
 
 
 
-export const Tienda3Pastas = () => {
+export const Tienda5 = () => {
 
   const [cart, setCart] = useState([]);
   const [showOverlay, setShowOverlay] = useState(false);
-
-
-
 
 
   useEffect(() => {
@@ -81,97 +78,44 @@ export const Tienda3Pastas = () => {
 
   return (
     <>
-      <Navbar3 />
+      <Navbar5 />
 
       {showOverlay && <div className="overlay"></div>}
-      <div className="tienda" id='tienda3'>
+      <div className="tienda" id='tienda5'>
         <br></br>
 
         <div className="menu">
 
-          <h1>Pastas - Cadence 📘</h1>
+          <h1>Tienda de productos - Montejo 🎗️</h1>
 
-          <h3>Pinturas Cadence de fabulosos efectos metalizados, chalky, marmoleados, espejo, granito, distress.. y productos para manualidades, home decor, mix media, Bellas Artes... </h3>
+          <h3>En esta sección de la tienda encontrareis multitud de productos especializados de la marca Montejo.</h3>
 
 
 
         </div>
 
         <div className="marcas2">
-          <WavyLink direction="up" to="/tienda/cadence/pastas/relieve" color="#4593db">
+          <WavyLink direction="up" to="/tienda/montejo/textil" color="#dbac45ff">
             <div className="cadence-card">
-              <img src='https://i.ibb.co/2vypH6b/pastas-de-relieve-y-gessos-cadence-1.jpg' alt='cadence'></img>
+                            <span className="badge-novedad">Novedades</span>
+
+              <img src='https://dl.dropboxusercontent.com/scl/fi/pdhnpyghdjrfwl8j70a63/textiles-cadence.jpg?rlkey=hlgnq92z30kacwfdk6ysnd4tn&st=nd84ifkd&dl=0' alt='cadence'></img>
               <br></br>
-              <p>Pastas de Relieve Cadence</p>
+              <p>Textil Artesanía Montejo</p>
             </div>
       
           </WavyLink>
 
-          <WavyLink direction="up" to="/tienda/cadence/pastas/mixtion" color="#4593db">
+
+          <WavyLink direction="up" to="/tienda/montejo" color="#dbac45ff">
             <div className="cadence-card">
-              <img src='https://i.ibb.co/MVyFh7M/transfers-cadence.jpg' alt='cadence'></img>
+              <img src='https://i.ibb.co/51krssD/Proximamente.png' alt='proximamente'></img>
               <br></br>
-              <p>MIXTION Adhesivo Cadence</p>
+              <br></br>
+              <p>Proximamente...</p>
             </div>
       
           </WavyLink>
-          <WavyLink direction="up" to="/tienda/cadence/pastas/patina-imprimacion" color="#4593db">
-            <div className="cadence-card">
-              <img src='https://i.ibb.co/Wcw4f9t/mediums-y-limpieza-cadence.jpg' alt='cadence'></img>
-              <br></br>
-              <p>Patina e imprimación Cadence</p>
-            </div>
-      
-          </WavyLink>
-
-          <WavyLink direction="up" to="/tienda/cadence/pastas/shabby" color="#4593db">
-            <div className="cadence-card">
-              <img src='https://i.ibb.co/cYjv81n/pasta-shabby-chic-cadence.jpg' alt='cadence'></img>
-              <br></br>
-              <p>Pasta SHABBY CHIC Cadence</p>
-            </div>
-      
-          </WavyLink>
-
-          <WavyLink direction="up" to="/tienda/cadence/pastas/zeugma" color="#4593db">
-            <div className="cadence-card">
-              <img src='https://i.ibb.co/dk9X25t/pasta-relieve-beton-zeugma-cadence.jpg' alt='cadence'></img>
-              <br></br>
-              <p>Pasta ZEUGMA Cadence</p>
-            </div>
-      
-          </WavyLink>
-
-          <WavyLink direction="up" to="/tienda/cadence/pastas/distress" color="#4593db">
-            <div className="cadence-card">
-              <img src='https://i.ibb.co/Yfnsj85/disstress-paste.jpg' alt='cadence'></img>
-              <br></br>
-              <p>Pasta DISSTRESS Cadence</p>
-            </div>
-      
-          </WavyLink>
-
-          <WavyLink direction="up" to="/tienda/cadence/pastas/flexible-metalica" color="#4593db">
-            <div className="cadence-card">
-              <img src='https://i.ibb.co/dGwPmdh/pasta-flexible-metalizada-cadence.jpg' alt='cadence'></img>
-              <br></br>
-              <p>Pasta Flexible Metálica Cadence</p>
-            </div>
-      
-          </WavyLink>
-
-          <WavyLink direction="up" to="/tienda/cadence/pastas/vintage-legend" color="#4593db">
-            <div className="cadence-card">
-              <img src='https://i.ibb.co/HFYg8wh/vintage-legend-cadence-12.jpg' alt='cadence'></img>
-              <br></br>
-              <p>Patina VINTAGE LEGEND Cadence</p>
-            </div>
-      
-          </WavyLink>
-
-          
-
-          
 
           
           
@@ -188,6 +132,13 @@ export const Tienda3Pastas = () => {
         <br></br>
         <br></br>
         <br></br>
+        <br></br>
+        <br></br>
+        <br></br>
+        
+        <br></br>
+
+        
         <br></br>
         <br></br>
         <br></br>

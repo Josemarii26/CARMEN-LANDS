@@ -19,219 +19,98 @@ import ScrollToTopButton from '../parallax/parallax-2/ScrollToTopButton';
 import { Navbar2 } from '../navbar/Navbar2';
 import { ProductCard2 } from '../tienda/ProductCard2';
 import { Navbar3 } from '../navbar/Navbar3';
+import { ProductCard3 } from '../tienda/ProductCard3';
+import { Navbar4 } from '../navbar/Navbar4';
 
 
 const initialProducts = [
   {
-    id: 557,
-    name: 'Caja DM Asa 14x12x20cm',
-    price: '16.80',
+    id: 348,
+    name: 'MESITA ABRIL 🌸',
+    price: 190,
     images: [
-      'https://dl.dropboxusercontent.com/scl/fi/dql0knxgfq4lqo9hafeqt/caja-dm-asa-14x12x20-cms.jpg?rlkey=igdqk946gcurjsnts5f35rysi&st=kxxpnysa&dl=0',
+      "https://dl.dropboxusercontent.com/scl/fi/ykbfwseeupluzke03ng6e/Whats-App-Image-2023-11-19-at-20-28-52-2.jpg?rlkey=lu6w9cgv3tlwudhvdqytiyq3q&st=whdbqcpd&dl=0",
+      "https://dl.dropboxusercontent.com/scl/fi/tmhlpuxni4n560sl35rwb/Whats-App-Image-2023-11-19-at-20-27-28-1.jpg?rlkey=pyjtyiujv6maeuqqnaym4paor&st=k4h9u7dk&dl=0",
+      "https://dl.dropboxusercontent.com/scl/fi/umsaw9vyiwxv3qc5uwzd6/Whats-App-Image-2023-11-19-at-20-27-29.jpg?rlkey=p2y7pmgzw6eq5m7phipf0luhy&st=ylqm2t2r&dl=0",
+      "https://dl.dropboxusercontent.com/scl/fi/2yizyez79j8tkl0voylpv/Whats-App-Image-2023-11-19-at-20-27-28.jpg?rlkey=dnulb0wvo5e32m11neno0fc2c&st=ew6ead6q&dl=0",
+      "https://dl.dropboxusercontent.com/scl/fi/09taf1taoafw57fphet95/Whats-App-Image-2023-11-19-at-20-28-52.jpg?rlkey=tbiaaiyhd6c1a9ecm34u6g3b7&st=ydec7oln&dl=0"
     ],
-    label: '14x12x20',
-    description: 'Caja DM con asa de cuerda y tapa con bisagras y cierre.',
+    label: 'Mesas',
+    description: 'Cuando gané el concurso de CasaTalentos 2021, tuve que crear un mueble original en directo, ¡en tan solo día y medio! En la grabación del programa, con cámaras, luces y cinco personas en mi pequeño taller, se impusieron el color rosa y las flores de acuarela, con pequeñas texturas de perlas.',
     selected: false,
   },
   /*
   {
-    id: 558,
-    name: 'Jaula DM 45x27x20cm',
-    price: '47.50',
+    id: 627,
+    name: 'MESA LUZ ✨ ',
+    price: 190,
     images: [
-      'https://dl.dropboxusercontent.com/scl/fi/m9kmmnt48u3fj8dyg87m0/jaula-dm.jpg?rlkey=1g96p1er4c025tscskfozer82&st=dgbbw3td&dl=0',
+      "https://dl.dropboxusercontent.com/scl/fi/wsqg9v18ydfl0nre4aa2b/mesaLuz1.jpg?rlkey=k9pjo5eun2l39iio8rst8olqf&st=s8lp96ey&dl=0",
+      "https://dl.dropboxusercontent.com/scl/fi/wxsbmg6eoa36xjoaymfgu/mesaLuz2.jpg?rlkey=488tlth1l2ntmitiroal42qu2&st=hxn0idf7&dl=0",
+      "https://dl.dropboxusercontent.com/scl/fi/4203o56gvuw9gv0rkyko0/mesaLuz3.jpg?rlkey=x3ky1huf6r2f0ot26m64753zd&st=boacgugx&dl=0"
+      
     ],
-    label: '45x27x20',
-    description: 'Jaula de madera estilo vintage para decorar y pintar con productos CADENCE',
+    label: 'Mesas',
+    description: 'Es la necesidad de atrapar las sensaciones de las vetas de una piedra marmoleada en la madera, con el tacto en relieve de  delicadas flores de muguet doradas y preciosos tiradores de libélulas.',
     selected: false,
   },
   */
   {
-    id: 559,
-    name: 'Joyero 9 cajones 37.5x15.5x20cm',
-    price: '39.90',
+    id: 627,
+    name: 'CUADRO SILLA ISABELINA SERIE 1 75x50 🪑⭐ ',
+    price: 125,
     images: [
-      'https://dl.dropboxusercontent.com/scl/fi/3g9c3mggp9o2r0wtcznjo/joyero-9-cajones-375x155x20-cm.jpg?rlkey=hze4axfipkpqniehr3wiap1ix&st=emt778l2&dl=0',
+      "https://dl.dropboxusercontent.com/scl/fi/iwb679hq5lfbdylmq1yvt/cuadro-Silla-Isabelina-Serie1.jpg?rlkey=2sf7qf5x8ecerzuw2pre694iq&st=jd74jo42&dl=0",
+      "https://dl.dropboxusercontent.com/scl/fi/7wvu8v3fkgt2dm06eva37/cuadro-Silla-Isabelina-Serie2-2.jpg?rlkey=y23bdtyy6gfthgnvrd68z9hd9&st=zzfi07y3&dl=0",
+      "https://dl.dropboxusercontent.com/scl/fi/y5esgqbsjjbbr3kfo8wic/cuadro-Silla-Isabelina-Serie1-3.jpg?rlkey=zthx7qizkozrgpl8illwkvqgs&st=863eqk4h&dl=0"
+      
     ],
-    label: '37.5x15.5x20',
-    description: 'Joyero con 9 cajones fabricado en madera de DM',
+    label: 'Cuadros',
+    description: 'Puros relieves. Craquelados en oro. Tiempos pasados reconvertidos, en colores de naturaleza. ¡Azules, turquesas, verdes!',
     selected: false,
   },
   {
-    id: 560,
-    name: 'Caja con patas 28x18x21cm',
-    price: '20.90',
+    id: 628,
+    name: 'CUADRO SILLA ISABELINA SERIE 2 75x50 🪑🌑 ',
+    price: 125,
     images: [
-      'https://dl.dropboxusercontent.com/scl/fi/6e5ukpgw1dxki0rit7f5f/caja-patas-28x18x21-cm.jpg?rlkey=jnipfpsatknmo9h7gocgucw26&st=v78ca6ol&dl=0',
+      "https://dl.dropboxusercontent.com/scl/fi/ehc7lutb3dz9okr4sntcb/cuadro-Silla-Isabelina-Serie2.jpg?rlkey=avoca7uzvgkm47ja95d3lldzx&st=enqjnkt7&dl=0",
+      "https://dl.dropboxusercontent.com/scl/fi/fdlusod2bm848ipflb3ez/cuadro-Silla-Isabelina-Serie2-3.jpg?rlkey=26nnp2y4jwo42c1hb8obhw2nf&st=x8ugptov&dl=0",
+      "https://dl.dropboxusercontent.com/scl/fi/7wvu8v3fkgt2dm06eva37/cuadro-Silla-Isabelina-Serie2-2.jpg?rlkey=y23bdtyy6gfthgnvrd68z9hd9&st=kyfk58k5&dl=0"
+      
     ],
-    label: '28x18x21',
-    description: 'Caja con patas fabricada en madera de DM ',
+    label: 'Cuadros',
+    description: 'La calidez y la nobleza de puro terciopelo negro en un cuadro, utilizando un clásico y actualizándolo con un radical aspecto ¡La idea melliza del contrario!',
     selected: false,
   },
   {
-    id: 561,
-    name: 'Mueble 3 cajones Silvia 34x15x28cm',
-    price: '39.90',
+    id: 630,
+    name: 'BALINESA SERIE 1 🗝️ ',
+    price: 65,
     images: [
-      'https://dl.dropboxusercontent.com/scl/fi/tlc9r694qppi7lrqcite5/mueble-3-cajones-silvia.jpg?rlkey=9ntk9a81nqmrarqr25i2q9p80&st=vnr4xmww&dl=0',
+      "https://dl.dropboxusercontent.com/scl/fi/nxf538v4kvky9acdd3lr8/Balinesa-Serie1.jpg?rlkey=jfv8bv8dtvxmgl97st2xuari3&st=4oy57zge&dl=0",
+      "https://dl.dropboxusercontent.com/scl/fi/nc81ynvuzgpa2ziwekbdt/Balinesa-Serie1-3.jpg?rlkey=zltf6a4r7q67xaqm5hiz4h93t&st=2dh78084&dl=0",
+      "https://dl.dropboxusercontent.com/scl/fi/cd1tdtttawcmit4b2xrno/Balinesa-Serie1-2.jpg?rlkey=s2rixhozn51mo5992g4edk32z&st=bx7191zg&dl=0"
+      
     ],
-    label: '28x18x21',
-    description: 'Cajonera en madera de DM con 3 alturas y tiradores',
-    selected: false,
-  },
-  {
-    id: 562,
-    name: 'Mueblecito Multifuncional 34x21x19cm',
-    price: '39.90',
-    images: [
-      'https://dl.dropboxusercontent.com/scl/fi/r5kymhplgnxe9w968vqm9/mueblecito-multifuncional.jpg?rlkey=auh877wuq954lgryd8upxazjm&st=699sx62f&dl=0',
-    ],
-    label: '234x21x19',
-    description: 'Mueblecito DM multifuncional con 2 cajones, huecos laterales y parte superior con minicompartimentos',
-    selected: false,
-  },
-  {
-    id: 563,
-    name: 'Caja libro 21x17x5.3cm',
-    price: '8.50',
-    images: [
-      'https://dl.dropboxusercontent.com/scl/fi/u2nvxwz9rbdc890da1srl/caja-libro-21x17x53-cms.jpg?rlkey=gpxewex3h97tf0hnm3zw2l9uc&st=18reidpc&dl=0',
-    ],
-    label: '21x17x5.3',
-    description: 'Caja con forma de libro, fabricada en madera de DM',
-    selected: false,
-  },
-  {
-    id: 564,
-    name: 'Revistero 2 Espacios DM 38x41x18.5cm',
-    price: '27.10',
-    images: [
-      'https://dl.dropboxusercontent.com/scl/fi/xskfe5q28qotdwpau2ux1/revistero-2-espacios-dm.jpg?rlkey=pqdch94t69jx5fgjh7bnyfmep&st=eykvdmnw&dl=0',
-    ],
-    label: '38x41x18.5',
-    description: 'Revistero 2 espacios, realizado en madera de DM ',
-    selected: false,
-  },
-  {
-    id: 565,
-    name: 'Huevera DM 12 unidades 25x13x34cm',
-    price: '19.90',
-    images: [
-      'https://dl.dropboxusercontent.com/scl/fi/44b3d3qedyw8hcjmoxjop/huevera-dm-12-unid.jpg?rlkey=gsyx8tz6v3gbl08kj7zi14kq4&st=qwurermy&dl=0',
-    ],
-    label: '25x13x34',
-    description: 'Soporte fabricado en madera de DM  Listo para pintar o decorar con las pinturas y productos CADENCE.',
-    selected: false,
-  },
-  {
-    id: 566,
-    name: 'Pongotodo III 19x15x18cm',
-    price: '17.10',
-    images: [
-      'https://dl.dropboxusercontent.com/scl/fi/str794y5t1ywjq0y55y8p/Pongotodo-III.jpg?rlkey=t5viokrdbxgmklzx2oa8x2i93&st=zphrajwh&dl=0',
-    ],
-    label: '19x15x18',
-    description: 'Soporte fabricado en madera de DM  Listo para pintar o decorar con las pinturas y productos CADENCE.',
-    selected: false,
-  },
-  {
-    id: 567,
-    name: 'Pongotodo II 21x17x20cm',
-    price: '20.60',
-    images: [
-      'https://dl.dropboxusercontent.com/scl/fi/2eoze8pax7wrz7z905lx3/Pongotodo-2-divisiones.jpg?rlkey=lv203nlks9hvbh0p1ylym029u&st=806k1i92&dl=0',
-    ],
-    label: '21x17x20',
-    description: 'Soporte fabricado en madera de DM  Listo para pintar o decorar con las pinturas y productos CADENCE.',
-    selected: false,
-  },
-  {
-    id: 568,
-    name: 'Archivador Con Cajón 22x21x36cm',
-    price: '29.50',
-    images: [
-      'https://dl.dropboxusercontent.com/scl/fi/1rlqx8fqujsw0k3a1sqks/Archivador-con-cajon.jpg?rlkey=m91ssrbrp74idugb3gypnkfw6&st=f211gv4e&dl=0',
-    ],
-    label: '22x21x36',
-    description: 'Soporte fabricado en madera de DM  Listo para pintar o decorar con las pinturas y productos CADENCE.',
-    selected: false,
-  },
-  {
-    id: 569,
-    name: 'Portacubos con Patas 13x23x13cm',
-    price: '16.80',
-    images: [
-      'https://dl.dropboxusercontent.com/scl/fi/pgw5dn8mx7yo2hglvqt5t/portacubos-con-pastas.jpg?rlkey=71mlx1nazfsbflrzbs8jinl30&st=jb0v6ion&dl=0',
-    ],
-    label: '13x23x13',
-    description: 'Soporte fabricado en madera de DM  Listo para pintar o decorar con las pinturas y productos CADENCE.',
-    selected: false,
-  },
-  {
-    id: 570,
-    name: 'Organizador Giratorio 22x26x22cm',
-    price: '32.50',
-    images: [
-      'https://dl.dropboxusercontent.com/scl/fi/487axgfcfdy9yq911o70i/madera-cadence-1.jpg?rlkey=vnst9bxmz8im9dze35vlkuv3n&st=eolb2xul&dl=0',
-    ],
-    label: '22x26x22',
-    description: 'Organizador giratorio fabricado en madera de DM ',
-    selected: false,
-  },
-  {
-    id: 571,
-    name: 'Caja Combada 18x18x12cm',
-    price: '17.10',
-    images: [
-      'https://dl.dropboxusercontent.com/scl/fi/e5d5y3du3th5jgl3vraye/madera-cadence-2.jpg?rlkey=1jd4y33zreso4ulcmu8nwk8b1&st=8adn3iub&dl=0',
-    ],
-    label: '18x18x12',
-    description: 'Caja combada estilo bombonera, fabricada en madera de DM',
-    selected: false,
-  },
-  {
-    id: 572,
-    name: 'Set Bandejas DM 45x34x5.5cm',
-    price: '24.80',
-    images: [
-      'https://dl.dropboxusercontent.com/scl/fi/aazbu8m9zy414imeklxun/madera-dm-cadence.jpg?rlkey=xwu25qott5jfmc5mw7016isyq&st=qc8xm2gm&dl=0',
-    ],
-    label: '45x34x5.5',
-    description: 'Set de 2 bandejas con los cantos redondeados.',
-    selected: false,
-  },
-  {
-    id: 573,
-    name: 'Set 2 Bandejas DM 43x30x7cm 34x25x7cm',
-    price: '15.00',
-    images: [
-      'https://dl.dropboxusercontent.com/scl/fi/pueum9iuwd9eb44365nkj/set-3-bandejas-dm-cadence.jpg?rlkey=2mg06dfevqmknxyu4pqmr7s6z&st=4e38zp4c&dl=0',
-    ],
-    label: '43x30x7 34x25x7',
-    description: 'Set de 2 bandejas con los cantos redondeados.',
-    selected: false,
-  },
-  {
-    id: 574,
-    name: 'Set 3 Bandejas DM 30x40x3cm 25x35x2.5cm 20x30x2.5cm',
-    price: '20.10',
-    images: [
-      'https://dl.dropboxusercontent.com/scl/fi/oso16pz44m2jpcs6yp4gz/set-3-bandejas-dm-cadence-1.jpg?rlkey=6la7z32tmjpdim7xodql3xbmw&st=4yq3s7wn&dl=0',
-    ],
-    label: '30x40x3 25x35x2.5 20x30x2.5',
-    description: 'Set de 3 bandejas, fabricada en madera de DM ',
+    label: 'Cuadros',
+    description: 'El deseo de encontrar una pieza en el fondo de mar hace de esta pequeña escultura, una pieza seudoarqueologica. La textura y el relieve recrean incrustaciones marinas y la oxidación de metal.',
     selected: false,
   },
   
+
+
+
+
 
 
 ];
 
 // Define el rango de precios mínimo y máximo de tus productos
 const precioMinimo = 0;
-const precioMaximo = 50;
+const precioMaximo = 300;
 
-export const Tienda3Madera = () => {
+export const Tienda4 = () => {
   const [products, setProducts] = useState(initialProducts);
   const [priceRange, setPriceRange] = useState([precioMinimo, precioMaximo]);
   const [selectedClasses, setSelectedClasses] = useState([]);
@@ -269,10 +148,6 @@ export const Tienda3Madera = () => {
     setShowNoProducts(filteredProducts.length === 0);
   };
 
-  const removeAccents = (str) => {
-    return str.normalize("NFD").replace(/[\u0300-\u036f]/g, "");
-  };
-
   const handleSearch = (searchText) => {
     // No filtrar directamente por nombre al buscar
     // en su lugar, ajustar los productos existentes según los filtros
@@ -280,7 +155,7 @@ export const Tienda3Madera = () => {
 
     if (searchText !== '') {
       const filteredProducts = products.filter((product) =>
-        removeAccents(product.name).toLowerCase().includes(searchText.toLowerCase())
+        product.name.toLowerCase().includes(searchText.toLowerCase())
       );
       setProducts(filteredProducts);
       setShowNoProducts(filteredProducts.length === 0);
@@ -409,37 +284,50 @@ export const Tienda3Madera = () => {
 
   return (
     <>
-      <Navbar3 />
+      <Navbar4 />
 
       {showOverlay && <div className="overlay"></div>}
-      <div className="tienda" id='tienda3'>
+      <div className="tienda" id='tienda4'>
         <br></br>
 
         <div className="menu">
 
-          <h1>Tienda de productos para artistas - Cadence 📘</h1>
-          <h2>Soportes de Madera🎨</h2>
+          <h1>Tienda de productos para artistas - Muebles y Ornamentos 🎀</h1>
 
-          <h3>Pintura CADENCE de gesso con base de agua, especialmente formulada con partículas de diferentes tamaños y colores en su interior para crear una superficie antigua vintage rota. </h3>
+          <h2>Muebles y Ornamentos ⚖️</h2>
 
 
-          <Button className="remove-button3" rightIcon={filterButtonIcon} onClick={handleToggleFilters} colorScheme='blue' variant='solid'>
+          <h3>Aquí se encuentran los productos más exclusivos de toda la tienda, todos echos a mano por mí, siendo piezas únicas.</h3>
+
+          <Button className="remove-button3" rightIcon={filterButtonIcon} onClick={handleToggleFilters} colorScheme='red' variant='solid' bg='red.700'>
             Filtrar Productos
           </Button>
 
           <SearchBar onSearch={handleSearch} />
 
 
-          <button className="bn632-hover bn22b" onClick={handleToggleCart}>Carrito🛒</button>
+          <button className="bn632-hover bn22c" onClick={handleToggleCart}>Carrito🛒</button>
 
         </div>
 
         {showFilters && (
           <div data-aos="fade-right"><div className="filter">
 
-            
+            {Array.from(new Set(initialProducts.map((product) => product.label)).values()).map(
+              (selectedClass) => (
+                <Tag size={'lg'} key={'lg'} variant='solid' colorScheme='red' bg='red.700'>
+                  <label key={selectedClass} className="filter-item" id='checkbox'>
+                    <input
+                      type="checkbox"
+                      checked={selectedClasses.includes(selectedClass)}
+                      onChange={() => toggleSelectedClass(selectedClass)} />
+                    {selectedClass}
+                  </label>
+                </Tag>
+              )
+            )}
 
-          </div> <div className="price-slider">
+          </div><div className="price-slider">
 
               <input
                 type="range"
@@ -464,7 +352,7 @@ export const Tienda3Madera = () => {
             <p> <br></br> <br></br>No hay productos según su búsqueda.</p>
           ) : (
             visibleProducts.map((product) => (
-              <ProductCard2
+              <ProductCard3
                 key={product.id}
                 product={product}
                 addToCart={addToCart}

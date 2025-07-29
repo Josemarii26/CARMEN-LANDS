@@ -53,6 +53,17 @@ a {
   background: rgb(209, 89, 80) !important;
 }
 
+#nav5 {
+  background: rgb(194, 138, 65) !important;
+}
+
+#nav5 .nav-items {
+  background: rgb(194, 138, 65) !important;
+}
+
+
+
+
 /* Estilos para el menú de navegación visible */
 .navbar.visible {
   top: 0;
@@ -185,7 +196,7 @@ section>p {
 }
 
 /* Estilos para el menú de navegación en pantallas pequeñas */
-@media (max-width: 1407px) {
+@media (max-width: 1507px) {
   .navbar {
     display: block;
     text-align: center;
@@ -252,9 +263,71 @@ section>p {
 
 }
 
-@media (min-width: 1407px) {
+@media (min-width: 1507px) {
   .cart ul {
     overflow-y: auto;
     max-height: 300px ;
   }
+}
+
+
+.nav-item-badge {
+  position: relative;
+  display: inline-block; /* asegura que el li tenga el tamaño justo */
+}
+
+/* 2) keyframes de pulso (zoom in/out) */
+@keyframes pulse {
+  0%   { transform: scale(0.8);   }
+  50%  { transform: scale(1.0); }
+  100% { transform: scale(0.8);   }
+}
+
+/* 3) estilos del badge en sí */
+.badge-novedad2 {
+  position: absolute;
+  top: -16px !important;
+  right: 50px;
+  width: 31px;
+  height: 18px;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  background-color: #e74c3c;
+  color: white;
+  font-size: 9px;
+  font-weight: bold;
+  text-transform: uppercase;
+  border-radius: 10%;
+  box-shadow: 0 0 4px rgba(0,0,0,0.2);
+  pointer-events: none;
+
+  /* animación de pulso */
+  animation: pulse 3s ease-in-out infinite;
+}
+
+.badge-novedad3 {
+  position: absolute;
+  top: -16px !important;
+  right: 30px;
+  width: 57px;
+  height: 18px;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  background-color: #e74c3c;
+  color: white;
+  font-size: 9px;
+  font-weight: bold;
+  text-transform: uppercase;
+  border-radius: 10%;
+  box-shadow: 0 0 4px rgba(0,0,0,0.2);
+  pointer-events: none;
+
+  /* animación de pulso */
+  animation: pulse 3s ease-in-out infinite;
 }

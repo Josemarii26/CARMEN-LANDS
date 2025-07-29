@@ -19,84 +19,29 @@ import ScrollToTopButton from '../parallax/parallax-2/ScrollToTopButton';
 import { Navbar2 } from '../navbar/Navbar2';
 import { ProductCard2 } from '../tienda/ProductCard2';
 import { Navbar3 } from '../navbar/Navbar3';
-import { ProductCard3 } from '../tienda/ProductCard3';
-import { Navbar4 } from '../navbar/Navbar4';
 
 
 const initialProducts = [
-  {
-    id: 348,
-    name: 'MESITA ABRIL 🌸',
-    price: 190,
-    images: [
-      "https://dl.dropboxusercontent.com/scl/fi/ykbfwseeupluzke03ng6e/Whats-App-Image-2023-11-19-at-20-28-52-2.jpg?rlkey=lu6w9cgv3tlwudhvdqytiyq3q&st=whdbqcpd&dl=0",
-      "https://dl.dropboxusercontent.com/scl/fi/tmhlpuxni4n560sl35rwb/Whats-App-Image-2023-11-19-at-20-27-28-1.jpg?rlkey=pyjtyiujv6maeuqqnaym4paor&st=k4h9u7dk&dl=0",
-      "https://dl.dropboxusercontent.com/scl/fi/umsaw9vyiwxv3qc5uwzd6/Whats-App-Image-2023-11-19-at-20-27-29.jpg?rlkey=p2y7pmgzw6eq5m7phipf0luhy&st=ylqm2t2r&dl=0",
-      "https://dl.dropboxusercontent.com/scl/fi/2yizyez79j8tkl0voylpv/Whats-App-Image-2023-11-19-at-20-27-28.jpg?rlkey=dnulb0wvo5e32m11neno0fc2c&st=ew6ead6q&dl=0",
-      "https://dl.dropboxusercontent.com/scl/fi/09taf1taoafw57fphet95/Whats-App-Image-2023-11-19-at-20-28-52.jpg?rlkey=tbiaaiyhd6c1a9ecm34u6g3b7&st=ydec7oln&dl=0"
-    ],
-    label: 'Mesas',
-    description: 'Cuando gané el concurso de CasaTalentos 2021, tuve que crear un mueble original en directo, ¡en tan solo día y medio! En la grabación del programa, con cámaras, luces y cinco personas en mi pequeño taller, se impusieron el color rosa y las flores de acuarela, con pequeñas texturas de perlas.',
-    selected: false,
-  },
-  {
-    id: 627,
-    name: 'MESA LUZ ✨ ',
-    price: 190,
-    images: [
-      "https://dl.dropboxusercontent.com/scl/fi/wsqg9v18ydfl0nre4aa2b/mesaLuz1.jpg?rlkey=k9pjo5eun2l39iio8rst8olqf&st=s8lp96ey&dl=0",
-      "https://dl.dropboxusercontent.com/scl/fi/wxsbmg6eoa36xjoaymfgu/mesaLuz2.jpg?rlkey=488tlth1l2ntmitiroal42qu2&st=hxn0idf7&dl=0",
-      "https://dl.dropboxusercontent.com/scl/fi/4203o56gvuw9gv0rkyko0/mesaLuz3.jpg?rlkey=x3ky1huf6r2f0ot26m64753zd&st=boacgugx&dl=0"
-      
-    ],
-    label: 'Mesas',
-    description: 'Es la necesidad de atrapar las sensaciones de las vetas de una piedra marmoleada en la madera, con el tacto en relieve de  delicadas flores de muguet doradas y preciosos tiradores de libélulas.',
-    selected: false,
-  },
-  {
-    id: 627,
-    name: 'CUADRO SILLA ISABELINA SERIE 1 75x50 🪑⭐ ',
-    price: 125,
-    images: [
-      "https://dl.dropboxusercontent.com/scl/fi/iwb679hq5lfbdylmq1yvt/cuadro-Silla-Isabelina-Serie1.jpg?rlkey=2sf7qf5x8ecerzuw2pre694iq&st=jd74jo42&dl=0",
-      "https://dl.dropboxusercontent.com/scl/fi/7wvu8v3fkgt2dm06eva37/cuadro-Silla-Isabelina-Serie2-2.jpg?rlkey=y23bdtyy6gfthgnvrd68z9hd9&st=zzfi07y3&dl=0",
-      "https://dl.dropboxusercontent.com/scl/fi/y5esgqbsjjbbr3kfo8wic/cuadro-Silla-Isabelina-Serie1-3.jpg?rlkey=zthx7qizkozrgpl8illwkvqgs&st=863eqk4h&dl=0"
-      
-    ],
-    label: 'Cuadros',
-    description: 'Puros relieves. Craquelados en oro. Tiempos pasados reconvertidos, en colores de naturaleza. ¡Azules, turquesas, verdes!',
-    selected: false,
-  },
-  {
-    id: 628,
-    name: 'CUADRO SILLA ISABELINA SERIE 2 75x50 🪑🌑 ',
-    price: 125,
-    images: [
-      "https://dl.dropboxusercontent.com/scl/fi/ehc7lutb3dz9okr4sntcb/cuadro-Silla-Isabelina-Serie2.jpg?rlkey=avoca7uzvgkm47ja95d3lldzx&st=enqjnkt7&dl=0",
-      "https://dl.dropboxusercontent.com/scl/fi/fdlusod2bm848ipflb3ez/cuadro-Silla-Isabelina-Serie2-3.jpg?rlkey=26nnp2y4jwo42c1hb8obhw2nf&st=x8ugptov&dl=0",
-      "https://dl.dropboxusercontent.com/scl/fi/7wvu8v3fkgt2dm06eva37/cuadro-Silla-Isabelina-Serie2-2.jpg?rlkey=y23bdtyy6gfthgnvrd68z9hd9&st=kyfk58k5&dl=0"
-      
-    ],
-    label: 'Cuadros',
-    description: 'La calidez y la nobleza de puro terciopelo negro en un cuadro, utilizando un clásico y actualizándolo con un radical aspecto ¡La idea melliza del contrario!',
-    selected: false,
-  },
-  {
-    id: 630,
-    name: 'BALINESA SERIE 1 🗝️ ',
-    price: 65,
-    images: [
-      "https://dl.dropboxusercontent.com/scl/fi/nxf538v4kvky9acdd3lr8/Balinesa-Serie1.jpg?rlkey=jfv8bv8dtvxmgl97st2xuari3&st=4oy57zge&dl=0",
-      "https://dl.dropboxusercontent.com/scl/fi/nc81ynvuzgpa2ziwekbdt/Balinesa-Serie1-3.jpg?rlkey=zltf6a4r7q67xaqm5hiz4h93t&st=2dh78084&dl=0",
-      "https://dl.dropboxusercontent.com/scl/fi/cd1tdtttawcmit4b2xrno/Balinesa-Serie1-2.jpg?rlkey=s2rixhozn51mo5992g4edk32z&st=bx7191zg&dl=0"
-      
-    ],
-    label: 'Cuadros',
-    description: 'El deseo de encontrar una pieza en el fondo de mar hace de esta pequeña escultura, una pieza seudoarqueologica. La textura y el relieve recrean incrustaciones marinas y la oxidación de metal.',
-    selected: false,
-  },
   
-
+  
+  {
+    "id": 1007,
+    "name": "HEAT TRANSFER MEDIUM 90 ml.",
+    "price": "5.70",
+    "images": ["https://dl.dropboxusercontent.com/scl/fi/uhj5p9fgf1g3zr33nxfj4/heat-transfer-medium-90ml.jpg?rlkey=8o0gobu90npwgup6cgdfzdco6&st=orjlar9e&dl=0"],
+    "label": "90 ml.",
+    "description": "Medium adecuado para aplicar con pincel o espátula a la superficie textil donde se desea trabajar con foil. Después de la aplicación del medium se espera a que seque y después del secado se coloca una lámina de foil. Coloca un paño fino o papel sobre la lámina foil y se plancha con una plancha sin vapor. (Máximo 1 minuto con plancha a 140C) Después de enfriar, se retira la lámina de foil.",
+    "selected": false
+  },
+  {
+    "id": 1008,
+    "name": "MIXTION RELIEVE FOIL 70 ml.",
+    "price": "3.25",
+    "images": ["https://dl.dropboxusercontent.com/scl/fi/l5l8tg8mvnt2jf03btk7v/mixtion-foil-cadence.jpg?rlkey=9u77md8kp8qidqxmftw1bfyen&st=thsbq89a&dl=0"],
+    "label": "70 ml.",
+    "description": "Mixtión adhesivo al agua para crear efectos dimensionales con foil o pan de oro. El bote dispone de una fina cánula con la que crear tus diseños sobre los que aplicar el foil o el pan de oro. Uso: aplicar, esperar a que quede mordiente (pasa de color blanquecino a transparente) y aplicar el foil.",
+    "selected": false
+  }
 
 
 
@@ -106,9 +51,9 @@ const initialProducts = [
 
 // Define el rango de precios mínimo y máximo de tus productos
 const precioMinimo = 0;
-const precioMaximo = 300;
+const precioMaximo = 20;
 
-export const Tienda3Muebles = () => {
+export const Tienda3MixtionTextil = () => {
   const [products, setProducts] = useState(initialProducts);
   const [priceRange, setPriceRange] = useState([precioMinimo, precioMaximo]);
   const [selectedClasses, setSelectedClasses] = useState([]);
@@ -146,6 +91,10 @@ export const Tienda3Muebles = () => {
     setShowNoProducts(filteredProducts.length === 0);
   };
 
+  const removeAccents = (str) => {
+    return str.normalize("NFD").replace(/[\u0300-\u036f]/g, "");
+  };
+
   const handleSearch = (searchText) => {
     // No filtrar directamente por nombre al buscar
     // en su lugar, ajustar los productos existentes según los filtros
@@ -153,7 +102,7 @@ export const Tienda3Muebles = () => {
 
     if (searchText !== '') {
       const filteredProducts = products.filter((product) =>
-        product.name.toLowerCase().includes(searchText.toLowerCase())
+        removeAccents(product.name).toLowerCase().includes(searchText.toLowerCase())
       );
       setProducts(filteredProducts);
       setShowNoProducts(filteredProducts.length === 0);
@@ -282,38 +231,36 @@ export const Tienda3Muebles = () => {
 
   return (
     <>
-      <Navbar4 />
+      <Navbar3 />
 
       {showOverlay && <div className="overlay"></div>}
-      <div className="tienda" id='tienda4'>
+      <div className="tienda" id='tienda3'>
         <br></br>
 
         <div className="menu">
 
-          <h1>Tienda de productos para artistas - Muebles y Ornamentos 🎀</h1>
+          <h1>Tienda de productos para artistas - Cadence 📘</h1>
+          <h2>MIXTION Textil Cadence🎨</h2>
 
-          <h2>Muebles y Ornamentos ⚖️</h2>
+          <h3>Adecuado para aplicar con pincel o espátula a la superficie textil donde se desea trabajar con foil. Después de la aplicación del medium se espera a que seque y después del secado se coloca una lámina de foil. Coloca un paño fino o papel sobre la lámina foil y se plancha con una plancha sin vapor.</h3>
 
-
-          <h3>Aquí se encuentran los productos más exclusivos de toda la tienda, todos echos a mano por mí, siendo piezas únicas.</h3>
-
-          <Button className="remove-button3" rightIcon={filterButtonIcon} onClick={handleToggleFilters} colorScheme='red' variant='solid' bg='red.700'>
+          <Button className="remove-button3" rightIcon={filterButtonIcon} onClick={handleToggleFilters} colorScheme='blue' variant='solid'>
             Filtrar Productos
           </Button>
 
           <SearchBar onSearch={handleSearch} />
 
 
-          <button className="bn632-hover bn22c" onClick={handleToggleCart}>Carrito🛒</button>
+          <button className="bn632-hover bn22b" onClick={handleToggleCart}>Carrito🛒</button>
 
         </div>
 
         {showFilters && (
           <div data-aos="fade-right"><div className="filter">
-
+            
             {Array.from(new Set(initialProducts.map((product) => product.label)).values()).map(
               (selectedClass) => (
-                <Tag size={'lg'} key={'lg'} variant='solid' colorScheme='red' bg='red.700'>
+                <Tag size={'lg'} key={'lg'} variant='solid' colorScheme='blue' >
                   <label key={selectedClass} className="filter-item" id='checkbox'>
                     <input
                       type="checkbox"
@@ -324,8 +271,8 @@ export const Tienda3Muebles = () => {
                 </Tag>
               )
             )}
-
-          </div><div className="price-slider">
+                
+          </div> <div className="price-slider">
 
               <input
                 type="range"
@@ -350,7 +297,7 @@ export const Tienda3Muebles = () => {
             <p> <br></br> <br></br>No hay productos según su búsqueda.</p>
           ) : (
             visibleProducts.map((product) => (
-              <ProductCard3
+              <ProductCard2
                 key={product.id}
                 product={product}
                 addToCart={addToCart}
@@ -373,7 +320,7 @@ export const Tienda3Muebles = () => {
         </div>
 
         <br></br><br></br>
-
+        
 
 
 

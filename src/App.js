@@ -9,10 +9,10 @@ import { AvisoLegal } from "./AvisoLegal";
 import { Tienda3 } from "./TiendaFiles/Tienda3";
 import { Tienda3Hybrid } from "./TiendaFiles/Tienda3Hybrid";
 import { Tienda3HybridMetallic } from "./TiendaFiles/Tienda3HybridMetallic";
-import { Tienda3Muebles} from "./TiendaFiles/Tienda3Muebles";
 import { Tienda3Barnices } from "./TiendaFiles/Tienda3Barnices";
 import { Tienda3Cosmos } from "./TiendaFiles/Tienda3Cosmos";
 import { Tienda3Ambientes } from "./TiendaFiles/Tienda3Ambientes";
+import { Tienda3Pinturas } from "./TiendaFiles/Tienda3Pinturas";
 import { Tienda3Stencils } from "./TiendaFiles/Tienda3Stencils";
 import { Tienda3StencilsHomeDecor } from "./TiendaFiles/Tienda3StencilsHomeDecor";
 import { Tienda3StencilsHomeDecorMidi } from "./TiendaFiles/Tienda3StencilsHomeDecorMidi";
@@ -40,6 +40,26 @@ import { Tienda3PapelesJapones } from "./TiendaFiles/Tienda3PapelesJapones";
 import { Tienda3PapelesCiaoBella } from "./TiendaFiles/Tienda3PapelesCiaoBella";
 import { Tienda3TransfersColors } from "./TiendaFiles/Tienda3TransfersColors";
 import { Tienda3Resina } from "./TiendaFiles/Tienda3Resina";
+import { Tienda3Ceras } from "./TiendaFiles/Tienda3Ceras";
+import { Tienda3MaterialesTrabajo } from "./TiendaFiles/Tienda3MaterialesTrabajo";
+import { Tienda3PinturaMattMetallic } from "./TiendaFiles/Tienda3PinturaMattMetallic";
+import { Tienda3TextilCadence } from "./TiendaFiles/Tienda3TextilCadence";
+import { Tienda3PinturasTextiles } from "./TiendaFiles/Tienda3PinturasTextiles";
+import { Tienda3SpraysTextiles } from "./TiendaFiles/Tienda3SpraysTextiles";
+import { Tienda3PastasTextiles } from "./TiendaFiles/Tienda3PastasTextiles";
+import { Tienda3PastasTextilesFashion } from "./TiendaFiles/Tienda3PastasTextilesFashion";
+import { Tienda3PastasTextilesFashionMetallic } from "./TiendaFiles/Tienda3PastasTextilesFashionMetallic";
+import { Tienda3PastasTextilesHILITE } from "./TiendaFiles/Tienda3PastasTextilesHILITE";
+import { Tienda3PastasTextilesMetallic } from "./TiendaFiles/Tienda3PastasTextilesMetallic";
+import { Tienda3MixtionTextil } from "./TiendaFiles/Tienda3MixtionTextil";
+import { Tienda3FoilTextil } from "./TiendaFiles/Tienda3FoilTextil";
+import { Tienda4} from "./TiendaFiles/Tienda4";
+import { Tienda5 } from "./TiendaFiles/Tienda5";
+import { Tienda5MontejoTextil } from "./TiendaFiles/Tienda5MontejoTextil";
+import { Tienda3PapelCartonajeRossi } from "./TiendaFiles/Tienda3PapelCartonajeRossi";
+import { Tienda3PapersForYouTela } from "./TiendaFiles/Tienda3PapersForYouTela";
+import { Tienda3PapersForYou } from "./TiendaFiles/Tienda3PapersForYou";
+import { Tienda3PapersForYouLino } from "./TiendaFiles/Tienda3PapersForYouLino";
 
 
 
@@ -53,11 +73,23 @@ function App() {
           <Route path="/tienda" element={<Tienda/>} />
           <Route path="/tienda/mint-by-michelle" element={<Tienda2/>} />
           <Route path="/tienda/cadence" element={<Tienda3/>} />
-          <Route path="/tienda/cadence/hybrid" element={<Tienda3Hybrid/>} />
-          <Route path="/tienda/cadence/hybrid-metallic" element={<Tienda3HybridMetallic/>} />
+          <Route path="/tienda/cadence/textil-cadence" element={<Tienda3TextilCadence/>} />
+          <Route path="/tienda/cadence/textil-cadence/pinturas-textiles" element={<Tienda3PinturasTextiles />} />
+          <Route path="/tienda/cadence/textil-cadence/sprays-textiles" element={<Tienda3SpraysTextiles />} />
+          <Route path="/tienda/cadence/textil-cadence/pastas-textiles" element={<Tienda3PastasTextiles />} />
+          <Route path="/tienda/cadence/textil-cadence/pastas-textiles/fashion" element={<Tienda3PastasTextilesFashion />} />
+          <Route path="/tienda/cadence/textil-cadence/pastas-textiles/fashion-metallic" element={<Tienda3PastasTextilesFashionMetallic />} />
+          <Route path="/tienda/cadence/textil-cadence/pastas-textiles/relieve-HI-LITE" element={<Tienda3PastasTextilesHILITE/>} />
+          <Route path="/tienda/cadence/textil-cadence/pastas-textiles/relieve-metallic" element={<Tienda3PastasTextilesMetallic/>} />
+          <Route path="/tienda/cadence/textil-cadence/mixtion-textil" element={<Tienda3MixtionTextil />} />
+          <Route path="/tienda/cadence/textil-cadence/foil" element={<Tienda3FoilTextil />} />
+          <Route path="/tienda/cadence/pinturas" element={<Tienda3Pinturas/>} />
+          <Route path="/tienda/cadence/pinturas/hybrid" element={<Tienda3Hybrid/>} />
+          <Route path="/tienda/cadence/pinturas/hybrid-metallic" element={<Tienda3HybridMetallic/>} />
+          <Route path="/tienda/cadence/pinturas/cosmos" element={<Tienda3Cosmos/>} />
+          <Route path="/tienda/cadence/pinturas/ambientes-humedos" element={<Tienda3Ambientes/>} />
+          <Route path="/tienda/cadence/pinturas/matt-metallic" element={<Tienda3PinturaMattMetallic />} />
           <Route path="/tienda/cadence/barnices-craqueladores" element={<Tienda3Barnices/>} />
-          <Route path="/tienda/cadence/pinturas-cosmos" element={<Tienda3Cosmos/>} />
-          <Route path="/tienda/cadence/pinturas-ambientes-humedos" element={<Tienda3Ambientes/>} />
           <Route path="/tienda/cadence/stencils" element={<Tienda3Stencils/>} />
           <Route path="/tienda/cadence/stencils/home-decor" element={<Tienda3StencilsHomeDecor/>} />
           <Route path="/tienda/cadence/stencils/home-decor-midi" element={<Tienda3StencilsHomeDecorMidi/>} />
@@ -65,11 +97,12 @@ function App() {
           <Route path="/tienda/cadence/stencils/private" element={<Tienda3StencilsPrivate/>} />
           <Route path="/tienda/cadence/stencils/miscellaneous" element={<Tienda3StencilsMiscellaneous/>} />
           <Route path="/tienda/cadence/stencils/cenefas" element={<Tienda3StencilsCenefas/>} />
+          <Route path="/tienda/cadence/ceras" element={<Tienda3Ceras/>} />
           <Route path="/tienda/cadence/transfers" element={<Tienda3Transfers/>} />
-          <Route path="/tienda/cadence/transfers/folex" element={<Tienda3TransfersFolex/>} />
+          {/*<Route path="/tienda/cadence/transfers/folex" element={<Tienda3TransfersFolex/>} />*/}
           <Route path="/tienda/cadence/transfers/home-decor" element={<Tienda3TransfersHomeDecor/>} />
-          <Route path="/tienda/cadence/transfers/textil" element={<Tienda3TransfersTextil/>} />
-          <Route path="/tienda/cadence/transfers/colors" element={<Tienda3TransfersColors/>} />
+          <Route path="/tienda/cadence/transfers-textiles" element={<Tienda3TransfersTextil/>} />
+          {/*<Route path="/tienda/cadence/transfers/colors" element={<Tienda3TransfersColors/>} />*/}
           <Route path="/tienda/cadence/pastas" element={<Tienda3Pastas/>} />
           <Route path="/tienda/cadence/pastas/relieve" element={<Tienda3PastasRelieve/>} />
           <Route path="/tienda/cadence/pastas/mixtion" element={<Tienda3PastasMixtion/>} />
@@ -82,10 +115,17 @@ function App() {
           <Route path="/tienda/cadence/soportes-madera" element={<Tienda3Madera/>} />
           <Route path="/tienda/cadence/soportes-resina" element={<Tienda3Resina/>} />
           <Route path="/tienda/cadence/variados" element={<Tienda3Variado/>} />
+          <Route path="/tienda/cadence/materiales-trabajo" element={<Tienda3MaterialesTrabajo/>} />
           <Route path="/tienda/cadence/papeles" element={<Tienda3Papeles/>} />
           <Route path="/tienda/cadence/papeles/japones" element={<Tienda3PapelesJapones/>} />
           <Route path="/tienda/cadence/papeles/ciao-bella" element={<Tienda3PapelesCiaoBella/>} />
-          <Route path="/tienda/muebles-ornamentos" element={<Tienda3Muebles/>} />
+          <Route path="/tienda/cadence/papel-cartonaje-rossi" element={<Tienda3PapelCartonajeRossi/>} />
+          <Route path="/tienda/cadence/papers-for-you" element={<Tienda3PapersForYou/>} />
+          <Route path="/tienda/cadence/papers-for-you/tela" element={<Tienda3PapersForYouTela/>} />
+          <Route path="/tienda/cadence/papers-for-you/lino" element={<Tienda3PapersForYouLino/>} />
+          <Route path="/tienda/muebles-ornamentos" element={<Tienda4/>} />
+          <Route path="/tienda/montejo" element={<Tienda5/>} />
+          <Route path="/tienda/montejo/textil" element={<Tienda5MontejoTextil/>} />
           <Route path="/aviso-legal" element={<AvisoLegal/>} />
           <Route path="/tienda/finalizar-pedido" element={<FinalizarPedido/>} />
           <Route path="*" element={<>No Match</>} />

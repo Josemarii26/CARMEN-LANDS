@@ -177,7 +177,7 @@ const initialProducts = [
     selected: false,
   },
   {
-    id: 3540,
+    id: 3570,
     name: 'Barníz Aqua Stone BRILLO 120ml.',
     price: '8.40',
     images: [
@@ -188,7 +188,7 @@ const initialProducts = [
     selected: false,
   },
   {
-    id: 3550,
+    id: 3580,
     name: 'Barníz Aqua Stone BRILLO 250ml.',
     price: '14.40',
     images: [
@@ -199,7 +199,7 @@ const initialProducts = [
     selected: false,
   },
   {
-    id: 3560,
+    id: 3590,
     name: 'Barníz Aqua Stone BRILLO 500ml.', 
     price: '20.95',
     images: [
@@ -210,7 +210,7 @@ const initialProducts = [
     selected: false,
   },
   {
-    id: 3570,
+    id: 3591,
     name: 'Barníz Craquelador UN PASO Cadence ', 
     price: '3.25',
     images: [
@@ -221,7 +221,7 @@ const initialProducts = [
     selected: false,
   },
   {
-    id: 3580,
+    id: 3592,
     name: 'Barníz Craquelador DOS PASOS Cadence ', 
     price: '5.80',
     images: [
@@ -273,6 +273,61 @@ const initialProducts = [
     ],
     label: '100 ml.',
     description: 'ACRILEX Barniz Cristal, 250ml Barniz efecto cristal de un solo componente. Aplicar a pincel o directamente del frasco si queremos cubrir una superficie grande.',
+    selected: false,
+  },
+  {
+    id: 582,
+    name: 'Barniz PLUS+ para pan de oro 100ml.',
+    price: '5.20',
+    images: [
+      'https://dl.dropboxusercontent.com/scl/fi/ik1fdluxmw5s3z74dh2zn/barniz-plus-para-pan-de-oro-cadence.jpg?rlkey=ufu2j00h4kp28ih0dq3xuz5qe&st=22nhglzd&dl=0',
+    ],
+    label: '100ml',
+    description: 'Barniz Plus + de CADENCE puede ser usado de una manera sencilla sobre trabajos de imitación de metal, sobre en pan de oro o foil metalizado. Es un barniz listo para usar con pincel, muy brillante y que no se deslustra.',
+    selected: false,
+  },
+  {
+    id: 756,
+    name: 'PURPLE Colour On VARNISH 90ml.',
+    price: '4.60',
+    images: [
+      'https://dl.dropboxusercontent.com/scl/fi/dhq10sw5uq3g7i6f2w7j5/colour-on-varnish-purple-90ml.jpg?rlkey=wowazobtz60aft96wf1nm7xrf&st=har2dnvs&dl=0',
+    ],
+    label: '90ml',
+    description: 'Barniz a base de agua de alta calidad, duro y duradero que se puede utilizar en todas las superficies duras y de madera de interior. Proporciona un aspecto cálido a cualquier madera y superficies duras de interior. Se debe aplicar con rodillo para superficies grandes, y con brocha para otras superficies. Dependiendo de la temperatura del aire, el tiempo de secado es de 6 a 12 horas. Debes esperar 24 horas para la segunda capa.',
+    selected: false,
+  },
+  {
+    id: 757,
+    name: 'OAK Colour On VARNISH 90ml.',
+    price: '4.60',
+    images: [
+      'https://dl.dropboxusercontent.com/scl/fi/b0juznzwqlurul42vbovs/colour-on-varnish-oak-90ml.jpg?rlkey=ss2vaiv4g8454o9p870zm6mzt&st=47e07sns&dl=0',
+    ],
+    label: '90ml',
+    description: 'Barniz a base de agua de alta calidad, duro y duradero que se puede utilizar en todas las superficies duras y de madera de interior. Proporciona un aspecto cálido a cualquier madera y superficies duras de interior. Se debe aplicar con rodillo para superficies grandes, y con brocha para otras superficies. Dependiendo de la temperatura del aire, el tiempo de secado es de 6 a 12 horas. Debes esperar 24 horas para la segunda capa.',
+    selected: false,
+  },
+  {
+    id: 758,
+    name: 'GREEN Colour On VARNISH 90ml.',
+    price: '4.60',
+    images: [
+      'https://dl.dropboxusercontent.com/scl/fi/l8m8samyyqid667chqumq/colour-on-varnish-green-90ml.jpg?rlkey=edurb6coamvoosf4feve1uxzw&st=jy29e09n&dl=0',
+    ],
+    label: '90ml',
+    description: 'Barniz a base de agua de alta calidad, duro y duradero que se puede utilizar en todas las superficies duras y de madera de interior. Proporciona un aspecto cálido a cualquier madera y superficies duras de interior. Se debe aplicar con rodillo para superficies grandes, y con brocha para otras superficies. Dependiendo de la temperatura del aire, el tiempo de secado es de 6 a 12 horas. Debes esperar 24 horas para la segunda capa.',
+    selected: false,
+  },
+  {
+    id: 759,
+    name: 'BLUE Colour On VARNISH 90ml.',
+    price: '4.60',
+    images: [
+      'https://dl.dropboxusercontent.com/scl/fi/ad015g8gnomkbnl1b4nbw/colour-on-varnish-blue-90ml.jpg?rlkey=mgkifetesxg6tl43vm6ba51wt&st=rcw46tn3&dl=0',
+    ],
+    label: '90ml',
+    description: 'Barniz a base de agua de alta calidad, duro y duradero que se puede utilizar en todas las superficies duras y de madera de interior. Proporciona un aspecto cálido a cualquier madera y superficies duras de interior. Se debe aplicar con rodillo para superficies grandes, y con brocha para otras superficies. Dependiendo de la temperatura del aire, el tiempo de secado es de 6 a 12 horas. Debes esperar 24 horas para la segunda capa.',
     selected: false,
   },
 

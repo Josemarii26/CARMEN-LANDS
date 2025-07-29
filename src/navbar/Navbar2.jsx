@@ -103,9 +103,19 @@ export const Navbar2 = () => {
               Mint by Michelle
             </WavyLink>
           </li>
-          <li>
+          <li className="nav-item-badge">
+            <span className="badge-novedad3">Novedades</span>
+
             <WavyLink direction="up" to="/tienda/cadence" color="#4593db">
               Cadence
+            </WavyLink>
+          </li>
+          <li className="nav-item-badge">
+            {/* Badge de novedad */}
+            <span className="badge-novedad2">Nuevo</span>
+
+            <WavyLink direction="up" to="/tienda/montejo" color="#dbac45ff">
+              Montejo
             </WavyLink>
           </li>
           <li>

@@ -22,6 +22,7 @@ import { Navbar3 } from '../navbar/Navbar3';
 
 
 const initialProducts = [
+  /*
   {
     id: 695,
     name: 'Transfer COLOR Ani Arts 20x30cm (CTE079)',
@@ -322,7 +323,7 @@ const initialProducts = [
   },
 
   
-
+*/
 
 
 

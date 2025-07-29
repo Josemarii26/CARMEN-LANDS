@@ -4,7 +4,7 @@ import { useEffect, useRef, useState } from "react";
 
 import { WavyContainer, WavyLink } from "react-wavy-transitions";
 
-export const Navbar3 = () => {
+export const Navbar5 = () => {
   const lastScrollTop = useRef(0);
   const [isNavbarVisible, setIsNavbarVisible] = useState(true);
 
@@ -36,8 +36,6 @@ export const Navbar3 = () => {
       }
     };
 
-
-
     window.addEventListener("scroll", handleScroll, { passive: true });
 
     // Limpieza del efecto
@@ -48,8 +46,6 @@ export const Navbar3 = () => {
   }, []);
 
   const [isNavbarVisible2, setIsNavbarVisible2] = useState(false);
-
-
 
   const toggleNavbar = () => {
     setIsNavbarVisible2(!isNavbarVisible2);
@@ -72,22 +68,19 @@ export const Navbar3 = () => {
   };
 
   return (
-    <nav id='nav3' className={`navbar ${isNavbarVisible ? 'visible' : ''}`}>
+    <nav id="nav5" className={`navbar ${isNavbarVisible ? "visible" : ""}`}>
       <img src={logo} alt="Logo" />
       <button className="menu-toggle" onClick={toggleNavbar}>
         <span></span>
         <span></span>
         <span></span>
       </button>
-      <div className={`nav-items ${isNavbarVisible2 ? 'visible' : ''}`}>
-
+      <div className={`nav-items ${isNavbarVisible2 ? "visible" : ""}`}>
         <ul>
           <li>
-            <div >
-              <button id="nav-contact" >
-                <a href="/">
-                  ¡Soy Carmen!
-                </a>
+            <div>
+              <button id="nav-contact">
+                <a href="/">¡Soy Carmen!</a>
               </button>
             </div>
           </li>
@@ -98,7 +91,11 @@ export const Navbar3 = () => {
           </li>
 
           <li>
-            <WavyLink direction="up" to="/tienda/mint-by-michelle" color="#6aee75">
+            <WavyLink
+              direction="up"
+              to="/tienda/mint-by-michelle"
+              color="#6aee75"
+            >
               Mint by Michelle
             </WavyLink>
           </li>
@@ -118,14 +115,16 @@ export const Navbar3 = () => {
             </WavyLink>
           </li>
           <li>
-            <WavyLink direction="up" to="/tienda/muebles-ornamentos" color="#db4545">
+            <WavyLink
+              direction="up"
+              to="/tienda/muebles-ornamentos"
+              color="#db4545"
+            >
               Muebles y Ornamentos
             </WavyLink>
           </li>
-
-
         </ul>
       </div>
     </nav>
   );
-}
+};

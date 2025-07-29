@@ -22,206 +22,207 @@ import { Navbar3 } from '../navbar/Navbar3';
 
 
 const initialProducts = [
+  
   {
-    id: 557,
-    name: 'Caja DM Asa 14x12x20cm',
-    price: '16.80',
+    id: 610,
+    name: 'Paletina Nº05',
+    price: '3.00',
     images: [
-      'https://dl.dropboxusercontent.com/scl/fi/dql0knxgfq4lqo9hafeqt/caja-dm-asa-14x12x20-cms.jpg?rlkey=igdqk946gcurjsnts5f35rysi&st=kxxpnysa&dl=0',
+      'https://dl.dropboxusercontent.com/scl/fi/i0iv0d4ggyu9kisgx5d0n/paletina-montejo.jpg?rlkey=d9gd96vfumq8y44yk0gixfdef&st=lej1jffu&dl=0',
     ],
-    label: '14x12x20',
-    description: 'Caja DM con asa de cuerda y tapa con bisagras y cierre.',
-    selected: false,
-  },
-  /*
-  {
-    id: 558,
-    name: 'Jaula DM 45x27x20cm',
-    price: '47.50',
-    images: [
-      'https://dl.dropboxusercontent.com/scl/fi/m9kmmnt48u3fj8dyg87m0/jaula-dm.jpg?rlkey=1g96p1er4c025tscskfozer82&st=dgbbw3td&dl=0',
-    ],
-    label: '45x27x20',
-    description: 'Jaula de madera estilo vintage para decorar y pintar con productos CADENCE',
-    selected: false,
-  },
-  */
-  {
-    id: 559,
-    name: 'Joyero 9 cajones 37.5x15.5x20cm',
-    price: '39.90',
-    images: [
-      'https://dl.dropboxusercontent.com/scl/fi/3g9c3mggp9o2r0wtcznjo/joyero-9-cajones-375x155x20-cm.jpg?rlkey=hze4axfipkpqniehr3wiap1ix&st=emt778l2&dl=0',
-    ],
-    label: '37.5x15.5x20',
-    description: 'Joyero con 9 cajones fabricado en madera de DM',
+    label: 'paletina',
+    description: 'Paletinas de alta calidad Montejo, serie 4101 de pelo sintético. Ideales para hacer veladuras, pintar grandes superficies en tus trabajos de Home Decor y para la aplicación de barnices e imprimaciones.',
     selected: false,
   },
   {
-    id: 560,
-    name: 'Caja con patas 28x18x21cm',
-    price: '20.90',
+    id: 611,
+    name: 'Paletina Nº10',
+    price: '4.20',
     images: [
-      'https://dl.dropboxusercontent.com/scl/fi/6e5ukpgw1dxki0rit7f5f/caja-patas-28x18x21-cm.jpg?rlkey=jnipfpsatknmo9h7gocgucw26&st=v78ca6ol&dl=0',
+      'https://dl.dropboxusercontent.com/scl/fi/2x7w3wwehm40uh8puk7j0/paletina-montejo-1.jpg?rlkey=vi4dyd9wnz1nu75uftj2xuq2m&st=i1f92fue&dl=0',
     ],
-    label: '28x18x21',
-    description: 'Caja con patas fabricada en madera de DM ',
+    label: 'paletina',
+    description: 'Paletinas de alta calidad Montejo, serie 4101 de pelo sintético. Ideales para hacer veladuras, pintar grandes superficies en tus trabajos de Home Decor y para la aplicación de barnices e imprimaciones.',
     selected: false,
   },
   {
-    id: 561,
-    name: 'Mueble 3 cajones Silvia 34x15x28cm',
-    price: '39.90',
+    id: 612,
+    name: 'Pincel Estarcir VERY CHALKY Nº2',
+    price: '2.80',
     images: [
-      'https://dl.dropboxusercontent.com/scl/fi/tlc9r694qppi7lrqcite5/mueble-3-cajones-silvia.jpg?rlkey=9ntk9a81nqmrarqr25i2q9p80&st=vnr4xmww&dl=0',
+      'https://dl.dropboxusercontent.com/scl/fi/ndry6c1nozg1egdknxm70/pincel-estarcir-very-chalky-n2.jpg?rlkey=1cm0eqnhos618g4zvxnox2ohy&st=3iwjjd61&dl=0',
     ],
-    label: '28x18x21',
-    description: 'Cajonera en madera de DM con 3 alturas y tiradores',
+    label: 'pincel',
+    description: 'Pincel para estarcido de mango de madera corto lacado en rosa y pelo de cerda con corte recto. De alta calidad MONTEJO ideal para usar con plantillas o stencil por su corte recto y para la aplicación de las pinturas DORA de Cadence.',
     selected: false,
   },
   {
-    id: 562,
-    name: 'Mueblecito Multifuncional 34x21x19cm',
-    price: '39.90',
+    id: 613,
+    name: 'Pincel Estarcir VERY CHALKY nº10',
+    price: '4.70',
     images: [
-      'https://dl.dropboxusercontent.com/scl/fi/r5kymhplgnxe9w968vqm9/mueblecito-multifuncional.jpg?rlkey=auh877wuq954lgryd8upxazjm&st=699sx62f&dl=0',
+      'https://dl.dropboxusercontent.com/scl/fi/largrk4z1basngb6xnbue/pincel-estarcir-very-chalky.jpg?rlkey=k50u0cbjm5r0rofq8vhvg5q8d&st=py2rlj45&dl=0',
     ],
-    label: '234x21x19',
-    description: 'Mueblecito DM multifuncional con 2 cajones, huecos laterales y parte superior con minicompartimentos',
+    label: 'pincel',
+    description: 'Pincel para estarcido de mango de madera corto lacado en rosa y pelo de cerda con corte recto. De alta calidad MONTEJO ideal para usar con plantillas o stencil por su corte recto y para la aplicación de las pinturas DORA de Cadence.',
     selected: false,
   },
   {
-    id: 563,
-    name: 'Caja libro 21x17x5.3cm',
-    price: '8.50',
+    id: 614,
+    name: 'Pincel Abanico 464 Nº8',
+    price: '4.20',
     images: [
-      'https://dl.dropboxusercontent.com/scl/fi/u2nvxwz9rbdc890da1srl/caja-libro-21x17x53-cms.jpg?rlkey=gpxewex3h97tf0hnm3zw2l9uc&st=18reidpc&dl=0',
+      'https://dl.dropboxusercontent.com/scl/fi/nu5phx8hr7cqoydxavy1x/pincel-abanico-464-n1.jpg?rlkey=ssbfs41agywu34m16unqn8n6s&st=q6j957u5&dl=0',
     ],
-    label: '21x17x5.3',
-    description: 'Caja con forma de libro, fabricada en madera de DM',
+    label: 'pincel',
+    description: 'Pinceles de alta calidad Montejo, serie 464 para técnicas de: Óleo, Acrílico, Acuarela, Témpera   ',
     selected: false,
   },
   {
-    id: 564,
-    name: 'Revistero 2 Espacios DM 38x41x18.5cm',
-    price: '27.10',
+    id: 615,
+    name: 'Espátula metálica 102mm',
+    price: '4.35',
     images: [
-      'https://dl.dropboxusercontent.com/scl/fi/xskfe5q28qotdwpau2ux1/revistero-2-espacios-dm.jpg?rlkey=pqdch94t69jx5fgjh7bnyfmep&st=eykvdmnw&dl=0',
+      'https://dl.dropboxusercontent.com/scl/fi/l99kcu9fwq33sdye2qhxe/espatula-metalica-102mm.jpg?rlkey=m6er5t3oddaxzze2uavycib4p&st=mnp5pun1&dl=0',
     ],
-    label: '38x41x18.5',
-    description: 'Revistero 2 espacios, realizado en madera de DM ',
+    label: 'espátula',
+    description: 'Las espátulas ofrecen texturas diferentes a las creadas por el pincel y un contacto más directo con el lienzo.',
     selected: false,
   },
   {
-    id: 565,
-    name: 'Huevera DM 12 unidades 25x13x34cm',
-    price: '19.90',
+    id: 781,
+    name: 'Paleta desechable 36 hojas',
+    price: '4.50',
     images: [
-      'https://dl.dropboxusercontent.com/scl/fi/44b3d3qedyw8hcjmoxjop/huevera-dm-12-unid.jpg?rlkey=gsyx8tz6v3gbl08kj7zi14kq4&st=qwurermy&dl=0',
+      'https://dl.dropboxusercontent.com/scl/fi/l99kcu9fwq33sdye2qhxe/espatula-metalica-102mm.jpg?rlkey=m6er5t3oddaxzze2uavycib4p&st=mnp5pun1&dl=0',
     ],
-    label: '25x13x34',
-    description: 'Soporte fabricado en madera de DM  Listo para pintar o decorar con las pinturas y productos CADENCE.',
+    label: 'paleta',
+    description: 'Paleta de pintor compuesta por 36 hojas desechables de 22,5x30cm. ',
     selected: false,
   },
   {
-    id: 566,
-    name: 'Pongotodo III 19x15x18cm',
-    price: '17.10',
+    id: 782,
+    name: 'Pincel redondo serie 460 LINER',
+    price: '1.80',
     images: [
-      'https://dl.dropboxusercontent.com/scl/fi/str794y5t1ywjq0y55y8p/Pongotodo-III.jpg?rlkey=t5viokrdbxgmklzx2oa8x2i93&st=zphrajwh&dl=0',
+      'https://dl.dropboxusercontent.com/scl/fi/x2w6wohpv3361x8yfc9h7/pincel-redondo-460-liner.jpg?rlkey=jqhnocmewuf1dt16cokn5tf17&st=f1hq9dic&dl=0',
     ],
-    label: '19x15x18',
-    description: 'Soporte fabricado en madera de DM  Listo para pintar o decorar con las pinturas y productos CADENCE.',
+    label: 'pincel',
+    description: 'Pincel redondo de la serie 460 LINER, ideal para detalles y acabados precisos.',
     selected: false,
   },
   {
-    id: 567,
-    name: 'Pongotodo II 21x17x20cm',
-    price: '20.60',
+    id: 783,
+    name: 'Pincel redondo serie 460 Nº 0/3',
+    price: '1.40',
     images: [
-      'https://dl.dropboxusercontent.com/scl/fi/2eoze8pax7wrz7z905lx3/Pongotodo-2-divisiones.jpg?rlkey=lv203nlks9hvbh0p1ylym029u&st=806k1i92&dl=0',
+      'https://dl.dropboxusercontent.com/scl/fi/55gc63xu19znwi9l0i1vl/pincel-redondo-460-03.jpg?rlkey=5vw6i8ojf78nx5rpouhyc0914&st=bzer2c4t&dl=0',
     ],
-    label: '21x17x20',
-    description: 'Soporte fabricado en madera de DM  Listo para pintar o decorar con las pinturas y productos CADENCE.',
+    label: 'pincel',
+    description: 'Pinceles de alta calidad Montejo, serie 460 para técnicas de: Óleo, Acrílico, Acuarela, Témpera',
     selected: false,
   },
   {
-    id: 568,
-    name: 'Archivador Con Cajón 22x21x36cm',
-    price: '29.50',
+    id: 784,
+    name: 'Pincel redondo serie 460 Nº 0/5',
+    price: '1.30',
     images: [
-      'https://dl.dropboxusercontent.com/scl/fi/1rlqx8fqujsw0k3a1sqks/Archivador-con-cajon.jpg?rlkey=m91ssrbrp74idugb3gypnkfw6&st=f211gv4e&dl=0',
+      'https://dl.dropboxusercontent.com/scl/fi/9qacjn46fq4qd2nh4ievn/pincel-redondo-460-05.jpg?rlkey=zfdk677ari6mr1sgucj8s86lv&st=e69lax4l&dl=0',
     ],
-    label: '22x21x36',
-    description: 'Soporte fabricado en madera de DM  Listo para pintar o decorar con las pinturas y productos CADENCE.',
+    label: 'pincel',
+    description: 'Pinceles de alta calidad Montejo, serie 460 para técnicas de: Óleo, Acrílico, Acuarela, Témpera  ',
     selected: false,
   },
   {
-    id: 569,
-    name: 'Portacubos con Patas 13x23x13cm',
-    price: '16.80',
+    id: 785,
+    name: 'Pincel redondo serie 460 Nº 0',
+    price: '1.55',
     images: [
-      'https://dl.dropboxusercontent.com/scl/fi/pgw5dn8mx7yo2hglvqt5t/portacubos-con-pastas.jpg?rlkey=71mlx1nazfsbflrzbs8jinl30&st=jb0v6ion&dl=0',
+      'https://dl.dropboxusercontent.com/scl/fi/jgj5vwmay9uzxpsdzfzjo/pincel-redondo-460-0.jpg?rlkey=2z3ch6nmazcq6axyuhkxvmr1c&st=dtib8ecy&dl=0',
     ],
-    label: '13x23x13',
-    description: 'Soporte fabricado en madera de DM  Listo para pintar o decorar con las pinturas y productos CADENCE.',
+    label: 'pincel',
+    description: 'Pinceles de alta calidad Montejo, serie 460 para técnicas de: Óleo, Acrílico, Acuarela, Témpera  ',
     selected: false,
   },
   {
-    id: 570,
-    name: 'Organizador Giratorio 22x26x22cm',
-    price: '32.50',
+    id: 786,
+    name: 'Pincel plano serie 561 Nº 2',
+    price: '1.50',
     images: [
-      'https://dl.dropboxusercontent.com/scl/fi/487axgfcfdy9yq911o70i/madera-cadence-1.jpg?rlkey=vnst9bxmz8im9dze35vlkuv3n&st=eolb2xul&dl=0',
+      'https://dl.dropboxusercontent.com/scl/fi/8ouhc26bdhrfhvy6r522z/pincel-plano-home-decor-561-2.jpg?rlkey=p7qxxopix9lvvi3a1wdyuai6e&st=vxbw9tgg&dl=0',
     ],
-    label: '22x26x22',
-    description: 'Organizador giratorio fabricado en madera de DM ',
+    label: 'pincel',
+    description: 'Pinceles de alta calidad Montejo, serie 561 HOME DECOR para técnicas de: Óleo, Acrílico, Acuarela, Témpera',
     selected: false,
   },
   {
-    id: 571,
-    name: 'Caja Combada 18x18x12cm',
-    price: '17.10',
+    id: 787,
+    name: 'Pincel plano serie 561 Nº 4',
+    price: '1.70',
     images: [
-      'https://dl.dropboxusercontent.com/scl/fi/e5d5y3du3th5jgl3vraye/madera-cadence-2.jpg?rlkey=1jd4y33zreso4ulcmu8nwk8b1&st=8adn3iub&dl=0',
+      'https://dl.dropboxusercontent.com/scl/fi/f7c674yz35qkh5hzeagr3/pincel-plano-home-decor-561-4.jpg?rlkey=2mvh0i5pqk5jeoxbmez27yycm&st=tdjhnxm8&dl=0',
     ],
-    label: '18x18x12',
-    description: 'Caja combada estilo bombonera, fabricada en madera de DM',
+    label: 'pincel',
+    description: 'Pinceles de alta calidad Montejo, serie 561 HOME DECOR para técnicas de: Óleo, Acrílico, Acuarela, Témpera ',
     selected: false,
   },
   {
-    id: 572,
-    name: 'Set Bandejas DM 45x34x5.5cm',
-    price: '24.80',
+    id: 788,
+    name: 'Pincel plano serie 561 Nº 6',
+    price: '1.90',
     images: [
-      'https://dl.dropboxusercontent.com/scl/fi/aazbu8m9zy414imeklxun/madera-dm-cadence.jpg?rlkey=xwu25qott5jfmc5mw7016isyq&st=qc8xm2gm&dl=0',
+      'https://dl.dropboxusercontent.com/scl/fi/xqd174af307ldkqbk71z8/pincel-plano-home-decor-561-6.jpg?rlkey=asnbr4opzqs0bryekdvcjpnir&st=bfxyehex&dl=0',
     ],
-    label: '45x34x5.5',
-    description: 'Set de 2 bandejas con los cantos redondeados.',
+    label: 'pincel',
+    description: 'Pinceles de alta calidad Montejo, serie 561 HOME DECOR para técnicas de: Óleo, Acrílico, Acuarela, Témpera ',
     selected: false,
   },
   {
-    id: 573,
-    name: 'Set 2 Bandejas DM 43x30x7cm 34x25x7cm',
-    price: '15.00',
+    id: 789,
+    name: 'Pincel lengua de gato 562 Nº 2',
+    price: '1.60',
     images: [
-      'https://dl.dropboxusercontent.com/scl/fi/pueum9iuwd9eb44365nkj/set-3-bandejas-dm-cadence.jpg?rlkey=2mg06dfevqmknxyu4pqmr7s6z&st=4e38zp4c&dl=0',
+      'https://dl.dropboxusercontent.com/scl/fi/92q735xncor77wx5au13q/pincel-lengua-de-gato-home-decor-562-2.jpg?rlkey=qqy053jjvd03a8vbghv0t7to3&st=pxb13fy5&dl=0',
     ],
-    label: '43x30x7 34x25x7',
-    description: 'Set de 2 bandejas con los cantos redondeados.',
+    label: 'pincel',
+    description: 'Pinceles de alta calidad Montejo, serie 462 para técnicas de: Óleo, Acrílico, Acuarela, Témpera  ',
     selected: false,
   },
   {
-    id: 574,
-    name: 'Set 3 Bandejas DM 30x40x3cm 25x35x2.5cm 20x30x2.5cm',
-    price: '20.10',
+    id: 790,
+    name: 'Pincel lengua de gato 562 Nº 4',
+    price: '1.70',
     images: [
-      'https://dl.dropboxusercontent.com/scl/fi/oso16pz44m2jpcs6yp4gz/set-3-bandejas-dm-cadence-1.jpg?rlkey=6la7z32tmjpdim7xodql3xbmw&st=4yq3s7wn&dl=0',
+      'https://dl.dropboxusercontent.com/scl/fi/h6z0hkuaqmx654kmen07g/pincel-lengua-de-gato-home-decor-562-4.jpg?rlkey=r9n9cau4u9x8mffg67bfewzc5&st=zqn1ircm&dl=0',
     ],
-    label: '30x40x3 25x35x2.5 20x30x2.5',
-    description: 'Set de 3 bandejas, fabricada en madera de DM ',
+    label: 'pincel',
+    description: 'Pinceles de alta calidad Montejo, serie 562 HOME DECOR para técnicas de: Óleo, Acrílico, Acuarela, Témpera',
     selected: false,
   },
+  {
+    id: 791,
+    name: 'Pincel lengua de gato 562 Nº 6',
+    price: '2.00',
+    images: [
+      'https://dl.dropboxusercontent.com/scl/fi/7wy5bzes473ypxflld9ez/pincel-lengua-de-gato-home-decor-562-6.jpg?rlkey=ptvvtbm0bk1qon2kyb6a1decj&st=88t3h2hm&dl=0',
+    ],
+    label: 'pincel',
+    description: 'Pinceles de alta calidad Montejo, serie 562 HOME DECOR para técnicas de: Óleo, Acrílico, Acuarela, Témpera ',
+    selected: false,
+  },
+  {
+    id: 792,
+    name: 'Pincel lengua de gato 562 Nº 8',
+    price: '2.40',
+    images: [
+      'https://dl.dropboxusercontent.com/scl/fi/oopfj0rjr86k9o9ztcldk/pincel-lengua-de-gato-home-decor-562-8.jpg?rlkey=97ogr3y96aa6k1z2twdvq43g2&st=s7estugk&dl=0',
+    ],
+    label: 'pincel',
+    description: 'Pinceles de alta calidad Montejo, serie 562 HOME DECOR para técnicas de: Óleo, Acrílico, Acuarela, Témpera ',
+    selected: false,
+  },
+
+
   
 
 
@@ -231,7 +232,7 @@ const initialProducts = [
 const precioMinimo = 0;
 const precioMaximo = 50;
 
-export const Tienda3Madera = () => {
+export const Tienda3MaterialesTrabajo= () => {
   const [products, setProducts] = useState(initialProducts);
   const [priceRange, setPriceRange] = useState([precioMinimo, precioMaximo]);
   const [selectedClasses, setSelectedClasses] = useState([]);
@@ -418,9 +419,9 @@ export const Tienda3Madera = () => {
         <div className="menu">
 
           <h1>Tienda de productos para artistas - Cadence 📘</h1>
-          <h2>Soportes de Madera🎨</h2>
+          <h2>Materiales de Trabajo Cadence🎨</h2>
 
-          <h3>Pintura CADENCE de gesso con base de agua, especialmente formulada con partículas de diferentes tamaños y colores en su interior para crear una superficie antigua vintage rota. </h3>
+          <h3> Una lista de materiales de trabajo como paletillas y pinceles que puedes utilizar en tus proyectos artísticos.</h3>
 
 
           <Button className="remove-button3" rightIcon={filterButtonIcon} onClick={handleToggleFilters} colorScheme='blue' variant='solid'>

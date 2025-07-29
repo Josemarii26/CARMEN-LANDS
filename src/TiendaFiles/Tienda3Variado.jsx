@@ -36,7 +36,7 @@ const initialProducts = [
   {
     id: 576,
     name: 'Aqua Block Coat Repellent Oil 250ml.',
-    price: '12.10',
+    price: '11.80',
     images: [
       'https://dl.dropboxusercontent.com/scl/fi/hrg6n29q6ll9xhlq25wfs/aqua-block-coat-repellent-oil-250-ml.jpg?rlkey=n15fhdaanhh0t18hhfxuk3nm3&st=4p83xs5k&dl=0',
     ],
@@ -57,19 +57,19 @@ const initialProducts = [
   },
   {
     id: 578,
-    name: 'Pan de Oro Cadence',
-    price: '23.60',
+    name: 'Pan de Oro Cadence: Librito 25 Hojas',
+    price: '5.85',
     images: [
       'https://dl.dropboxusercontent.com/scl/fi/vk92y0tmttesexn06l2r9/pan-de-oro-cadence.jpg?rlkey=2tgyuf9zyp5njyzwjia9pypeg&st=geluwj5d&dl=0',
     ],
-    label: '100 hojas',
+    label: 'hojas',
     description: 'Blister con 4 librillos de 25 hojas de 16x16cm sobre papel encerado para un fácil manejo de la marca CADENCE. Para decoración, manualidades, scrap, mixmedia....',
     selected: false,
   },
   {
     id: 579,
-    name: 'Foil Cobre 8cm x 120m',
-    price: '22.85',
+    name: 'Foil Cobre 8cm x 1m (precio por metro)',
+    price: '0.50',
     images: [
       'https://dl.dropboxusercontent.com/scl/fi/uxg3g9iazrtrz0c0hytu9/foil-cobre-cadence.jpg?rlkey=9871963riblrhbziic97mdxy4&st=rhoohz1r&dl=0',
     ],
@@ -79,8 +79,8 @@ const initialProducts = [
   },
   {
     id: 580,
-    name: 'Foil Plata 8cm x 120m',
-    price: '22.85',
+    name: 'Foil Plata 8cm x 1m (precio por metro)',
+    price: '0.50',
     images: [
       'https://dl.dropboxusercontent.com/scl/fi/2aggfnn1goi435gwzzw6b/foil-plata-cadence.jpg?rlkey=zj5o5wgj77rofq5j47h3m98y4&st=or2ai617&dl=0',
     ],
@@ -90,8 +90,8 @@ const initialProducts = [
   },
   {
     id: 581,
-    name: 'Foil Oro 8cm x 120m',
-    price: '22.85',
+    name: 'Foil Oro 8cm x 1m (precio por metro)',
+    price: '0.50',
     images: [
       'https://dl.dropboxusercontent.com/scl/fi/br3zac7aknolmfedydoh8/foil-oro-cadence.jpg?rlkey=c211jilh2ew7rt7o9vft6xog4&st=3o0n24iy&dl=0',
     ],
@@ -100,20 +100,9 @@ const initialProducts = [
     selected: false,
   },
   {
-    id: 582,
-    name: 'Barniz PLUS+ para pan de oro 100ml.',
-    price: '5.20',
-    images: [
-      'https://dl.dropboxusercontent.com/scl/fi/ik1fdluxmw5s3z74dh2zn/barniz-plus-para-pan-de-oro-cadence.jpg?rlkey=ufu2j00h4kp28ih0dq3xuz5qe&st=22nhglzd&dl=0',
-    ],
-    label: '120ml',
-    description: 'Barniz Plus + de CADENCE puede ser usado de una manera sencilla sobre trabajos de imitación de metal, sobre en pan de oro o foil metalizado. Es un barniz listo para usar con pincel, muy brillante y que no se deslustra.',
-    selected: false,
-  },
-  {
     id: 607,
     name: 'Smarta - White 100g',
-    price: '2.50',
+    price: '2.80',
     images: [
       'https://dl.dropboxusercontent.com/scl/fi/bhvlws5rxeekfhi2wybpp/smarta-white-100g.jpg?rlkey=rc32knqko5syysrgfjx16o8kr&st=byos65lg&dl=0',
     ],
@@ -124,7 +113,7 @@ const initialProducts = [
   {
     id: 608,
     name: 'Smarta BOLD - White 500g',
-    price: '2.60',
+    price: '3.30',
     images: [
       'https://dl.dropboxusercontent.com/scl/fi/1gd5ol0qk7vld9d26ysfy/smarta-bold-white-500g.jpg?rlkey=9yyqkzozroksl13t5mrsddhxw&st=ybtl1c8r&dl=0',
     ],
@@ -143,72 +132,7 @@ const initialProducts = [
     description: 'Adhesivo universal BLOK de acetovinílico incoloro de rápido secado y transparente. La cola BLOK es ideal para tus trabajos de cartonaje, scrapbook, mix media, manualidades, proyectos home decor... por su gran variedad de usos y su agarre excepcional.',
     selected: false,
   },
-  {
-    id: 610,
-    name: 'Paletina Nº05',
-    price: '3.00',
-    images: [
-      'https://dl.dropboxusercontent.com/scl/fi/i0iv0d4ggyu9kisgx5d0n/paletina-montejo.jpg?rlkey=d9gd96vfumq8y44yk0gixfdef&st=lej1jffu&dl=0',
-    ],
-    label: 'utensilio',
-    description: 'Paletinas de alta calidad Montejo, serie 4101 de pelo sintético. Ideales para hacer veladuras, pintar grandes superficies en tus trabajos de Home Decor y para la aplicación de barnices e imprimaciones.',
-    selected: false,
-  },
-  {
-    id: 611,
-    name: 'Paletina Nº10',
-    price: '4.20',
-    images: [
-      'https://dl.dropboxusercontent.com/scl/fi/2x7w3wwehm40uh8puk7j0/paletina-montejo-1.jpg?rlkey=vi4dyd9wnz1nu75uftj2xuq2m&st=i1f92fue&dl=0',
-    ],
-    label: 'utensilio',
-    description: 'Paletinas de alta calidad Montejo, serie 4101 de pelo sintético. Ideales para hacer veladuras, pintar grandes superficies en tus trabajos de Home Decor y para la aplicación de barnices e imprimaciones.',
-    selected: false,
-  },
-  {
-    id: 612,
-    name: 'Pincel Estarcir VERY CHALKY Nº2',
-    price: '2.80',
-    images: [
-      'https://dl.dropboxusercontent.com/scl/fi/ndry6c1nozg1egdknxm70/pincel-estarcir-very-chalky-n2.jpg?rlkey=1cm0eqnhos618g4zvxnox2ohy&st=3iwjjd61&dl=0',
-    ],
-    label: 'utensilio',
-    description: 'Pincel para estarcido de mango de madera corto lacado en rosa y pelo de cerda con corte recto. De alta calidad MONTEJO ideal para usar con plantillas o stencil por su corte recto y para la aplicación de las pinturas DORA de Cadence.',
-    selected: false,
-  },
-  {
-    id: 613,
-    name: 'Pincel Estarcir VERY CHALKY nº10',
-    price: '4.70',
-    images: [
-      'https://dl.dropboxusercontent.com/scl/fi/largrk4z1basngb6xnbue/pincel-estarcir-very-chalky.jpg?rlkey=k50u0cbjm5r0rofq8vhvg5q8d&st=py2rlj45&dl=0',
-    ],
-    label: 'utensilio',
-    description: 'Pincel para estarcido de mango de madera corto lacado en rosa y pelo de cerda con corte recto. De alta calidad MONTEJO ideal para usar con plantillas o stencil por su corte recto y para la aplicación de las pinturas DORA de Cadence.',
-    selected: false,
-  },
-  {
-    id: 614,
-    name: 'Pincel Abanico 464 Nº8',
-    price: '4.20',
-    images: [
-      'https://dl.dropboxusercontent.com/scl/fi/nu5phx8hr7cqoydxavy1x/pincel-abanico-464-n1.jpg?rlkey=ssbfs41agywu34m16unqn8n6s&st=q6j957u5&dl=0',
-    ],
-    label: 'utensilio',
-    description: 'Pinceles de alta calidad Montejo, serie 464 para técnicas de: Óleo, Acrílico, Acuarela, Témpera   ',
-    selected: false,
-  },
-  {
-    id: 615,
-    name: 'Espátula metálica 102mm',
-    price: '4.35',
-    images: [
-      'https://dl.dropboxusercontent.com/scl/fi/l99kcu9fwq33sdye2qhxe/espatula-metalica-102mm.jpg?rlkey=m6er5t3oddaxzze2uavycib4p&st=mnp5pun1&dl=0',
-    ],
-    label: 'utensilio',
-    description: 'Las espátulas ofrecen texturas diferentes a las creadas por el pincel y un contacto más directo con el lienzo.',
-    selected: false,
-  },
+
   
 
 

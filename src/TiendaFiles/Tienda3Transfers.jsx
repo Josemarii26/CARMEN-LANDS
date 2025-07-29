@@ -98,40 +98,36 @@ export const Tienda3Transfers = () => {
         </div>
 
         <div className="marcas2">
-          <WavyLink direction="up" to="/tienda/cadence/transfers/folex" color="#4593db">
+
+          {/*<WavyLink direction="up" to="/tienda/cadence/transfers/folex" color="#4593db">
             <div className="cadence-card">
               <img src='https://i.ibb.co/zRXMt5b/folex-transferencia.jpg' alt='cadence'></img>
               <br></br>
               <p>Transfers FOLEX Cadence</p>
             </div>
       
-          </WavyLink>
+          </WavyLink> */}
+
 
           <WavyLink direction="up" to="/tienda/cadence/transfers/home-decor" color="#4593db">
             <div className="cadence-card">
+                            <span className="badge-novedad">Novedades</span>
+
               <img src='https://i.ibb.co/tQtmJYG/transfers-home-decor-cadence-14.jpg' alt='cadence'></img>
               <br></br>
               <p>Transfers HOME DECOR</p>
             </div>
       
           </WavyLink>
-          <WavyLink direction="up" to="/tienda/cadence/transfers/textil" color="#4593db">
-            <div className="cadence-card">
-              <img src='https://i.ibb.co/C6s5fwX/transfers-para-tela-cadence.jpg' alt='cadence'></img>
-              <br></br>
-              <p>Transfers PARA TEXTIL</p>
-            </div>
-      
-          </WavyLink>
-
-          <WavyLink direction="up" to="/tienda/cadence/transfers/colors" color="#4593db">
+          
+          {/*<WavyLink direction="up" to="/tienda/cadence/transfers/colors" color="#4593db">
             <div className="cadence-card">
               <img src='https://www.artesaniasmontejo.com/c/1145-pos_category/transfer-color.jpg' alt='cadence'></img>
               <br></br>
               <p>Transfers COLORS</p>
             </div>
       
-          </WavyLink>
+          </WavyLink> */}
 
           
 

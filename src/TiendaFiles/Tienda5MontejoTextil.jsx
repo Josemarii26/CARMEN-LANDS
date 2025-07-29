@@ -14,206 +14,193 @@ import Aos from "aos";
 import "aos/dist/aos.css";
 import ScrollToTopButton from "../parallax/parallax-2/ScrollToTopButton";
 import { Navbar2 } from "../navbar/Navbar2";
-import { ProductCard2 } from "../tienda/ProductCard2";
-import { Navbar3 } from "../navbar/Navbar3";
+import { ProductCard4 } from "../tienda/ProductCard4";
+import { Navbar5 } from "../navbar/Navbar5";
 
 const initialProducts = [
   {
-    id: 515,
-    name: "Patina ASFALTO 100ml.",
-    price: "3.40",
+    id: 1031,
+    name: "MOCHILA INFANTIL ALGODÓN 23x21cm",
+    price: "3.90",
     images: [
-      "https://dl.dropboxusercontent.com/scl/fi/5p0usxnnhxum3auyrmrtw/patina-asfalto-cadence.jpg?rlkey=sahb7wpdp389hvgtaej4o9l1f&st=n9mbxjyy&dl=0",
+      "https://dl.dropboxusercontent.com/scl/fi/kt3cztqnrox0na6r5naw6/textil-cadence-mochila-infantil.jpg?rlkey=6l14hxupd5au4s9qsf6if2i0x&st=rbw9btl5&dl=0",
     ],
-    label: "100ml",
-    description:
-      "Medium o pátina de asfalto de la marca CADENCE usada para técnicas de envejecido sobre pan de oro o plata. Tambien se usa para oscurecer pinturas y como pátina de envejecido.",
+    label: "mochila",
+    description: "Mochila de tamaño infantil confeccionada en algodón.",
     selected: false,
   },
   {
-    id: 516,
-    name: "Imprimación Multiadherente MONTEJO 750ml.",
-    price: "19.50",
+    id: 1032,
+    name: "MOCHILA ALGODÓN 38x36cm",
+    price: "6.70",
     images: [
-      "https://dl.dropboxusercontent.com/scl/fi/5di9qasebp5b8x1cxksgb/imprimacion-multiadherente-montejo-750ml.jpg?rlkey=2r6yzuzb71z2kkp97lxeosxvx&st=evmlctp8&dl=0",
+      "https://dl.dropboxusercontent.com/scl/fi/bxy4kukkyrr1sw9ocghi9/textil-cadence-mochila.jpg?rlkey=8nbkdhb4jsz7utqafpi2cmdqk&st=t75riv31&dl=0",
     ],
-    label: "750ml",
-    description:
-      "Imprimación antioxidante que actúa como preparación y/o selladora para pintar todo tipo de superficies. Permite el posterior esmaltado o barnizado, con productos al agua, de metales tales como hierro, zinc, chapa galvanizada, etc. Pintura de fondo para aplicar sobre PVC rígido y materiales plásticos. Fondo sobre azulejo, cerámica y vidrio. Sellado de superficies porosas de yeso, cemento, cartón yeso, superficies pintadas, etc. Revolver bien el contenido del envase. Superficies nuevas: Lijado previo (lija de grano fino) para conseguir cierta rugosidad y abrir poro. Eliminar restos de polvo, grasa, óxido o suciedad en general. Superficies viejas pintadas: Eliminar cualquier resto de pintura en mal estado. Limpiar la superficie de cualquier tipo de polvo, grasa o suciedad que pueda afectar al anclaje. Lijar (grano fino). Recomendado aplicar dos manos finas de IMPRIMACIÓN MULTIUSOS, respetando siempre los intervalos de repintado. Dureza total tras 3-5 días, dependiendo de la temperatura y del espesor de capa, por tanto se debe evitar el contacto con agua u otros elementos que pudieran remover la película antes de su endurecimiento. Dilución: con agua. Diluir entre 10-15% según aplicación.",
+    label: "mochila",
+    description: "Mochila de tamaño infantil confeccionada en algodón.",
     selected: false,
   },
   {
-    id: 616,
-    name: "RUSTY PATINA Verde",
-    price: "8.20",
+    id: 1033,
+    name: "BOLSA ALGODÓN 30x37cm",
+    price: "6.30",
     images: [
-      "https://dl.dropboxusercontent.com/scl/fi/ot74m92shxifyxbwp2lr6/rusty-patina-verde.jpg?rlkey=xz3x2yj4wagbqcl09n6apzthe&st=pfbcpgjn&dl=0",
+      "https://dl.dropboxusercontent.com/scl/fi/ls0geuaz71qy0cathox7r/textil-cadence-bolsa.jpg?rlkey=9y66nccmfcdc5s9s4fpjf3b9s&st=k66byhqs&dl=0",
     ],
-    label: "150ml",
-    description:
-      "Pasta de relieve de alta calidad CADENCE, para crear texturas con efectos de patinas rústicas u oxidadas. Con base de agua y lista para su uso sobre multiples superficies. ",
+    label: "bolsa",
+    description: "Bolsa de algodón de tamaño 30x37 cm.",
     selected: false,
   },
   {
-    id: 617,
-    name: "RUSTY PATINA Gris",
-    price: "8.20",
+    id: 1034,
+    name: "BOLSA ALGODÓN PREDISEÑO KOALA 27x32cm",
+    price: "2.20",
     images: [
-      "https://dl.dropboxusercontent.com/scl/fi/0u94jfwwk5bz55vb8lh5z/rusty-patina-gris.jpg?rlkey=tby4boi51yilfv3d8v3ye10uk&st=sgbhdsn6&dl=0",
+      "https://dl.dropboxusercontent.com/scl/fi/uqnjw39i63inkzv0ejqat/textil-cadence-bolsa-algodon-koala.jpg?rlkey=14dd3hgxh1scgegp2b795socz&st=7k1i4grn&dl=0",
     ],
-    label: "150ml",
-    description:
-      "Pasta de relieve de alta calidad CADENCE, para crear texturas con efectos de patinas rústicas u oxidadas. Con base de agua y lista para su uso sobre multiples superficies. ",
+    label: "bolsa",
+    description: "Bolsa de algodón con diseño prediseñado Koala.",
     selected: false,
   },
   {
-    id: 619,
-    name: "RUSTY PATINA Crudo",
-    price: "8.20",
+    id: 1035,
+    name: "BOLSA ALGODÓN PREDISEÑO DUENDES 27x32cm",
+    price: "2.20",
     images: [
-      "https://dl.dropboxusercontent.com/scl/fi/cs2idnmj7ito08c64x6li/rusty-patina-crudo.jpg?rlkey=6dsipjmsu6iw1q8a1oy0nq6cz&st=zfkxv3lf&dl=0",
+      "https://dl.dropboxusercontent.com/scl/fi/3qmyf7lr0np1qu1khyfj4/textil-cadence-bolsa-algodon-duendes.jpg?rlkey=itf1k9tk4auibi0yfphsd6ify&st=f0trrlpv&dl=0",
     ],
-    label: "150ml",
-    description:
-      "Pasta de relieve de alta calidad CADENCE, para crear texturas con efectos de patinas rústicas u oxidadas. Con base de agua y lista para su uso sobre multiples superficies. ",
+    label: "bolsa",
+    description: "Bolsa de algodón con diseño prediseñado Duendes.",
     selected: false,
   },
   {
-    id: 620,
-    name: "RUSTY PATINA Óxido Amarillo",
-    price: "8.20",
+    id: 1036,
+    name: "BOLSA ALGODÓN CON ASAS 55x39cm",
+    price: "7.60",
     images: [
-      "https://dl.dropboxusercontent.com/scl/fi/sy9diza13fvugaltjl8ik/rusty-patina-oxido-amarillo.jpg?rlkey=8nd2dwm04de0kjeic03hbnyz0&st=h28kxnyz&dl=0",
+      "https://dl.dropboxusercontent.com/scl/fi/7v2q8i35im76mu4qsdan5/Bolsa-algodon-con-asas-55x39-cm.jpg?rlkey=wxnjdyp3nhu7klbj6i8n6lsq8&st=tnznwgs0&dl=0",
     ],
-    label: "150ml",
-    description:
-      "Pasta de relieve de alta calidad CADENCE, para crear texturas con efectos de patinas rústicas u oxidadas. Con base de agua y lista para su uso sobre multiples superficies. ",
+    label: "bolsa",
+    description: "Bolsa de algodón con asas de 55x39 cm.",
     selected: false,
   },
   {
-    id: 621,
-    name: "RUSTY PATINA Verde Moho",
-    price: "8.20",
+    id: 1037,
+    name: "BOLSA ZIPPER FLECOS 36x46cm",
+    price: "15.00",
     images: [
-      "https://dl.dropboxusercontent.com/scl/fi/sy9diza13fvugaltjl8ik/rusty-patina-oxido-amarillo.jpg?rlkey=8nd2dwm04de0kjeic03hbnyz0&st=h28kxnyz&dl=0",
+      "https://dl.dropboxusercontent.com/scl/fi/yz5j8hp4dp3ukr867qd5u/Bolsa-zipper-algodon-flecos-36x46cm.jpg?rlkey=0v6qai7titgt5u4sldyixq4zl&st=eg9cyk2m&dl=0",
     ],
-    label: "150ml",
-    description:
-      "Pasta de relieve de alta calidad CADENCE, para crear texturas con efectos de patinas rústicas u oxidadas. Con base de agua y lista para su uso sobre multiples superficies. ",
+    label: "bolsa",
+    description: "Bolsa de algodón con cremallera y flecos de 36x46 cm.",
     selected: false,
   },
   {
-    id: 622,
-    name: "RUSTY PATINA Marrón",
-    price: "8.20",
+    id: 1038,
+    name: "BOLSA ALGODÓN RECICLADO 50x36cm",
+    price: "4.80",
     images: [
-      "https://dl.dropboxusercontent.com/scl/fi/puyxup3fwaziwszw10cp7/rusty-patina-marron.jpg?rlkey=4fu95yqtfw1p75rpohff1qkpk&st=bjoitvaa&dl=0",
+      "https://dl.dropboxusercontent.com/scl/fi/osx8zsh4qnx038ry8s6v8/Bolsa-algodon-reciclado-50x36-cm.jpg?rlkey=961z67qidcfejfoas9v0zy2os&st=2z9tocjn&dl=0",
     ],
-    label: "150ml",
-    description:
-      "Pasta de relieve de alta calidad CADENCE, para crear texturas con efectos de patinas rústicas u oxidadas. Con base de agua y lista para su uso sobre multiples superficies. ",
+    label: "bolsa",
+    description: "Bolsa de algodón reciclado de 50x36 cm.",
     selected: false,
   },
   {
-    id: 623,
-    name: "RUSTY PATINA Azul Lapislázuli",
-    price: "8.20",
+    id: 1039,
+    name: "BOLSA ALGODÓN 42x40cm",
+    price: "5.70",
     images: [
-      "https://dl.dropboxusercontent.com/scl/fi/a0x7jeup0wb3fv5hk9k6w/rusty-patina-azul-lapislazuli.jpg?rlkey=kvs5r7wmuo13zxnmo1cundmk5&st=an6moyvo&dl=0",
+      "https://dl.dropboxusercontent.com/scl/fi/0pfrsztiukgz0szfol5jr/Tote-algodon-42x40-cm.jpg?rlkey=6w9pgakvcotga7b60znvrcm2z&st=31uzgzkm&dl=0",
     ],
-    label: "150ml",
-    description:
-      "Pasta de relieve de alta calidad CADENCE, para crear texturas con efectos de patinas rústicas u oxidadas. Con base de agua y lista para su uso sobre multiples superficies. ",
+    label: "bolsa",
+    description: "Bolsa de algodón de 42x40 cm.",
     selected: false,
   },
   {
-    id: 624,
-    name: "RUSTY PATINA Naranja",
-    price: "8.20",
+    id: 1040,
+    name: "COJÍN ALGODÓN 45x45cm",
+    price: "7.80",
     images: [
-      "https://dl.dropboxusercontent.com/scl/fi/cvvmviqw3pu1qnohr3oal/rusty-patina-naranja.jpg?rlkey=mmnjyp03waf2uzpwjihml6q5g&st=hl28tovx&dl=0",
+      "https://dl.dropboxusercontent.com/scl/fi/q30lqeo8dstbzvgp8a5f9/COJIN-45X45.jpg?rlkey=gjeopz5be0czh6zenfob7cl91&st=05ekt02o&dl=0",
     ],
-    label: "150ml",
-    description:
-      "Pasta de relieve de alta calidad CADENCE, para crear texturas con efectos de patinas rústicas u oxidadas. Con base de agua y lista para su uso sobre multiples superficies. ",
+    label: "cojín",
+    description: "Cojín de algodón de 45x45 cm.",
     selected: false,
   },
   {
-    id: 625,
-    name: "RUSTY PATINA Gris Antracita",
-    price: "8.20",
+    id: 1041,
+    name: "PORTA DOCUMENTOS VIAJE 25x13.5cm",
+    price: "5.50",
     images: [
-      "https://dl.dropboxusercontent.com/scl/fi/w851dlxuv2a8cy395kgyn/rusty-patina-gris-antracita.jpg?rlkey=ewu2opek1qnvgsty308h22k6r&st=j5ruamkq&dl=0",
+      "https://dl.dropboxusercontent.com/scl/fi/dh9cy5blizm3qd7gaifmz/Portadocumentos-viaje-25x135-cm.jpg?rlkey=55nd4ie7n793raucbgwynyq08&st=dfttw2ck&dl=0",
     ],
-    label: "150ml",
-    description:
-      "Pasta de relieve de alta calidad CADENCE, para crear texturas con efectos de patinas rústicas u oxidadas. Con base de agua y lista para su uso sobre multiples superficies. ",
+    label: "porta documentos",
+    description: "Portadocumentos de vinilo de 25x13.5 cm.",
     selected: false,
   },
   {
-    id: 626,
-    name: "RUSTY PATINA Blanco",
-    price: "8.20",
+    id: 1042,
+    name: "ROSA MARMOL Cinta seda reciclada 1m",
+    price: "1.00",
     images: [
-      "https://dl.dropboxusercontent.com/scl/fi/df18yirzv0meykruk45fr/rusty-patina-blanco.jpg?rlkey=ipebhohoavfc82nnrvyai8u6w&st=y7228ryt&dl=0",
+      "https://dl.dropboxusercontent.com/scl/fi/4gzk2k9uesfxzs4aw65i2/cinta-seda-reciclada-rosa-mrmol-100-gr.jpg?rlkey=ng3lwocx3goplclhgy8gld7a4&st=48yn1vor&dl=0",
     ],
-    label: "150ml",
-    description:
-      "Pasta de relieve de alta calidad CADENCE, para crear texturas con efectos de patinas rústicas u oxidadas. Con base de agua y lista para su uso sobre multiples superficies. ",
+    label: "cinta reciclada",
+    description: "Cinta de seda reciclada de 1 metro.",
     selected: false,
   },
   {
-    id: 777,
-    name: "Light Green PATINA SPRAY 50+50 ml.",
-    price: "8.20",
+    id: 1043,
+    name: "PURPURA VIEJO Cinta seda reciclada 1m",
+    price: "1.00",
     images: [
-      "https://dl.dropboxusercontent.com/scl/fi/yplad4k1rp69ar4dpd6cg/patina-spray-50ml50ml-light-green.jpg?rlkey=dh5e2q1m8sllv54130wa0k3sg&st=rr3cawjq&dl=0",
+      "https://dl.dropboxusercontent.com/scl/fi/ii96ujm80zy9lyumvokmv/cinta-seda-reciclada-prpura-viejo-100-gr.jpg?rlkey=v98lwl1v6f1cpctv0ahgl0jl6&st=feuxsww7&dl=0",
     ],
-    label: "50+50 ml.",
-    description: "Agitar bien antes de usar. Rocíe la Pintura Patina sobre una superficie pintada o con láminas metálicas y aplique el activador mientras la pintura aún esté húmeda. Deje secar. El tiempo de secado varía entre 2 y 6 horas, dependiendo de la cantidad aplicada. A las 24 horas se verá el resultado final.",
+    label: "cinta reciclada",
+    description: "Cinta de seda reciclada de 1 metro.",
     selected: false,
   },
   {
-    id: 778,
-    name: "Light Green PATINA SPRAY 50+50 ml.",
-    price: "8.20",
+    id: 1044,
+    name: "OCRE Cinta seda reciclada 1m",
+    price: "1.00",
     images: [
-      "https://dl.dropboxusercontent.com/scl/fi/v6o5zjmhzlpmghh8bse8i/patina-spray-50ml50ml-rust.jpg?rlkey=xh9wxzwcxkf43u51jgyd5uyvc&st=t6idzab7&dl=0",
+      "https://dl.dropboxusercontent.com/scl/fi/87l2f8uu21pr48besp1m8/cinta-seda-reciclada-ocre-100-gr.jpg?rlkey=dpak6ogwvtows1cqmcy6ba7d7&st=59k3lf7u&dl=0",
     ],
-    label: "50+50 ml.",
-    description: "Agitar bien antes de usar. Rocíe la Pintura Patina sobre una superficie pintada o con láminas metálicas y aplique el activador mientras la pintura aún esté húmeda. Deje secar. El tiempo de secado varía entre 2 y 6 horas, dependiendo de la cantidad aplicada. A las 24 horas se verá el resultado final.",
+    label: "cinta reciclada",
+    description: "Cinta de seda reciclada de 1 metro.",
     selected: false,
   },
   {
-    id: 779,
-    name: "Light Green PATINA SPRAY 50+50 ml.",
-    price: "8.20",
+    id: 1045,
+    name: "ARENA Cinta seda reciclada 1m",
+    price: "1.00",
     images: [
-      "https://dl.dropboxusercontent.com/scl/fi/8irkr19hjh3hag1di52n7/patina-spray-50ml50ml-dark-green.jpg?rlkey=6ef7ud7i302s8smcwxrwjj66s&st=ezg6kef9&dl=0",
+      "https://dl.dropboxusercontent.com/scl/fi/9o1ov977il6ukfxuqkyz8/cinta-seda-reciclada-arena-100-gr.jpg?rlkey=evag23rwea4kag8cx0vz5rd2l&st=g6stx9ee&dl=0",
     ],
-    label: "50+50 ml.",
-    description: "Agitar bien antes de usar. Rocíe la Pintura Patina sobre una superficie pintada o con láminas metálicas y aplique el activador mientras la pintura aún esté húmeda. Deje secar. El tiempo de secado varía entre 2 y 6 horas, dependiendo de la cantidad aplicada. A las 24 horas se verá el resultado final.",
+    label: "cinta reciclada",
+    description: "Cinta de seda reciclada de 1 metro.",
     selected: false,
   },
   {
-    id: 780,
-    name: "Light Green PATINA SPRAY 50+50 ml.",
-    price: "8.20",
+    id: 1046,
+    name: "NILO Cinta seda reciclada 1m",
+    price: "1.00",
     images: [
-      "https://dl.dropboxusercontent.com/scl/fi/7nyfawkvek36usdg52k1m/patina-spray-50ml50ml-blue.jpg?rlkey=s5k79n6ikr7lgof72lnmknvbw&st=xp5douby&dl=0",
+      "https://dl.dropboxusercontent.com/scl/fi/3g52go0oddnzk32t63dpy/cinta-seda-reciclada-nilo-100-gr.jpg?rlkey=r3hwwm9enro65okv492mtioiv&st=qd5fbhqs&dl=0",
     ],
-    label: "50+50 ml.",
-    description: "Agitar bien antes de usar. Rocíe la Pintura Patina sobre una superficie pintada o con láminas metálicas y aplique el activador mientras la pintura aún esté húmeda. Deje secar. El tiempo de secado varía entre 2 y 6 horas, dependiendo de la cantidad aplicada. A las 24 horas se verá el resultado final.",
+    label: "cinta reciclada",
+    description: "Cinta de seda reciclada de 1 metro.",
     selected: false,
   },
-
 ];
 
 // Define el rango de precios mínimo y máximo de tus productos
 const precioMinimo = 0;
 const precioMaximo = 20;
 
-export const Tienda3PastasPatinaImprimacion = () => {
+export const Tienda5MontejoTextil = () => {
   const [products, setProducts] = useState(initialProducts);
   const [priceRange, setPriceRange] = useState([precioMinimo, precioMaximo]);
   const [selectedClasses, setSelectedClasses] = useState([]);
@@ -388,26 +375,26 @@ export const Tienda3PastasPatinaImprimacion = () => {
 
   return (
     <>
-      <Navbar3 />
+      <Navbar5 />
 
       {showOverlay && <div className="overlay"></div>}
-      <div className="tienda" id="tienda3">
+      <div className="tienda" id="tienda5">
         <br></br>
 
         <div className="menu">
-          <h1>Tienda de productos para artistas - Cadence 📘</h1>
-          <h2>Patina e imprimación🎨</h2>
+          <h1>Tienda de productos - Montejo 🎗️</h1>
+          <h2>Textil Algodón Montejo🎨</h2>
 
           <h3>
-            Selección de diferentes productos para limpieza y productos
-            auxiliares.{" "}
+            Soportes textiles de algodón en color crudo o negro utilizados para decorar con los transfers, pinturas y pastas textiles.
           </h3>
 
           <Button
             className="remove-button3"
             rightIcon={filterButtonIcon}
             onClick={handleToggleFilters}
-            colorScheme="blue"
+            colorScheme="orange"
+            bg='orange.600'
             variant="solid"
           >
             Filtrar Productos
@@ -415,7 +402,7 @@ export const Tienda3PastasPatinaImprimacion = () => {
 
           <SearchBar onSearch={handleSearch} />
 
-          <button className="bn632-hover bn22b" onClick={handleToggleCart}>
+          <button className="bn632-hover bn22d" onClick={handleToggleCart}>
             Carrito🛒
           </button>
         </div>
@@ -428,7 +415,13 @@ export const Tienda3PastasPatinaImprimacion = () => {
                   initialProducts.map((product) => product.label)
                 ).values()
               ).map((selectedClass) => (
-                <Tag size={"lg"} key={"lg"} variant="solid" colorScheme="blue">
+                <Tag
+                  size={"lg"}
+                  key={"lg"}
+                  variant="solid"
+                  colorScheme="orange"
+                  bg="orange.600"
+                >
                   <label
                     key={selectedClass}
                     className="filter-item"
@@ -473,7 +466,7 @@ export const Tienda3PastasPatinaImprimacion = () => {
             </p>
           ) : (
             visibleProducts.map((product) => (
-              <ProductCard2
+              <ProductCard4
                 key={product.id}
                 product={product}
                 addToCart={addToCart}

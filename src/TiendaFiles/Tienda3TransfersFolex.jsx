@@ -22,6 +22,7 @@ import { Navbar3 } from '../navbar/Navbar3';
 
 
 const initialProducts = [
+  /*
   {
     id: 444,
     name: 'Lámina FOLEX ORO 20x30cm FSE001',
@@ -222,7 +223,7 @@ const initialProducts = [
   },
   
   
-  
+  */
   
   
   
