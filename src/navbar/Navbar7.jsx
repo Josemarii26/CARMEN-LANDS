@@ -4,7 +4,7 @@ import { useEffect, useRef, useState } from "react";
 
 import { WavyContainer, WavyLink } from "react-wavy-transitions";
 
-export const Navbar4 = () => {
+export const Navbar7 = () => {
   const lastScrollTop = useRef(0);
   const [isNavbarVisible, setIsNavbarVisible] = useState(true);
 
@@ -68,7 +68,7 @@ export const Navbar4 = () => {
   };
 
   return (
-    <nav id="nav4" className={`navbar ${isNavbarVisible ? "visible" : ""}`}>
+    <nav id="nav7" className={`navbar ${isNavbarVisible ? "visible" : ""}`}>
       <img src={logo} alt="Logo" />
       <button className="menu-toggle" onClick={toggleNavbar}>
         <span></span>

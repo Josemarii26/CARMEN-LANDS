@@ -57,9 +57,11 @@ import { Tienda4} from "./TiendaFiles/Tienda4";
 import { Tienda5 } from "./TiendaFiles/Tienda5";
 import { Tienda5MontejoTextil } from "./TiendaFiles/Tienda5MontejoTextil";
 import { Tienda3PapelCartonajeRossi } from "./TiendaFiles/Tienda3PapelCartonajeRossi";
-import { Tienda3PapersForYouTela } from "./TiendaFiles/Tienda3PapersForYouTela";
+import { Tienda3PapersForYouTela, Tienda6PapersForYouTela } from "./TiendaFiles/Tienda6PapersForYouTela";
 import { Tienda3PapersForYou } from "./TiendaFiles/Tienda3PapersForYou";
-import { Tienda3PapersForYouLino } from "./TiendaFiles/Tienda3PapersForYouLino";
+import { Tienda3PapersForYouLino, Tienda6PapersForYouLino } from "./TiendaFiles/Tienda6PapersForYouLino";
+import { Tienda6 } from "./TiendaFiles/Tienda6";
+import { Tienda7 } from "./TiendaFiles/Tienda7";
 
 
 
@@ -121,11 +123,15 @@ function App() {
           <Route path="/tienda/cadence/papeles/ciao-bella" element={<Tienda3PapelesCiaoBella/>} />
           <Route path="/tienda/cadence/papel-cartonaje-rossi" element={<Tienda3PapelCartonajeRossi/>} />
           <Route path="/tienda/cadence/papers-for-you" element={<Tienda3PapersForYou/>} />
-          <Route path="/tienda/cadence/papers-for-you/tela" element={<Tienda3PapersForYouTela/>} />
-          <Route path="/tienda/cadence/papers-for-you/lino" element={<Tienda3PapersForYouLino/>} />
+          
           <Route path="/tienda/muebles-ornamentos" element={<Tienda4/>} />
           <Route path="/tienda/montejo" element={<Tienda5/>} />
           <Route path="/tienda/montejo/textil" element={<Tienda5MontejoTextil/>} />
+          <Route path="/tienda/papers-for-you" element={<Tienda6/>} />
+          <Route path="/tienda/papers-for-you/tela" element={<Tienda6PapersForYouTela/>} />
+          <Route path="/tienda/papers-for-you/lino" element={<Tienda6PapersForYouLino/>} />
+          <Route path="/tienda/rossi" element={<Tienda7/>} />
+
           <Route path="/aviso-legal" element={<AvisoLegal/>} />
           <Route path="/tienda/finalizar-pedido" element={<FinalizarPedido/>} />
           <Route path="*" element={<>No Match</>} />

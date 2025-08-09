@@ -456,6 +456,21 @@ export const Tienda = () => {
             >
               <div className="muebles"></div>
             </WavyLink>
+            <WavyLink
+              direction="up"
+              to="/tienda/papers-for-you"
+              color="#e268b4ff"
+            >
+              <div className="papers-for-you"></div>
+            </WavyLink>
+
+            <WavyLink
+              direction="up"
+              to="/tienda/rossi"
+              color="#915829ff"
+            >
+              <div className="rossi"></div>
+            </WavyLink>
             
           </div>
         </div>

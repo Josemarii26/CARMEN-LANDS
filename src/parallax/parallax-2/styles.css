@@ -671,6 +671,28 @@ button {
   box-shadow: 0 4px 15px 0 rgba(126, 178, 226, 0.75);
 }
 
+.bn632-hover.bn22e {
+  background-image: linear-gradient(
+    to right,
+    #aa3f7a,
+    #e341e9,
+    #e278cb,
+    #d359c9
+  );
+  box-shadow: 0 4px 15px 0 rgba(126, 178, 226, 0.75);
+}
+
+.bn632-hover.bn22f {
+  background-image: linear-gradient(
+    to right,
+    #724e2c,
+    #aa4c20,
+    #7a3828,
+    #c46c39
+  );
+  box-shadow: 0 4px 15px 0 rgba(126, 178, 226, 0.75);
+}
+
 @media (min-width: 450px) and (max-width: 1200px) {
   .imagenCarrusel {
     max-width: 52vh;

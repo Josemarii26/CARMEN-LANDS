@@ -26,7 +26,7 @@ a {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  gap: 20px;
+  gap: 10px;
   padding: 0 20px;
   width: 100%;
   height: 72px;
@@ -59,6 +59,22 @@ a {
 
 #nav5 .nav-items {
   background: rgb(194, 138, 65) !important;
+}
+
+#nav6 {
+  background: rgb(228, 100, 200) !important;
+}
+
+#nav6 .nav-items {
+  background: rgb(228, 100, 200) !important;
+}
+
+#nav7 {
+  background: rgb(150, 82, 37) !important;
+}
+
+#nav7 .nav-items {
+  background: rgb(150, 82, 37) !important;
 }
 
 
@@ -184,19 +200,28 @@ section>p {
 
   .nav-items ul {
     display: flex;
-    gap: 8px;
+    gap: -10px;
+    
+    /* Ajusta este valor según tus necesidades */
+  }
+
+  .nav-items button {
+    font-size: 14px;
+    max-width: 190px;
+    
     /* Ajusta este valor según tus necesidades */
   }
 
   .nav-items>a {
     height: auto;
     width: auto;
+    
     /* Puedes cambiar esto según tus necesidades */
   }
 }
 
 /* Estilos para el menú de navegación en pantallas pequeñas */
-@media (max-width: 1507px) {
+@media (max-width: 1737px) {
   .navbar {
     display: block;
     text-align: center;

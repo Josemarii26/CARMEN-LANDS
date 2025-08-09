@@ -118,6 +118,22 @@ export const Navbar2 = () => {
               Montejo
             </WavyLink>
           </li>
+          <li className="nav-item-badge">
+            {/* Badge de novedad */}
+            <span className="badge-novedad2">Nuevo</span>
+
+            <WavyLink direction="up" to="/tienda/papers-for-you" color="#de95e7ff">
+              Papers For You
+            </WavyLink>
+          </li>
+          <li className="nav-item-badge">
+            {/* Badge de novedad */}
+            <span className="badge-novedad2">Nuevo</span>
+
+            <WavyLink direction="up" to="/tienda/rossi" color="#aa6934ff">
+              Rossi
+            </WavyLink>
+          </li>
           <li>
             <WavyLink direction="up" to="/tienda/muebles-ornamentos" color="#db4545">
               Muebles y Ornamentos

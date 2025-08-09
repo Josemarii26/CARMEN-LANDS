@@ -625,7 +625,7 @@ export const Tienda3TransfersHomeDecor = () => {
   const startIndex = (currentPage - 1) * itemsPerPage;
   const endIndex = startIndex + itemsPerPage;
 
-  const visibleProducts = products.slice(startIndex, endIndex);
+  const visibleProducts = products.slice().reverse().slice(startIndex, endIndex);
 
 
 

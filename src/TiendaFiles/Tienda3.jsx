@@ -140,7 +140,7 @@ export const Tienda3 = () => {
                 alt="cadence"
               ></img>
               <br></br>
-              <p>Transferencias  Cadence</p>
+              <p>Transferencias Cadence</p>
             </div>
           </WavyLink>
 
@@ -261,39 +261,7 @@ export const Tienda3 = () => {
             </div>
           </WavyLink>
 
-          <WavyLink
-            direction="up"
-            to="/tienda/cadence/papel-cartonaje-rossi"
-            color="#4593db"
-          >
-            <div className="cadence-card">
-              <span className="badge-novedad">Novedades</span>
-
-              <img
-                src="https://dl.dropboxusercontent.com/scl/fi/b55iul4ff8eimzr648o52/rossi-1931-papel-cartonaje.jpg?rlkey=lgw4pc52nfiipzaj9np0hhq9d&st=9cdh0878&dl=0"
-                alt="cadence"
-              ></img>
-              <br></br>
-              <p>Papel de Cartonaje marca Rossi</p>
-            </div>
-          </WavyLink>
-
-          <WavyLink
-            direction="up"
-            to="/tienda/cadence/papers-for-you"
-            color="#4593db"
-          >
-            <div className="cadence-card">
-              <span className="badge-novedad">Novedades</span>
-
-              <img
-                src="https://dl.dropboxusercontent.com/scl/fi/k4jp5m5gp3fjag631i81h/papers-for-you.jpg?rlkey=p0kawun6evmdhuneza6uxnm5c&st=o41bwdb0&dl=0"
-                alt="cadence"
-              ></img>
-              <br></br>
-              <p>Tela de encuadernar Papers For You </p>
-            </div>
-          </WavyLink>
+          
 
           <WavyLink direction="up" to="/tienda/cadence" color="#4593db">
             <div className="cadence-card">

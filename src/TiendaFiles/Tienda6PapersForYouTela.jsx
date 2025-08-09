@@ -17,8 +17,9 @@ import Aos from 'aos';
 import 'aos/dist/aos.css';
 import ScrollToTopButton from '../parallax/parallax-2/ScrollToTopButton';
 import { Navbar2 } from '../navbar/Navbar2';
-import { ProductCard2 } from '../tienda/ProductCard2';
+import { ProductCard5 } from '../tienda/ProductCard5';
 import { Navbar3 } from '../navbar/Navbar3';
+import { Navbar6 } from '../navbar/Navbar6';
 
 
 const initialProducts = [
@@ -132,7 +133,7 @@ const initialProducts = [
 const precioMinimo = 0;
 const precioMaximo = 20;
 
-export const Tienda3PapersForYouTela = () => {
+export const Tienda6PapersForYouTela = () => {
   const [products, setProducts] = useState(initialProducts);
   const [priceRange, setPriceRange] = useState([precioMinimo, precioMaximo]);
   const [selectedClasses, setSelectedClasses] = useState([]);
@@ -305,27 +306,27 @@ export const Tienda3PapersForYouTela = () => {
 
   return (
     <>
-      <Navbar3 />
+      <Navbar6 />
 
       {showOverlay && <div className="overlay"></div>}
-      <div className="tienda" id='tienda3'>
+      <div className="tienda" id='tienda6'>
         <br></br>
 
         <div className="menu">
 
-          <h1>Tienda de productos para artistas - Cadence 📘</h1>
-          <h2>Papeles para encuadernar de TELA - Paper For You Cadence🎨</h2>
+          <h1>Tienda de productos para artistas - Papers For You 🌸</h1>
+          <h2>Papeles para encuadernar de TELA - Papers For You 🎨</h2>
 
           <h3>Tela especial para trabajos de encuadernación y trabajos manuales. Fácil de aplicar, se pega con cola blanca. Las telas están protegidas por una base de papel para evitar que se estropeen y manchen cuando se pegan. Todos se presentan en rollo presentados en caja.  </h3>
 
-          <Button className="remove-button3" rightIcon={filterButtonIcon} onClick={handleToggleFilters} colorScheme='blue' variant='solid'>
+          <Button className="remove-button3" rightIcon={filterButtonIcon} onClick={handleToggleFilters} colorScheme='pink' variant='solid'>
             Filtrar Productos
           </Button>
 
           <SearchBar onSearch={handleSearch} />
 
 
-          <button className="bn632-hover bn22b" onClick={handleToggleCart}>Carrito🛒</button>
+          <button className="bn632-hover bn22e" onClick={handleToggleCart}>Carrito🛒</button>
 
         </div>
 
@@ -334,7 +335,7 @@ export const Tienda3PapersForYouTela = () => {
             
             {Array.from(new Set(initialProducts.map((product) => product.label)).values()).map(
               (selectedClass) => (
-                <Tag size={'lg'} key={'lg'} variant='solid' colorScheme='blue' >
+                <Tag size={'lg'} key={'lg'} variant='solid' colorScheme='pink' >
                   <label key={selectedClass} className="filter-item" id='checkbox'>
                     <input
                       type="checkbox"
@@ -371,7 +372,7 @@ export const Tienda3PapersForYouTela = () => {
             <p> <br></br> <br></br>No hay productos según su búsqueda.</p>
           ) : (
             visibleProducts.map((product) => (
-              <ProductCard2
+              <ProductCard5
                 key={product.id}
                 product={product}
                 addToCart={addToCart}
