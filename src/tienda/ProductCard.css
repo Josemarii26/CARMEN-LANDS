@@ -335,6 +335,26 @@
   text-decoration: underline;
 }
 
+#papers-for-you-text {
+  font-size: 20px;
+  font-weight: 600;
+  color: #bb41bb;
+}
+
+#papers-for-you-text:hover {
+  text-decoration: underline;
+}
+
+#rossi-text {
+  font-size: 20px;
+  font-weight: 600;
+  color: #854c26;
+}
+
+#rossi-text:hover {
+  text-decoration: underline;
+}
+
 .pp {
   background-color: #2c8b64;
 }
