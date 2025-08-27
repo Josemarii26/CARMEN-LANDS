@@ -18,7 +18,7 @@ import { ProductCard2 } from "../tienda/ProductCard2";
 import { Navbar6 } from "../navbar/Navbar6";
 import { WavyContainer, WavyLink } from "react-wavy-transitions";
 
-export const Tienda6 = () => {
+export const Tienda6Transfers = () => {
   const [cart, setCart] = useState([]);
   const [showOverlay, setShowOverlay] = useState(false);
 
@@ -83,40 +83,7 @@ export const Tienda6 = () => {
         <div className="marcas2">
           <WavyLink
             direction="up"
-            to="/tienda/papers-for-you/tela"
-            color="#de95e7ff"
-          >
-            <div className="cadence-card">
-              <span className="badge-novedad">Novedades</span>
-
-              <img
-                src="https://dl.dropboxusercontent.com/scl/fi/bv747bbzzzm1zldrqxdn4/pyf-rollos-tela-encuadernar.jpg?rlkey=sq1uupdqdwrpjyjjmav3qbjsb&st=f9s942sl&dl=0"
-                alt="cadence"
-              ></img>
-              <br></br>
-              <p>Rollos Tela Papers For You</p>
-            </div>
-          </WavyLink>
-
-          <WavyLink
-            direction="up"
-            to="/tienda/papers-for-you/lino"
-            color="#de95e7ff"
-          >
-            <div className="cadence-card">
-              <span className="badge-novedad">Novedades</span>
-
-              <img
-                src="https://dl.dropboxusercontent.com/scl/fi/bv747bbzzzm1zldrqxdn4/pyf-rollos-tela-encuadernar.jpg?rlkey=sq1uupdqdwrpjyjjmav3qbjsb&st=f9s942sl&dl=0"
-                alt="cadence"
-              ></img>
-              <br></br>
-              <p>Rollos Lino Papers For You</p>
-            </div>
-          </WavyLink>
-          <WavyLink
-            direction="up"
-            to="/tienda/papers-for-you/transfers-decorativos"
+            to="/tienda/papers-for-you/transfers-decorativos/transfers-15x30"
             color="#de95e7ff"
           >
             <div className="cadence-card">
@@ -127,7 +94,56 @@ export const Tienda6 = () => {
                 alt="cadence"
               ></img>
               <br></br>
-              <p>Decorative Transfers Papers For You</p>
+              <p>Decorative Transfers 15x30</p>
+            </div>
+          </WavyLink>
+
+          <WavyLink
+            direction="up"
+            to="/tienda/papers-for-you/transfers-decorativos/transfers-20x30"
+            color="#de95e7ff"
+          >
+            <div className="cadence-card">
+              <span className="badge-novedad">Novedades</span>
+
+              <img
+                src="https://dl.dropboxusercontent.com/scl/fi/gaxwvgd349ythiqtjlbkl/CAT-DECORATIVE-TRANSFERS-250x250.jpg?rlkey=t9mucami9mvp9um2zo8zqv0mk&st=4odfwa86&dl=0"
+                alt="cadence"
+              ></img>
+              <br></br>
+              <p>Decorative Transfers 20x30</p>
+            </div>
+          </WavyLink>
+          <WavyLink
+            direction="up"
+            to="/tienda/papers-for-you/transfers-decorativos/transfers-30x30"
+            color="#de95e7ff"
+          >
+            <div className="cadence-card">
+              <span className="badge-novedad">Novedades</span>
+
+              <img
+                src="https://dl.dropboxusercontent.com/scl/fi/gaxwvgd349ythiqtjlbkl/CAT-DECORATIVE-TRANSFERS-250x250.jpg?rlkey=t9mucami9mvp9um2zo8zqv0mk&st=4odfwa86&dl=0"
+                alt="cadence"
+              ></img>
+              <br></br>
+              <p>Decorative Transfers 30x30</p>
+            </div>
+          </WavyLink>
+          <WavyLink
+            direction="up"
+            to="/tienda/papers-for-you/transfers-decorativos/transfers-60x90"
+            color="#de95e7ff"
+          >
+            <div className="cadence-card">
+              <span className="badge-novedad">Novedades</span>
+
+              <img
+                src="https://dl.dropboxusercontent.com/scl/fi/gaxwvgd349ythiqtjlbkl/CAT-DECORATIVE-TRANSFERS-250x250.jpg?rlkey=t9mucami9mvp9um2zo8zqv0mk&st=4odfwa86&dl=0"
+                alt="cadence"
+              ></img>
+              <br></br>
+              <p>Decorative Transfers 60x90</p>
             </div>
           </WavyLink>
         </div>

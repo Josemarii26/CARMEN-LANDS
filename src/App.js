@@ -62,6 +62,11 @@ import { Tienda3PapersForYou } from "./TiendaFiles/Tienda3PapersForYou";
 import { Tienda3PapersForYouLino, Tienda6PapersForYouLino } from "./TiendaFiles/Tienda6PapersForYouLino";
 import { Tienda6 } from "./TiendaFiles/Tienda6";
 import { Tienda7 } from "./TiendaFiles/Tienda7";
+import { Tienda6Transfers } from "./TiendaFiles/Tienda6Transfers";
+import { Tienda6Transfers15x30 } from "./TiendaFiles/Tienda6Transfers15x30";
+import { Tienda6Transfers20x30 } from "./TiendaFiles/Tienda6Transfers20x30";
+import { Tienda6Transfers30x30 } from "./TiendaFiles/Tienda6Transfers30x30";
+import { Tienda6Transfers60x90 } from "./TiendaFiles/Tienda6Transfers60x90";
 
 
 
@@ -128,6 +133,11 @@ function App() {
           <Route path="/tienda/montejo" element={<Tienda5/>} />
           <Route path="/tienda/montejo/textil" element={<Tienda5MontejoTextil/>} />
           <Route path="/tienda/papers-for-you" element={<Tienda6/>} />
+          <Route path="/tienda/papers-for-you/transfers-decorativos" element={<Tienda6Transfers/>} />
+          <Route path="/tienda/papers-for-you/transfers-decorativos/transfers-15x30" element={<Tienda6Transfers15x30/>} />
+          <Route path="/tienda/papers-for-you/transfers-decorativos/transfers-20x30" element={<Tienda6Transfers20x30/>} />
+          <Route path="/tienda/papers-for-you/transfers-decorativos/transfers-30x30" element={<Tienda6Transfers30x30/>} />
+          <Route path="/tienda/papers-for-you/transfers-decorativos/transfers-60x90" element={<Tienda6Transfers60x90/>} />
           <Route path="/tienda/papers-for-you/tela" element={<Tienda6PapersForYouTela/>} />
           <Route path="/tienda/papers-for-you/lino" element={<Tienda6PapersForYouLino/>} />
           <Route path="/tienda/rossi" element={<Tienda7/>} />
