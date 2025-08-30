@@ -90,7 +90,9 @@ export const Navbar7 = () => {
             </WavyLink>
           </li>
 
-          <li>
+          <li className="nav-item-badge">
+            <span className="badge-novedad3">Novedades</span>
+
             <WavyLink direction="up" to="/tienda/mint-by-michelle" color="#6aee75">
               Mint by Michelle
             </WavyLink>
