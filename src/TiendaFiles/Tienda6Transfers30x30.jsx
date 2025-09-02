@@ -661,6 +661,8 @@ export const Tienda6Transfers30x30 = () => {
             madera, es decir, SUPERFICIES DURAS, muy fáciles de aplicar y con un
             resultado de gran calidad. Todos los kits incluyen un palito de
             madera para facilitar su trabajo.{" "}
+                        <br></br><span id='materiales'>CONTIENE 2 LÁMINAS</span>
+
           </h3>
 
           <Button

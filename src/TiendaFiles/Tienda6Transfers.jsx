@@ -94,7 +94,7 @@ export const Tienda6Transfers = () => {
                 alt="cadence"
               ></img>
               <br></br>
-              <p>Decorative Transfers 15x30</p>
+              <p>Decorative Transfers 15x30 <br></br>4 Láminas</p>
             </div>
           </WavyLink>
 
@@ -111,7 +111,7 @@ export const Tienda6Transfers = () => {
                 alt="cadence"
               ></img>
               <br></br>
-              <p>Decorative Transfers 20x30</p>
+              <p>Decorative Transfers 20x30 <br></br>3 Láminas</p>
             </div>
           </WavyLink>
           <WavyLink
@@ -127,7 +127,7 @@ export const Tienda6Transfers = () => {
                 alt="cadence"
               ></img>
               <br></br>
-              <p>Decorative Transfers 30x30</p>
+              <p>Decorative Transfers 30x30 <br></br>2 Láminas</p>
             </div>
           </WavyLink>
           <WavyLink
@@ -143,7 +143,7 @@ export const Tienda6Transfers = () => {
                 alt="cadence"
               ></img>
               <br></br>
-              <p>Decorative Transfers 60x90</p>
+              <p>Decorative Transfers 60x90 <br></br>4 Láminas</p>
             </div>
           </WavyLink>
         </div>

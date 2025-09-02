@@ -119,15 +119,17 @@ export const Tienda3Transfers = () => {
             </div>
       
           </WavyLink>
-          
-          {/*<WavyLink direction="up" to="/tienda/cadence/transfers/colors" color="#4593db">
+
+          <WavyLink direction="up" to="/tienda/cadence/transfers/plata-y-oro" color="#4593db">
             <div className="cadence-card">
-              <img src='https://www.artesaniasmontejo.com/c/1145-pos_category/transfer-color.jpg' alt='cadence'></img>
+                            <span className="badge-novedad">Novedades</span>
+
+              <img src='https://dl.dropboxusercontent.com/scl/fi/5qrbmf6uyfpr8ccthxhy9/transfers-rub-on-goma-cadence.jpg?rlkey=chw02hl8p7n6ocmur90a7xmgc&st=y0vpwnio&dl=0' alt='cadence'></img>
               <br></br>
-              <p>Transfers COLORS</p>
+              <p>Transfers PLATA Y ORO</p>
             </div>
       
-          </WavyLink> */}
+          </WavyLink> 
 
           
 

@@ -5981,7 +5981,7 @@ const initialProducts = [
     name: "Paleta desechable 36 hojas",
     price: "4.50",
     images: [
-      "https://dl.dropboxusercontent.com/scl/fi/l99kcu9fwq33sdye2qhxe/espatula-metalica-102mm.jpg?rlkey=m6er5t3oddaxzze2uavycib4p&st=mnp5pun1&dl=0",
+      "https://dl.dropboxusercontent.com/scl/fi/budq77723tjb9dmcc7kh7/paleta-desechable-36-hojas.jpg?rlkey=i3uzk1r4jl8lcjh80ds1djuht&st=d8nscm3z&dl=0",
     ],
     label: "paleta",
     description:

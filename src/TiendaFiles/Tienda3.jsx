@@ -118,6 +118,7 @@ export const Tienda3 = () => {
             color="#4593db"
           >
             <div className="cadence-card">
+              
               <img
                 src="https://i.ibb.co/Hx7QkKS/cadence-stencils.jpg"
                 alt="cadence"

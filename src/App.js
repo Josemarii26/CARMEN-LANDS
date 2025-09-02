@@ -67,6 +67,7 @@ import { Tienda6Transfers15x30 } from "./TiendaFiles/Tienda6Transfers15x30";
 import { Tienda6Transfers20x30 } from "./TiendaFiles/Tienda6Transfers20x30";
 import { Tienda6Transfers30x30 } from "./TiendaFiles/Tienda6Transfers30x30";
 import { Tienda6Transfers60x90 } from "./TiendaFiles/Tienda6Transfers60x90";
+import { Tienda3TransfersPlataOro } from "./TiendaFiles/Tienda3TransfersPlataOro";
 
 
 
@@ -108,6 +109,7 @@ function App() {
           <Route path="/tienda/cadence/transfers" element={<Tienda3Transfers/>} />
           {/*<Route path="/tienda/cadence/transfers/folex" element={<Tienda3TransfersFolex/>} />*/}
           <Route path="/tienda/cadence/transfers/home-decor" element={<Tienda3TransfersHomeDecor/>} />
+          <Route path="/tienda/cadence/transfers/plata-y-oro" element={<Tienda3TransfersPlataOro/>} />
           <Route path="/tienda/cadence/transfers-textiles" element={<Tienda3TransfersTextil/>} />
           {/*<Route path="/tienda/cadence/transfers/colors" element={<Tienda3TransfersColors/>} />*/}
           <Route path="/tienda/cadence/pastas" element={<Tienda3Pastas/>} />

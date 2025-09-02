@@ -2755,6 +2755,7 @@ const initialProducts = [
     price: 29.95,
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/bfnnsl50y9v2wmbaqzfux/CARNIVALQUEENS_300x.avif?rlkey=1i0v6kliodqgcs00v3m8xd7f9&st=w8tvpqyx&dl=0",
+      "https://dl.dropboxusercontent.com/scl/fi/qw73a2ml5jokfyzpgx6qp/CarnivalQueenL_5000x.webp?rlkey=1cs6770lw0jxgvogbw2f5ase2&st=0agfi7xf&dl=0",
       "https://dl.dropboxusercontent.com/scl/fi/m9b2azcikvps7qmjy7ic1/rn-image_picker_lib_temp_35ef0ac0-6bcc-4a3a-bf4b-cd5d8b02ff66_300x.webp?rlkey=oj6gsgc2gv3x0k8x556k6whu7&st=hw50aa7h&dl=0",
     ],
     label: "A1",
@@ -2768,6 +2769,7 @@ const initialProducts = [
     price: 19.95,
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/bfnnsl50y9v2wmbaqzfux/CARNIVALQUEENS_300x.avif?rlkey=1i0v6kliodqgcs00v3m8xd7f9&st=w8tvpqyx&dl=0",
+      "https://dl.dropboxusercontent.com/scl/fi/qw73a2ml5jokfyzpgx6qp/CarnivalQueenL_5000x.webp?rlkey=1cs6770lw0jxgvogbw2f5ase2&st=0agfi7xf&dl=0",
       "https://dl.dropboxusercontent.com/scl/fi/m9b2azcikvps7qmjy7ic1/rn-image_picker_lib_temp_35ef0ac0-6bcc-4a3a-bf4b-cd5d8b02ff66_300x.webp?rlkey=oj6gsgc2gv3x0k8x556k6whu7&st=hw50aa7h&dl=0",
     ],
     label: "A3",
@@ -2781,6 +2783,7 @@ const initialProducts = [
     price: 29.95,
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/xi5vihqgervy4kc8sejpe/FLAMENCOSUNRISES_300x.avif?rlkey=g2nykf0udffmfcic297xpfb8j&st=el3ox887&dl=0",
+      "https://dl.dropboxusercontent.com/scl/fi/sesiq359spdpgb38z0nj5/FlamencoSunriseL_300x.webp?rlkey=jdb66tz0w98ric320zbteqrdc&st=76ubf2lr&dl=0",
       "https://dl.dropboxusercontent.com/scl/fi/20av665plmxbk4od9gq2o/rn-image_picker_lib_temp_9ada713e-f5c8-4a46-83a7-76bdcf182411_300x.webp?rlkey=yx91fqqnlesugm59qa0qctpwn&st=ajaev51p&dl=0",
     ],
     label: "A1",
@@ -2794,6 +2797,7 @@ const initialProducts = [
     price: 19.95,
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/xi5vihqgervy4kc8sejpe/FLAMENCOSUNRISES_300x.avif?rlkey=g2nykf0udffmfcic297xpfb8j&st=el3ox887&dl=0",
+      "https://dl.dropboxusercontent.com/scl/fi/sesiq359spdpgb38z0nj5/FlamencoSunriseL_300x.webp?rlkey=jdb66tz0w98ric320zbteqrdc&st=76ubf2lr&dl=0",
       "https://dl.dropboxusercontent.com/scl/fi/20av665plmxbk4od9gq2o/rn-image_picker_lib_temp_9ada713e-f5c8-4a46-83a7-76bdcf182411_300x.webp?rlkey=yx91fqqnlesugm59qa0qctpwn&st=ajaev51p&dl=0",
     ],
     label: "A3",
@@ -2857,6 +2861,7 @@ const initialProducts = [
     price: 29.95,
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/ysu4lk851bsjvc072tyjf/BlackCockatooDecoupage_300x.avif?rlkey=0o7q3irv6b3j606imz8egreco&st=guc536ja&dl=0",
+      "https://dl.dropboxusercontent.com/scl/fi/758ppwtbapmu2snd924ij/BlackCockatoo_300x.webp?rlkey=gv9xvto82h285c3of91gn40ga&st=j3ehbqg0&dl=0",
       "https://dl.dropboxusercontent.com/scl/fi/1qpumekd133g2sye3ijx5/blackcockatoopiece_300x.webp?rlkey=69z2dqkup1xpfmqvxoemj1ks1&st=0vf1vnha&dl=0",
     ],
     label: "A1",
@@ -2870,6 +2875,7 @@ const initialProducts = [
     price: 19.95,
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/ysu4lk851bsjvc072tyjf/BlackCockatooDecoupage_300x.avif?rlkey=0o7q3irv6b3j606imz8egreco&st=guc536ja&dl=0",
+      "https://dl.dropboxusercontent.com/scl/fi/758ppwtbapmu2snd924ij/BlackCockatoo_300x.webp?rlkey=gv9xvto82h285c3of91gn40ga&st=j3ehbqg0&dl=0",
       "https://dl.dropboxusercontent.com/scl/fi/1qpumekd133g2sye3ijx5/blackcockatoopiece_300x.webp?rlkey=69z2dqkup1xpfmqvxoemj1ks1&st=0vf1vnha&dl=0",
     ],
     label: "A3",
@@ -2883,6 +2889,7 @@ const initialProducts = [
     price: 29.95,
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/kijv8p8ja76cmiuokqc2p/MajorMitchellDecoupage_300x.avif?rlkey=26akmn3pcv32lnywsgprzjyvq&st=oatubwhm&dl=0",
+      "https://dl.dropboxusercontent.com/scl/fi/ua4ftjgsw1a14yrp117la/MajorMitchell_300x-1.webp?rlkey=12uwtwpxtthi9skrg846p3i6e&st=olwep6b5&dl=0",
       "https://dl.dropboxusercontent.com/scl/fi/5h2ry8sqibvaf92nv8fcg/MajorMitchell_300x.webp?rlkey=g0a3g7ke17uiy49vs1uhbi2v3&st=vgl7czqa&dl=0",
     ],
     label: "A1",
@@ -2896,6 +2903,7 @@ const initialProducts = [
     price: 19.95,
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/kijv8p8ja76cmiuokqc2p/MajorMitchellDecoupage_300x.avif?rlkey=26akmn3pcv32lnywsgprzjyvq&st=oatubwhm&dl=0",
+      "https://dl.dropboxusercontent.com/scl/fi/ua4ftjgsw1a14yrp117la/MajorMitchell_300x-1.webp?rlkey=12uwtwpxtthi9skrg846p3i6e&st=olwep6b5&dl=0",
       "https://dl.dropboxusercontent.com/scl/fi/5h2ry8sqibvaf92nv8fcg/MajorMitchell_300x.webp?rlkey=g0a3g7ke17uiy49vs1uhbi2v3&st=vgl7czqa&dl=0",
     ],
     label: "A3",

@@ -20,6 +20,12 @@ body {
   scrollbar-color: var(--sb-thumb-color) 
                    var(--sb-track-color);
 }
+/* Agrega en tu CSS global */
+body.ril__body {
+  margin: 0 !important;
+  padding: 0 !important;
+  overflow: hidden; /* Evita scroll debajo del lightbox */
+}
 
 body::-webkit-scrollbar {
   width: var(--sb-size) 
