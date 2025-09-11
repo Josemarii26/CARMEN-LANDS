@@ -15316,6 +15316,30 @@ const initialProducts = [
       "Estos papeles de decoupage han sido creados especialmente para el arte y la renovación de muebles, disponibles en tamaños A1 (594mm x 841mm) y A3 (297mm x 420mm). Impresos en papel seleccionado específicamente para decoupage, estos papeles están diseñados meticulosamente para asegurar que tus proyectos se conviertan en obras de arte al completarse. Incluyen instrucciones detalladas.",
     selected: false,
   },
+  {
+    id: 1244,
+    name: "Stucco Cadence GRIS FINO 250ml",
+    price: 19.95,
+    images: [
+      "https://dl.dropboxusercontent.com/scl/fi/qtft6bsgrzfwxqwdjtlur/stucco-cadence-gris-fino-250-ml.jpg?rlkey=fob9mcg1ai5x1mwjk82fmisjh&st=qwbq96np&dl=0",
+    ],
+    label: "250ml",
+    description:
+      "Concrete Stucco es un revoque con base acrílica listo para usar, es un producto decorativo con apariencia de cemento bruto, que se puede aplicar con llana en superficies interiores y exteriores. ",
+    selected: false,
+  },
+  {
+    id: 1245,
+    name: "Stucco Cadence BLANCO FINO 250ml",
+    price: 19.95,
+    images: [
+      "https://dl.dropboxusercontent.com/scl/fi/2agx663nngoie90cnruyp/stucco-cadence-blanco-fino-250-ml.jpg?rlkey=m37wm6s8ipqh3dpgwrn51rl3s&st=wqvziacp&dl=0",
+    ],
+    label: "A3",
+    description:
+      "Concrete Stucco es un revoque con base acrílica listo para usar, es un producto decorativo con apariencia de cemento bruto, que se puede aplicar con llana en superficies interiores y exteriores. ",
+    selected: false,
+  },
 
 
 

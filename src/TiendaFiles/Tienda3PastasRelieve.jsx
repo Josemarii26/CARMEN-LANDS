@@ -199,6 +199,30 @@ const initialProducts = [
     description: 'Pasta TRANSPARENTE GRANULADA para crear efectos dimensionales sobre objetos. Formula acrílica con base de agua, el tiempo de secado puede cambiar de acuerdo con el espesor de la pasta. Puede ser aplicada con una espátula, pincel o esponja. Aplicar sobre en superficies duras. Apto para trabajar con stencil y con patrones libres. Limpie los materiales usados con agua. Proteger de las heladas.',
     selected: false,
   },
+  {
+    id: 1244,
+    name: "Stucco Cadence GRIS FINO 250ml",
+    price: 19.95,
+    images: [
+      "https://dl.dropboxusercontent.com/scl/fi/qtft6bsgrzfwxqwdjtlur/stucco-cadence-gris-fino-250-ml.jpg?rlkey=fob9mcg1ai5x1mwjk82fmisjh&st=qwbq96np&dl=0",
+    ],
+    label: "250ml",
+    description:
+      "Concrete Stucco es un revoque con base acrílica listo para usar, es un producto decorativo con apariencia de cemento bruto, que se puede aplicar con llana en superficies interiores y exteriores. ",
+    selected: false,
+  },
+  {
+    id: 1245,
+    name: "Stucco Cadence BLANCO FINO 250ml",
+    price: 19.95,
+    images: [
+      "https://dl.dropboxusercontent.com/scl/fi/2agx663nngoie90cnruyp/stucco-cadence-blanco-fino-250-ml.jpg?rlkey=m37wm6s8ipqh3dpgwrn51rl3s&st=wqvziacp&dl=0",
+    ],
+    label: "A3",
+    description:
+      "Concrete Stucco es un revoque con base acrílica listo para usar, es un producto decorativo con apariencia de cemento bruto, que se puede aplicar con llana en superficies interiores y exteriores. ",
+    selected: false,
+  },
 
 
   
@@ -240,7 +264,9 @@ export const Tienda3PastasRelieve = () => {
   const startIndex = (currentPage - 1) * itemsPerPage;
   const endIndex = startIndex + itemsPerPage;
 
-  const visibleProducts = products.slice(startIndex, endIndex);
+  const visibleProducts = [...products]
+  .sort((a, b) => b.id - a.id) // ordenar de más nuevo a más antiguo
+  .slice(startIndex, endIndex);
 
 
 

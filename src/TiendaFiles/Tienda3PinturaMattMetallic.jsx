@@ -209,17 +209,7 @@ const initialProducts = [
     description: 'Aplicación sencilla: Simplemente usa un pincel o una esponja para dar color a tus objetos. Asegúrate de que la superficie esté limpia, seca y libre de polvo y grasa antes de pintar. Puedes aplicar una capa base con pintura acrílica de un color similar al de la pintura. La pintura seca en 2-4 horas y cura completamente en 24 horas.',
     selected: false,
   },
-  {
-    id: 776,
-    name: 'Set pan de oro liquido CADENCE',
-    price: '10.85',
-    images: [
-      'https://dl.dropboxusercontent.com/scl/fi/u7qg0uwfkp81v2aex80tx/set-pan-de-oro-liquido-cadence.jpg?rlkey=mimltwzqa0qvbyu8p1mi1xeqx&st=3jb8l7nj&dl=0',
-    ],
-    label: '30+30 ml.',
-    description: 'Set de pan de oro líquido Cadence de fácil uso en todo tipo de trabajos de restauración y decoración. Extremadamente vívido, brillante y cubriente. Consta de 2 botes de 30 ml, un polvo y un líquido. El polvo y el líquido se mezclan y aplican a la superficie deseada con la ayuda de un pincel. ',
-    selected: false,
-  },
+  
   
   
   

@@ -162,50 +162,7 @@ const initialProducts = [
       "Pasta de relieve de alta calidad CADENCE, para crear texturas con efectos de patinas rústicas u oxidadas. Con base de agua y lista para su uso sobre multiples superficies. ",
     selected: false,
   },
-  {
-    id: 777,
-    name: "Light Green PATINA SPRAY 50+50 ml.",
-    price: "8.20",
-    images: [
-      "https://dl.dropboxusercontent.com/scl/fi/yplad4k1rp69ar4dpd6cg/patina-spray-50ml50ml-light-green.jpg?rlkey=dh5e2q1m8sllv54130wa0k3sg&st=rr3cawjq&dl=0",
-    ],
-    label: "50+50 ml.",
-    description: "Agitar bien antes de usar. Rocíe la Pintura Patina sobre una superficie pintada o con láminas metálicas y aplique el activador mientras la pintura aún esté húmeda. Deje secar. El tiempo de secado varía entre 2 y 6 horas, dependiendo de la cantidad aplicada. A las 24 horas se verá el resultado final.",
-    selected: false,
-  },
-  {
-    id: 778,
-    name: "Light Green PATINA SPRAY 50+50 ml.",
-    price: "8.20",
-    images: [
-      "https://dl.dropboxusercontent.com/scl/fi/v6o5zjmhzlpmghh8bse8i/patina-spray-50ml50ml-rust.jpg?rlkey=xh9wxzwcxkf43u51jgyd5uyvc&st=t6idzab7&dl=0",
-    ],
-    label: "50+50 ml.",
-    description: "Agitar bien antes de usar. Rocíe la Pintura Patina sobre una superficie pintada o con láminas metálicas y aplique el activador mientras la pintura aún esté húmeda. Deje secar. El tiempo de secado varía entre 2 y 6 horas, dependiendo de la cantidad aplicada. A las 24 horas se verá el resultado final.",
-    selected: false,
-  },
-  {
-    id: 779,
-    name: "Light Green PATINA SPRAY 50+50 ml.",
-    price: "8.20",
-    images: [
-      "https://dl.dropboxusercontent.com/scl/fi/8irkr19hjh3hag1di52n7/patina-spray-50ml50ml-dark-green.jpg?rlkey=6ef7ud7i302s8smcwxrwjj66s&st=ezg6kef9&dl=0",
-    ],
-    label: "50+50 ml.",
-    description: "Agitar bien antes de usar. Rocíe la Pintura Patina sobre una superficie pintada o con láminas metálicas y aplique el activador mientras la pintura aún esté húmeda. Deje secar. El tiempo de secado varía entre 2 y 6 horas, dependiendo de la cantidad aplicada. A las 24 horas se verá el resultado final.",
-    selected: false,
-  },
-  {
-    id: 780,
-    name: "Light Green PATINA SPRAY 50+50 ml.",
-    price: "8.20",
-    images: [
-      "https://dl.dropboxusercontent.com/scl/fi/7nyfawkvek36usdg52k1m/patina-spray-50ml50ml-blue.jpg?rlkey=s5k79n6ikr7lgof72lnmknvbw&st=xp5douby&dl=0",
-    ],
-    label: "50+50 ml.",
-    description: "Agitar bien antes de usar. Rocíe la Pintura Patina sobre una superficie pintada o con láminas metálicas y aplique el activador mientras la pintura aún esté húmeda. Deje secar. El tiempo de secado varía entre 2 y 6 horas, dependiendo de la cantidad aplicada. A las 24 horas se verá el resultado final.",
-    selected: false,
-  },
+  
 
 ];
 

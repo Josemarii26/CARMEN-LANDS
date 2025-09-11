@@ -132,6 +132,61 @@ const initialProducts = [
     description: 'Adhesivo universal BLOK de acetovinílico incoloro de rápido secado y transparente. La cola BLOK es ideal para tus trabajos de cartonaje, scrapbook, mix media, manualidades, proyectos home decor... por su gran variedad de usos y su agarre excepcional.',
     selected: false,
   },
+  {
+    id: 776,
+    name: 'Set pan de oro liquido CADENCE',
+    price: '10.85',
+    images: [
+      'https://dl.dropboxusercontent.com/scl/fi/u7qg0uwfkp81v2aex80tx/set-pan-de-oro-liquido-cadence.jpg?rlkey=mimltwzqa0qvbyu8p1mi1xeqx&st=3jb8l7nj&dl=0',
+    ],
+    label: '30+30 ml.',
+    description: 'Set de pan de oro líquido Cadence de fácil uso en todo tipo de trabajos de restauración y decoración. Extremadamente vívido, brillante y cubriente. Consta de 2 botes de 30 ml, un polvo y un líquido. El polvo y el líquido se mezclan y aplican a la superficie deseada con la ayuda de un pincel. ',
+    selected: false,
+  },
+  {
+      id: 777,
+      name: "Light Green PATINA SPRAY 50+50 ml.",
+      price: "8.20",
+      images: [
+        "https://dl.dropboxusercontent.com/scl/fi/yplad4k1rp69ar4dpd6cg/patina-spray-50ml50ml-light-green.jpg?rlkey=dh5e2q1m8sllv54130wa0k3sg&st=rr3cawjq&dl=0",
+      ],
+      label: "50+50 ml.",
+      description: "Agitar bien antes de usar. Rocíe la Pintura Patina sobre una superficie pintada o con láminas metálicas y aplique el activador mientras la pintura aún esté húmeda. Deje secar. El tiempo de secado varía entre 2 y 6 horas, dependiendo de la cantidad aplicada. A las 24 horas se verá el resultado final.",
+      selected: false,
+    },
+    {
+      id: 778,
+      name: "Light Green PATINA SPRAY 50+50 ml.",
+      price: "8.20",
+      images: [
+        "https://dl.dropboxusercontent.com/scl/fi/v6o5zjmhzlpmghh8bse8i/patina-spray-50ml50ml-rust.jpg?rlkey=xh9wxzwcxkf43u51jgyd5uyvc&st=t6idzab7&dl=0",
+      ],
+      label: "50+50 ml.",
+      description: "Agitar bien antes de usar. Rocíe la Pintura Patina sobre una superficie pintada o con láminas metálicas y aplique el activador mientras la pintura aún esté húmeda. Deje secar. El tiempo de secado varía entre 2 y 6 horas, dependiendo de la cantidad aplicada. A las 24 horas se verá el resultado final.",
+      selected: false,
+    },
+    {
+      id: 779,
+      name: "Light Green PATINA SPRAY 50+50 ml.",
+      price: "8.20",
+      images: [
+        "https://dl.dropboxusercontent.com/scl/fi/8irkr19hjh3hag1di52n7/patina-spray-50ml50ml-dark-green.jpg?rlkey=6ef7ud7i302s8smcwxrwjj66s&st=ezg6kef9&dl=0",
+      ],
+      label: "50+50 ml.",
+      description: "Agitar bien antes de usar. Rocíe la Pintura Patina sobre una superficie pintada o con láminas metálicas y aplique el activador mientras la pintura aún esté húmeda. Deje secar. El tiempo de secado varía entre 2 y 6 horas, dependiendo de la cantidad aplicada. A las 24 horas se verá el resultado final.",
+      selected: false,
+    },
+    {
+      id: 780,
+      name: "Light Green PATINA SPRAY 50+50 ml.",
+      price: "8.20",
+      images: [
+        "https://dl.dropboxusercontent.com/scl/fi/7nyfawkvek36usdg52k1m/patina-spray-50ml50ml-blue.jpg?rlkey=s5k79n6ikr7lgof72lnmknvbw&st=xp5douby&dl=0",
+      ],
+      label: "50+50 ml.",
+      description: "Agitar bien antes de usar. Rocíe la Pintura Patina sobre una superficie pintada o con láminas metálicas y aplique el activador mientras la pintura aún esté húmeda. Deje secar. El tiempo de secado varía entre 2 y 6 horas, dependiendo de la cantidad aplicada. A las 24 horas se verá el resultado final.",
+      selected: false,
+    },
 
   
 
@@ -158,7 +213,9 @@ export const Tienda3Variado= () => {
   const startIndex = (currentPage - 1) * itemsPerPage;
   const endIndex = startIndex + itemsPerPage;
 
-  const visibleProducts = products.slice(startIndex, endIndex);
+  const visibleProducts = [...products]
+  .sort((a, b) => b.id - a.id) // ordenar de más nuevo a más antiguo
+  .slice(startIndex, endIndex);
 
 
 

@@ -265,7 +265,7 @@ const initialProducts = [
 
 // Define el rango de precios mínimo y máximo de tus productos
 const precioMinimo = 0;
-const precioMaximo = 50;
+const precioMaximo = 60;
 
 export const Tienda3Resina = () => {
   const [products, setProducts] = useState(initialProducts);
