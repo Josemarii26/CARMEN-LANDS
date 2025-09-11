@@ -2,7 +2,7 @@ import "./styles.css";
 import logo from "./CarmenLandsLogo.png";
 import { useEffect, useRef, useState } from "react";
 
-import { WavyContainer, WavyLink } from "react-wavy-transitions";
+import { WavyLink } from "react-wavy-transitions";
 
 export const Navbar3 = () => {
   const lastScrollTop = useRef(0);
@@ -55,21 +55,7 @@ export const Navbar3 = () => {
     setIsNavbarVisible2(!isNavbarVisible2);
   };
 
-  const handleHomeLinkClick = () => {
-    if (window.location.pathname === "/") {
-      setTimeout(() => {
-        window.location.reload(); // Recarga la ventana después de 1 segundo
-      }, 1800);
-    }
-  };
-
-  const scrollToBottom = () => {
-    setIsNavbarVisible2(!isNavbarVisible2);
-    const totalHeight = document.body.scrollHeight;
-    window.scrollTo({
-      top: totalHeight,
-    });
-  };
+  
 
   return (
     <nav id='nav3' className={`navbar ${isNavbarVisible ? 'visible' : ''}`}>

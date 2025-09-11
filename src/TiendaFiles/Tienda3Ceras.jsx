@@ -1,6 +1,4 @@
 import React, { useState, useEffect } from 'react';
-import { Navbar } from '../navbar/Navbar';
-import { ProductCard } from '../tienda/ProductCard';
 import { SearchBar } from '../tienda/SearchBar';
 import { Cart } from '../tienda/Cart';
 import { Slide } from '@chakra-ui/react'
@@ -16,7 +14,6 @@ import { Button } from '@chakra-ui/react'
 import Aos from 'aos';
 import 'aos/dist/aos.css';
 import ScrollToTopButton from '../parallax/parallax-2/ScrollToTopButton';
-import { Navbar2 } from '../navbar/Navbar2';
 import { ProductCard2 } from '../tienda/ProductCard2';
 import { Navbar3 } from '../navbar/Navbar3';
 
@@ -155,7 +152,7 @@ export const Tienda3Ceras = () => {
   const [filterButtonIcon, setFilterButtonIcon] = useState(<ViewOffIcon />);
 
   const [currentPage, setCurrentPage] = useState(1);
-  const [itemsPerPage, setItemsPerPage] = useState(12); // Cambia el número según tus necesidades
+  const [itemsPerPage] = useState(12); // Cambia el número según tus necesidades
 
   const startIndex = (currentPage - 1) * itemsPerPage;
   const endIndex = startIndex + itemsPerPage;
@@ -163,7 +160,7 @@ export const Tienda3Ceras = () => {
   const visibleProducts = products.slice(startIndex, endIndex);
 
 
-  const applyFilters = () => {
+  const applyFilters = React.useCallback(() => {
     const filteredProducts = initialProducts.filter((product) => {
       const price = product.price;
       return (
@@ -175,7 +172,7 @@ export const Tienda3Ceras = () => {
 
     setProducts(filteredProducts);
     setShowNoProducts(filteredProducts.length === 0);
-  };
+  }, [selectedClasses, priceRange]);
 
   const removeAccents = (str) => {
     return str.normalize("NFD").replace(/[\u0300-\u036f]/g, "");
@@ -223,7 +220,7 @@ export const Tienda3Ceras = () => {
 
   useEffect(() => {
     applyFilters();
-  }, [selectedClasses, priceRange]);
+  }, [applyFilters]);
 
   useEffect(() => {
     Aos.init();

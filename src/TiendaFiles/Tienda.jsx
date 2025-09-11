@@ -1,5 +1,4 @@
 import React, { useState, useEffect, useMemo, useDeferredValue } from "react";
-import { Navbar } from "../navbar/Navbar";
 import { ProductCard } from "../tienda/ProductCard";
 import { SearchBar } from "../tienda/SearchBar";
 import { Cart } from "../tienda/Cart";
@@ -7,15 +6,14 @@ import { Slide } from "@chakra-ui/react";
 import { useDisclosure } from "@chakra-ui/react";
 import { Box } from "@chakra-ui/react";
 import { Tag } from "@chakra-ui/react";
-import { ViewIcon, ViewOffIcon } from "@chakra-ui/icons";
-import { Button } from "@chakra-ui/react";
+
 
 import Aos from "aos";
 import "aos/dist/aos.css";
 import ScrollToTopButton from "../parallax/parallax-2/ScrollToTopButton";
 import { Link } from "react-router-dom";
 import { Navbar2 } from "../navbar/Navbar2";
-import { WavyContainer, WavyLink } from "react-wavy-transitions";
+import { WavyLink } from "react-wavy-transitions";
 
 const initialProducts = [
   {
@@ -15536,7 +15534,7 @@ export const Tienda = () => {
   const [showOverlay, setShowOverlay] = useState(false);
   const { isOpen, onToggle, onClose } = useDisclosure();
   const [showText, setShowText] = useState(true);
-  const [isLoading, setIsLoading] = useState(true);
+  const [, setIsLoading] = useState(true);
 
   useEffect(() => {
     Aos.init();

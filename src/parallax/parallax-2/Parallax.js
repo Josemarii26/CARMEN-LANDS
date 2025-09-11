@@ -1,20 +1,17 @@
-import React, { useEffect, useRef, useState } from "react";
+import { useEffect, useRef, useState } from "react";
 import gsap from "gsap";
 import { ScrollTrigger } from "gsap/all";
 import { Button } from "@chakra-ui/react";
-import { ArrowUpIcon } from "@chakra-ui/icons";
 import ScrollToTopButton from "./ScrollToTopButton";
 import { MyComponent } from "./MyComponent";
 import products from "./products.json";
 import CookieConsent from 'react-cookie-consent';
-import { useSpring, animated } from 'react-spring';
-import { WavyContainer, WavyLink } from "react-wavy-transitions";
+import { WavyLink } from "react-wavy-transitions";
 
 
 
 
 import "./styles.css";
-import { Link } from "react-router-dom";
 
 export const Parallax = () => {
   const containerRef = useRef();
@@ -62,12 +59,8 @@ export const Parallax = () => {
     };
   }, [containerRef]);
 
-  const [visible, setVisible] = useState(true);
+  const [, setVisible] = useState(true);
 
-  const props = useSpring({
-    opacity: visible ? 1 : 0,
-    transform: visible ? 'translateY(0%)' : 'translateY(100%)',
-  });
 
   useEffect(() => {
     const timeout = setTimeout(() => {

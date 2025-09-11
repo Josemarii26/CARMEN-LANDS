@@ -2976,14 +2976,14 @@ export const Tienda2 = () => {
   const [filterButtonIcon, setFilterButtonIcon] = useState(<ViewOffIcon />);
 
   const [currentPage, setCurrentPage] = useState(1);
-  const [itemsPerPage, setItemsPerPage] = useState(12); // Cambia el número según tus necesidades 44
+  const [itemsPerPage] = useState(12); // Cambia el número según tus necesidades 44
 
   const startIndex = (currentPage - 1) * itemsPerPage;
   const endIndex = startIndex + itemsPerPage;
 
   const visibleProducts = products.slice(startIndex, endIndex);
 
-  const applyFilters = () => {
+  const applyFilters = React.useCallback(() => {
     const filteredProducts = initialProducts.filter((product) => {
       const price = product.price;
       return (
@@ -2996,7 +2996,7 @@ export const Tienda2 = () => {
 
     setProducts(filteredProducts);
     setShowNoProducts(filteredProducts.length === 0);
-  };
+  }, [selectedClasses, priceRange]);
 
   const removeAccents = (str) => {
     return str.normalize("NFD").replace(/[\u0300-\u036f]/g, "");
@@ -3045,7 +3045,7 @@ export const Tienda2 = () => {
 
   useEffect(() => {
     applyFilters();
-  }, [selectedClasses, priceRange]);
+  }, [applyFilters]);
 
   useEffect(() => {
     Aos.init();

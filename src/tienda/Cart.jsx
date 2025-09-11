@@ -23,9 +23,9 @@ import 'aos/dist/aos.css';
 export const Cart = ({ cart, setCart, removeFromCart, handleCloseCart }) => {
 
 
-    const calculateTotal = () => {
+    const calculateTotal = React.useCallback(() => {
         return cart.reduce((total, item) => total + item.price * item.quantity, 0);
-    };
+    }, [cart]);
 
     const [total, setTotal] = useState(calculateTotal());
     const [showCompra, setShowCompra] = useState(false);
@@ -35,7 +35,7 @@ export const Cart = ({ cart, setCart, removeFromCart, handleCloseCart }) => {
     const [direccion, setDireccion] = useState('');
     const [tlfn, setTlfn] = useState('');
 
-    const [deviceType, setDeviceType] = useState('pc'); // Establece un valor predeterminado
+    const [, setDeviceType] = useState('pc'); // Establece un valor predeterminado
 
     const { isOpen, onOpen, onClose } = useDisclosure()
     const cancelRef = React.useRef()
@@ -52,7 +52,7 @@ export const Cart = ({ cart, setCart, removeFromCart, handleCloseCart }) => {
     useEffect(() => {
         setTotal(calculateTotal());
 
-    }, [cart]);
+    }, [calculateTotal, cart]);
 
     useEffect(() => {
         function handleResize() {
@@ -154,7 +154,6 @@ export const Cart = ({ cart, setCart, removeFromCart, handleCloseCart }) => {
         const titleYOffset = 50; // Ajuste de posición para el título
         pdf.text('Resguardo de Compra', 20, titleYOffset);
 
-        const invoiceNumberXOffset = 136; // Ajuste de posición para el número de factura
         pdf.setFontSize(10);
         pdf.text(`Número de Factura: #${invoiceNumber}`, 136, 20);
 

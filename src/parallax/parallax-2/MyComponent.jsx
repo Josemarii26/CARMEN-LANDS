@@ -1,8 +1,6 @@
-import React from "react";
 import { useEffect, useRef } from "react";
 import { Carousel } from "react-responsive-carousel";
 import "react-responsive-carousel/lib/styles/carousel.min.css"; // Importa los estilos CSS
-import { WavyContainer, WavyLink } from "react-wavy-transitions";
 
 import { Slide } from "@chakra-ui/react";
 import { useDisclosure } from "@chakra-ui/react";
@@ -14,7 +12,6 @@ import "aos/dist/aos.css";
 import { driver } from "driver.js";
 import "driver.js/dist/driver.css";
 
-import LazyLoad from "react-lazy-load";
 import "@fortawesome/fontawesome-free/css/fontawesome.css";
 import "@fortawesome/fontawesome-free/css/solid.css";
 import "@fortawesome/fontawesome-free/css/brands.css";
