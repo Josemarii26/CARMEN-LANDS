@@ -37,8 +37,9 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "react-scripts build",
-    "minify": "terser --compress --mangle -o build-minified -- build"
+    "build": "DISABLE_ESLINT_PLUGIN=true react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
   },
   "eslintConfig": {
     "extends": [
@@ -58,6 +59,9 @@
     ]
   },
   "devDependencies": {
+    "eslint": "^9.35.0",
+    "eslint-plugin-react-hooks": "^5.2.0",
+    "eslint-plugin-unused-imports": "^4.2.0",
     "terser": "^5.24.0"
   }
 }
