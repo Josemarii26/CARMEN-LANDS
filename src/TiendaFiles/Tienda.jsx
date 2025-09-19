@@ -15317,7 +15317,7 @@ const initialProducts = [
   {
     id: 1244,
     name: "Stucco Cadence GRIS FINO 250ml",
-    price: 19.95,
+    price: 5.20,
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/qtft6bsgrzfwxqwdjtlur/stucco-cadence-gris-fino-250-ml.jpg?rlkey=fob9mcg1ai5x1mwjk82fmisjh&st=qwbq96np&dl=0",
     ],
@@ -15329,11 +15329,11 @@ const initialProducts = [
   {
     id: 1245,
     name: "Stucco Cadence BLANCO FINO 250ml",
-    price: 19.95,
+    price: 5.20,
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/2agx663nngoie90cnruyp/stucco-cadence-blanco-fino-250-ml.jpg?rlkey=m37wm6s8ipqh3dpgwrn51rl3s&st=wqvziacp&dl=0",
     ],
-    label: "A3",
+    label: "250ml",
     description:
       "Concrete Stucco es un revoque con base acrílica listo para usar, es un producto decorativo con apariencia de cemento bruto, que se puede aplicar con llana en superficies interiores y exteriores. ",
     selected: false,
