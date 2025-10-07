@@ -22,7 +22,7 @@ const initialProducts = [
   {
     id: 348,
     name: 'Barníz MATE 120ml.',
-    price: '5.20',
+    price: '5.35',
     images: [
       'https://dl.dropboxusercontent.com/scl/fi/7bs487brwuexa0t3xktjt/barniz-cadence-mate-250-1.jpg?rlkey=s304w1xksyoncqrog7q397mtg&st=wq9k5unp&dl=0',
     ],
@@ -33,7 +33,7 @@ const initialProducts = [
   {
     id: 349,
     name: 'Barníz MATE 250ml.',
-    price: '9.40',
+    price: '9.65',
     images: [
       'https://dl.dropboxusercontent.com/scl/fi/7bs487brwuexa0t3xktjt/barniz-cadence-mate-250-1.jpg?rlkey=s304w1xksyoncqrog7q397mtg&st=wq9k5unp&dl=0',
     ],
@@ -44,7 +44,7 @@ const initialProducts = [
   {
     id: 350,
     name: 'Barníz MATE 500ml.', 
-    price: '16.40',
+    price: '16.70',
     images: [
       'https://dl.dropboxusercontent.com/scl/fi/2crok09kkl00mo30xexe9/barniz-cadence-mate-500.jpg?rlkey=ufz7xu775p44s8wp7ddo9g1co&st=v01jpd5a&dl=0',
     ],
@@ -55,7 +55,7 @@ const initialProducts = [
   {
     id: 351,
     name: 'Barníz SATINADO 120ml.',
-    price: '5.20',
+    price: '5.35',
     images: [
       'https://dl.dropboxusercontent.com/scl/fi/53m23x38b1q6ec132fwtl/barniz-cadence-satinado-120.jpg?rlkey=yjukfpkb56c6wuemthemvtwsl&st=udr8xprt&dl=0',
     ],
@@ -66,7 +66,7 @@ const initialProducts = [
   {
     id: 352,
     name: 'Barníz SATINADO 250ml.',
-    price: '9.40',
+    price: '9.65',
     images: [
       'https://dl.dropboxusercontent.com/scl/fi/vn9nksubsw9e8pxfgd228/barniz-cadence-satinado-250.jpg?rlkey=be20cm0qqin6lghunbbn2mmw7&st=8qdo69nb&dl=0',
     ],
@@ -77,7 +77,7 @@ const initialProducts = [
   {
     id: 353,
     name: 'Barníz SATINADO 500ml.', 
-    price: '16.40',
+    price: '16.70',
     images: [
       'https://dl.dropboxusercontent.com/scl/fi/pij36laxww30of5hfefo5/barniz-cadence-500-ml-satin.jpg?rlkey=7xsge32xxz3jiwe2eywimq9ow&st=zypktafr&dl=0',
     ],
@@ -88,7 +88,7 @@ const initialProducts = [
   {
     id: 354,
     name: 'Barníz BRILLO 120ml.',
-    price: '5.20',
+    price: '5.35',
     images: [
       'https://dl.dropboxusercontent.com/scl/fi/q5a46vdldu56i8n1e82w4/barniz-cadence-brillo-120.jpg?rlkey=lr671mq1nfpmded86x9ejv005&st=nqn6n9l2&dl=0',
     ],
@@ -99,7 +99,7 @@ const initialProducts = [
   {
     id: 355,
     name: 'Barníz BRILLO 250ml.',
-    price: '9.40',
+    price: '9.65',
     images: [
       'https://dl.dropboxusercontent.com/scl/fi/f6duwwyr9sqgqgdtksdvb/barniz-cadence-brillo-250.jpg?rlkey=by2atsh71hbdfnxp8fc9yb9kl&st=itvr1kgu&dl=0',
     ],
@@ -110,7 +110,7 @@ const initialProducts = [
   {
     id: 356,
     name: 'Barníz BRILLO 500ml.', 
-    price: '16.40',
+    price: '16.70',
     images: [
       'https://dl.dropboxusercontent.com/scl/fi/ucy9x28cdnsg2vu6fjlge/barniz-cadence-brillo-500.jpg?rlkey=ej2etxrelwlnmwajs7qzyksdk&st=ze5vjd96&dl=0',
     ],
@@ -132,7 +132,7 @@ const initialProducts = [
   {
     id: 358,
     name: 'Barníz ULTIMATE GLAZE MATE 120ml.', 
-    price: '5.85',
+    price: '5.90',
     images: [
       'https://dl.dropboxusercontent.com/scl/fi/s51i71fimuel1gxm8qm95/barniz-ultimate-mate-120-ml.jpg?rlkey=chpgcr3ryd3tcr0js76vo33oe&st=xddrwe4e&dl=0',
     ],
@@ -143,7 +143,7 @@ const initialProducts = [
   {
     id: 3540,
     name: 'Barníz Aqua Stone MATE 120ml.',
-    price: '8.40',
+    price: '8.60',
     images: [
       'https://dl.dropboxusercontent.com/scl/fi/6sg758qnqz4bb3qvncgyd/barniz-exterior-aqua-stone-mate-120-ml.jpg?rlkey=6cvevkay8krth93pxc70ya9en&st=v5ge6mc6&dl=0',
     ],
@@ -154,7 +154,7 @@ const initialProducts = [
   {
     id: 3550,
     name: 'Barníz Aqua Stone MATE 250ml.',
-    price: '14.40',
+    price: '15.20',
     images: [
       'https://dl.dropboxusercontent.com/scl/fi/tmhlcur7arulasd6fvngn/barniz-exterior-aqua-stone-mate-250-ml.jpg?rlkey=sdcvyixthuh0czw7291t8dn8u&st=frc22bck&dl=0',
     ],
@@ -176,7 +176,7 @@ const initialProducts = [
   {
     id: 3570,
     name: 'Barníz Aqua Stone BRILLO 120ml.',
-    price: '8.40',
+    price: '8.60',
     images: [
       'https://dl.dropboxusercontent.com/scl/fi/reb769yuw1zi9fawriqg0/barniz-cadence-aqua-stone-120ml.jpg?rlkey=b9fb1a0485wcm5cv3ca2rhmwr&st=s2t4o2vb&dl=0',
     ],
@@ -187,7 +187,7 @@ const initialProducts = [
   {
     id: 3580,
     name: 'Barníz Aqua Stone BRILLO 250ml.',
-    price: '14.40',
+    price: '15.20',
     images: [
       'https://dl.dropboxusercontent.com/scl/fi/cejswc75vi2y4q8vwjxhd/barniz-cadence-aqua-stone-250ml.jpg?rlkey=35v9g7mh4ejf2nxxtcg7rk8gt&st=0y7pj7wq&dl=0',
     ],
@@ -220,7 +220,7 @@ const initialProducts = [
   {
     id: 3592,
     name: 'Barníz Craquelador DOS PASOS Cadence ', 
-    price: '5.80',
+    price: '5.95',
     images: [
       'https://dl.dropboxusercontent.com/scl/fi/1ye0krnf5qnumkyev0tpx/craquelador-de-2-pasos-cadence.jpg?rlkey=ywnsyh16eighsedxi6btgjujb&st=ytwjqwdd&dl=0',
     ],
@@ -253,7 +253,7 @@ const initialProducts = [
   {
     id: 605,
     name: 'Spray Adhesivo Stencils CADENCE', 
-    price: '6.40',
+    price: '6.70',
     images: [
       'https://dl.dropboxusercontent.com/scl/fi/5wh9s1pm1xy81kk6w8tpn/spray-adhesivo-stencils-cadence.jpg?rlkey=dqth23sr3ip6jrbvp4vrprgih&st=51os782h&dl=0',
     ],

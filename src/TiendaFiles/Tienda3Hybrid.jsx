@@ -242,7 +242,7 @@ const initialProducts = [
   {
     id: 206,
     name: "Hybrid CENIZA 500 ml.",
-    price: '15.70',
+    price: '15,90',
     images: [
       'https://dl.dropboxusercontent.com/scl/fi/ncrpeo5fo56ob80khf7zq/hybrid-ceniza-500ml.jpg?rlkey=c5obzhykxppisebtggkv1ht5o&st=4tljrpdj&dl=0',
     ],
@@ -253,7 +253,7 @@ const initialProducts = [
   {
     id: 207,
     name: 'Hybrid BLANCO ANTIGUO 500 ml.',
-    price: '15.70',
+    price: '15,90',
     images: [
       'https://dl.dropboxusercontent.com/scl/fi/l5jjrrsadguex4gf1dmak/hybrid-blanco-antiguo-500ml.jpg?rlkey=yjya0nvjsi8d8wbm5660tahzf&st=o5cwioyv&dl=0',
     ],
@@ -264,7 +264,7 @@ const initialProducts = [
   {
     id: 208,
     name: 'Hybrid BLANCO 500 ml.',
-    price: '15.70',
+    price: '15,90',
     images: [
       'https://dl.dropboxusercontent.com/scl/fi/vs8z8op083gt0m5xwskxu/hybrid-blanco-500ml.jpg?rlkey=344n8183b5tz40c4jqb3gt3dy&st=r5s3bpuk&dl=0',
     ],
@@ -418,7 +418,7 @@ const initialProducts = [
   {
     id: 222,
     name: 'Hybrid SPRING 500ml.',
-    price: '15.70',
+    price: '15,90',
     images: [
       'https://dl.dropboxusercontent.com/scl/fi/flewe25oj73tcrynqz1kj/hybrid-spring-500ml.jpg?rlkey=9nkxtljpg1yrbxdkowvj4m6em&st=y2t69sw7&dl=0',
     ],
@@ -429,7 +429,7 @@ const initialProducts = [
   {
     id: 223,
     name: 'Hybrid CHAMPAIGNE 500ml.',
-    price: '15.70',
+    price: '15,90',
     images: [
       'https://dl.dropboxusercontent.com/scl/fi/ewnrexp1ln1goshw1hfgn/hybrid-champaigne-500ml.jpg?rlkey=ipbmm758zp671ovmnbngudctg&st=awt5rs3s&dl=0',
     ],
@@ -440,7 +440,7 @@ const initialProducts = [
   {
     id: 224,
     name: 'Hybrid OCÉANO 500ml.',
-    price: '15.70',
+    price: '15,90',
     images: [
       'https://dl.dropboxusercontent.com/scl/fi/wiyuipm8uidjwhbi44ocl/hybrid-oceano-500ml.jpg?rlkey=by8636q5o46teghxq6ihu46fj&st=hp5posjt&dl=0',
     ],
@@ -451,7 +451,7 @@ const initialProducts = [
   {
     id: 225,
     name: 'Hybrid NEGRO ANTRACITA 500ml.',
-    price: '15.70',
+    price: '15,90',
     images: [
       'https://dl.dropboxusercontent.com/scl/fi/cny4ybopkuzjytvsff251/hybrid-oceano-70ml.jpg?rlkey=5aqd25xdf5006mkxplagmy9eh&st=3ep8cfv0&dl=0',
     ],
@@ -649,7 +649,7 @@ const initialProducts = [
   {
     id: 243,
     name: "Hybrid SALVIA CLARA 70ml.",
-    price: '15.70',
+    price: '15,90',
     images: [
       'https://dl.dropboxusercontent.com/scl/fi/i9rrl5b9vl2pqm4ctxgx1/hybrid-salvia-clara-70ml.jpg?rlkey=ogqqdubegnbxxbuzp5oy4xw1z&st=wubie8k9&dl=0',
     ],
@@ -660,7 +660,7 @@ const initialProducts = [
   {
     id: 244,
     name: 'Hybrid VERDE PISTACHO 70ml.',
-    price: '15.70',
+    price: '15,90',
     images: [
       'https://dl.dropboxusercontent.com/scl/fi/n7992rd1rjic04o63s95z/hybrid-verde-pistacho-70ml.jpg?rlkey=mwtakblgrmogapqwmutd1rh9c&st=fsx9186v&dl=0',
     ],
@@ -671,7 +671,7 @@ const initialProducts = [
   {
     id: 245,
     name: 'Hybrid VERDE CLARO 70ml.',
-    price: '15.70',
+    price: '15,90',
     images: [
       'https://dl.dropboxusercontent.com/scl/fi/f6uv93eyma2v5ny8gxe44/hybrid-verde-claro-70ml.jpg?rlkey=gvaqo2k2i9pq8e894eja7sxsm&st=c63vxjx3&dl=0',
     ],
@@ -693,7 +693,7 @@ const initialProducts = [
   {
     id: 247,
     name: 'Hybrid JARDÍN TIBETANO 500ml.',
-    price: '15.70',
+    price: '15,90',
     images: [
       'https://dl.dropboxusercontent.com/scl/fi/ms3ok23x9o9qv2a85bzwg/hybrid-jardin-tibetano-500ml.jpg?rlkey=degsq6294w36fvn5gtpxnbcxh&st=v5cfniqn&dl=0',
     ],
@@ -704,7 +704,7 @@ const initialProducts = [
   {
     id: 248,
     name: 'Hybrid PALAMO 500ml.',
-    price: '15.70',
+    price: '15,90',
     images: [
       'https://dl.dropboxusercontent.com/scl/fi/f9hfbexbux9c5xfjjvsyt/hybrid-palamo-500ml.jpg?rlkey=lmq2ahgfv7jteumqykuyr4p3s&st=8c86u4lf&dl=0',
     ],
@@ -715,7 +715,7 @@ const initialProducts = [
   {
     id: 249,
     name: 'Hybrid PIEDRA 500ml.',
-    price: '15.70',
+    price: '15,90',
     images: [
       'https://dl.dropboxusercontent.com/scl/fi/rxnl66rwmakprxbmni8x6/hybrid-piedra-500ml.jpg?rlkey=y6a96wcfyqq5vrzbim3ejn90w&st=w0q3gxsl&dl=0',
     ],
@@ -726,7 +726,7 @@ const initialProducts = [
   {
     id: 250,
     name: 'Hybrid AZUL OSCURO 500ml.',
-    price: '15.70',
+    price: '15,90',
     images: [
       'https://dl.dropboxusercontent.com/scl/fi/o5603cygukpob8w3ygg5k/hybrid-azul-oscuro-70ml.jpg?rlkey=q5nb4lz2uwrcuamk6dhll8rqc&st=g7cqlf46&dl=0',
     ],
@@ -737,7 +737,7 @@ const initialProducts = [
   {
     id: 251,
     name: 'Hybrid NEGRO 500ml.',
-    price: '15.70',
+    price: '15,90',
     images: [
       'https://dl.dropboxusercontent.com/scl/fi/jikiuoy47tm6op07r8gil/hybrid-negro-500ml.jpg?rlkey=s1s17cwmh8gsl9xren203sgbk&st=mb32f95a&dl=0',
     ],
@@ -748,7 +748,7 @@ const initialProducts = [
   {
     id: 252,
     name: 'Hybrid VISÓN 500ml.',
-    price: '15.70',
+    price: '15,90',
     images: [
       'https://dl.dropboxusercontent.com/scl/fi/fvqq77468beefrft0mz6p/hybrid-vison-500ml.jpg?rlkey=orlb9eysvxk8qe5lwnrjg1m36&st=8gfe3ykw&dl=0',
     ],
@@ -759,7 +759,7 @@ const initialProducts = [
   {
     id: 253,
     name: 'Hybrid PIZARRA 500ml.',
-    price: '15.70',
+    price: '15,90',
     images: [
       'https://dl.dropboxusercontent.com/scl/fi/w7vntpbrea18a3th1lbs4/hybrid-gris-pizarra-500ml.jpg?rlkey=puouro3fxtowqdpy6f8u6btbt&st=2wlmc3yi&dl=0',
     ],
@@ -770,7 +770,7 @@ const initialProducts = [
   {
     id: 254,
     name: 'Hybrid ARDUVAZ GRIS 500ml.',
-    price: '15.70',
+    price: '15,90',
     images: [
       'https://dl.dropboxusercontent.com/scl/fi/g8poz2caweww3d38fjece/hybrid-arduvaz-gris-500ml.jpg?rlkey=a0g824e9erhsl862kk7koq5pn&st=92fcbcjp&dl=0',
     ],
@@ -781,7 +781,7 @@ const initialProducts = [
   {
     id: 255,
     name: 'Hybrid VERDE HOJA 500ml.',
-    price: '15.70',
+    price: '15,90',
     images: [
       'https://dl.dropboxusercontent.com/scl/fi/ouqrx2fiakhu6ty3bhtw6/hybrid-verde-hoja-500ml.jpg?rlkey=pcdp87154zru511elm9ecs6z2&st=fk4yv88w&dl=0',
     ],
@@ -792,7 +792,7 @@ const initialProducts = [
   {
     id: 256,
     name: 'Hybrid VERDE OXFORD 500ml.',
-    price: '15.70',
+    price: '15,90',
     images: [
       'https://dl.dropboxusercontent.com/scl/fi/kjvqc1leh48viabuse68z/hybrid-verde-oxford-500ml.jpg?rlkey=v25q9i0fiydtb64hpkkupocmu&st=0ubwl9bx&dl=0',
     ],
@@ -803,7 +803,7 @@ const initialProducts = [
   {
     id: 257,
     name: 'Hybrid VERDE MUSGO 500ml.',
-    price: '15.70',
+    price: '15,90',
     images: [
       'https://dl.dropboxusercontent.com/scl/fi/x6k9zdwn6wyoxyi1yyr40/hybrid-cadence-musgo-500ml.jpg?rlkey=a7gk04n7ct57ap16rcvh6bmip&st=zepcfe9e&dl=0',
     ],
@@ -814,7 +814,7 @@ const initialProducts = [
   {
     id: 258,
     name: 'Hybrid VERDE TILO 500ml.',
-    price: '15.70',
+    price: '15,90',
     images: [
       'https://dl.dropboxusercontent.com/scl/fi/2at51h40l8uqa3soqzmoo/hybrid-verde-tilo-500ml.jpg?rlkey=3lefr4dsdqmojs5czh4oqv6jr&st=lpg06yxl&dl=0',
     ],
@@ -825,7 +825,7 @@ const initialProducts = [
   {
     id: 259,
     name: 'Hybrid VERDE FINO 500ml.',
-    price: '15.70',
+    price: '15,90',
     images: [
       'https://dl.dropboxusercontent.com/scl/fi/zl0ypfc9iq52eunzinsr6/hybrid-verde-fino-500ml.jpg?rlkey=uu5kesd1tfjc8uje1c90ywx7r&st=8ay3k11a&dl=0',
     ],
@@ -836,7 +836,7 @@ const initialProducts = [
   {
     id: 260,
     name: 'Hybrid SALVIA CLARA 500ml.',
-    price: '15.70',
+    price: '15,90',
     images: [
       'https://dl.dropboxusercontent.com/scl/fi/zolbru4jx0dedkxhz23hs/hybrid-salvia-clara-500ml.jpg?rlkey=vsp4bw4keidf57xmxjb3kn7t5&st=gyedfmn0&dl=0',
     ],
@@ -847,7 +847,7 @@ const initialProducts = [
   {
     id: 261,
     name: 'Hybrid VERDE MENTA 500ml.',
-    price: '15.70',
+    price: '15,90',
     images: [
       'https://dl.dropboxusercontent.com/scl/fi/tflxhr0sceunuqr5lteac/hybrid-verde-menta-500ml.jpg?rlkey=80maq7y7paapyup11k8evy6hr&st=in07hpf7&dl=0',
     ],
@@ -858,7 +858,7 @@ const initialProducts = [
   {
     id: 262,
     name: 'Hybrid VERDE CLARO 500ml.',
-    price: '15.70',
+    price: '15,90',
     images: [
       'https://dl.dropboxusercontent.com/scl/fi/d1yd5in1qg1gcil8chigh/hybrid-verde-claro-500ml.jpg?rlkey=op3m4besnkslf3r5up1y00xmx&st=pmb4k46s&dl=0',
     ],
@@ -869,7 +869,7 @@ const initialProducts = [
   {
     id: 263,
     name: 'Hybrid AZUL NAPOLEÓN 500ml.',
-    price: '15.70',
+    price: '15,90',
     images: [
       'https://dl.dropboxusercontent.com/scl/fi/qj6bjp3jyaa42c48zrull/hybrid-azul-napoleon-500ml.jpg?rlkey=bapic92vbzhm82bla8pxzphze&st=7h15f1zm&dl=0',
     ],
@@ -1067,7 +1067,7 @@ const initialProducts = [
   {
     id: 281,
     name: "Hybrid AVELLANA CÁLIDO 70ml.",
-    price: '15.70',
+    price: '15,90',
     images: [
       'https://dl.dropboxusercontent.com/scl/fi/cxx6wap1tnizh1pafhjpa/hybrid-avellana-calido-70ml.jpg?rlkey=y6viiw5gg7xx6zvoffp3lm17q&st=ygtgvod8&dl=0',
     ],
@@ -1078,7 +1078,7 @@ const initialProducts = [
   {
     id: 282,
     name: 'Hybrid CHOCOLATE OSCURO 70ml.',
-    price: '15.70',
+    price: '15,90',
     images: [
       'https://dl.dropboxusercontent.com/scl/fi/a6k55jyk99rjg9f49tunl/hybrid-chocolate-oscuro-70ml.jpg?rlkey=cvb9s69kky90n317n5oht07x3&st=z6kos8t9&dl=0',
     ],
@@ -1089,7 +1089,7 @@ const initialProducts = [
   {
     id: 283,
     name: 'Hybrid CHOCOLATE 70ml.',
-    price: '15.70',
+    price: '15,90',
     images: [
       'https://dl.dropboxusercontent.com/scl/fi/l1g2osatsmqan8negiyql/hybrid-chocolate-70ml.jpg?rlkey=ubefhs8nrhszneaiu92184t3w&st=et1bgaex&dl=0',
     ],
@@ -1199,7 +1199,7 @@ const initialProducts = [
   {
     id: 293,
     name: 'Hybrid AZUL LAGUNA 500ml.',
-    price: '15.70',
+    price: '15,90',
     images: [
       'https://dl.dropboxusercontent.com/scl/fi/1w2d0osyltzth8akgwb46/hybrid-azul-laguna-500ml.jpg?rlkey=0bz6cyejvle2jal3ooguah9pr&st=gmpcbi50&dl=0',
     ],
@@ -1210,7 +1210,7 @@ const initialProducts = [
   {
     id: 294,
     name: 'Hybrid AZUL ULTRAMARINO 500ml.',
-    price: '15.70',
+    price: '15,90',
     images: [
       'https://dl.dropboxusercontent.com/scl/fi/yj25ag2hevw19zm9h33oa/hybrid-azul-ultramarino-500ml.jpg?rlkey=7g3vr9r62u02katrrmzhqo13j&st=pxdn9rxc&dl=0',
     ],
@@ -1221,7 +1221,7 @@ const initialProducts = [
   {
     id: 295,
     name: 'Hybrid AZUL BEBÉ 500ml.',
-    price: '15.70',
+    price: '15,90',
     images: [
       'https://dl.dropboxusercontent.com/scl/fi/m4xquh3yqtfig7xzjb9rt/hybrid-azul-bebe-500ml.jpg?rlkey=f76hjq2s0tbb236d2nuss99xz&st=ifw633bh&dl=0',
     ],
@@ -1232,7 +1232,7 @@ const initialProducts = [
   {
     id: 296,
     name: 'Hybrid MALVA CLARO 500ml.',
-    price: '15.70',
+    price: '15,90',
     images: [
       'https://dl.dropboxusercontent.com/scl/fi/7qcq45ozn0nhaw1ztgfu8/hybrid-malva-claro-500ml.jpg?rlkey=5r11fek10te68ggr4fpeurupr&st=2v7q7ncs&dl=0',
     ],
@@ -1243,7 +1243,7 @@ const initialProducts = [
   {
     id: 297,
     name: 'Hybrid LILA CLARO 500ml.',
-    price: '15.70',
+    price: '15,90',
     images: [
       'https://dl.dropboxusercontent.com/scl/fi/uvlwbqux4eszm7x9xi0fe/hybrid-lila-claro-500ml.jpg?rlkey=8dg44bx124tjg0mewvt8gi9pn&st=bs92audh&dl=0',
     ],
@@ -1254,7 +1254,7 @@ const initialProducts = [
   {
     id: 298,
     name: 'Hybrid CAMELOT 500ml.',
-    price: '15.70',
+    price: '15,90',
     images: [
       'https://dl.dropboxusercontent.com/scl/fi/4or3kglaggvn2ffjm2bx0/hybrid-camelot-500ml.jpg?rlkey=cdkwua7dqbsfigx7dlsioaao2&st=d5fuzpat&dl=0',
     ],
@@ -1265,7 +1265,7 @@ const initialProducts = [
   {
     id: 299,
     name: 'Hybrid ROSA VICTORIA 500ml.',
-    price: '15.70',
+    price: '15,90',
     images: [
       'https://dl.dropboxusercontent.com/scl/fi/5m1a9yhgqtqkkz5r8p9n1/hybrid-rosa-victoria-500ml.jpg?rlkey=ruby4vho3pfvq367grzoclsq8&st=jqmmodv3&dl=0',
     ],
@@ -1276,7 +1276,7 @@ const initialProducts = [
   {
     id: 300,
     name: 'Hybrid SEDONA 500ml.',
-    price: '15.70',
+    price: '15,90',
     images: [
       'https://dl.dropboxusercontent.com/scl/fi/gisusog2exub4ajkbkhfp/hybrid-sedona-500ml.jpg?rlkey=voqrjm5h0zekjo5myhdalz5w8&st=rexyi805&dl=0',
     ],
@@ -1287,7 +1287,7 @@ const initialProducts = [
   {
     id: 301,
     name: 'Hybrid FLOR DE CACTUS 500ml.',
-    price: '15.70',
+    price: '15,90',
     images: [
       'https://dl.dropboxusercontent.com/scl/fi/9e0549j90kmcha8bfauvf/hybrid-flor-cactus-500ml.jpg?rlkey=6gag6s6fz9z3de029i0gjwryz&st=9w2emluz&dl=0',
     ],
@@ -1298,7 +1298,7 @@ const initialProducts = [
   {
     id: 302,
     name: 'Hybrid ROSA BEBÉ 500ml.',
-    price: '15.70',
+    price: '15,90',
     images: [
       'https://dl.dropboxusercontent.com/scl/fi/rb470k3e97uryv79bg97b/hybrid-rosa-bebe-500ml.jpg?rlkey=mk9wyu4jiqwq4cglkdzkozimk&st=ocmjlstw&dl=0',
     ],
@@ -1309,7 +1309,7 @@ const initialProducts = [
   {
     id: 303,
     name: 'Hybrid ROSA PÁLIDO 500ml.',
-    price: '15.70',
+    price: '15,90',
     images: [
       'https://dl.dropboxusercontent.com/scl/fi/qe3gy71qd0geagwg0jmwd/hybrid-rosa-palido-500ml.jpg?rlkey=9nhcfue9o9z64119pzflvliup&st=c1mycki9&dl=0',
     ],
@@ -1320,7 +1320,7 @@ const initialProducts = [
   {
     id: 304,
     name: 'Hybrid MARRÓN COLLIER 500ml.',
-    price: '15.70',
+    price: '15,90',
     images: [
       'https://dl.dropboxusercontent.com/scl/fi/gyq3o2764v3py5an4w7f0/hybrid-marron-colier-500ml.jpg?rlkey=1gtu7jkq896xn0natbbordnq6&st=whnn1yhc&dl=0',
     ],
@@ -1331,7 +1331,7 @@ const initialProducts = [
   {
     id: 305,
     name: 'Hybrid AVELLANA CÁLIDO 500ml.',
-    price: '15.70',
+    price: '15,90',
     images: [
       'https://dl.dropboxusercontent.com/scl/fi/o1qbbxub68q5g18ltvlnj/hybrid-avellana-calido-500ml.jpg?rlkey=39pujxgjjnbm9dn943qestz4w&st=i4hyl8qw&dl=0',
     ],
@@ -1342,7 +1342,7 @@ const initialProducts = [
   {
     id: 306,
     name: 'Hybrid CHOCOLATE OSCURO 500ml.',
-    price: '15.70',
+    price: '15,90',
     images: [
       'https://dl.dropboxusercontent.com/scl/fi/zijf5ifiz4p1ntdobd9l6/hybrid-chocolate-oscuro-500ml.jpg?rlkey=qyfuwsfrbhw5k2s95e8j4umqk&st=lofz2aj7&dl=0',
     ],
@@ -1353,7 +1353,7 @@ const initialProducts = [
   {
     id: 307,
     name: 'Hybrid CHOCOLATE 500ml.',
-    price: '15.70',
+    price: '15,90',
     images: [
       'https://dl.dropboxusercontent.com/scl/fi/k2ala72b0py0p2srqe0s9/hybrid-chocolate-500ml.jpg?rlkey=wa7ermd63va4gn3diulrlgy0k&st=751b1x68&dl=0',
     ],
@@ -1364,7 +1364,7 @@ const initialProducts = [
   {
     id: 308,
     name: 'Hybrid MARRÓN CÁLIDO 500ml.',
-    price: '15.70',
+    price: '15,90',
     images: [
       'https://dl.dropboxusercontent.com/scl/fi/l1g2osatsmqan8negiyql/hybrid-chocolate-70ml.jpg?rlkey=ubefhs8nrhszneaiu92184t3w&st=0fq2u7jp&dl=0',
     ],
@@ -1375,7 +1375,7 @@ const initialProducts = [
   {
     id: 309,
     name: 'Hybrid ARAROT 500ml.',
-    price: '15.70',
+    price: '15,90',
     images: [
       'https://dl.dropboxusercontent.com/scl/fi/dih5scb65cko8tykv80dd/hybrid-ararot-500ml.jpg?rlkey=x26v7lfmr1vrawxidyb5m7gud&st=r7t8kx1j&dl=0',
     ],
@@ -1386,7 +1386,7 @@ const initialProducts = [
   {
     id: 310,
     name: 'Hybrid ÁMBAR 500ml.',
-    price: '15.70',
+    price: '15,90',
     images: [
       'https://dl.dropboxusercontent.com/scl/fi/ghfhwkyf4uif7a5ke2ppi/hybrid-ambar-500ml.jpg?rlkey=knyz4nu6bk2pkivfid2fgjbmp&st=b5jahyee&dl=0',
     ],
@@ -1397,7 +1397,7 @@ const initialProducts = [
   {
     id: 311,
     name: 'Hybrid NARANJA 500ml.',
-    price: '15.70',
+    price: '15,90',
     images: [
       'https://dl.dropboxusercontent.com/scl/fi/4wd5g7ylxh0r1o6z9nik0/hybrid-naranja-500ml.jpg?rlkey=yqusmy9wl2qq3k5qkc90lsq02&st=wfdjodpg&dl=0',
     ],
@@ -1408,7 +1408,7 @@ const initialProducts = [
   {
     id: 312,
     name: 'Hybrid NARANJA CLARO 500ml.',
-    price: '15.70',
+    price: '15,90',
     images: [
       'https://dl.dropboxusercontent.com/scl/fi/7t84mq0oynbzrjd89rt3o/hybrid-naranja-claro-500ml.jpg?rlkey=bx6skvcl8x8jstdg5v5vky6dl&st=9l9jziav&dl=0',
     ],
@@ -1419,7 +1419,7 @@ const initialProducts = [
   {
     id: 313,
     name: 'Hybrid AMARILLO 500ml.',
-    price: '15.70',
+    price: '15,90',
     images: [
       'https://dl.dropboxusercontent.com/scl/fi/ua8uw6ys40be7b3udjwxm/hybrid-amarillo-500ml.jpg?rlkey=krxm7h1tpldgd7xsewtq560xc&st=al7cnlmd&dl=0',
     ],
@@ -1430,7 +1430,7 @@ const initialProducts = [
   {
     id: 314,
     name: 'Hybrid ENCAJE 500ml.',
-    price: '15.70',
+    price: '15,90',
     images: [
       'https://dl.dropboxusercontent.com/scl/fi/da8b25kwsgz6u6d1w175r/hybrid-encaje-500ml.jpg?rlkey=vsurv4w50iyi7zcj7elmjqbbv&st=fs5cdxqf&dl=0',
     ],
@@ -1441,7 +1441,7 @@ const initialProducts = [
   {
     id: 315,
     name: 'Hybrid CARAMELO 500ml.',
-    price: '15.70',
+    price: '15,90',
     images: [
       'https://dl.dropboxusercontent.com/scl/fi/nsqeyveab0viazd6tw3fc/hybrid-caramelo-500ml.jpg?rlkey=3g9kw1sw3p5wvx5fw1w8oyan8&st=ck9l19m1&dl=0',
     ],
@@ -1485,7 +1485,7 @@ const initialProducts = [
   {
     id: 319,
     name: 'Hybrid GRIS PIZARRA OSCURO 500ml.',
-    price: '15.70',
+    price: '15,90',
     images: [
       'https://dl.dropboxusercontent.com/scl/fi/w7vntpbrea18a3th1lbs4/hybrid-gris-pizarra-500ml.jpg?rlkey=puouro3fxtowqdpy6f8u6btbt&st=chn40fxe&dl=0',
     ],

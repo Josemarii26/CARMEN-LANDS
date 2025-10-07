@@ -2866,7 +2866,7 @@ const initialProducts = [
   {
     id: 348,
     name: "Barníz MATE 120ml.",
-    price: "5.20",
+    price: "5.35",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/7bs487brwuexa0t3xktjt/barniz-cadence-mate-250-1.jpg?rlkey=s304w1xksyoncqrog7q397mtg&st=wq9k5unp&dl=0",
     ],
@@ -2878,7 +2878,7 @@ const initialProducts = [
   {
     id: 349,
     name: "Barníz MATE 250ml.",
-    price: "9.40",
+    price: "9.65",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/7bs487brwuexa0t3xktjt/barniz-cadence-mate-250-1.jpg?rlkey=s304w1xksyoncqrog7q397mtg&st=wq9k5unp&dl=0",
     ],
@@ -2890,7 +2890,7 @@ const initialProducts = [
   {
     id: 350,
     name: "Barníz MATE 500ml.",
-    price: "16.40",
+    price: "16.70",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/2crok09kkl00mo30xexe9/barniz-cadence-mate-500.jpg?rlkey=ufz7xu775p44s8wp7ddo9g1co&st=v01jpd5a&dl=0",
     ],
@@ -2902,7 +2902,7 @@ const initialProducts = [
   {
     id: 351,
     name: "Barníz SATINADO 120ml.",
-    price: "5.20",
+    price: "5.35",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/53m23x38b1q6ec132fwtl/barniz-cadence-satinado-120.jpg?rlkey=yjukfpkb56c6wuemthemvtwsl&st=udr8xprt&dl=0",
     ],
@@ -2914,7 +2914,7 @@ const initialProducts = [
   {
     id: 352,
     name: "Barníz SATINADO 250ml.",
-    price: "9.40",
+    price: "9.65",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/vn9nksubsw9e8pxfgd228/barniz-cadence-satinado-250.jpg?rlkey=be20cm0qqin6lghunbbn2mmw7&st=8qdo69nb&dl=0",
     ],
@@ -2926,7 +2926,7 @@ const initialProducts = [
   {
     id: 353,
     name: "Barníz SATINADO 500ml.",
-    price: "16.40",
+    price: "16.70",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/pij36laxww30of5hfefo5/barniz-cadence-500-ml-satin.jpg?rlkey=7xsge32xxz3jiwe2eywimq9ow&st=zypktafr&dl=0",
     ],
@@ -2938,7 +2938,7 @@ const initialProducts = [
   {
     id: 354,
     name: "Barníz BRILLO 120ml.",
-    price: "5.20",
+    price: "5.35",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/q5a46vdldu56i8n1e82w4/barniz-cadence-brillo-120.jpg?rlkey=lr671mq1nfpmded86x9ejv005&st=nqn6n9l2&dl=0",
     ],
@@ -2950,7 +2950,7 @@ const initialProducts = [
   {
     id: 355,
     name: "Barníz BRILLO 250ml.",
-    price: "9.40",
+    price: "9.65",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/f6duwwyr9sqgqgdtksdvb/barniz-cadence-brillo-250.jpg?rlkey=by2atsh71hbdfnxp8fc9yb9kl&st=itvr1kgu&dl=0",
     ],
@@ -2962,7 +2962,7 @@ const initialProducts = [
   {
     id: 356,
     name: "Barníz BRILLO 500ml.",
-    price: "16.40",
+    price: "16.70",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/ucy9x28cdnsg2vu6fjlge/barniz-cadence-brillo-500.jpg?rlkey=ej2etxrelwlnmwajs7qzyksdk&st=ze5vjd96&dl=0",
     ],
@@ -2986,7 +2986,7 @@ const initialProducts = [
   {
     id: 358,
     name: "Barníz ULTIMATE GLAZE MATE 120ml.",
-    price: "5.85",
+    price: "5.90",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/s51i71fimuel1gxm8qm95/barniz-ultimate-mate-120-ml.jpg?rlkey=chpgcr3ryd3tcr0js76vo33oe&st=xddrwe4e&dl=0",
     ],
@@ -2998,7 +2998,7 @@ const initialProducts = [
   {
     id: 3540,
     name: "Barníz Aqua Stone MATE 120ml.",
-    price: "8.40",
+    price: "8.60",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/6sg758qnqz4bb3qvncgyd/barniz-exterior-aqua-stone-mate-120-ml.jpg?rlkey=6cvevkay8krth93pxc70ya9en&st=v5ge6mc6&dl=0",
     ],
@@ -3010,7 +3010,7 @@ const initialProducts = [
   {
     id: 3550,
     name: "Barníz Aqua Stone MATE 250ml.",
-    price: "14.40",
+    price: "15.20",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/tmhlcur7arulasd6fvngn/barniz-exterior-aqua-stone-mate-250-ml.jpg?rlkey=sdcvyixthuh0czw7291t8dn8u&st=frc22bck&dl=0",
     ],
@@ -3034,7 +3034,7 @@ const initialProducts = [
   {
     id: 3570,
     name: "Barníz Aqua Stone BRILLO 120ml.",
-    price: "8.40",
+    price: "8.60",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/reb769yuw1zi9fawriqg0/barniz-cadence-aqua-stone-120ml.jpg?rlkey=b9fb1a0485wcm5cv3ca2rhmwr&st=s2t4o2vb&dl=0",
     ],
@@ -3046,7 +3046,7 @@ const initialProducts = [
   {
     id: 3580,
     name: "Barníz Aqua Stone BRILLO 250ml.",
-    price: "14.40",
+    price: "15.20",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/cejswc75vi2y4q8vwjxhd/barniz-cadence-aqua-stone-250ml.jpg?rlkey=35v9g7mh4ejf2nxxtcg7rk8gt&st=0y7pj7wq&dl=0",
     ],
@@ -3082,7 +3082,7 @@ const initialProducts = [
   {
     id: 3592,
     name: "Barníz Craquelador DOS PASOS Cadence ",
-    price: "5.80",
+    price: "5.95",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/1ye0krnf5qnumkyev0tpx/craquelador-de-2-pasos-cadence.jpg?rlkey=ywnsyh16eighsedxi6btgjujb&st=ytwjqwdd&dl=0",
     ],
@@ -3118,7 +3118,7 @@ const initialProducts = [
   {
     id: 605,
     name: "Spray Adhesivo Stencils CADENCE",
-    price: "6.40",
+    price: "6.70",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/5wh9s1pm1xy81kk6w8tpn/spray-adhesivo-stencils-cadence.jpg?rlkey=dqth23sr3ip6jrbvp4vrprgih&st=51os782h&dl=0",
     ],
@@ -3996,7 +3996,7 @@ const initialProducts = [
   {
     id: 206,
     name: "Hybrid CENIZA 500 ml.",
-    price: "15.70",
+    price: "15.90",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/ncrpeo5fo56ob80khf7zq/hybrid-ceniza-500ml.jpg?rlkey=c5obzhykxppisebtggkv1ht5o&st=4tljrpdj&dl=0",
     ],
@@ -4008,7 +4008,7 @@ const initialProducts = [
   {
     id: 207,
     name: "Hybrid BLANCO ANTIGUO 500 ml.",
-    price: "15.70",
+    price: "15.90",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/l5jjrrsadguex4gf1dmak/hybrid-blanco-antiguo-500ml.jpg?rlkey=yjya0nvjsi8d8wbm5660tahzf&st=o5cwioyv&dl=0",
     ],
@@ -4020,7 +4020,7 @@ const initialProducts = [
   {
     id: 208,
     name: "Hybrid BLANCO 500 ml.",
-    price: "15.70",
+    price: "15.90",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/vs8z8op083gt0m5xwskxu/hybrid-blanco-500ml.jpg?rlkey=344n8183b5tz40c4jqb3gt3dy&st=r5s3bpuk&dl=0",
     ],
@@ -4188,7 +4188,7 @@ const initialProducts = [
   {
     id: 222,
     name: "Hybrid SPRING 500ml.",
-    price: "15.70",
+    price: "15.90",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/flewe25oj73tcrynqz1kj/hybrid-spring-500ml.jpg?rlkey=9nkxtljpg1yrbxdkowvj4m6em&st=y2t69sw7&dl=0",
     ],
@@ -4200,7 +4200,7 @@ const initialProducts = [
   {
     id: 223,
     name: "Hybrid CHAMPAIGNE 500ml.",
-    price: "15.70",
+    price: "15.90",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/ewnrexp1ln1goshw1hfgn/hybrid-champaigne-500ml.jpg?rlkey=ipbmm758zp671ovmnbngudctg&st=awt5rs3s&dl=0",
     ],
@@ -4212,7 +4212,7 @@ const initialProducts = [
   {
     id: 224,
     name: "Hybrid OCÉANO 500ml.",
-    price: "15.70",
+    price: "15.90",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/wiyuipm8uidjwhbi44ocl/hybrid-oceano-500ml.jpg?rlkey=by8636q5o46teghxq6ihu46fj&st=hp5posjt&dl=0",
     ],
@@ -4224,7 +4224,7 @@ const initialProducts = [
   {
     id: 225,
     name: "Hybrid NEGRO ANTRACITA 500ml.",
-    price: "15.70",
+    price: "15.90",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/cny4ybopkuzjytvsff251/hybrid-oceano-70ml.jpg?rlkey=5aqd25xdf5006mkxplagmy9eh&st=3ep8cfv0&dl=0",
     ],
@@ -4440,7 +4440,7 @@ const initialProducts = [
   {
     id: 243,
     name: "Hybrid SALVIA CLARA 70ml.",
-    price: "15.70",
+    price: "15.90",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/i9rrl5b9vl2pqm4ctxgx1/hybrid-salvia-clara-70ml.jpg?rlkey=ogqqdubegnbxxbuzp5oy4xw1z&st=wubie8k9&dl=0",
     ],
@@ -4452,7 +4452,7 @@ const initialProducts = [
   {
     id: 244,
     name: "Hybrid VERDE PISTACHO 70ml.",
-    price: "15.70",
+    price: "15.90",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/n7992rd1rjic04o63s95z/hybrid-verde-pistacho-70ml.jpg?rlkey=mwtakblgrmogapqwmutd1rh9c&st=fsx9186v&dl=0",
     ],
@@ -4464,7 +4464,7 @@ const initialProducts = [
   {
     id: 245,
     name: "Hybrid VERDE CLARO 70ml.",
-    price: "15.70",
+    price: "15.90",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/f6uv93eyma2v5ny8gxe44/hybrid-verde-claro-70ml.jpg?rlkey=gvaqo2k2i9pq8e894eja7sxsm&st=c63vxjx3&dl=0",
     ],
@@ -4488,7 +4488,7 @@ const initialProducts = [
   {
     id: 247,
     name: "Hybrid JARDÍN TIBETANO 500ml.",
-    price: "15.70",
+    price: "15.90",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/ms3ok23x9o9qv2a85bzwg/hybrid-jardin-tibetano-500ml.jpg?rlkey=degsq6294w36fvn5gtpxnbcxh&st=v5cfniqn&dl=0",
     ],
@@ -4500,7 +4500,7 @@ const initialProducts = [
   {
     id: 248,
     name: "Hybrid PALAMO 500ml.",
-    price: "15.70",
+    price: "15.90",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/f9hfbexbux9c5xfjjvsyt/hybrid-palamo-500ml.jpg?rlkey=lmq2ahgfv7jteumqykuyr4p3s&st=8c86u4lf&dl=0",
     ],
@@ -4512,7 +4512,7 @@ const initialProducts = [
   {
     id: 249,
     name: "Hybrid PIEDRA 500ml.",
-    price: "15.70",
+    price: "15.90",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/rxnl66rwmakprxbmni8x6/hybrid-piedra-500ml.jpg?rlkey=y6a96wcfyqq5vrzbim3ejn90w&st=w0q3gxsl&dl=0",
     ],
@@ -4524,7 +4524,7 @@ const initialProducts = [
   {
     id: 250,
     name: "Hybrid AZUL OSCURO 500ml.",
-    price: "15.70",
+    price: "15.90",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/o5603cygukpob8w3ygg5k/hybrid-azul-oscuro-70ml.jpg?rlkey=q5nb4lz2uwrcuamk6dhll8rqc&st=g7cqlf46&dl=0",
     ],
@@ -4536,7 +4536,7 @@ const initialProducts = [
   {
     id: 251,
     name: "Hybrid NEGRO 500ml.",
-    price: "15.70",
+    price: "15.90",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/jikiuoy47tm6op07r8gil/hybrid-negro-500ml.jpg?rlkey=s1s17cwmh8gsl9xren203sgbk&st=mb32f95a&dl=0",
     ],
@@ -4548,7 +4548,7 @@ const initialProducts = [
   {
     id: 252,
     name: "Hybrid VISÓN 500ml.",
-    price: "15.70",
+    price: "15.90",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/fvqq77468beefrft0mz6p/hybrid-vison-500ml.jpg?rlkey=orlb9eysvxk8qe5lwnrjg1m36&st=8gfe3ykw&dl=0",
     ],
@@ -4560,7 +4560,7 @@ const initialProducts = [
   {
     id: 253,
     name: "Hybrid PIZARRA 500ml.",
-    price: "15.70",
+    price: "15.90",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/w7vntpbrea18a3th1lbs4/hybrid-gris-pizarra-500ml.jpg?rlkey=puouro3fxtowqdpy6f8u6btbt&st=2wlmc3yi&dl=0",
     ],
@@ -4572,7 +4572,7 @@ const initialProducts = [
   {
     id: 254,
     name: "Hybrid ARDUVAZ GRIS 500ml.",
-    price: "15.70",
+    price: "15.90",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/g8poz2caweww3d38fjece/hybrid-arduvaz-gris-500ml.jpg?rlkey=a0g824e9erhsl862kk7koq5pn&st=92fcbcjp&dl=0",
     ],
@@ -4584,7 +4584,7 @@ const initialProducts = [
   {
     id: 255,
     name: "Hybrid VERDE HOJA 500ml.",
-    price: "15.70",
+    price: "15.90",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/ouqrx2fiakhu6ty3bhtw6/hybrid-verde-hoja-500ml.jpg?rlkey=pcdp87154zru511elm9ecs6z2&st=fk4yv88w&dl=0",
     ],
@@ -4596,7 +4596,7 @@ const initialProducts = [
   {
     id: 256,
     name: "Hybrid VERDE OXFORD 500ml.",
-    price: "15.70",
+    price: "15.90",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/kjvqc1leh48viabuse68z/hybrid-verde-oxford-500ml.jpg?rlkey=v25q9i0fiydtb64hpkkupocmu&st=0ubwl9bx&dl=0",
     ],
@@ -4608,7 +4608,7 @@ const initialProducts = [
   {
     id: 257,
     name: "Hybrid VERDE MUSGO 500ml.",
-    price: "15.70",
+    price: "15.90",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/x6k9zdwn6wyoxyi1yyr40/hybrid-cadence-musgo-500ml.jpg?rlkey=a7gk04n7ct57ap16rcvh6bmip&st=zepcfe9e&dl=0",
     ],
@@ -4620,7 +4620,7 @@ const initialProducts = [
   {
     id: 258,
     name: "Hybrid VERDE TILO 500ml.",
-    price: "15.70",
+    price: "15.90",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/2at51h40l8uqa3soqzmoo/hybrid-verde-tilo-500ml.jpg?rlkey=3lefr4dsdqmojs5czh4oqv6jr&st=lpg06yxl&dl=0",
     ],
@@ -4632,7 +4632,7 @@ const initialProducts = [
   {
     id: 259,
     name: "Hybrid VERDE FINO 500ml.",
-    price: "15.70",
+    price: "15.90",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/zl0ypfc9iq52eunzinsr6/hybrid-verde-fino-500ml.jpg?rlkey=uu5kesd1tfjc8uje1c90ywx7r&st=8ay3k11a&dl=0",
     ],
@@ -4644,7 +4644,7 @@ const initialProducts = [
   {
     id: 260,
     name: "Hybrid SALVIA CLARA 500ml.",
-    price: "15.70",
+    price: "15.90",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/zolbru4jx0dedkxhz23hs/hybrid-salvia-clara-500ml.jpg?rlkey=vsp4bw4keidf57xmxjb3kn7t5&st=gyedfmn0&dl=0",
     ],
@@ -4656,7 +4656,7 @@ const initialProducts = [
   {
     id: 261,
     name: "Hybrid VERDE MENTA 500ml.",
-    price: "15.70",
+    price: "15.90",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/tflxhr0sceunuqr5lteac/hybrid-verde-menta-500ml.jpg?rlkey=80maq7y7paapyup11k8evy6hr&st=in07hpf7&dl=0",
     ],
@@ -4668,7 +4668,7 @@ const initialProducts = [
   {
     id: 262,
     name: "Hybrid VERDE CLARO 500ml.",
-    price: "15.70",
+    price: "15.90",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/d1yd5in1qg1gcil8chigh/hybrid-verde-claro-500ml.jpg?rlkey=op3m4besnkslf3r5up1y00xmx&st=pmb4k46s&dl=0",
     ],
@@ -4680,7 +4680,7 @@ const initialProducts = [
   {
     id: 263,
     name: "Hybrid AZUL NAPOLEÓN 500ml.",
-    price: "15.70",
+    price: "15.90",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/qj6bjp3jyaa42c48zrull/hybrid-azul-napoleon-500ml.jpg?rlkey=bapic92vbzhm82bla8pxzphze&st=7h15f1zm&dl=0",
     ],
@@ -4896,7 +4896,7 @@ const initialProducts = [
   {
     id: 281,
     name: "Hybrid AVELLANA CÁLIDO 70ml.",
-    price: "15.70",
+    price: "15.90",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/cxx6wap1tnizh1pafhjpa/hybrid-avellana-calido-70ml.jpg?rlkey=y6viiw5gg7xx6zvoffp3lm17q&st=ygtgvod8&dl=0",
     ],
@@ -4908,7 +4908,7 @@ const initialProducts = [
   {
     id: 282,
     name: "Hybrid CHOCOLATE OSCURO 70ml.",
-    price: "15.70",
+    price: "15.90",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/a6k55jyk99rjg9f49tunl/hybrid-chocolate-oscuro-70ml.jpg?rlkey=cvb9s69kky90n317n5oht07x3&st=z6kos8t9&dl=0",
     ],
@@ -4920,7 +4920,7 @@ const initialProducts = [
   {
     id: 283,
     name: "Hybrid CHOCOLATE 70ml.",
-    price: "15.70",
+    price: "15.90",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/l1g2osatsmqan8negiyql/hybrid-chocolate-70ml.jpg?rlkey=ubefhs8nrhszneaiu92184t3w&st=et1bgaex&dl=0",
     ],
@@ -5040,7 +5040,7 @@ const initialProducts = [
   {
     id: 293,
     name: "Hybrid AZUL LAGUNA 500ml.",
-    price: "15.70",
+    price: "15.90",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/1w2d0osyltzth8akgwb46/hybrid-azul-laguna-500ml.jpg?rlkey=0bz6cyejvle2jal3ooguah9pr&st=gmpcbi50&dl=0",
     ],
@@ -5052,7 +5052,7 @@ const initialProducts = [
   {
     id: 294,
     name: "Hybrid AZUL ULTRAMARINO 500ml.",
-    price: "15.70",
+    price: "15.90",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/yj25ag2hevw19zm9h33oa/hybrid-azul-ultramarino-500ml.jpg?rlkey=7g3vr9r62u02katrrmzhqo13j&st=pxdn9rxc&dl=0",
     ],
@@ -5064,7 +5064,7 @@ const initialProducts = [
   {
     id: 295,
     name: "Hybrid AZUL BEBÉ 500ml.",
-    price: "15.70",
+    price: "15.90",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/m4xquh3yqtfig7xzjb9rt/hybrid-azul-bebe-500ml.jpg?rlkey=f76hjq2s0tbb236d2nuss99xz&st=ifw633bh&dl=0",
     ],
@@ -5076,7 +5076,7 @@ const initialProducts = [
   {
     id: 296,
     name: "Hybrid MALVA CLARO 500ml.",
-    price: "15.70",
+    price: "15.90",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/7qcq45ozn0nhaw1ztgfu8/hybrid-malva-claro-500ml.jpg?rlkey=5r11fek10te68ggr4fpeurupr&st=2v7q7ncs&dl=0",
     ],
@@ -5088,7 +5088,7 @@ const initialProducts = [
   {
     id: 297,
     name: "Hybrid LILA CLARO 500ml.",
-    price: "15.70",
+    price: "15.90",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/uvlwbqux4eszm7x9xi0fe/hybrid-lila-claro-500ml.jpg?rlkey=8dg44bx124tjg0mewvt8gi9pn&st=bs92audh&dl=0",
     ],
@@ -5100,7 +5100,7 @@ const initialProducts = [
   {
     id: 298,
     name: "Hybrid CAMELOT 500ml.",
-    price: "15.70",
+    price: "15.90",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/4or3kglaggvn2ffjm2bx0/hybrid-camelot-500ml.jpg?rlkey=cdkwua7dqbsfigx7dlsioaao2&st=d5fuzpat&dl=0",
     ],
@@ -5112,7 +5112,7 @@ const initialProducts = [
   {
     id: 299,
     name: "Hybrid ROSA VICTORIA 500ml.",
-    price: "15.70",
+    price: "15.90",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/5m1a9yhgqtqkkz5r8p9n1/hybrid-rosa-victoria-500ml.jpg?rlkey=ruby4vho3pfvq367grzoclsq8&st=jqmmodv3&dl=0",
     ],
@@ -5124,7 +5124,7 @@ const initialProducts = [
   {
     id: 300,
     name: "Hybrid SEDONA 500ml.",
-    price: "15.70",
+    price: "15.90",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/gisusog2exub4ajkbkhfp/hybrid-sedona-500ml.jpg?rlkey=voqrjm5h0zekjo5myhdalz5w8&st=rexyi805&dl=0",
     ],
@@ -5136,7 +5136,7 @@ const initialProducts = [
   {
     id: 301,
     name: "Hybrid FLOR DE CACTUS 500ml.",
-    price: "15.70",
+    price: "15.90",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/9e0549j90kmcha8bfauvf/hybrid-flor-cactus-500ml.jpg?rlkey=6gag6s6fz9z3de029i0gjwryz&st=9w2emluz&dl=0",
     ],
@@ -5148,7 +5148,7 @@ const initialProducts = [
   {
     id: 302,
     name: "Hybrid ROSA BEBÉ 500ml.",
-    price: "15.70",
+    price: "15.90",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/rb470k3e97uryv79bg97b/hybrid-rosa-bebe-500ml.jpg?rlkey=mk9wyu4jiqwq4cglkdzkozimk&st=ocmjlstw&dl=0",
     ],
@@ -5160,7 +5160,7 @@ const initialProducts = [
   {
     id: 303,
     name: "Hybrid ROSA PÁLIDO 500ml.",
-    price: "15.70",
+    price: "15.90",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/qe3gy71qd0geagwg0jmwd/hybrid-rosa-palido-500ml.jpg?rlkey=9nhcfue9o9z64119pzflvliup&st=c1mycki9&dl=0",
     ],
@@ -5172,7 +5172,7 @@ const initialProducts = [
   {
     id: 304,
     name: "Hybrid MARRÓN COLLIER 500ml.",
-    price: "15.70",
+    price: "15.90",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/gyq3o2764v3py5an4w7f0/hybrid-marron-colier-500ml.jpg?rlkey=1gtu7jkq896xn0natbbordnq6&st=whnn1yhc&dl=0",
     ],
@@ -5184,7 +5184,7 @@ const initialProducts = [
   {
     id: 305,
     name: "Hybrid AVELLANA CÁLIDO 500ml.",
-    price: "15.70",
+    price: "15.90",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/o1qbbxub68q5g18ltvlnj/hybrid-avellana-calido-500ml.jpg?rlkey=39pujxgjjnbm9dn943qestz4w&st=i4hyl8qw&dl=0",
     ],
@@ -5196,7 +5196,7 @@ const initialProducts = [
   {
     id: 306,
     name: "Hybrid CHOCOLATE OSCURO 500ml.",
-    price: "15.70",
+    price: "15.90",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/zijf5ifiz4p1ntdobd9l6/hybrid-chocolate-oscuro-500ml.jpg?rlkey=qyfuwsfrbhw5k2s95e8j4umqk&st=lofz2aj7&dl=0",
     ],
@@ -5208,7 +5208,7 @@ const initialProducts = [
   {
     id: 307,
     name: "Hybrid CHOCOLATE 500ml.",
-    price: "15.70",
+    price: "15.90",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/k2ala72b0py0p2srqe0s9/hybrid-chocolate-500ml.jpg?rlkey=wa7ermd63va4gn3diulrlgy0k&st=751b1x68&dl=0",
     ],
@@ -5220,7 +5220,7 @@ const initialProducts = [
   {
     id: 308,
     name: "Hybrid MARRÓN CÁLIDO 500ml.",
-    price: "15.70",
+    price: "15.90",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/l1g2osatsmqan8negiyql/hybrid-chocolate-70ml.jpg?rlkey=ubefhs8nrhszneaiu92184t3w&st=0fq2u7jp&dl=0",
     ],
@@ -5232,7 +5232,7 @@ const initialProducts = [
   {
     id: 309,
     name: "Hybrid ARAROT 500ml.",
-    price: "15.70",
+    price: "15.90",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/dih5scb65cko8tykv80dd/hybrid-ararot-500ml.jpg?rlkey=x26v7lfmr1vrawxidyb5m7gud&st=r7t8kx1j&dl=0",
     ],
@@ -5244,7 +5244,7 @@ const initialProducts = [
   {
     id: 310,
     name: "Hybrid ÁMBAR 500ml.",
-    price: "15.70",
+    price: "15.90",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/ghfhwkyf4uif7a5ke2ppi/hybrid-ambar-500ml.jpg?rlkey=knyz4nu6bk2pkivfid2fgjbmp&st=b5jahyee&dl=0",
     ],
@@ -5256,7 +5256,7 @@ const initialProducts = [
   {
     id: 311,
     name: "Hybrid NARANJA 500ml.",
-    price: "15.70",
+    price: "15.90",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/4wd5g7ylxh0r1o6z9nik0/hybrid-naranja-500ml.jpg?rlkey=yqusmy9wl2qq3k5qkc90lsq02&st=wfdjodpg&dl=0",
     ],
@@ -5268,7 +5268,7 @@ const initialProducts = [
   {
     id: 312,
     name: "Hybrid NARANJA CLARO 500ml.",
-    price: "15.70",
+    price: "15.90",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/7t84mq0oynbzrjd89rt3o/hybrid-naranja-claro-500ml.jpg?rlkey=bx6skvcl8x8jstdg5v5vky6dl&st=9l9jziav&dl=0",
     ],
@@ -5280,7 +5280,7 @@ const initialProducts = [
   {
     id: 313,
     name: "Hybrid AMARILLO 500ml.",
-    price: "15.70",
+    price: "15.90",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/ua8uw6ys40be7b3udjwxm/hybrid-amarillo-500ml.jpg?rlkey=krxm7h1tpldgd7xsewtq560xc&st=al7cnlmd&dl=0",
     ],
@@ -5292,7 +5292,7 @@ const initialProducts = [
   {
     id: 314,
     name: "Hybrid ENCAJE 500ml.",
-    price: "15.70",
+    price: "15.90",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/da8b25kwsgz6u6d1w175r/hybrid-encaje-500ml.jpg?rlkey=vsurv4w50iyi7zcj7elmjqbbv&st=fs5cdxqf&dl=0",
     ],
@@ -5304,7 +5304,7 @@ const initialProducts = [
   {
     id: 315,
     name: "Hybrid CARAMELO 500ml.",
-    price: "15.70",
+    price: "15.90",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/nsqeyveab0viazd6tw3fc/hybrid-caramelo-500ml.jpg?rlkey=3g9kw1sw3p5wvx5fw1w8oyan8&st=ck9l19m1&dl=0",
     ],
@@ -5352,7 +5352,7 @@ const initialProducts = [
   {
     id: 319,
     name: "Hybrid GRIS PIZARRA OSCURO 500ml.",
-    price: "15.70",
+    price: "15.90",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/w7vntpbrea18a3th1lbs4/hybrid-gris-pizarra-500ml.jpg?rlkey=puouro3fxtowqdpy6f8u6btbt&st=chn40fxe&dl=0",
     ],
@@ -10983,7 +10983,7 @@ const initialProducts = [
   {
     id: 482,
     name: "Transfer TELA W&B 21x30cm KTS05",
-    price: "5.20",
+    price: "5.30",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/r8ol51srtcjbz8hvvdlqp/transfer-tela-cadence.jpg?rlkey=t17wjx8yqslgcqvsu5ffumzas&st=4z60dxwb&dl=0",
     ],
@@ -10995,7 +10995,7 @@ const initialProducts = [
   {
     id: 483,
     name: "Transfer TELA W&B 21x30cm KTS06",
-    price: "5.20",
+    price: "5.30",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/1orl92mgnzqiiys0rujiq/transfer-tela-cadence-1.jpg?rlkey=onom93xa4ibo81h8kezi6eafz&st=cpv4fm0h&dl=0",
     ],
@@ -11007,7 +11007,7 @@ const initialProducts = [
   {
     id: 484,
     name: "Transfer TELA Animal Portrait 25x35cm PAFT08",
-    price: "5.20",
+    price: "5.30",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/3ztgfgueye41foskcng0p/transfer-tela-cadence-2.jpg?rlkey=816rv1zu774x0vxmh4q3fmkcr&st=bim3259e&dl=0",
     ],
@@ -11019,7 +11019,7 @@ const initialProducts = [
   {
     id: 485,
     name: "Transfer TELA Animal Portrait 25x35cm PAFT07",
-    price: "5.20",
+    price: "5.30",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/ox8rrcad3hxzc6gel6htl/transfer-tela-cadence-3.jpg?rlkey=6o6i0sl7e63tftvarfv3dssj8&st=7nvwix3z&dl=0",
     ],
@@ -11031,7 +11031,7 @@ const initialProducts = [
   {
     id: 486,
     name: "Transfer TELA Animal Portrait 25x35cm PAFT06",
-    price: "5.20",
+    price: "5.30",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/m555xfpjidt82dq5cr8u2/transfer-tela-cadence-4.jpg?rlkey=k17quqkz122uy90p7agj7x2nn&st=qptgkpdx&dl=0",
     ],
@@ -11043,7 +11043,7 @@ const initialProducts = [
   {
     id: 487,
     name: "Transfer TELA Animal Portrait 25x35cm PAFT05",
-    price: "5.20",
+    price: "5.30",
     images: ["https://i.ibb.co/BZc23m2/transfer-tela-cadence-5.jpg"],
     label: "25x35cm",
     description:
@@ -11053,7 +11053,7 @@ const initialProducts = [
   {
     id: 488,
     name: "Transfer TELA Animal Portrait 25x35cm PAFT03",
-    price: "5.20",
+    price: "5.30",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/b9h406cniqgi10hwg15ol/transfer-tela-cadence-6.jpg?rlkey=8yv0l939dyujgesl4b850sclp&st=enbbe9ud&dl=0",
     ],
@@ -11065,7 +11065,7 @@ const initialProducts = [
   {
     id: 489,
     name: "Transfer TELA Siluetas 25x35cm FT069",
-    price: "5.20",
+    price: "5.30",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/wovntoqyp1130h303hhu9/transfer-tela-cadence-7.jpg?rlkey=kli80dhm4srtg1cw45b8iw8oc&st=9qt6cp1z&dl=0",
     ],
@@ -11077,7 +11077,7 @@ const initialProducts = [
   {
     id: 490,
     name: "Transfer TELA Siluetas 25x35cm FT068",
-    price: "5.20",
+    price: "5.30",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/ttf6gg2618l2rl8q9s3yf/transfer-tela-cadence-8.jpg?rlkey=xd4ealsveh1dtxlklil4pbuiz&st=baa8jxek&dl=0",
     ],
@@ -11089,7 +11089,7 @@ const initialProducts = [
   {
     id: 491,
     name: "Transfer TELA Siluetas 25x35cm FT067",
-    price: "5.20",
+    price: "5.30",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/fgdxzjz5dup0fiksrvzya/transfer-tela-cadence-9.jpg?rlkey=46o8mf1n2cb6sfmldkgnck1w9&st=c4mla4fo&dl=0",
     ],
@@ -11101,7 +11101,7 @@ const initialProducts = [
   {
     id: 492,
     name: "Transfer TELA Siluetas 25x35cm FT064",
-    price: "5.20",
+    price: "5.30",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/2tqm59fysvuiptopbisxw/transfer-tela-cadence-10.jpg?rlkey=kr3ig52tngodp3wbq3rlnucjt&st=ti08cays&dl=0",
     ],
@@ -11113,7 +11113,7 @@ const initialProducts = [
   {
     id: 493,
     name: "Transfer TELA Siluetas 25x35cm FT065",
-    price: "5.20",
+    price: "5.30",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/gb38ofuvmjlu7q7kjqpjr/transfer-tela-cadence-11.jpg?rlkey=2440gb83ls58xvp97yr3vqsmu&st=gw5r53a6&dl=0",
     ],
@@ -11125,7 +11125,7 @@ const initialProducts = [
   {
     id: 494,
     name: "Transfer TELA Siluetas 25x35cm FT063",
-    price: "5.20",
+    price: "5.30",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/csmdwq64fs6i7shml6p08/transfer-tela-cadence-12.jpg?rlkey=8g3aqwetlldj7iwbdii8o4ym6&st=bmmwciqg&dl=0",
     ],
@@ -11137,7 +11137,7 @@ const initialProducts = [
   {
     id: 495,
     name: "Transfer TELA W&B 21x30cm KTS13",
-    price: "5.20",
+    price: "5.30",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/ek3cudyrvvezezhgge22y/transfer-tela-cadence-14.jpg?rlkey=4pof1h1ozvbdftzfolswbbrh1&st=uindi5iq&dl=0",
     ],
@@ -11149,7 +11149,7 @@ const initialProducts = [
   {
     id: 496,
     name: "Transfer TELA W&B 21x30cm KTS14",
-    price: "5.20",
+    price: "5.30",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/4qzkaw9bsxm3t0jacoses/transfer-tela-cadence-13.jpg?rlkey=zkcot4y4w92w2zxr0hemb8lz3&st=mdaj27rf&dl=0",
     ],
@@ -11161,7 +11161,7 @@ const initialProducts = [
   {
     id: 814,
     name: "Transfer TELA Joy of Life 21x30cm JLFT20",
-    price: "5.20",
+    price: "5.30",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/yfe1uoh7f3f0sxszso7z8/transfer-textil-joy-of-life-21x30cm-JLFT20.jpg?rlkey=jcea8c1h7qdly5uxbfgo8e5nm&st=wyda5pat&dl=0",
     ],
@@ -11173,7 +11173,7 @@ const initialProducts = [
   {
     id: 815,
     name: "Transfer TELA Joy-of-life-21x30cm JLFT19",
-    price: "5.20",
+    price: "5.30",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/81l65o96v75qpwc8b2vjj/transfer-textil-joy-of-life-21x30cm-JLFT19.jpg?rlkey=df1wq3ti1jgijl103vpln2isn&st=pl0cxrme&dl=0",
     ],
@@ -11185,7 +11185,7 @@ const initialProducts = [
   {
     id: 816,
     name: "Transfer TELA Joy-of-life-21x30cm JLFT18",
-    price: "5.20",
+    price: "5.30",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/7152l9uccvqngh330dup3/transfer-textil-joy-of-life-21x30cm-JLFT18.jpg?rlkey=8nwj7q68b5ysd1pssnu5939az&st=5e6sixtx&dl=0",
     ],
@@ -11197,7 +11197,7 @@ const initialProducts = [
   {
     id: 817,
     name: "Transfer TELA Joy-of-life-21x30cm JLFT17",
-    price: "5.20",
+    price: "5.30",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/52mco4k6ik2yiiqqn89o0/transfer-textil-joy-of-life-21x30cm-JLFT17.jpg?rlkey=o8wmsscmysvfuxan3aozefphe&st=ed7r0185&dl=0",
     ],
@@ -11209,7 +11209,7 @@ const initialProducts = [
   {
     id: 818,
     name: "Transfer TELA Joy-of-life-21x30cm JLFT16",
-    price: "5.20",
+    price: "5.30",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/ybvmrh913avsqe0twsz5o/transfer-textil-joy-of-life-21x30cm-JLFT16.jpg?rlkey=7goo7urtq411w4ogrfoagmjme&st=vc3rgp57&dl=0",
     ],
@@ -11221,7 +11221,7 @@ const initialProducts = [
   {
     id: 819,
     name: "Transfer TELA Joy-of-life-21x30cm JLFT15",
-    price: "5.20",
+    price: "5.30",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/26m2so5783qft1hjxbhbw/transfer-textil-joy-of-life-21x30cm-JLFT15.jpg?rlkey=hnbf2pnfldznfwdcorihxvvf1&st=f4jonhc9&dl=0",
     ],
@@ -11233,7 +11233,7 @@ const initialProducts = [
   {
     id: 820,
     name: "Transfer TELA Joy-of-life-21x30cm JLFT14",
-    price: "5.20",
+    price: "5.30",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/h1xacgtrj9nyj8vdhfw44/transfer-textil-joy-of-life-21x30cm-JLFT14.jpg?rlkey=s3e0wmotl4tlfne79sbq32vvd&st=gax198q0&dl=0",
     ],
@@ -11245,7 +11245,7 @@ const initialProducts = [
   {
     id: 821,
     name: "Transfer TELA Joy-of-life-21x30cm JLFT13",
-    price: "5.20",
+    price: "5.30",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/5gd7x8g8f9rqooaaoohh3/transfer-textil-joy-of-life-21x30cm-JLFT13.jpg?rlkey=ri7yefbtf1s31bo2ew1yvomg5&st=b7tbr5aq&dl=0",
     ],
@@ -11257,7 +11257,7 @@ const initialProducts = [
   {
     id: 822,
     name: "Transfer TELA Joy-of-life-21x30cm JLFT12",
-    price: "5.20",
+    price: "5.30",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/y1imx85yu038vnnf3cesp/transfer-textil-joy-of-life-21x30cm-JLFT12.jpg?rlkey=0ucod1offdo52l18jbdwqgfhm&st=k8vo69ao&dl=0",
     ],
@@ -11269,7 +11269,7 @@ const initialProducts = [
   {
     id: 823,
     name: "Transfer TELA Joy-of-life-21x30cm JLFT11",
-    price: "5.20",
+    price: "5.30",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/2on0vooi75j56459ytk74/Transfer-TEXTIL-Joy-of-Life-21x30cm-JLFT11.jpg?rlkey=flpcx4pgfylg6hqiapyfpnx0d&st=ongnjz27&dl=0",
     ],
@@ -11281,7 +11281,7 @@ const initialProducts = [
   {
     id: 824,
     name: "Transfer TELA Joy-of-life-21x30cm JLFT10",
-    price: "5.20",
+    price: "5.30",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/8uulnr0t8e5opo1ic2ufn/transfer-textil-joy-of-life-21x30cm-JLFT10.jpg?rlkey=v8y233anwcr8of2vv3ks86aul&st=flu67p6o&dl=0",
     ],
@@ -11293,7 +11293,7 @@ const initialProducts = [
   {
     id: 825,
     name: "Transfer TELA Joy-of-life-21x30cm JLFT09",
-    price: "5.20",
+    price: "5.30",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/c422twdg36rlhmu879dxf/transfer-textil-joy-of-life-21x30cm-JLFT09.jpg?rlkey=79gxeqykzrzcb9u74m7hro8ba&st=pw5fxc35&dl=0",
     ],
@@ -11305,7 +11305,7 @@ const initialProducts = [
   {
     id: 826,
     name: "Transfer TELA Joy-of-life-21x30cm JLFT08",
-    price: "5.20",
+    price: "5.30",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/j04m0j8vnf2u0rgze81nm/transfer-textil-joy-of-life-21x30cm-JLFT08.jpg?rlkey=bozkygyk9vn7ex0jlt2zll4x4&st=2st5c4ky&dl=0",
     ],
@@ -11317,7 +11317,7 @@ const initialProducts = [
   {
     id: 827,
     name: "Transfer TELA Joy-of-life-21x30cm JLFT07",
-    price: "5.20",
+    price: "5.30",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/d3378lfumrzz9khy6hulm/transfer-textil-joy-of-life-21x30cm-JLFT07.jpg?rlkey=i5vmv5ft5m9rbmu0du2to3dkv&st=jyebvhz6&dl=0",
     ],
@@ -11329,7 +11329,7 @@ const initialProducts = [
   {
     id: 828,
     name: "Transfer TELA Joy-of-life-21x30cm JLFT06",
-    price: "5.20",
+    price: "5.30",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/nymqu91fq1x2z6y8mqf2r/transfer-textil-joy-of-life-21x30cm-JLFT06.jpg?rlkey=iltd8qtpa3iyn2cfgfjdyk1mo&st=f7mms27m&dl=0",
     ],
@@ -11341,7 +11341,7 @@ const initialProducts = [
   {
     id: 829,
     name: "Transfer TELA Joy-of-life-21x30cm JLFT05",
-    price: "5.20",
+    price: "5.30",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/ymvz2yeb7ho5f2imeuozf/transfer-textil-joy-of-life-21x30cm-JLFT05.jpg?rlkey=vwz58p5itmut1bgawfnc33243&st=vgjgjujo&dl=0",
     ],
@@ -11353,7 +11353,7 @@ const initialProducts = [
   {
     id: 830,
     name: "Transfer TELA Joy-of-life-21x30cm JLFT04",
-    price: "5.20",
+    price: "5.30",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/jh6zpcivdb3142ft4hq8y/transfer-textil-joy-of-life-21x30cm-JLFT04.jpg?rlkey=tm20lk5u97pwgn62vj8xthb37&st=7wps7vz9&dl=0",
     ],
@@ -11365,7 +11365,7 @@ const initialProducts = [
   {
     id: 831,
     name: "Transfer TELA Joy-of-life-21x30cm JLFT03",
-    price: "5.20",
+    price: "5.30",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/ec6ugo6nl6xqvy6iz0eug/transfer-textil-joy-of-life-21x30cm-JLFT03.jpg?rlkey=9m1ovju4m5sx7yigrxmfkx3qj&st=i6dnb94v&dl=0",
     ],
@@ -11377,7 +11377,7 @@ const initialProducts = [
   {
     id: 832,
     name: "Transfer TELA Joy-of-life-21x30cm JLFT02",
-    price: "5.20",
+    price: "5.30",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/ly7k9o4llva3riyzy7wa3/transfer-textil-joy-of-life-21x30cm-JLFT02.jpg?rlkey=vii6v1sllb10qpdjdiigr0ydw&st=wwz4yse7&dl=0",
     ],
@@ -11389,7 +11389,7 @@ const initialProducts = [
   {
     id: 833,
     name: "Transfer TELA Joy-of-life-21x30cm JLFT01",
-    price: "5.20",
+    price: "5.30",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/99yi9s1clf0ghzceh0nxk/transfer-textil-joy-of-life-21x30cm-JLFT01.jpg?rlkey=blhjlsm31keg2t4tfitz4kzdv&st=tdjxg1kw&dl=0",
     ],
@@ -11401,7 +11401,7 @@ const initialProducts = [
   {
     id: 834,
     name: "Transfer TELA Coutout-25x35cm C0008",
-    price: "5.20",
+    price: "5.30",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/ndbtda46xre7269onp1p7/transfer-textil-coutout-25x35cm-CO008.jpg?rlkey=33v03iahc7i43nk9gvn8auk26&st=hukn2b8z&dl=0",
     ],
@@ -11413,7 +11413,7 @@ const initialProducts = [
   {
     id: 835,
     name: "Transfer TELA Coutout-25x35cm C0007",
-    price: "5.20",
+    price: "5.30",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/1723eu1niwt5qaupyep3w/transfer-textil-coutout-25x35cm-CO007.jpg?rlkey=zoz2ssgitfyvwbwnul542i9u3&st=tx9eps23&dl=0",
     ],
@@ -11425,7 +11425,7 @@ const initialProducts = [
   {
     id: 836,
     name: "Transfer TELA Coutout-25x35cm C0002",
-    price: "5.20",
+    price: "5.30",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/1t6fgxw8rycsk2l7q1uyy/transfer-textil-coutout-25x35cm-CO002.jpg?rlkey=o8hxsyo306cl8u540vhuudxzs&st=cy9qmeni&dl=0",
     ],
@@ -11437,7 +11437,7 @@ const initialProducts = [
   {
     id: 837,
     name: "Transfer TELA Coutout-25x35cm C0001",
-    price: "5.20",
+    price: "5.30",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/wabnmp8ayq19t3npqotqd/transfer-textil-coutout-25x35cm-CO001.jpg?rlkey=axbhjsc4b0l7463ltwmgprvbu&st=1yj8aumf&dl=0",
     ],
@@ -11449,7 +11449,7 @@ const initialProducts = [
   {
     id: 838,
     name: "Transfer TELA Wb-21x30cm KTS21",
-    price: "5.20",
+    price: "5.30",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/1egvf7hrsihhmzit5v98x/transfer-tela-wb-21x30cm-KTS21.jpg?rlkey=ozw6iqa6dzur6u9rszizs8nhv&st=60bnv5oz&dl=0",
     ],
@@ -11461,7 +11461,7 @@ const initialProducts = [
   {
     id: 839,
     name: "Transfer TELA Wb-21x30cm KTS19",
-    price: "5.20",
+    price: "5.30",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/dczzg981man6v168448ie/transfer-tela-wb-21x30cm-KTS19.jpg?rlkey=rb5ndi7m2bc14v4x91nsta3b5&st=pi5erq0k&dl=0",
     ],
@@ -11473,7 +11473,7 @@ const initialProducts = [
   {
     id: 840,
     name: "Transfer TELA Wb-21x30cm KTS18",
-    price: "5.20",
+    price: "5.30",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/bxidd318n36d654v8fiye/transfer-tela-wb-21x30cm-KTS18.jpg?rlkey=n2i53nchaow7is7q7xjdz7k0f&st=oyijkywt&dl=0",
     ],
@@ -11485,7 +11485,7 @@ const initialProducts = [
   {
     id: 841,
     name: "Transfer TELA Wb-21x30cm KTS08",
-    price: "5.20",
+    price: "5.30",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/ndi2sk2kmvxwdwtyio8g1/transfer-tela-wb-21x30cm-KTS08.jpg?rlkey=xu83051ks7b40ghrgd0padtff&st=pimrrmsz&dl=0",
     ],
@@ -11497,7 +11497,7 @@ const initialProducts = [
   {
     id: 842,
     name: "Transfer TELA Cadence WFFTC007",
-    price: "5.20",
+    price: "5.30",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/grjldsn550ouof5tgfqrv/transfer-tela-cadence-WFFTC007.jpg?rlkey=1ktffjpcsb9bwwjbit12gggp7&st=osp4ihlv&dl=0",
     ],
@@ -11509,7 +11509,7 @@ const initialProducts = [
   {
     id: 843,
     name: "Transfer TELA Cadence WFFTC006",
-    price: "5.20",
+    price: "5.30",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/qgf75umg8asr4wxbylzo1/transfer-tela-cadence-WFFTC006.jpg?rlkey=0k18t933pt75pczvzdkdif2p2&st=tvbm6mod&dl=0",
     ],
@@ -11521,7 +11521,7 @@ const initialProducts = [
   {
     id: 844,
     name: "Transfer TELA Cadence WFFTC005",
-    price: "5.20",
+    price: "5.30",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/dggzuv8czmdwmgbzbs0gv/transfer-tela-cadence-WFFTC005.jpg?rlkey=98la8xgvhbqtxumvn2szx3q0u&st=6bocumz9&dl=0",
     ],
@@ -11533,7 +11533,7 @@ const initialProducts = [
   {
     id: 845,
     name: "Transfer TELA Cadence WFFTC004",
-    price: "5.20",
+    price: "5.30",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/64v0ob090yqwyk8iz33ak/transfer-tela-cadence-WFFTC004.jpg?rlkey=kgmts45m4vcmxosmguk3g5r4b&st=0jtnp4fw&dl=0",
     ],
@@ -11545,7 +11545,7 @@ const initialProducts = [
   {
     id: 846,
     name: "Transfer TELA Cadence WFFTC003",
-    price: "5.20",
+    price: "5.30",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/sxj7unptw4edxfe9h2mi8/transfer-tela-cadence-WFFTC003.jpg?rlkey=9m1u1hvh1insqb59u38ohrnxa&st=mb3810hb&dl=0",
     ],
@@ -11557,7 +11557,7 @@ const initialProducts = [
   {
     id: 847,
     name: "Transfer TELA Cadence WFFTC002",
-    price: "5.20",
+    price: "5.30",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/owoovdtcqa1hufljpz54s/transfer-tela-cadence-WFFTC002.jpg?rlkey=layoikf1dy8jzny4d7r1yx92o&st=9ckmqyca&dl=0",
     ],
@@ -11569,7 +11569,7 @@ const initialProducts = [
   {
     id: 848,
     name: "Transfer TELA Cadence WFFTC001",
-    price: "5.20",
+    price: "5.30",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/vc0kscvv4s2wi87vzs7ey/transfer-tela-cadence-WFFTC001.jpg?rlkey=d3v4uepqp02aujhvpv7ro1k2l&st=cvjr4lql&dl=0",
     ],
@@ -11581,7 +11581,7 @@ const initialProducts = [
   {
     id: 849,
     name: "Transfer TELA Cadence PAFT04",
-    price: "5.20",
+    price: "5.30",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/0wrsga31toiixaz0dv8zf/transfer-tela-cadence-PAFT04.jpg?rlkey=taujclrizj55c096d11nhrbva&st=q9uj3n09&dl=0",
     ],
@@ -11593,7 +11593,7 @@ const initialProducts = [
   {
     id: 850,
     name: "Transfer TELA Cadence PAFT02",
-    price: "5.20",
+    price: "5.30",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/du3dh2l045ap8w9lwiaoj/transfer-tela-cadence-PAFT02.jpg?rlkey=pd096bu4m30kllb2608ilx8se&st=exxi9cqx&dl=0",
     ],
@@ -11605,7 +11605,7 @@ const initialProducts = [
   {
     id: 851,
     name: "Transfer TELA Cadence PAFT01",
-    price: "5.20",
+    price: "5.30",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/of1v8ga5gnib10by39k5u/transfer-tela-cadence-PAFT01.jpg?rlkey=ehzgedqbd4jfen7s9am0yzhnf&st=0ohfzxow&dl=0",
     ],
@@ -11617,7 +11617,7 @@ const initialProducts = [
   {
     id: 852,
     name: "Transfer TELA Cadence KTSB015",
-    price: "5.20",
+    price: "5.30",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/o7h3mhj9mf17qvtra947b/transfer-tela-cadence-KTSB015.jpg?rlkey=rjv3loaq1nvyrfqnu3dacu48e&st=2245bymi&dl=0",
     ],
@@ -11629,7 +11629,7 @@ const initialProducts = [
   {
     id: 853,
     name: "Transfer TELA Cadence KTSB014",
-    price: "5.20",
+    price: "5.30",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/exgqtv7kt57lofs2dmvma/transfer-tela-cadence-KTSB014.jpg?rlkey=uiab95cldycaefb0f3mvsafjg&st=9pzcb2d0&dl=0",
     ],
@@ -11641,7 +11641,7 @@ const initialProducts = [
   {
     id: 854,
     name: "Transfer TELA Cadence KTSB013",
-    price: "5.20",
+    price: "5.30",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/2lh7wp0x8htogfm89txqc/transfer-tela-cadence-KTSB013.jpg?rlkey=jb74p99z2zssawxaevjnulstm&st=gnk3kmrl&dl=0",
     ],
@@ -11653,7 +11653,7 @@ const initialProducts = [
   {
     id: 855,
     name: "Transfer TELA Cadence KTSB012",
-    price: "5.20",
+    price: "5.30",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/ibg5ktd5n6kyhrlv8byvf/transfer-tela-cadence-KTSB012.jpg?rlkey=baltnvr3o6s4gu69aa3gflgeo&st=3e0s0vkl&dl=0",
     ],
@@ -11665,7 +11665,7 @@ const initialProducts = [
   {
     id: 856,
     name: "Transfer TELA Cadence KTSB011",
-    price: "5.20",
+    price: "5.30",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/amf6udzbvu69wg1ktnicg/transfer-tela-cadence-KTSB011.jpg?rlkey=c9fnd7j5wjpzfkwxiiyb60awh&st=pqc9par1&dl=0",
     ],
@@ -11677,7 +11677,7 @@ const initialProducts = [
   {
     id: 857,
     name: "Transfer TELA Cadence KTSB010",
-    price: "5.20",
+    price: "5.30",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/zduwfv2nx46qmi0nfwi55/transfer-tela-cadence-KTSB010.jpg?rlkey=5nfxio45ikb24prqeumckdqac&st=7m1mde47&dl=0",
     ],
@@ -11689,7 +11689,7 @@ const initialProducts = [
   {
     id: 858,
     name: "Transfer TELA Cadence KTSB009",
-    price: "5.20",
+    price: "5.30",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/w3jhm1ny8arxs5qtlja7i/transfer-tela-cadence-KTSB009.jpg?rlkey=1t6da8qrh3do8l0c6byochx4w&st=u79mz1f7&dl=0",
     ],
@@ -11701,7 +11701,7 @@ const initialProducts = [
   {
     id: 859,
     name: "Transfer TELA Cadence KTSB008",
-    price: "5.20",
+    price: "5.30",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/tpehzojpyphadzzubmnwm/transfer-tela-cadence-KTSB008.jpg?rlkey=l9kuxqekxpjezy8weiw8gkk8i&st=u7ox2x80&dl=0",
     ],
@@ -11713,7 +11713,7 @@ const initialProducts = [
   {
     id: 860,
     name: "Transfer TELA Cadence KTSB007",
-    price: "5.20",
+    price: "5.30",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/6io7q5e90vq3y8o4ddm4r/transfer-tela-cadence-KTSB007.jpg?rlkey=y2of0jbq0bmezzyg7ropg9nds&st=2ei6fxsx&dl=0",
     ],
@@ -11725,7 +11725,7 @@ const initialProducts = [
   {
     id: 861,
     name: "Transfer TELA Cadence KTSB006",
-    price: "5.20",
+    price: "5.30",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/aklhmatx6o0cqcpp6osrt/transfer-tela-cadence-KTSB006.jpg?rlkey=378civkqbjmmi2erwez6ww3q5&st=u9qekwfr&dl=0",
     ],
@@ -11737,7 +11737,7 @@ const initialProducts = [
   {
     id: 862,
     name: "Transfer TELA Cadence KTSB005",
-    price: "5.20",
+    price: "5.30",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/wl4p5ws60q756b2bsxvxt/transfer-tela-cadence-KTSB005.jpg?rlkey=i7mjst2kgn8ovrvuky4w45jha&st=xtme9e6s&dl=0",
     ],
@@ -11749,7 +11749,7 @@ const initialProducts = [
   {
     id: 864,
     name: "Transfer TELA Cadence KTSB003",
-    price: "5.20",
+    price: "5.30",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/w7g8ummj7eumonjvgk8cv/transfer-tela-cadence-KTSB003.jpg?rlkey=zn63mczx4xfkusdeg3rlpf7if&st=ksxoznkz&dl=0",
     ],
@@ -11761,7 +11761,7 @@ const initialProducts = [
   {
     id: 865,
     name: "Transfer TELA Cadence KTSB002",
-    price: "5.20",
+    price: "5.30",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/1e5k66w900jofmc7y95b5/transfer-tela-cadence-KTSB002.jpg?rlkey=lscvmc21mlmamn62cbjp2gefl&st=oeujhwtf&dl=0",
     ],
@@ -11773,7 +11773,7 @@ const initialProducts = [
   {
     id: 866,
     name: "Transfer TELA Cadence KTSB001",
-    price: "5.20",
+    price: "5.30",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/n861lz7m08zxi32nhcioj/transfer-tela-cadence-KTSB001.jpg?rlkey=diaeyg9m7b9l7kox93w2e9oue&st=0lv9ajc4&dl=0",
     ],
@@ -11785,7 +11785,7 @@ const initialProducts = [
   {
     id: 867,
     name: "Transfer TELA Cadence KTS20",
-    price: "5.20",
+    price: "5.30",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/h70dlnaonlthhe72hltx4/transfer-tela-cadence-KTS20.jpg?rlkey=miqnixl22gl251sdp8iqfjje8&st=eg2hdbol&dl=0",
     ],
@@ -11797,7 +11797,7 @@ const initialProducts = [
   {
     id: 868,
     name: "Transfer TELA Cadence KTS17",
-    price: "5.20",
+    price: "5.30",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/ajlyi90uxkuph5ut81ppb/transfer-tela-cadence-KTS17.jpg?rlkey=1jvwp6btky70i5jx6j5n0yzx5&st=w6ut8clc&dl=0",
     ],
@@ -11809,7 +11809,7 @@ const initialProducts = [
   {
     id: 869,
     name: "Transfer TELA Cadence KTS12",
-    price: "5.20",
+    price: "5.30",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/xz70sa2ndr8365k9h6eia/transfer-tela-cadence-KTS12.jpg?rlkey=1oax7i5wc1fstjmv7vqm5i0cf&st=wqnkt4m2&dl=0",
     ],
@@ -11821,7 +11821,7 @@ const initialProducts = [
   {
     id: 870,
     name: "Transfer TELA Cadence KTS10",
-    price: "5.20",
+    price: "5.30",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/uxkt6qe74th475qo7s44v/transfer-tela-cadence-KTS10.jpg?rlkey=ot2tcd0du675s42a2rld3tynq&st=u01je9s9&dl=0",
     ],
@@ -11833,7 +11833,7 @@ const initialProducts = [
   {
     id: 871,
     name: "Transfer TELA Cadence KTS09",
-    price: "5.20",
+    price: "5.30",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/69wg9xeebe5o0qb2s5g1r/transfer-tela-cadence-KTS09.jpg?rlkey=puwzkxj3whoi8jarqpqij6g9p&st=w8tcg15l&dl=0",
     ],
@@ -11845,7 +11845,7 @@ const initialProducts = [
   {
     id: 872,
     name: "Transfer TELA Cadence KTS06",
-    price: "5.20",
+    price: "5.30",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/c3n62baq2p8xq7d6237ce/transfer-tela-cadence-KTS06.jpg?rlkey=vyxwsl7n8aw87skx4jzz0s3nz&st=zsux8nm5&dl=0",
     ],
@@ -11857,7 +11857,7 @@ const initialProducts = [
   {
     id: 873,
     name: "Transfer TELA Cadence KTS05",
-    price: "5.20",
+    price: "5.30",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/qodicyxkr4t9eykzl6iw1/transfer-tela-cadence-KTS05.jpg?rlkey=ovjupn7br96m6ka3p113ims89&st=88scvoxk&dl=0",
     ],
@@ -11869,7 +11869,7 @@ const initialProducts = [
   {
     id: 874,
     name: "Transfer TELA Cadence KTS04",
-    price: "5.20",
+    price: "5.30",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/2q7fof26e7q3hifkc2qkv/transfer-tela-cadence-KTS04.jpg?rlkey=hqukk4pscxlvicke1siivggv4&st=7h05sary&dl=0",
     ],
@@ -11881,7 +11881,7 @@ const initialProducts = [
   {
     id: 875,
     name: "Transfer TELA Cadence KTS02",
-    price: "5.20",
+    price: "5.30",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/w80ys3lfrqb4qgief8ef5/transfer-tela-cadence-KTS02.jpg?rlkey=ozp0slxr2qt5j50qxb7e634nu&st=ijpqjue3&dl=0",
     ],
@@ -11893,7 +11893,7 @@ const initialProducts = [
   {
     id: 876,
     name: "Transfer TELA Cadence KTS01",
-    price: "5.20",
+    price: "5.30",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/8rnt52u8y14yw81xjvk6w/transfer-tela-cadence-KTS01.jpg?rlkey=60g8it3ptgh1emhfxqhnnvng0&st=5gtz1m1l&dl=0",
     ],
@@ -11905,7 +11905,7 @@ const initialProducts = [
   {
     id: 877,
     name: "Transfer TELA Cadence-gold-VT024-21x30 cm",
-    price: "5.20",
+    price: "5.30",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/m966ps4c8os6tvq2kkdrh/transfer-tela-cadence-gold-vt024-21x30-cm.jpg?rlkey=n72h2skve612tsorht0ld1s80&st=pqzevb5q&dl=0",
     ],
@@ -11917,7 +11917,7 @@ const initialProducts = [
   {
     id: 878,
     name: "Transfer TELA Cadence FT207",
-    price: "5.20",
+    price: "5.30",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/tjv1hcbp2hhgns2gyutpq/transfer-tela-cadence-FT207.jpg?rlkey=lqwcvwxg1vs2f3msteuiqy36d&st=5fb22yhk&dl=0",
     ],
@@ -11929,7 +11929,7 @@ const initialProducts = [
   {
     id: 879,
     name: "Transfer TELA Cadence FT070",
-    price: "5.20",
+    price: "5.30",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/m7jokuk6mj2bntg9wc6dp/transfer-tela-cadence-FT070.jpg?rlkey=f5wzn6a21gu85yvlkbot2xnk6&st=uu4xiqk5&dl=0",
     ],
@@ -11941,7 +11941,7 @@ const initialProducts = [
   {
     id: 880,
     name: "Transfer TELA Cadence FT066",
-    price: "5.20",
+    price: "5.30",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/xkdxf2kq46brbdncs5hjw/transfer-tela-cadence-FT066.jpg?rlkey=dxdfv0mmxea5q6k04l2s7wj3a&st=1xos35fi&dl=0",
     ],
@@ -11953,7 +11953,7 @@ const initialProducts = [
   {
     id: 881,
     name: "Transfer TELA Cadence FT062",
-    price: "5.20",
+    price: "5.30",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/whgiwgcvg9saaq2pj807m/transfer-tela-cadence-FT062.jpg?rlkey=x0405q4u4150v37fcgcqgw8qc&st=mgm6v0sq&dl=0",
     ],
@@ -11965,7 +11965,7 @@ const initialProducts = [
   {
     id: 882,
     name: "Transfer TELA Cadence FT051",
-    price: "5.20",
+    price: "5.30",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/xal52c4fvaagp0zdo3p5z/transfer-tela-cadence-FT051.jpg?rlkey=mt41ify0cqbq8uqulv9ogfk79&st=1iljcg5f&dl=0",
     ],
@@ -11977,7 +11977,7 @@ const initialProducts = [
   {
     id: 883,
     name: "Transfer TELA Cadence FT050",
-    price: "5.20",
+    price: "5.30",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/k83bf2p9u5bzq8b0fhuaq/transfer-tela-cadence-FT050.jpg?rlkey=0jnfvnqe4lj3qp2p3l0yjk0fn&st=pyhuziye&dl=0",
     ],
@@ -11989,7 +11989,7 @@ const initialProducts = [
   {
     id: 884,
     name: "Transfer TELA Cadence FT049",
-    price: "5.20",
+    price: "5.30",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/4nhycp79yizvanzve1ao5/transfer-tela-cadence-FT049.jpg?rlkey=gsdbc919a65ysc6rkodtougqu&st=bfl74yoy&dl=0",
     ],
@@ -12001,7 +12001,7 @@ const initialProducts = [
   {
     id: 885,
     name: "Transfer TELA Cadence FT046",
-    price: "5.20",
+    price: "5.30",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/rjto3uoss2qrmobbtmlc2/transfer-tela-cadence-FT046.jpg?rlkey=ay86qms6p5brlk8npmhd1y3aj&st=z483ypty&dl=0",
     ],
@@ -12013,7 +12013,7 @@ const initialProducts = [
   {
     id: 886,
     name: "Transfer TELA Cadence FT043",
-    price: "5.20",
+    price: "5.30",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/4cfprgbhe65vyxj0mzuen/transfer-tela-cadence-FT043.jpg?rlkey=jhcxdbtv33kxulok3vyjbf9xy&st=afxbciis&dl=0",
     ],
@@ -12025,7 +12025,7 @@ const initialProducts = [
   {
     id: 887,
     name: "Transfer TELA Cadence FT042",
-    price: "5.20",
+    price: "5.30",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/0uvzj8x5c9pul99ymqf4p/transfer-tela-cadence-FT042.jpg?rlkey=l4f222fk45iw3lgen0bf5mr7j&st=dmd18n3m&dl=0",
     ],
@@ -12037,7 +12037,7 @@ const initialProducts = [
   {
     id: 888,
     name: "Transfer TELA Cadence FT041",
-    price: "5.20",
+    price: "5.30",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/qgp2p6ob05bvu1uu6kn4v/transfer-tela-cadence-FT041.jpg?rlkey=eg6qw8wuikvzcrgqr0kzv6ylq&st=wai66roj&dl=0",
     ],
@@ -12049,7 +12049,7 @@ const initialProducts = [
   {
     id: 889,
     name: "Transfer TELA Cadence FT040",
-    price: "5.20",
+    price: "5.30",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/557cfruf5bvjpq0bnvprv/transfer-tela-cadence-FT040.jpg?rlkey=n6j6ewgt66x1sk4jnjkwzk5qd&st=zybd0cql&dl=0",
     ],
@@ -12061,7 +12061,7 @@ const initialProducts = [
   {
     id: 890,
     name: "Transfer TELA Cadence FT039",
-    price: "5.20",
+    price: "5.30",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/6zvbf54m81wwsl0mq1hzy/transfer-tela-cadence-FT039.jpg?rlkey=5a5h485jqrtns0cpjlaowrmym&st=mtbnblkl&dl=0",
     ],
@@ -12073,7 +12073,7 @@ const initialProducts = [
   {
     id: 891,
     name: "Transfer TELA Cadence FT038",
-    price: "5.20",
+    price: "5.30",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/14nikrk4fwk70c03wdfem/transfer-tela-cadence-FT038.jpg?rlkey=9pvh404zfrqql1wtflpn6y36f&st=7vwkf4zh&dl=0",
     ],
@@ -12085,7 +12085,7 @@ const initialProducts = [
   {
     id: 892,
     name: "Transfer TELA Cadence FT037",
-    price: "5.20",
+    price: "5.30",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/zr1l7krrphrq56fzfj33j/transfer-tela-cadence-FT037.jpg?rlkey=ay6gchgiaxmsgw1so7mk815bq&st=7no9mpud&dl=0",
     ],
@@ -12097,7 +12097,7 @@ const initialProducts = [
   {
     id: 893,
     name: "Transfer TELA Cadence FT036",
-    price: "5.20",
+    price: "5.30",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/mk7a1dwy7y05fran3rdps/transfer-tela-cadence-FT036.jpg?rlkey=v5j3kipj1cy8sng3tlnnma6lj&st=miev0u38&dl=0",
     ],
@@ -12109,7 +12109,7 @@ const initialProducts = [
   {
     id: 894,
     name: "Transfer TELA Cadence FT035",
-    price: "5.20",
+    price: "5.30",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/hxieglnvt7398iq5gzg2r/transfer-tela-cadence-FT035.jpg?rlkey=4srebahho75c5gyzf6dmdhjne&st=pk6d59ky&dl=0",
     ],
@@ -12121,7 +12121,7 @@ const initialProducts = [
   {
     id: 895,
     name: "Transfer TELA Cadence FT029",
-    price: "5.20",
+    price: "5.30",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/bct5w2hl7reym74zwy5zt/transfer-tela-cadence-FT029.jpg?rlkey=fcsbp72itth59f8hmazkdmpp7&st=pqgu8jic&dl=0",
     ],
@@ -12133,7 +12133,7 @@ const initialProducts = [
   {
     id: 896,
     name: "Transfer TELA Cadence FT026",
-    price: "5.20",
+    price: "5.30",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/2rmos4ymwstz15oaqbcaq/transfer-tela-cadence-FT026.jpg?rlkey=eqem4ovmx7vnavsw2ji64bl0h&st=qr2xwiwf&dl=0",
     ],
@@ -12145,7 +12145,7 @@ const initialProducts = [
   {
     id: 897,
     name: "Transfer TELA Cadence FT024",
-    price: "5.20",
+    price: "5.30",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/5wran3uu1h6jw04vm2g5h/transfer-tela-cadence-FT024.jpg?rlkey=i5381cww2cs7iibwr2grpk0rc&st=3ftftfno&dl=0",
     ],
@@ -12157,7 +12157,7 @@ const initialProducts = [
   {
     id: 898,
     name: "Transfer TELA Cadence FT023",
-    price: "5.20",
+    price: "5.30",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/h544pkoyrudyt4foipw6v/transfer-tela-cadence-FT023.jpg?rlkey=e9hd1obu7pjqfkgnh4igua5jx&st=kkag6cm6&dl=0",
     ],
@@ -12169,7 +12169,7 @@ const initialProducts = [
   {
     id: 899,
     name: "Transfer TELA Cadence FT021",
-    price: "5.20",
+    price: "5.30",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/92hesceqfbhgd301ay4rv/transfer-tela-cadence-FT021.jpg?rlkey=784iyzewv6qv54ize5ekhx8n3&st=xzs0owu1&dl=0",
     ],
@@ -12181,7 +12181,7 @@ const initialProducts = [
   {
     id: 900,
     name: "Transfer TELA Cadence FT020",
-    price: "5.20",
+    price: "5.30",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/ow8liostmddhz0r4i7cun/transfer-tela-cadence-FT020.jpg?rlkey=7a6hrzl93qywlr47233s1k6iq&st=0m5uj5n4&dl=0",
     ],
@@ -12193,7 +12193,7 @@ const initialProducts = [
   {
     id: 901,
     name: "Transfer TELA Cadence FT019",
-    price: "5.20",
+    price: "5.30",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/0db3kcrz0x5wkcruodhby/transfer-tela-cadence-FT019.jpg?rlkey=l3odc2pbldwm8lyy68ky532m9&st=u7sngfeg&dl=0",
     ],
@@ -12205,7 +12205,7 @@ const initialProducts = [
   {
     id: 902,
     name: "Transfer TELA Cadence FT017",
-    price: "5.20",
+    price: "5.30",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/97bpjpq669gbkcss06cm1/transfer-tela-cadence-FT017.jpg?rlkey=1xbc6hfsfg9xtawchacaih72x&st=u5oeirc0&dl=0",
     ],
@@ -12217,7 +12217,7 @@ const initialProducts = [
   {
     id: 903,
     name: "Transfer TELA Cadence FT016",
-    price: "5.20",
+    price: "5.30",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/uted7u2lw4bmeltnm30l6/transfer-tela-cadence-FT016.jpg?rlkey=i5qqk4xpst6ru5w7nx744zwiw&st=c9j7serj&dl=0",
     ],
@@ -12229,7 +12229,7 @@ const initialProducts = [
   {
     id: 904,
     name: "Transfer TELA Cadence FT015",
-    price: "5.20",
+    price: "5.30",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/nntj4yufep5t74hup0qm4/transfer-tela-cadence-FT015.jpg?rlkey=gllgp38rakn89wwilf8ou2qhg&st=w0knhau4&dl=0",
     ],
@@ -12241,7 +12241,7 @@ const initialProducts = [
   {
     id: 905,
     name: "Transfer TELA Cadence FT014",
-    price: "5.20",
+    price: "5.30",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/lqpiy8n1synj2rvmhj1rh/transfer-tela-cadence-FT014.jpg?rlkey=z3fss8om6klnf2pzbka02468u&st=sy9ggqr0&dl=0",
     ],
@@ -12253,7 +12253,7 @@ const initialProducts = [
   {
     id: 906,
     name: "Transfer TELA Cadence FT013",
-    price: "5.20",
+    price: "5.30",
     images: [""],
     label: "25x35cm",
     description:
@@ -12263,7 +12263,7 @@ const initialProducts = [
   {
     id: 907,
     name: "Transfer TELA Cadence FT012",
-    price: "5.20",
+    price: "5.30",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/y9uxy24rhy46z00uy99kh/transfer-tela-cadence-FT012.jpg?rlkey=cf42den1alv0v1suokbc14ag1&st=jtfq5tzb&dl=0",
     ],
@@ -12275,7 +12275,7 @@ const initialProducts = [
   {
     id: 908,
     name: "Transfer TELA Cadence FT010",
-    price: "5.20",
+    price: "5.30",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/gzcik0dq3r0mx7apxbpc3/transfer-tela-cadence-FT010.jpg?rlkey=a6jgbc4aphj0zjg8s5mujskqg&st=90wxos12&dl=0",
     ],
@@ -12287,7 +12287,7 @@ const initialProducts = [
   {
     id: 909,
     name: "Transfer TELA Cadence FT009",
-    price: "5.20",
+    price: "5.30",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/if5mukx7oghipw5n3tjzo/transfer-tela-cadence-FT009.jpg?rlkey=g3dacrpj2koof7lvof4s336gh&st=vj6jfr16&dl=0",
     ],
@@ -12299,7 +12299,7 @@ const initialProducts = [
   {
     id: 910,
     name: "Transfer TELA Cadence FT007",
-    price: "5.20",
+    price: "5.30",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/2wzfkkyz429s7qqmorjuy/transfer-tela-cadence-FT007.jpg?rlkey=24b1pjrc4mg1lru0nsbw1p5cx&st=bap9bjy3&dl=0",
     ],
@@ -12311,7 +12311,7 @@ const initialProducts = [
   {
     id: 911,
     name: "Transfer TELA Cadence FT006",
-    price: "5.20",
+    price: "5.30",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/66dxxobm79jlwl0tpkzvx/transfer-tela-cadence-FT006.jpg?rlkey=snm1wybcv8yw5zzzxccbqnpyc&st=rudemf35&dl=0",
     ],
@@ -12323,7 +12323,7 @@ const initialProducts = [
   {
     id: 912,
     name: "Transfer TELA Cadence FT005",
-    price: "5.20",
+    price: "5.30",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/cdkhjs9xh55pr3y6atrox/transfer-tela-cadence-FT005.jpg?rlkey=hyotrgp6a2cqmjcyvdjn6ryp0&st=8o9qiv4m&dl=0",
     ],
@@ -12335,7 +12335,7 @@ const initialProducts = [
   {
     id: 913,
     name: "Transfer TELA Cadence FT004",
-    price: "5.20",
+    price: "5.30",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/qfv3uzt7msfv9hudld8sl/transfer-tela-cadence-FT004.jpg?rlkey=hb0ot871gqkjj26sqn8jlni7g&st=anarn6y6&dl=0",
     ],
@@ -12347,7 +12347,7 @@ const initialProducts = [
   {
     id: 914,
     name: "Transfer TELA Cadence FT003",
-    price: "5.20",
+    price: "5.30",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/b72vd0f74s2sjex5shv4w/transfer-tela-cadence-FT003.jpg?rlkey=wm24gi2sca24w32htpxrouwgx&st=ouhieonx&dl=0",
     ],
@@ -12359,7 +12359,7 @@ const initialProducts = [
   {
     id: 915,
     name: "Transfer TELA Cadence FT002",
-    price: "5.20",
+    price: "5.30",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/75ma2z7a0b2gyxcccq8ec/transfer-tela-cadence-FT002.jpg?rlkey=vcsjsxl1kyccku6fsw19t868x&st=nl1xp4zw&dl=0",
     ],
@@ -12371,7 +12371,7 @@ const initialProducts = [
   {
     id: 916,
     name: "Transfer TELA Cadence FT001",
-    price: "5.20",
+    price: "5.30",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/2biyr1teboapobrixyswk/transfer-tela-cadence-FT001.jpg?rlkey=ft5n9xhj4l8emrfwg7tctyl0h&st=17pxbz2z&dl=0",
     ],
@@ -12383,7 +12383,7 @@ const initialProducts = [
   {
     id: 917,
     name: "Transfer TELA Cadence-crunge plata",
-    price: "5.20",
+    price: "5.30",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/3ayj8imkjv2dge54p6qv4/transfer-tela-cadence-crunge-plata.jpg?rlkey=x9wdi5ws85s2rmknvqqcpeh4f&st=05cu8lfv&dl=0",
     ],
