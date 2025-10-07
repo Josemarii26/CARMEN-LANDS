@@ -7,7 +7,6 @@ import { useDisclosure } from "@chakra-ui/react";
 import { Box } from "@chakra-ui/react";
 import { Tag } from "@chakra-ui/react";
 
-
 import Aos from "aos";
 import "aos/dist/aos.css";
 import ScrollToTopButton from "../parallax/parallax-2/ScrollToTopButton";
@@ -15317,7 +15316,7 @@ const initialProducts = [
   {
     id: 1244,
     name: "Stucco Cadence GRIS FINO 250ml",
-    price: 5.20,
+    price: 5.2,
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/qtft6bsgrzfwxqwdjtlur/stucco-cadence-gris-fino-250-ml.jpg?rlkey=fob9mcg1ai5x1mwjk82fmisjh&st=qwbq96np&dl=0",
     ],
@@ -15329,7 +15328,7 @@ const initialProducts = [
   {
     id: 1245,
     name: "Stucco Cadence BLANCO FINO 250ml",
-    price: 5.20,
+    price: 5.2,
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/2agx663nngoie90cnruyp/stucco-cadence-blanco-fino-250-ml.jpg?rlkey=m37wm6s8ipqh3dpgwrn51rl3s&st=wqvziacp&dl=0",
     ],
@@ -15338,10 +15337,186 @@ const initialProducts = [
       "Concrete Stucco es un revoque con base acrílica listo para usar, es un producto decorativo con apariencia de cemento bruto, que se puede aplicar con llana en superficies interiores y exteriores. ",
     selected: false,
   },
+  {
+    id: 1246,
+    name: 'Calabaza Resina "Tejida" 10x9cm',
+    price: "7.00",
+    images: [
+      "https://dl.dropboxusercontent.com/scl/fi/u6s5pehlvo77igljjux7u/calabaza-10alto-x-9base.jpg?rlkey=29yw6voj54ayem1zwfaom7xgj&st=fio87tqe&dl=0",
+    ],
+    label: "10x9",
+    description:
+      "Resina de poliuretano blanco CADENCE para decorar con las pinturas y pastas Cadence. Calabacita con textura de tejido 10x9cm",
+    selected: false,
+  },
+  {
+    id: 1247,
+    name: "Calabaza rallada chata 13x11cm",
+    price: "10.20",
+    images: [
+      "https://dl.dropboxusercontent.com/scl/fi/8v8v7etmu8wqqylydsxp8/calabaza-rallada-12x11.jpg?rlkey=47zpyqo0de28oxopzj1qd104x&st=e2jbjosy&dl=0",
+    ],
+    label: "33x11",
+    description:
+      "Resina de poliuretano blanco CADENCE para decorar con las pinturas y pastas Cadence. Calabaza rallada 13x11cm",
+    selected: false,
+  },
+  {
+    id: 1248,
+    name: "Calabaza rallada 11x13cm",
+    price: "10.20",
+    images: [
+      "https://dl.dropboxusercontent.com/scl/fi/syw6pjvmumrh9rfg0wikd/calabaza-rallada-13x11.jpg?rlkey=xte6kvfxpsxrwnaannqs5jmv0&st=htow4cjf&dl=0",
+    ],
+    label: "11x13",
+    description:
+      "Resina de poliuretano blanco CADENCE para decorar con las pinturas y pastas Cadence. Calabaza rallada 11x13cm",
+    selected: false,
+  },
 
-
-
-
+  {
+    id: 1249,
+    name: "PFY-15243 Decorative Transfers (Ornamental) 15x30cm",
+    price: "10.80",
+    images: [
+      "https://dl.dropboxusercontent.com/scl/fi/pkdkjnoh7px374ads6adc/PFY-15243_1.jpg?rlkey=74tfnu1m0149qli9y15jyhy93&st=g955c4z6&dl=0",
+      "https://dl.dropboxusercontent.com/scl/fi/vx9h0gin51rboy9fiz8xm/PFY-15243_2.jpg?rlkey=tby204owq8ra3ahuld5jlrvy5&st=hqlkqoco&dl=0",
+    ],
+    label: "15x30cm",
+    description:
+      "Láminas adhesivas mates para muebles, pared, cristal, papel y madera, es decir, SUPERFICIES DURAS,  muy fáciles de aplicar y con un resultado de gran calidad. Todos los kits incluyen un palito de madera para facilitar su trabajo.",
+    selected: false,
+  },
+  {
+    id: 1250,
+    name: "PFY-15239 Decorative Transfers (Christmas) 15x30cm",
+    price: "10.80",
+    images: [
+      "https://dl.dropboxusercontent.com/scl/fi/yg0np8r89o5fzxrbq6bu7/PFY-15239_1.jpg?rlkey=hdgg07xnlnfsfh3jags578m75&st=4l8mo35a&dl=0",
+      "https://dl.dropboxusercontent.com/scl/fi/ud38nzq3fvvtd1mh64dbg/PFY-15239_2.jpg?rlkey=xaecaej1k2ksof1980ihbgm6k&st=zqz3b1to&dl=0",
+    ],
+    label: "15x30cm",
+    description:
+      "Láminas adhesivas mates para muebles, pared, cristal, papel y madera, es decir, SUPERFICIES DURAS,  muy fáciles de aplicar y con un resultado de gran calidad. Todos los kits incluyen un palito de madera para facilitar su trabajo.",
+    selected: false,
+  },
+  {
+    id: 1251,
+    name: "PFY-15236 Decorative Transfers (Baroque Borders) 15x30cm",
+    price: "10.80",
+    images: [
+      "https://dl.dropboxusercontent.com/scl/fi/81nhh7a8wxx1tp1huek5b/PFY-15236_1.jpg?rlkey=kxmw2d54uooutbrzlq2s4tkpe&st=luciln8s&dl=0",
+      "https://dl.dropboxusercontent.com/scl/fi/qvdxspx75f4j8mwc29jyj/PFY-15236_2.jpg?rlkey=6l7ioff8vk1aq0mom8fwh126h&st=p6nvgyqg&dl=0",
+    ],
+    label: "15x30cm",
+    description:
+      "Láminas adhesivas mates para muebles, pared, cristal, papel y madera, es decir, SUPERFICIES DURAS,  muy fáciles de aplicar y con un resultado de gran calidad. Todos los kits incluyen un palito de madera para facilitar su trabajo.",
+    selected: false,
+  },
+  {
+    id: 1252,
+    name: "PFY-15233 Decorative Transfers (Abecedary) 15x30cm",
+    price: "10.80",
+    images: [
+      "https://dl.dropboxusercontent.com/scl/fi/jr60pw97v80c1u4i4ta6g/PFY-15233_1.jpg?rlkey=gv8op5uluknrf54p2sbbdsi4u&st=irkix0pg&dl=0",
+      "https://dl.dropboxusercontent.com/scl/fi/0cu1eneyg06iqdqjysh5y/PFY-15233_2.jpg?rlkey=d0enjjg9lr1mwmbs8aji3pwpb&st=9mslojn1&dl=0",
+    ],
+    label: "15x30cm",
+    description:
+      "Láminas adhesivas mates para muebles, pared, cristal, papel y madera, es decir, SUPERFICIES DURAS,  muy fáciles de aplicar y con un resultado de gran calidad. Todos los kits incluyen un palito de madera para facilitar su trabajo.",
+    selected: false,
+  },
+  {
+    id: 1253,
+    name: "PFY-15244 Decorative Transfers (Ornamental) 20x30cm",
+    price: "10.90",
+    images: [
+      "https://dl.dropboxusercontent.com/scl/fi/d4gwpdixnfk569gm77sqy/PFY-15244_1.jpg?rlkey=0nulaaoqfv3hbvfia80cldef9&st=vj4lo2yd&dl=0",
+      "https://dl.dropboxusercontent.com/scl/fi/qnde2n4mg6v7dsxl39p3f/PFY-15244_2.jpg?rlkey=782hc36ja6dw1skxkimxj45dr&st=gk7gh3kt&dl=0",
+    ],
+    label: "20x30cm",
+    description:
+      "Láminas adhesivas mates para muebles, pared, cristal, papel y madera, es decir, SUPERFICIES DURAS,  muy fáciles de aplicar y con un resultado de gran calidad. Todos los kits incluyen un palito de madera para facilitar su trabajo.",
+    selected: false,
+  },
+  {
+    id: 1254,
+    name: "PFY-15241 Decorative Transfers (Christmas) 20x30cm",
+    price: "10.90",
+    images: [
+      "https://dl.dropboxusercontent.com/scl/fi/5rrm79j7ddhumgdpjvx3d/PFY-15241_1.jpg?rlkey=bj76o2ipm9115t1i224i7pjo1&st=ypfkbjiz&dl=0",
+      "https://dl.dropboxusercontent.com/scl/fi/lyxtzfu6k5dmi5i7hs0lb/PFY-15241_2.jpg?rlkey=p470e8k74v2zraqbmw12kmxz6&st=9ty8ejxl&dl=0",
+    ],
+    label: "20x30cm",
+    description:
+      "Láminas adhesivas mates para muebles, pared, cristal, papel y madera, es decir, SUPERFICIES DURAS,  muy fáciles de aplicar y con un resultado de gran calidad. Todos los kits incluyen un palito de madera para facilitar su trabajo.",
+    selected: false,
+  },
+  {
+    id: 1255,
+    name: "PFY-15237 Decorative Transfers (Baroque Borders) 20x30cm",
+    price: "10.90",
+    images: [
+      "https://dl.dropboxusercontent.com/scl/fi/vqe0ucjylyb0hlu4ic3ke/PFY-15237_1.jpg?rlkey=ppa0a9xqva23kzd38u4gou0gf&st=xbrci2hl&dl=0",
+      "https://dl.dropboxusercontent.com/scl/fi/mzmyfgqnptcn4zsju5w6o/PFY-15237_2.jpg?rlkey=j1duo2ezhlw7yqyirz6sruhq6&st=6t3ukep6&dl=0",
+    ],
+    label: "20x30cm",
+    description:
+      "Láminas adhesivas mates para muebles, pared, cristal, papel y madera, es decir, SUPERFICIES DURAS,  muy fáciles de aplicar y con un resultado de gran calidad. Todos los kits incluyen un palito de madera para facilitar su trabajo.",
+    selected: false,
+  },
+  {
+    id: 1256,
+    name: "PFY-15234 Decorative Transfers (Abecedary) 20x30cm",
+    price: "10.90",
+    images: [
+      "https://dl.dropboxusercontent.com/scl/fi/5i6nscnhocfuighzxxjb9/PFY-15234_1.jpg?rlkey=j3mr81qn87cl5xrdxvfmjunhy&st=fk15qfnw&dl=0",
+      "https://dl.dropboxusercontent.com/scl/fi/ipnyzk7uv5bqzka4yg9ia/PFY-15234_2.jpg?rlkey=x1fvozortvo2w6azmw3x2rmkm&st=ltyms9ha&dl=0",
+    ],
+    label: "20x30cm",
+    description:
+      "Láminas adhesivas mates para muebles, pared, cristal, papel y madera, es decir, SUPERFICIES DURAS,  muy fáciles de aplicar y con un resultado de gran calidad. Todos los kits incluyen un palito de madera para facilitar su trabajo.",
+    selected: false,
+  },
+  {
+    id: 1257,
+    name: "PFY-15245 Decorative Transfers (Ornamental) 30x30cm",
+    price: "11.40",
+    images: [
+      "https://dl.dropboxusercontent.com/scl/fi/42ww61p6ikqbzqlzt3odh/PFY-15245_1.jpg?rlkey=sh2qn8o2g8gjslhy488e4s9ly&st=p1xls4c3&dl=0",
+      "https://dl.dropboxusercontent.com/scl/fi/vgv6uuewxuenpc9bagjtx/PFY-15245_2.jpg?rlkey=5alqpmsjhm0vukiahtws35371&st=529wpzdg&dl=0",
+    ],
+    label: "30x30cm",
+    description:
+      "Láminas adhesivas mates para muebles, pared, cristal, papel y madera, es decir, SUPERFICIES DURAS,  muy fáciles de aplicar y con un resultado de gran calidad. Todos los kits incluyen un palito de madera para facilitar su trabajo.",
+    selected: false,
+  },
+  {
+    id: 1258,
+    name: "PFY-15242 Decorative Transfers (Christmas) 30x30cm",
+    price: "11.40",
+    images: [
+      "https://dl.dropboxusercontent.com/scl/fi/h398q51crw1pm8tddvyse/PFY-15242_1.jpg?rlkey=x5h77nostwgwh8j76hrhu677k&st=09wurbgy&dl=0",
+      "https://dl.dropboxusercontent.com/scl/fi/7gj1577upyx7tntsgtgew/PFY-15242_2.jpg?rlkey=vokmdz394xcy3p7sbr5csx0dc&st=az84dxrq&dl=0",
+    ],
+    label: "30x30cm",
+    description:
+      "Láminas adhesivas mates para muebles, pared, cristal, papel y madera, es decir, SUPERFICIES DURAS,  muy fáciles de aplicar y con un resultado de gran calidad. Todos los kits incluyen un palito de madera para facilitar su trabajo.",
+    selected: false,
+  },
+  {
+    id: 1259,
+    name: "PFY-15238 Decorative Transfers (Baroque Borders) 30x30cm",
+    price: "11.40",
+    images: [
+      "https://dl.dropboxusercontent.com/scl/fi/dk28mjts88retr3bdmuut/PFY-15238_1.jpg?rlkey=8bxsrpuh2562swbk7bdrhyn09&st=fmaoxxa8&dl=0",
+      "https://dl.dropboxusercontent.com/scl/fi/u8ktr81ymjfh1ag8u7lfs/PFY-15238_2.jpg?rlkey=5b57lmt15lxl7cedt3q3nrx6m&st=0hxone6a&dl=0",
+    ],
+    label: "30x30cm",
+    description:
+      "Láminas adhesivas mates para muebles, pared, cristal, papel y madera, es decir, SUPERFICIES DURAS,  muy fáciles de aplicar y con un resultado de gran calidad. Todos los kits incluyen un palito de madera para facilitar su trabajo.",
+    selected: false,
+  },
 ];
 
 /* =========================================================
@@ -15388,12 +15563,7 @@ const editDistance = (a, b, max = 2) => {
       const ins = dp[i][j - 1] + 1;
       const sub = dp[i - 1][j - 1] + cost;
       let val = Math.min(del, ins, sub);
-      if (
-        i > 1 &&
-        j > 1 &&
-        a[i - 1] === b[j - 2] &&
-        a[i - 2] === b[j - 1]
-      ) {
+      if (i > 1 && j > 1 && a[i - 1] === b[j - 2] && a[i - 2] === b[j - 1]) {
         val = Math.min(val, dp[i - 2][j - 2] + 1); // transposición
       }
       dp[i][j] = val;
@@ -15524,10 +15694,7 @@ export const Tienda = () => {
       .slice(0, MAX_RESULTS);
   }, [deferredQuery, indexed]);
 
-  const termsRegex = useMemo(
-    () => makeTermsRegex(query),
-    [query]
-  );
+  const termsRegex = useMemo(() => makeTermsRegex(query), [query]);
 
   /* ---- carrito y UI persistencia ---- */
   const [cart, setCart] = useState([]);
@@ -15622,7 +15789,11 @@ export const Tienda = () => {
           </h3>
 
           <div className="marcas">
-            <WavyLink direction="up" to="/tienda/mint-by-michelle" color="#6aee75">
+            <WavyLink
+              direction="up"
+              to="/tienda/mint-by-michelle"
+              color="#6aee75"
+            >
               <div className="mint"></div>
             </WavyLink>
             <WavyLink direction="up" to="/tienda/cadence" color="#4593db">
@@ -15631,10 +15802,18 @@ export const Tienda = () => {
             <WavyLink direction="up" to="/tienda/montejo" color="#dbac45ff">
               <div className="montejo"></div>
             </WavyLink>
-            <WavyLink direction="up" to="/tienda/muebles-ornamentos" color="#db4545">
+            <WavyLink
+              direction="up"
+              to="/tienda/muebles-ornamentos"
+              color="#db4545"
+            >
               <div className="muebles"></div>
             </WavyLink>
-            <WavyLink direction="up" to="/tienda/papers-for-you" color="#e268b4ff">
+            <WavyLink
+              direction="up"
+              to="/tienda/papers-for-you"
+              color="#e268b4ff"
+            >
               <div className="papers-for-you"></div>
             </WavyLink>
             <WavyLink direction="up" to="/tienda/rossi" color="#915829ff">
@@ -15645,7 +15824,8 @@ export const Tienda = () => {
 
         <div className="pp">
           <div className={`animated-text ${showText ? "appear" : "disappear"}`}>
-            💡Empieza a escribir en el buscador y te mostraremos hasta {MAX_RESULTS} coincidencias 😉
+            💡Empieza a escribir en el buscador y te mostraremos hasta{" "}
+            {MAX_RESULTS} coincidencias 😉
           </div>
         </div>
 
@@ -15673,7 +15853,9 @@ export const Tienda = () => {
               Empieza a escribir para ver los mejores resultados.
             </p>
           ) : results.length === 0 ? (
-            <p style={{ padding: "24px 0" }}>No hay productos según tu búsqueda.</p>
+            <p style={{ padding: "24px 0" }}>
+              No hay productos según tu búsqueda.
+            </p>
           ) : (
             results.map((product) => {
               // Resaltado opcional (debajo de la tarjeta)
@@ -15682,7 +15864,11 @@ export const Tienda = () => {
               const labelMatched = labelHTML !== (product.label ?? "");
 
               return (
-                <div key={product.id} className="product-result" style={{ display: "flex", flexDirection: "column" }}>
+                <div
+                  key={product.id}
+                  className="product-result"
+                  style={{ display: "flex", flexDirection: "column" }}
+                >
                   <ProductCard
                     product={product}
                     addToCart={addToCart}
@@ -15732,7 +15918,14 @@ export const Tienda = () => {
         <br />
 
         <Slide direction="bottom" in={isOpen} style={{ zIndex: 10 }}>
-          <Box p="40px" color="white" mt="4" bg="teal.500" rounded="md" shadow="md">
+          <Box
+            p="40px"
+            color="white"
+            mt="4"
+            bg="teal.500"
+            rounded="md"
+            shadow="md"
+          >
             <Cart
               cart={cart}
               setCart={setCart}

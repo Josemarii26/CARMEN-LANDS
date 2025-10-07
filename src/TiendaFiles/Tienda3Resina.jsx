@@ -260,6 +260,34 @@ const initialProducts = [
   selected: false,
 },
 
+{
+  id: 1246,
+  name: 'Calabaza Resina "Tejida" 10x9cm',
+  price: '7.00',
+  images: ['https://dl.dropboxusercontent.com/scl/fi/u6s5pehlvo77igljjux7u/calabaza-10alto-x-9base.jpg?rlkey=29yw6voj54ayem1zwfaom7xgj&st=fio87tqe&dl=0'],
+  label: '10x9',
+  description: 'Resina de poliuretano blanco CADENCE para decorar con las pinturas y pastas Cadence. Calabacita con textura de tejido 10x9cm',
+  selected: false,
+},
+{
+  id: 1247,
+  name: 'Calabaza rallada chata 13x11cm',
+  price: '10.20',
+  images: ['https://dl.dropboxusercontent.com/scl/fi/8v8v7etmu8wqqylydsxp8/calabaza-rallada-12x11.jpg?rlkey=47zpyqo0de28oxopzj1qd104x&st=e2jbjosy&dl=0'],
+  label: '33x11',
+  description: 'Resina de poliuretano blanco CADENCE para decorar con las pinturas y pastas Cadence. Calabaza rallada 13x11cm',
+  selected: false,
+},
+{
+  id: 1248,
+  name: 'Calabaza rallada 11x13cm',
+  price: '10.20',
+  images: ['https://dl.dropboxusercontent.com/scl/fi/syw6pjvmumrh9rfg0wikd/calabaza-rallada-13x11.jpg?rlkey=xte6kvfxpsxrwnaannqs5jmv0&st=htow4cjf&dl=0'],
+  label: '11x13',
+  description: 'Resina de poliuretano blanco CADENCE para decorar con las pinturas y pastas Cadence. Calabaza rallada 11x13cm',
+  selected: false,
+},
+
 
 ];
 

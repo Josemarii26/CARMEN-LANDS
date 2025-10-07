@@ -262,7 +262,7 @@ export const Tienda6Transfers60x90 = () => {
   const startIndex = (currentPage - 1) * itemsPerPage;
   const endIndex = startIndex + itemsPerPage;
 
-  const visibleProducts = products.slice(startIndex, endIndex);
+  const visibleProducts = products.slice().reverse().slice(startIndex, endIndex);
 
   const applyFilters = () => {
     const filteredProducts = initialProducts.filter((product) => {

@@ -465,6 +465,45 @@ const initialProducts = [
       "Láminas adhesivas mates para muebles, pared, cristal, papel y madera, es decir, SUPERFICIES DURAS, muy fáciles de aplicar y con un resultado de gran calidad. Todos los kits incluyen un palito de madera para facilitar su trabajo.",
     selected: false,
   },
+  {
+    id: 1257,
+    name: "PFY-15245 Decorative Transfers (Ornamental) 30x30cm",
+    price: "11.40",
+    images: [
+      "https://dl.dropboxusercontent.com/scl/fi/42ww61p6ikqbzqlzt3odh/PFY-15245_1.jpg?rlkey=sh2qn8o2g8gjslhy488e4s9ly&st=p1xls4c3&dl=0",
+      "https://dl.dropboxusercontent.com/scl/fi/vgv6uuewxuenpc9bagjtx/PFY-15245_2.jpg?rlkey=5alqpmsjhm0vukiahtws35371&st=529wpzdg&dl=0",
+    ],
+    label: "30x30cm",
+    description:
+      "Láminas adhesivas mates para muebles, pared, cristal, papel y madera, es decir, SUPERFICIES DURAS,  muy fáciles de aplicar y con un resultado de gran calidad. Todos los kits incluyen un palito de madera para facilitar su trabajo.",
+    selected: false,
+  },
+  {
+    id: 1258,
+    name: "PFY-15242 Decorative Transfers (Christmas) 30x30cm",
+    price: "11.40",
+    images: [
+      "https://dl.dropboxusercontent.com/scl/fi/h398q51crw1pm8tddvyse/PFY-15242_1.jpg?rlkey=x5h77nostwgwh8j76hrhu677k&st=09wurbgy&dl=0",
+      "https://dl.dropboxusercontent.com/scl/fi/7gj1577upyx7tntsgtgew/PFY-15242_2.jpg?rlkey=vokmdz394xcy3p7sbr5csx0dc&st=az84dxrq&dl=0",
+    ],
+    label: "30x30cm",
+    description:
+      "Láminas adhesivas mates para muebles, pared, cristal, papel y madera, es decir, SUPERFICIES DURAS,  muy fáciles de aplicar y con un resultado de gran calidad. Todos los kits incluyen un palito de madera para facilitar su trabajo.",
+    selected: false,
+  },
+  {
+    id: 1259,
+    name: "PFY-15238 Decorative Transfers (Baroque Borders) 30x30cm",
+    price: "11.40",
+    images: [
+      "https://dl.dropboxusercontent.com/scl/fi/dk28mjts88retr3bdmuut/PFY-15238_1.jpg?rlkey=8bxsrpuh2562swbk7bdrhyn09&st=fmaoxxa8&dl=0",
+      "https://dl.dropboxusercontent.com/scl/fi/u8ktr81ymjfh1ag8u7lfs/PFY-15238_2.jpg?rlkey=5b57lmt15lxl7cedt3q3nrx6m&st=0hxone6a&dl=0",
+    ],
+    label: "30x30cm",
+    description:
+      "Láminas adhesivas mates para muebles, pared, cristal, papel y madera, es decir, SUPERFICIES DURAS,  muy fáciles de aplicar y con un resultado de gran calidad. Todos los kits incluyen un palito de madera para facilitar su trabajo.",
+    selected: false,
+  },
 ];
 
 // Define el rango de precios mínimo y máximo de tus productos
@@ -487,7 +526,7 @@ export const Tienda6Transfers30x30 = () => {
   const startIndex = (currentPage - 1) * itemsPerPage;
   const endIndex = startIndex + itemsPerPage;
 
-  const visibleProducts = products.slice(startIndex, endIndex);
+  const visibleProducts = products.slice().reverse().slice(startIndex, endIndex);
 
   const applyFilters = () => {
     const filteredProducts = initialProducts.filter((product) => {
