@@ -2,6 +2,7 @@
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import { WavyContainer } from "react-wavy-transitions";
 import { PaginaPrincipal } from "./PaginaPrincipal";
+import { PaginaPrincipalCambios } from "./PaginaPrincipalCambios";
 import { Tienda } from "./TiendaFiles/Tienda";
 import { FinalizarPedido } from "./tienda/FinalizarPedido";
 import { Tienda2 } from "./TiendaFiles/Tienda2";
@@ -75,7 +76,7 @@ function App() {
     <BrowserRouter>
       <WavyContainer />
       <Routes>
-          <Route index element={<PaginaPrincipal />} />
+          <Route index element={<PaginaPrincipalCambios />} />
           <Route path="/tienda" element={<Tienda/>} />
           <Route path="/tienda/mint-by-michelle" element={<Tienda2/>} />
           <Route path="/tienda/cadence" element={<Tienda3/>} />
