@@ -36,7 +36,7 @@ const initialProducts = [
   {
     id: 514,
     name: 'Mixtion PAN DE ORO 70ml',
-    price: '3.25',
+    price: '3.40',
     images: [
       'https://dl.dropboxusercontent.com/scl/fi/0i35xqky6d8x30nuemtno/mixtion-foil-cadence-1.jpg?rlkey=cmzu6mdnu854mugzevhvdalvo&st=vzj04go3&dl=0',
     ],

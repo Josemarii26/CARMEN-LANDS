@@ -25,7 +25,7 @@ const initialProducts = [
   {
     id: 425,
     name: 'Stencil PRIVATE 25x35cm OS45',
-    price: '6.35',
+    price: "6.70",
     images: [
       'https://dl.dropboxusercontent.com/scl/fi/8xfkkodjmhsgbniq49cmf/private-stencils-cadence-25x35cm-0s45.jpg?rlkey=zj1buxeec2fgjcl7f9e9fwc8k&st=qj7292jw&dl=0',
     ],
@@ -36,7 +36,7 @@ const initialProducts = [
   {
     id: 426,
     name: 'Stencil PRIVATE 25x35cm OS43',
-    price: '6.35',
+    price: "6.70",
     images: [
       'https://dl.dropboxusercontent.com/scl/fi/tdn8g1zgrxtsygixw8vhl/private-stencils-cadence-25x35cm-0s43.jpg?rlkey=cs6yqh6kq51w1ionk2pinnlr8&st=fzbsapke&dl=0',
     ],
@@ -47,7 +47,7 @@ const initialProducts = [
   {
     id: 427,
     name: 'Stencil PRIVATE 25x35cm OS54',
-    price: '6.35',
+    price: "6.70",
     images: [
       'https://dl.dropboxusercontent.com/scl/fi/o2r7k7xvct0pofe7vkzyh/private-stencils-cadence-25x35cm-0s54.jpg?rlkey=0ybxeez48fk6dnpv80ysv6ad3&st=2ychkdu2&dl=0',
     ],

@@ -97,7 +97,7 @@ export const Tienda5 = () => {
         <div className="marcas2">
           <WavyLink direction="up" to="/tienda/montejo/textil" color="#dbac45ff">
             <div className="cadence-card">
-                            <span className="badge-novedad">Novedades</span>
+             {/*<span className="badge-novedad">Novedades</span> */}
 
               <img src='https://dl.dropboxusercontent.com/scl/fi/pdhnpyghdjrfwl8j70a63/textiles-cadence.jpg?rlkey=hlgnq92z30kacwfdk6ysnd4tn&st=nd84ifkd&dl=0' alt='cadence'></img>
               <br></br>

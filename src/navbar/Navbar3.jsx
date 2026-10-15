@@ -83,6 +83,7 @@ export const Navbar3 = () => {
             </WavyLink>
           </li>
 
+          {/* 
           <li className="nav-item-badge">
             <span className="badge-novedad3">Novedades</span>
 
@@ -90,8 +91,9 @@ export const Navbar3 = () => {
               Mint by Michelle
             </WavyLink>
           </li>
+          */}
           <li className="nav-item-badge">
-            <span className="badge-novedad3">Novedades</span>
+             <span className="badge-novedad3">Novedades</span> 
 
             <WavyLink direction="up" to="/tienda/cadence" color="#4593db">
               Cadence
@@ -99,7 +101,7 @@ export const Navbar3 = () => {
           </li>
           <li className="nav-item-badge">
             {/* Badge de novedad */}
-            <span className="badge-novedad2">Nuevo</span>
+            {/*<span className="badge-novedad2">Nuevo</span>*/}
 
             <WavyLink direction="up" to="/tienda/montejo" color="#dbac45ff">
               Montejo
@@ -107,7 +109,7 @@ export const Navbar3 = () => {
           </li>
           <li className="nav-item-badge">
             {/* Badge de novedad */}
-            <span className="badge-novedad2">Nuevo</span>
+            {/*<span className="badge-novedad2">Nuevo</span>*/}
 
             <WavyLink direction="up" to="/tienda/papers-for-you" color="#de95e7ff">
               Papers For You
@@ -115,7 +117,7 @@ export const Navbar3 = () => {
           </li>
           <li className="nav-item-badge">
             {/* Badge de novedad */}
-            <span className="badge-novedad2">Nuevo</span>
+            {/*<span className="badge-novedad2">Nuevo</span>*/}
 
             <WavyLink direction="up" to="/tienda/rossi" color="#aa6934ff">
               Rossi

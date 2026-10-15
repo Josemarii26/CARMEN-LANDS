@@ -77,7 +77,7 @@ export const Tienda3 = () => {
             color="#4593db"
           >
             <div className="cadence-card">
-              <span className="badge-novedad">Novedades</span>
+             {/*<span className="badge-novedad">Novedades</span> */}
               <img
                 src="https://dl.dropboxusercontent.com/scl/fi/5xjxqivgcbqirf6wx173g/hybrid-metallic-cadence.jpg?rlkey=25w6u366cwbggixel7jz8c0eg&st=jz89np2r&dl=0"
                 alt="cadence"
@@ -93,7 +93,7 @@ export const Tienda3 = () => {
             color="#4593db"
           >
             <div className="cadence-card">
-              <span className="badge-novedad">Novedades</span>
+             {/*<span className="badge-novedad">Novedades</span> */}
 
               <img
                 src="https://i.ibb.co/fkd334b/craqueladores-barnices-y-foil.jpg"
@@ -126,7 +126,7 @@ export const Tienda3 = () => {
             color="#4593db"
           >
             <div className="cadence-card">
-              <span className="badge-novedad">Novedades</span>
+             {/*<span className="badge-novedad">Novedades</span> */}
 
               <img
                 src="https://i.ibb.co/MVyFh7M/transfers-cadence.jpg"
@@ -184,7 +184,7 @@ export const Tienda3 = () => {
             color="#4593db"
           >
             <div className="cadence-card">
-              <span className="badge-novedad">Novedades</span>
+             {/*<span className="badge-novedad">Novedades</span> */}
 
               <img
                 src="https://dl.dropboxusercontent.com/scl/fi/rgqv8q2qttmxw6ekvm7zf/pinceles-para-manualidades.jpg?rlkey=cjifyexsmqxt9v33av59lea4p&st=0bvbl83h&dl=0"
@@ -213,7 +213,7 @@ export const Tienda3 = () => {
             color="#4593db"
           >
             <div className="cadence-card">
-              <span className="badge-novedad">Novedades</span>
+             {/*<span className="badge-novedad">Novedades</span> */}
 
               <img
                 src="https://www.artesaniasmontejo.com/c/909-pos_category/resina-cadence.jpg"
@@ -226,7 +226,7 @@ export const Tienda3 = () => {
 
           <WavyLink direction="up" to="/tienda/cadence/ceras" color="#4593db">
             <div className="cadence-card">
-              <span className="badge-novedad">Novedades</span>
+             {/*<span className="badge-novedad">Novedades</span> */}
 
               <img
                 src="https://dl.dropboxusercontent.com/scl/fi/4mmu2z607xhbv2f4jy5ee/oro-en-crema-cadence.jpg?rlkey=17hpe8z1gh59fyv5c03mkjy0h&st=zenbmkoi&dl=0"
@@ -243,7 +243,7 @@ export const Tienda3 = () => {
             color="#4593db"
           >
             <div className="cadence-card">
-              <span className="badge-novedad">Novedades</span>
+             <span className="badge-novedad">Novedades</span> 
 
               <img
                 src="https://i.ibb.co/MVyFh7M/transfers-cadence.jpg"

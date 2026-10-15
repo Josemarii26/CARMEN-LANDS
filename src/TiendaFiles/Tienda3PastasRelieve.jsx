@@ -169,7 +169,7 @@ const initialProducts = [
   {
     id: 510,
     name: 'Pasta de Relieve CLÁSICA Cadence 150ml.',
-    price: '4.50',
+    price: '4.70',
     images: [
       'https://dl.dropboxusercontent.com/scl/fi/mh9of6i3njj5pbax2g47z/pasta-de-relieve-clasica-lisa-250-cadence.jpg?rlkey=j25yl7bxp0rrzx0ekou9t6j6n&st=songdigb&dl=0',
     ],
@@ -180,7 +180,7 @@ const initialProducts = [
   {
     id: 511,
     name: 'Pasta de Relieve FLEXIBLE Cadence 150ml.',
-    price: '6.50',
+    price: '6.80',
     images: [
       'https://dl.dropboxusercontent.com/scl/fi/nkobztsrr8h2beczx4osm/pasta-de-relieve-flexible-cadence.jpg?rlkey=cx9baj2eamcasalovbuwhcqev&st=2vzvidwg&dl=0',
     ],
@@ -202,7 +202,7 @@ const initialProducts = [
   {
     id: 1244,
     name: "Stucco Cadence GRIS FINO 250ml",
-    price: 5.20,
+    price: 5.50,
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/qtft6bsgrzfwxqwdjtlur/stucco-cadence-gris-fino-250-ml.jpg?rlkey=fob9mcg1ai5x1mwjk82fmisjh&st=qwbq96np&dl=0",
     ],
@@ -214,7 +214,7 @@ const initialProducts = [
   {
     id: 1245,
     name: "Stucco Cadence BLANCO FINO 250ml",
-    price: 5.20,
+    price: 5.50,
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/2agx663nngoie90cnruyp/stucco-cadence-blanco-fino-250-ml.jpg?rlkey=m37wm6s8ipqh3dpgwrn51rl3s&st=wqvziacp&dl=0",
     ],

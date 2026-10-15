@@ -25,7 +25,7 @@ const initialProducts = [
   {
     id: 575,
     name: 'Ácido Magic Glass 70ml.',
-    price: '5.80',
+    price: '6.00',
     images: [
       'https://dl.dropboxusercontent.com/scl/fi/mwy5bjy358xjkvy8l0r2u/acido-magic-glass-cadence.jpg?rlkey=w74m5k1anbokvupauqxpe2b42&st=hysvf9j9&dl=0',
     ],
@@ -36,7 +36,7 @@ const initialProducts = [
   {
     id: 576,
     name: 'Aqua Block Coat Repellent Oil 250ml.',
-    price: '11.80',
+    price: '12.20',
     images: [
       'https://dl.dropboxusercontent.com/scl/fi/hrg6n29q6ll9xhlq25wfs/aqua-block-coat-repellent-oil-250-ml.jpg?rlkey=n15fhdaanhh0t18hhfxuk3nm3&st=4p83xs5k&dl=0',
     ],
@@ -47,7 +47,7 @@ const initialProducts = [
   {
     id: 577,
     name: 'Gel Enmascarador 100ml.',
-    price: '3.20',
+    price: '4.10',
     images: [
       'https://dl.dropboxusercontent.com/scl/fi/31bfxitf80irdg5mo1vtp/gel-enmascarador-cadence.jpg?rlkey=dlqi7kalairism8f3ckdzxsx5&st=j0pwawus&dl=0',
     ],
@@ -58,7 +58,7 @@ const initialProducts = [
   {
     id: 578,
     name: 'Pan de Oro Cadence: Librito 25 Hojas',
-    price: '5.85',
+    price: '6.20',
     images: [
       'https://dl.dropboxusercontent.com/scl/fi/vk92y0tmttesexn06l2r9/pan-de-oro-cadence.jpg?rlkey=2tgyuf9zyp5njyzwjia9pypeg&st=geluwj5d&dl=0',
     ],
@@ -102,7 +102,7 @@ const initialProducts = [
   {
     id: 607,
     name: 'Smarta - White 100g',
-    price: '2.80',
+    price: '2.95',
     images: [
       'https://dl.dropboxusercontent.com/scl/fi/bhvlws5rxeekfhi2wybpp/smarta-white-100g.jpg?rlkey=rc32knqko5syysrgfjx16o8kr&st=byos65lg&dl=0',
     ],
@@ -113,7 +113,7 @@ const initialProducts = [
   {
     id: 608,
     name: 'Smarta BOLD - White 500g',
-    price: '3.30',
+    price: '3.50',
     images: [
       'https://dl.dropboxusercontent.com/scl/fi/1gd5ol0qk7vld9d26ysfy/smarta-bold-white-500g.jpg?rlkey=9yyqkzozroksl13t5mrsddhxw&st=ybtl1c8r&dl=0',
     ],
@@ -123,19 +123,19 @@ const initialProducts = [
   },
   {
     id: 609,
-    name: 'Cola BLOK 70g',
-    price: '5.90',
+    name: 'Cola BLOCK 70g',
+    price: '6.00',
     images: [
       'https://dl.dropboxusercontent.com/scl/fi/cp1ouuq30y2vbtyxr2zpd/cola-blok.jpg?rlkey=v8axzwporo0t33ck82msnfwa9&st=ov505tie&dl=0',
     ],
     label: '70g',
-    description: 'Adhesivo universal BLOK de acetovinílico incoloro de rápido secado y transparente. La cola BLOK es ideal para tus trabajos de cartonaje, scrapbook, mix media, manualidades, proyectos home decor... por su gran variedad de usos y su agarre excepcional.',
+    description: 'Adhesivo universal BLOCK de acetovinílico incoloro de rápido secado y transparente. La cola BLOK es ideal para tus trabajos de cartonaje, scrapbook, mix media, manualidades, proyectos home decor... por su gran variedad de usos y su agarre excepcional.',
     selected: false,
   },
   {
     id: 776,
     name: 'Set pan de oro liquido CADENCE',
-    price: '10.85',
+    price: '11.60',
     images: [
       'https://dl.dropboxusercontent.com/scl/fi/u7qg0uwfkp81v2aex80tx/set-pan-de-oro-liquido-cadence.jpg?rlkey=mimltwzqa0qvbyu8p1mi1xeqx&st=3jb8l7nj&dl=0',
     ],
@@ -146,7 +146,7 @@ const initialProducts = [
   {
       id: 777,
       name: "Light Green PATINA SPRAY 50+50 ml.",
-      price: "8.20",
+      price: "8.60",
       images: [
         "https://dl.dropboxusercontent.com/scl/fi/yplad4k1rp69ar4dpd6cg/patina-spray-50ml50ml-light-green.jpg?rlkey=dh5e2q1m8sllv54130wa0k3sg&st=rr3cawjq&dl=0",
       ],
@@ -157,7 +157,7 @@ const initialProducts = [
     {
       id: 778,
       name: "Light Green PATINA SPRAY 50+50 ml.",
-      price: "8.20",
+      price: "8.60",
       images: [
         "https://dl.dropboxusercontent.com/scl/fi/v6o5zjmhzlpmghh8bse8i/patina-spray-50ml50ml-rust.jpg?rlkey=xh9wxzwcxkf43u51jgyd5uyvc&st=t6idzab7&dl=0",
       ],
@@ -168,7 +168,7 @@ const initialProducts = [
     {
       id: 779,
       name: "Light Green PATINA SPRAY 50+50 ml.",
-      price: "8.20",
+      price: "8.60",
       images: [
         "https://dl.dropboxusercontent.com/scl/fi/8irkr19hjh3hag1di52n7/patina-spray-50ml50ml-dark-green.jpg?rlkey=6ef7ud7i302s8smcwxrwjj66s&st=ezg6kef9&dl=0",
       ],
@@ -179,7 +179,7 @@ const initialProducts = [
     {
       id: 780,
       name: "Light Green PATINA SPRAY 50+50 ml.",
-      price: "8.20",
+      price: "8.60",
       images: [
         "https://dl.dropboxusercontent.com/scl/fi/7nyfawkvek36usdg52k1m/patina-spray-50ml50ml-blue.jpg?rlkey=s5k79n6ikr7lgof72lnmknvbw&st=xp5douby&dl=0",
       ],

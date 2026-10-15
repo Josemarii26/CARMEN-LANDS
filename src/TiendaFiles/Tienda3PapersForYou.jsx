@@ -87,7 +87,7 @@ export const Tienda3PapersForYou = () => {
             color="#4593db"
           >
             <div className="cadence-card">
-              <span className="badge-novedad">Novedades</span>
+             {/*<span className="badge-novedad">Novedades</span> */}
 
               <img
                 src="https://dl.dropboxusercontent.com/scl/fi/bv747bbzzzm1zldrqxdn4/pyf-rollos-tela-encuadernar.jpg?rlkey=sq1uupdqdwrpjyjjmav3qbjsb&st=f9s942sl&dl=0"
@@ -104,7 +104,7 @@ export const Tienda3PapersForYou = () => {
             color="#4593db"
           >
             <div className="cadence-card">
-              <span className="badge-novedad">Novedades</span>
+             {/*<span className="badge-novedad">Novedades</span> */}
 
               <img
                 src="https://dl.dropboxusercontent.com/scl/fi/bv747bbzzzm1zldrqxdn4/pyf-rollos-tela-encuadernar.jpg?rlkey=sq1uupdqdwrpjyjjmav3qbjsb&st=f9s942sl&dl=0"

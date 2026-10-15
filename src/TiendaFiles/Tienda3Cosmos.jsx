@@ -22,7 +22,7 @@ const initialProducts = [
   {
     id: 361,
     name: 'Negro COSMOS MATT CERAMIC EFFECT 150ml.',
-    price: '8.10',
+    price: '8.60',
     images: [
       'https://dl.dropboxusercontent.com/scl/fi/y1a651a0vf7ed2a6h7b3l/cosmos-matt-ceramic-effect-black-150-ml.jpg?rlkey=1sr9w119b5qgdcff72di814gf&st=dgu8cxrp&dl=0',
     ],
@@ -33,7 +33,7 @@ const initialProducts = [
   {
     id: 362,
     name: 'Marrón COSMOS MATT CERAMIC EFFECT 150ml.',
-    price: '8.10',
+    price: '8.60',
     images: [
       'https://dl.dropboxusercontent.com/scl/fi/kb4rahmh9chq74vnxrvei/cosmos-matt-ceramic-effect-brown-150-ml.jpg?rlkey=xksxpzid4ohk3za5ovi9pwcys&st=b3wdvwnj&dl=0',
     ],
@@ -44,7 +44,7 @@ const initialProducts = [
   {
     id: 363,
     name: 'Marrón Oxidado COSMOS MATT CERAMIC EFFECT 150ml.', 
-    price: '8.10',
+    price: '8.60',
     images: [
       'https://dl.dropboxusercontent.com/scl/fi/ti9qwnfbjryq0sxlo58j2/cosmos-matt-ceramic-effect-rusty-brown-150-ml.jpg?rlkey=eszmdbmn3ej5nxbit0kftd1ud&st=7dfyjosu&dl=0',
     ],
@@ -55,7 +55,7 @@ const initialProducts = [
   {
     id: 364,
     name: 'Cashmere COSMOS MATT CERAMIC EFFECT 150ml.',
-    price: '8.10',
+    price: '8.60',
     images: [
       'https://dl.dropboxusercontent.com/scl/fi/lz1d4ranh8wvtbzshr597/cosmos-matt-ceramic-effect-cashmere-150-ml.jpg?rlkey=80tcs0xr7wfwkk9xeybjd19cv&st=sjsz1w3m&dl=0',
     ],
@@ -66,7 +66,7 @@ const initialProducts = [
   {
     id: 365,
     name: 'Verde Esmeralda COSMOS MATT CERAMIC EFFECT 150ml.',
-    price: '8.10',
+    price: '8.60',
     images: [
       'https://dl.dropboxusercontent.com/scl/fi/nbxv4ksh3n77j1zpf3xdc/cosmos-matt-ceramic-effect-emerald-green-150-ml.jpg?rlkey=gnhnj2ec875gjw49gp4qodrhn&st=maxo4dq4&dl=0',
     ],
@@ -77,7 +77,7 @@ const initialProducts = [
   {
     id: 366,
     name: 'Gris Humo COSMOS MATT CERAMIC EFFECT 150ml.', 
-    price: '8.10',
+    price: '8.60',
     images: [
       'https://dl.dropboxusercontent.com/scl/fi/0qkf9thmb73uegkt6zaq5/cosmos-matt-ceramic-effect-smoke-gray-150-ml.jpg?rlkey=7beb5vqaqzs6gvsesncynxldc&st=zkwa478a&dl=0',
     ],
@@ -88,7 +88,7 @@ const initialProducts = [
   {
     id: 367,
     name: 'Molde Verde COSMOS MATT CERAMIC EFFECT 150ml.',
-    price: '8.10',
+    price: '8.60',
     images: [
       'https://dl.dropboxusercontent.com/scl/fi/rgjda0pbtv3n4gz79zcgz/cosmos-matt-ceramic-effect-mould-green-150-ml.jpg?rlkey=zjudgbzhpfw6azlyobql6tp2o&st=lc9mhyz1&dl=0',
     ],
@@ -99,7 +99,7 @@ const initialProducts = [
   {
     id: 368,
     name: 'Verde Menta COSMOS MATT CERAMIC EFFECT 150ml.',
-    price: '8.10',
+    price: '8.60',
     images: [
       'https://dl.dropboxusercontent.com/scl/fi/lxjk2cuvx85bm6rraddl4/cosmos-matt-ceramic-effect-mint-green-150-ml.jpg?rlkey=6tz4tykx1r3uvqufimfb3akgb&st=sjejh244&dl=0',
     ],
@@ -110,7 +110,7 @@ const initialProducts = [
   {
     id: 369,
     name: 'Azul Claro COSMOS MATT CERAMIC EFFECT 150ml.', 
-    price: '8.10',
+    price: '8.60',
     images: [
       'https://dl.dropboxusercontent.com/scl/fi/tegksauravry2h95pslxs/cosmos-matt-ceramic-effect-light-blue-150-ml.jpg?rlkey=42dl2n7ativq3gnxui5ue9c51&st=qznksjj9&dl=0',
     ],
@@ -121,7 +121,7 @@ const initialProducts = [
   {
     id: 370,
     name: 'Azul Ultramarino COSMOS MATT CERAMIC EFFECT 150ml.', 
-    price: '8.10',
+    price: '8.60',
     images: [
       'https://dl.dropboxusercontent.com/scl/fi/jmgr0q7p6u65wspb8ypjj/cosmos-matt-ceramic-effect-ultramarine-blue-150-ml.jpg?rlkey=zw9gvvibfxpvdvs7zdnw1vsjm&st=o93hh6fu&dl=0',
     ],
@@ -132,7 +132,7 @@ const initialProducts = [
   {
     id: 371,
     name: 'Azul Real COSMOS MATT CERAMIC EFFECT 150ml.', 
-    price: '8.10',
+    price: '8.60',
     images: [
       'https://dl.dropboxusercontent.com/scl/fi/7ye57wdrv8evzvbuxm7v9/cosmos-matt-ceramic-effect-royal-blue-150-ml.jpg?rlkey=otcd2xuteu1fobxtsdrix3b90&st=j0xh29ig&dl=0',
     ],
@@ -143,7 +143,7 @@ const initialProducts = [
   {
     id: 372,
     name: 'Manzana Caramelizada COSMOS MATT CERAMIC EFFECT  150ml.',
-    price: '8.10',
+    price: '8.60',
     images: [
       'https://dl.dropboxusercontent.com/scl/fi/wkq9dv6b44v1lxxde7ed0/cosmos-matt-ceramic-effect-candy-apple-150-ml.jpg?rlkey=5mbnvhm5xmcw19546hgltag5a&st=bc85dmop&dl=0',
     ],
@@ -154,7 +154,7 @@ const initialProducts = [
   {
     id: 373,
     name: 'Naranja COSMOS MATT CERAMIC EFFECT 150ml.',
-    price: '8.10',
+    price: '8.60',
     images: [
       'https://dl.dropboxusercontent.com/scl/fi/qjc2m479k91n9a5nzcod8/cosmos-matt-ceramic-effect-orange-150-ml.jpg?rlkey=bqt48lc2ku59g76zxxo8p6hvm&st=8z768z9t&dl=0',
     ],
@@ -165,7 +165,7 @@ const initialProducts = [
   {
     id: 374,
     name: 'Amarillo COSMOS MATT CERAMIC EFFECT 150ml.', 
-    price: '8.10',
+    price: '8.60',
     images: [
       'https://dl.dropboxusercontent.com/scl/fi/c174md81ejvlloehgyp7d/cosmos-matt-ceramic-effect-yellow-150-ml.jpg?rlkey=ckctca66bw7ek4to3jj4cxrv2&st=4sv6gmlv&dl=0',
     ],
@@ -176,7 +176,7 @@ const initialProducts = [
   {
     id: 375,
     name: 'Ecru COSMOS MATT CERAMIC EFFECT 150ml.',
-    price: '8.10',
+    price: '8.60',
     images: [
       'https://dl.dropboxusercontent.com/scl/fi/ozf90c24b4ltfbatr1fy6/cosmos-matt-ceramic-effect-ecru-150-ml.jpg?rlkey=ru07wq8ik78amn6isvm42uh9g&st=v9zpfk14&dl=0',
     ],
@@ -187,7 +187,7 @@ const initialProducts = [
   {
     id: 376,
     name: 'Blanco COSMOS MATT CERAMIC EFFECT 150ml.',
-    price: '8.10',
+    price: '8.60',
     images: [
       'https://dl.dropboxusercontent.com/scl/fi/3c6x6tk074rhchyoiqmah/cosmos-matt-ceramic-effect-white-150-ml.jpg?rlkey=324s7kx2b866uved6t1x1v1uo&st=cqn8a00r&dl=0',
     ],

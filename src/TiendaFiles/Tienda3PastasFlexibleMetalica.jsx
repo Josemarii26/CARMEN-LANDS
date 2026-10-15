@@ -25,7 +25,7 @@ const initialProducts = [
   {
     id: 540,
     name: 'PEARL Pasta Flexible Metálica 150ml.',
-    price: '5.70',
+    price: '8.30',
     images: [
       'https://dl.dropboxusercontent.com/scl/fi/yb483sh1p1wqrhst80ut0/pasta-flexible-metalica-150ml-cadence.jpg?rlkey=32eijphtgkgj5aqeosi0og23q&st=ydil6owj&dl=0',
     ],

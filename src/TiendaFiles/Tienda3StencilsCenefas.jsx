@@ -47,7 +47,7 @@ const initialProducts = [
   {
     id: 442,
     name: 'Stencil CADENCE cenefa 6x20cm K165',
-    price: '1.80',
+    price: '2.40',
     images: [
       'https://dl.dropboxusercontent.com/scl/fi/jbs0x5q8rl6a3lx80gdb3/stencil-cadence-k165-6x20cm.jpg?rlkey=zr4noksoukni8ax1f6m06v50u&st=l5lkbwg2&dl=0',
     ],
@@ -59,7 +59,7 @@ const initialProducts = [
   {
     id: 443,
     name: 'Stencil CADENCE cenefa 6x20cm K163',
-    price: '1.80',
+    price: '2.40',
     images: [
       'https://dl.dropboxusercontent.com/scl/fi/0cbde8olzf6cwcztafje1/Stencil-CADENCE-K163-6x20cm.jpg?rlkey=4jgq2hjr9fcvtsro5w7od8lip&st=3g6u1f44&dl=0',
     ],
@@ -71,7 +71,7 @@ const initialProducts = [
   {
     id: 444,
     name: 'Stencil CADENCE cenefa 6x20cm K120',
-    price: '1.80',
+    price: '2.40',
     images: [
       'https://dl.dropboxusercontent.com/scl/fi/e4sipa0wsgjvre3n9128w/stencil-cadence-k120-6x20cm.jpg?rlkey=3tpdxtfomp3hahifqac4hkoos&st=20y057il&dl=0',
     ],

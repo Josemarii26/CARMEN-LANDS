@@ -67,6 +67,9 @@ import { Tienda6Transfers20x30 } from "./TiendaFiles/Tienda6Transfers20x30";
 import { Tienda6Transfers30x30 } from "./TiendaFiles/Tienda6Transfers30x30";
 import { Tienda6Transfers60x90 } from "./TiendaFiles/Tienda6Transfers60x90";
 import { Tienda3TransfersPlataOro } from "./TiendaFiles/Tienda3TransfersPlataOro";
+import { Tienda3PinturasTextilesMatt } from "./TiendaFiles/Tienda3PinturasTextilesMatt";
+import { Tienda3PinturasTextilesLeatherVogue } from "./TiendaFiles/Tienda3PinturasTextilesLeatherVogue";
+import { Tienda3PinturasTextilesLeatherVogueMetallic } from "./TiendaFiles/Tienda3PinturasTextilesLeatherVogueMetallic";
 
 
 
@@ -76,12 +79,15 @@ function App() {
     <BrowserRouter>
       <WavyContainer />
       <Routes>
-          <Route index element={<PaginaPrincipalCambios />} />
+          <Route index element={<PaginaPrincipal />} />
           <Route path="/tienda" element={<Tienda/>} />
           <Route path="/tienda/mint-by-michelle" element={<Tienda2/>} />
           <Route path="/tienda/cadence" element={<Tienda3/>} />
           <Route path="/tienda/cadence/textil-cadence" element={<Tienda3TextilCadence/>} />
           <Route path="/tienda/cadence/textil-cadence/pinturas-textiles" element={<Tienda3PinturasTextiles />} />
+          <Route path="/tienda/cadence/textil-cadence/pinturas-textiles/matt-fabric" element={<Tienda3PinturasTextilesMatt />} />
+          <Route path="/tienda/cadence/textil-cadence/pinturas-textiles/leather-vogue" element={<Tienda3PinturasTextilesLeatherVogue />} />
+          <Route path="/tienda/cadence/textil-cadence/pinturas-textiles/leather-vogue-metallic" element={<Tienda3PinturasTextilesLeatherVogueMetallic />} />
           <Route path="/tienda/cadence/textil-cadence/sprays-textiles" element={<Tienda3SpraysTextiles />} />
           <Route path="/tienda/cadence/textil-cadence/pastas-textiles" element={<Tienda3PastasTextiles />} />
           <Route path="/tienda/cadence/textil-cadence/pastas-textiles/fashion" element={<Tienda3PastasTextilesFashion />} />

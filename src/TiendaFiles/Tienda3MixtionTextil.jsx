@@ -27,7 +27,7 @@ const initialProducts = [
   {
     "id": 1007,
     "name": "HEAT TRANSFER MEDIUM 90 ml.",
-    "price": "5.70",
+    "price": "5.95",
     "images": ["https://dl.dropboxusercontent.com/scl/fi/uhj5p9fgf1g3zr33nxfj4/heat-transfer-medium-90ml.jpg?rlkey=8o0gobu90npwgup6cgdfzdco6&st=orjlar9e&dl=0"],
     "label": "90 ml.",
     "description": "Medium adecuado para aplicar con pincel o espátula a la superficie textil donde se desea trabajar con foil. Después de la aplicación del medium se espera a que seque y después del secado se coloca una lámina de foil. Coloca un paño fino o papel sobre la lámina foil y se plancha con una plancha sin vapor. (Máximo 1 minuto con plancha a 140C) Después de enfriar, se retira la lámina de foil.",

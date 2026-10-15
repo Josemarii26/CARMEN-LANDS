@@ -26,7 +26,7 @@ const initialProducts = [
   {
     id: 1244,
     name: 'Transfer RUB-ON Silver 30x42cm HDS011',
-    price: '4.90',
+    price: '5.20',
     images: [
       'https://dl.dropboxusercontent.com/scl/fi/q77sofo5xoe05pqa46lxg/Transfer-RUB-ON-Silver-30x42-cm-HDS011.jpg?rlkey=0tgtxu32ety01r3vndsgdmf7o&st=m4s7uf55&dl=0',
     ],
@@ -37,7 +37,7 @@ const initialProducts = [
   {
     id: 1245,
     name: 'Transfer RUB-ON Silver 30x42cm HDS010',
-    price: '4.90',
+    price: '5.20',
     images: [
       'https://dl.dropboxusercontent.com/scl/fi/8e7hsfiympbl6gtxqt12r/Transfer-RUB-ON-Silver-30x42-cm-HDS010.jpg?rlkey=q07svg8qztjjs7svb5hq2mwh5&st=8bxfga8u&dl=0',
     ],
@@ -48,7 +48,7 @@ const initialProducts = [
   {
     id: 1246,
     name: 'Transfer RUB-ON Silver 30x42cm HDS009',
-    price: '4.90',
+    price: '5.20',
     images: [
       'https://dl.dropboxusercontent.com/scl/fi/x9nupqlifqd2of2wtza6r/Transfer-RUB-ON-Silver-30x42-cm-HDS009.jpg?rlkey=y2o6n1lae13ztaupsg2zencsw&st=xr4czvdo&dl=0',
     ],
@@ -59,7 +59,7 @@ const initialProducts = [
   {
     id: 1247,
     name: 'Transfer RUB-ON Silver 30x42cm HDS008',
-    price: '4.90',
+    price: '5.20',
     images: [
       'https://dl.dropboxusercontent.com/scl/fi/eb8weje1h5yy84x7i94tg/Transfer-RUB-ON-Silver-30x42-cm-HDS008.jpg?rlkey=dxqrr7ckaga3x4qvjflmk1q5z&st=snke3z4g&dl=0',
     ],
@@ -70,7 +70,7 @@ const initialProducts = [
   {
     id: 1248,
     name: 'Transfer RUB-ON Silver 30x42cm HDS007',
-    price: '4.90',
+    price: '5.20',
     images: [
       'https://dl.dropboxusercontent.com/scl/fi/d24a1pcqwwc7y5iqbq2la/Transfer-RUB-ON-Silver-30x42-cm-HDS007.jpg?rlkey=5p8ftrt7mhf1j4wvy8bqe8wtk&st=6w4oo38u&dl=0',
     ],
@@ -81,7 +81,7 @@ const initialProducts = [
   {
     id: 1249,
     name: 'Transfer RUB-ON Silver 30x42cm HDS006',
-    price: '4.90',
+    price: '5.20',
     images: [
       'https://dl.dropboxusercontent.com/scl/fi/xxqzgcwc1a5jevqqyx7vq/Transfer-RUB-ON-Silver-30x42-cm-HDS006.jpg?rlkey=wcfq4pa6m2nnpj755x30ab45e&st=5x8gwdgm&dl=0',
     ],
@@ -92,7 +92,7 @@ const initialProducts = [
   {
     id: 1250,
     name: 'Transfer RUB-ON Silver 30x42cm HDS005',
-    price: '4.90',
+    price: '5.20',
     images: [
       'https://dl.dropboxusercontent.com/scl/fi/p7tt16ybs5rfrof0zblxw/Transfer-RUB-ON-Silver-30x42-cm-HDS005.jpg?rlkey=60gmgc6e5b61gfrznb3o3fvqm&st=zo3vl54p&dl=0',
     ],
@@ -103,7 +103,7 @@ const initialProducts = [
   {
     id: 1251,
     name: 'Transfer RUB-ON Gold 30x42cm HDG011',
-    price: '4.90',
+    price: '5.20',
     images: [
       'https://dl.dropboxusercontent.com/scl/fi/dcsrupy4wgcavjzovth5f/Transfer-RUB-ON-Gold-30x42-cm-HDG011.jpg?rlkey=vh57aawgsp3m3gfuhvzeddla4&st=09ignes4&dl=0',
     ],
@@ -114,7 +114,7 @@ const initialProducts = [
   {
     id: 1252,
     name: 'Transfer RUB-ON Gold 30x42cm HDG010',
-    price: '4.90',
+    price: '5.20',
     images: [
       'https://dl.dropboxusercontent.com/scl/fi/ml9i8og5z92d1ijm8ad9y/Transfer-RUB-ON-Gold-30x42-cm-HDG010.jpg?rlkey=49shne9o7jb2445a58t40gxll&st=tjujuplv&dl=0',
     ],
@@ -125,7 +125,7 @@ const initialProducts = [
   {
     id: 1253,
     name: 'Transfer RUB-ON Gold 30x42cm HDG009',
-    price: '4.90',
+    price: '5.20',
     images: [
       'https://dl.dropboxusercontent.com/scl/fi/hh24ikmyjc4wpkutb2p8u/Transfer-RUB-ON-Gold-30x42-cm-HDG009.jpg?rlkey=nvpbrtp2civs265rzwfhkmv56&st=taplobjp&dl=0',
     ],
@@ -136,7 +136,7 @@ const initialProducts = [
   {
     id: 1254,
     name: 'Transfer RUB-ON Gold 30x42cm HDG008',
-    price: '4.90',
+    price: '5.20',
     images: [
       'https://dl.dropboxusercontent.com/scl/fi/9c3jhmd2k2tbsmec4yqk1/Transfer-RUB-ON-Gold-30x42-cm-HDG008.jpg?rlkey=ns9ozuyitozbhjly2lppw5u51&st=p8i81quw&dl=0',
     ],
@@ -147,7 +147,7 @@ const initialProducts = [
   {
     id: 1255,
     name: 'Transfer RUB-ON Gold 30x42cm HDG007',
-    price: '4.90',
+    price: '5.20',
     images: [
       'https://dl.dropboxusercontent.com/scl/fi/vy3md2xvgdmq1mdo5htva/Transfer-RUB-ON-Gold-30x42-cm-HDG007.jpg?rlkey=xijpajdg1vexaz4sbsp4mqt6r&st=plrb27qq&dl=0',
     ],
@@ -158,7 +158,7 @@ const initialProducts = [
   {
     id: 1256,
     name: 'Transfer RUB-ON Gold 30x42cm HDG006',
-    price: '4.90',
+    price: '5.20',
     images: [
       'https://dl.dropboxusercontent.com/scl/fi/g0ocdq1szonbjr1camkq2/Transfer-RUB-ON-Gold-30x42-cm-HDG006.jpg?rlkey=mvnrsuts9u7uw2ceiaw4d727s&st=p33v7cou&dl=0',
     ],
@@ -169,7 +169,7 @@ const initialProducts = [
   {
     id: 1257,
     name: 'Transfer RUB-ON Gold 30x42cm HDG005',
-    price: '4.90',
+    price: '5.20',
     images: [
       'https://dl.dropboxusercontent.com/scl/fi/myl8qk4q8qlo2bcc0t2mw/Transfer-RUB-ON-Gold-30x42-cm-HDG005.jpg?rlkey=so65nkb802nhjxg3646pbtdqv&st=jmoxoytd&dl=0',
     ],

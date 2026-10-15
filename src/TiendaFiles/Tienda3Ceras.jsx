@@ -22,7 +22,7 @@ const initialProducts = [
   {
     id: 535,
     name: 'TURQUESA Finger Wax Cadence ',
-    price: '4.50',
+    price: '4.80',
     images: [
       'https://dl.dropboxusercontent.com/scl/fi/xqarbo9gj4sv9ou6ut0mn/finger-wax-cadence-turquesa.jpg?rlkey=omwgwi4gueg0p4p42zx8qf72x&st=b1zi6w0r&dl=0',
     ],
@@ -33,7 +33,7 @@ const initialProducts = [
   {
     id: 535,
     name: 'ROSA Finger Wax Cadence ',
-    price: '4.50',
+    price: '4.80',
     images: [
       'https://dl.dropboxusercontent.com/scl/fi/scvu179wmibt220e2r17z/finger-wax-cadence-rosa.jpg?rlkey=c02fptp76rys5tb1waaqhb6kb&st=zdybneeh&dl=0',
     ],
@@ -44,7 +44,7 @@ const initialProducts = [
   {
     id: 535,
     name: 'PLATA Finger Wax Cadence ',
-    price: '4.50',
+    price: '4.80',
     images: [
       'https://dl.dropboxusercontent.com/scl/fi/wtncenxjb4k3hcjvfs7nr/finger-wax-cadence-plata.jpg?rlkey=vnrokuhqeoiujznro7pcne8zp&st=8fqxjjvm&dl=0',
     ],
@@ -55,7 +55,7 @@ const initialProducts = [
   {
     id: 535,
     name: 'ORO INCA Finger Wax Cadence ',
-    price: '4.50',
+    price: '4.80',
     images: [
       'https://dl.dropboxusercontent.com/scl/fi/ufzdnpyym18jv80yrpc2z/finger-wax-cadence-oro-inca.jpg?rlkey=4ugos0ey4ioejqzokwm0fug8g&st=7e35n2w5&dl=0',
     ],
@@ -66,7 +66,7 @@ const initialProducts = [
   {
     id: 535,
     name: 'ORO AZTECA Finger Wax Cadence ',
-    price: '4.50',
+    price: '4.80',
     images: [
       'https://dl.dropboxusercontent.com/scl/fi/2vuumszp59wrhbgsj06fh/finger-wax-cadence-oro-azteca.jpg?rlkey=ku3to4xa1o8i9hbioksruh3zc&st=mxp49s9w&dl=0',
     ],
@@ -77,7 +77,7 @@ const initialProducts = [
   {
     id: 535,
     name: 'ORO ANTIGUO Finger Wax Cadence ',
-    price: '4.50',
+    price: '4.80',
     images: [
       'https://dl.dropboxusercontent.com/scl/fi/t5js2o4wnqymwtw2rve1z/finger-wax-cadence-oro-antiguo.jpg?rlkey=k8l2xnkgxndmkdvlnaonuefs8&st=nbnw7kj1&dl=0',
     ],
@@ -88,7 +88,7 @@ const initialProducts = [
   {
     id: 535,
     name: 'COBRE Finger Wax Cadence ',
-    price: '4.50',
+    price: '4.80',
     images: [
       'https://dl.dropboxusercontent.com/scl/fi/f6d1zdy713cy5i61i9jz6/finger-wax-cadence-cobre.jpg?rlkey=9jx2jwp87iptb4ll0h8c03u5h&st=o7u8xt2g&dl=0',
     ],
@@ -99,7 +99,7 @@ const initialProducts = [
   {
     id: 535,
     name: 'COBALTO Finger Wax Cadence ',
-    price: '4.50',
+    price: '4.80',
     images: [
       'https://dl.dropboxusercontent.com/scl/fi/zhkbqac1d9cwzt9xp624t/finger-wax-cadence-cobalto.jpg?rlkey=p5c7j2b6pi9s2pkx2vic1n6bn&st=0a1cc8ht&dl=0',
     ],
@@ -110,7 +110,7 @@ const initialProducts = [
   {
     id: 535,
     name: 'BRONCE Finger Wax Cadence ',
-    price: '4.50',
+    price: '4.80',
     images: [
       'https://dl.dropboxusercontent.com/scl/fi/z58vy59h3d4iw4dtxm6vm/finger-wax-cadence-bronce.jpg?rlkey=rak6161obamzhasp0osdse6p3&st=zwn2wpth&dl=0',
     ],
@@ -121,7 +121,7 @@ const initialProducts = [
   {
     id: 535,
     name: 'Cera Líquida Espresso Cadence ',
-    price: '6.65',
+    price: '6.95',
     images: [
       'https://dl.dropboxusercontent.com/scl/fi/xtjvhaqhxltr8p0s6d8te/cera-liquida-espresso.jpg?rlkey=dn1ta1c3q1ltw3jehq252j02o&st=6pqjfttz&dl=0',
     ],

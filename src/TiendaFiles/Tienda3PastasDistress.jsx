@@ -25,7 +25,7 @@ const initialProducts = [
   {
     id: 535,
     name: 'Marrón DISTRESS PASTE 150ml.',
-    price: '5.85',
+    price: '6.10',
     images: [
       'https://dl.dropboxusercontent.com/scl/fi/5nt9gfx4ec3gelm2dmn9x/distress-paste-negro-hollin.jpg?rlkey=g1h2a2bv4h1spvxlpqodhneue&st=j4nwf5l0&dl=0',
     ],
@@ -36,7 +36,7 @@ const initialProducts = [
   {
     id: 536,
     name: 'Negro Hollín DISTRESS PASTE 150ml.',
-    price: '5.85',
+    price: '6.10',
     images: [
       'https://dl.dropboxusercontent.com/scl/fi/clbwhrntouv48o4fedtvl/distress-paste-negro-hollin-1.jpg?rlkey=rul61n5r23c1dc46jdlaf7rgj&st=fa7s4o1p&dl=0',
     ],
@@ -47,7 +47,7 @@ const initialProducts = [
   {
     id: 537,
     name: 'Burdeos Antiguo DISTRESS PASTE 150ml.',
-    price: '5.85',
+    price: '6.10',
     images: [
       'https://dl.dropboxusercontent.com/scl/fi/jk6slpcdfzz02vvqfsgzq/distress-paste-burdeos-antiguo.jpg?rlkey=b3o6sde6g1d0j8j4nai849tsv&st=1blysjjq&dl=0',
     ],
@@ -58,7 +58,7 @@ const initialProducts = [
   {
     id: 538,
     name: 'Verde Pino DISTRESS PASTE 150ml.',
-    price: '5.85',
+    price: '6.10',
     images: [
       'https://dl.dropboxusercontent.com/scl/fi/p93jwe87y3m0k6341elhp/distress-paste-verde-pino-1.jpg?rlkey=0i6md2hphovr9vpjy9opgp32s&st=q9a6gzv5&dl=0',
     ],
@@ -69,7 +69,7 @@ const initialProducts = [
   {
     id: 539,
     name: 'Café Espresso DISTRESS PASTE 150ml.',
-    price: '5.85',
+    price: '6.10',
     images: [
       'https://dl.dropboxusercontent.com/scl/fi/e9wqmxyt3t6l9fm8ck4tm/distress-paste-verde-pino.jpg?rlkey=3pixnywmh6zowo5u0f7d7dx5k&st=pw8j1s3e&dl=0g',
     ],

@@ -121,7 +121,7 @@ const initialProducts = [
   {
     id: 357,
     name: 'Barníz CUERO 120ml.', 
-    price: '8.40',
+    price: '8.70',
     images: [
       'https://dl.dropboxusercontent.com/scl/fi/hxi6bwkkxou20kvnwzfyo/barniz-cadence-cuero-120.jpg?rlkey=kxsejsrdnnvfwq1guotwy923g&st=tkftdp8g&dl=0',
     ],
@@ -132,7 +132,7 @@ const initialProducts = [
   {
     id: 358,
     name: 'Barníz ULTIMATE GLAZE MATE 120ml.', 
-    price: '5.90',
+    price: '6.10',
     images: [
       'https://dl.dropboxusercontent.com/scl/fi/s51i71fimuel1gxm8qm95/barniz-ultimate-mate-120-ml.jpg?rlkey=chpgcr3ryd3tcr0js76vo33oe&st=xddrwe4e&dl=0',
     ],
@@ -143,7 +143,7 @@ const initialProducts = [
   {
     id: 3540,
     name: 'Barníz Aqua Stone MATE 120ml.',
-    price: '8.60',
+    price: "9.45",
     images: [
       'https://dl.dropboxusercontent.com/scl/fi/6sg758qnqz4bb3qvncgyd/barniz-exterior-aqua-stone-mate-120-ml.jpg?rlkey=6cvevkay8krth93pxc70ya9en&st=v5ge6mc6&dl=0',
     ],
@@ -154,7 +154,7 @@ const initialProducts = [
   {
     id: 3550,
     name: 'Barníz Aqua Stone MATE 250ml.',
-    price: '15.20',
+    price: "16.10",
     images: [
       'https://dl.dropboxusercontent.com/scl/fi/tmhlcur7arulasd6fvngn/barniz-exterior-aqua-stone-mate-250-ml.jpg?rlkey=sdcvyixthuh0czw7291t8dn8u&st=frc22bck&dl=0',
     ],
@@ -176,7 +176,7 @@ const initialProducts = [
   {
     id: 3570,
     name: 'Barníz Aqua Stone BRILLO 120ml.',
-    price: '8.60',
+    price: "9.45",
     images: [
       'https://dl.dropboxusercontent.com/scl/fi/reb769yuw1zi9fawriqg0/barniz-cadence-aqua-stone-120ml.jpg?rlkey=b9fb1a0485wcm5cv3ca2rhmwr&st=s2t4o2vb&dl=0',
     ],
@@ -187,7 +187,7 @@ const initialProducts = [
   {
     id: 3580,
     name: 'Barníz Aqua Stone BRILLO 250ml.',
-    price: '15.20',
+    price: "16.10",
     images: [
       'https://dl.dropboxusercontent.com/scl/fi/cejswc75vi2y4q8vwjxhd/barniz-cadence-aqua-stone-250ml.jpg?rlkey=35v9g7mh4ejf2nxxtcg7rk8gt&st=0y7pj7wq&dl=0',
     ],
@@ -220,7 +220,7 @@ const initialProducts = [
   {
     id: 3592,
     name: 'Barníz Craquelador DOS PASOS Cadence ', 
-    price: '5.95',
+    price: '6.10',
     images: [
       'https://dl.dropboxusercontent.com/scl/fi/1ye0krnf5qnumkyev0tpx/craquelador-de-2-pasos-cadence.jpg?rlkey=ywnsyh16eighsedxi6btgjujb&st=ytwjqwdd&dl=0',
     ],
@@ -231,7 +231,7 @@ const initialProducts = [
   {
     id: 359,
     name: 'Decoupage Textil Cadence 120ml.', 
-    price: '5.50',
+    price: '5.60',
     images: [
       'https://dl.dropboxusercontent.com/scl/fi/x3rvxavuapl82j45nxb6z/decoupage-textil-cadence.jpg?rlkey=mi33pto292idez6e7g85ibyo2&st=t3i6o5yz&dl=0',
     ],
@@ -253,7 +253,7 @@ const initialProducts = [
   {
     id: 605,
     name: 'Spray Adhesivo Stencils CADENCE', 
-    price: '6.70',
+    price: '6.90',
     images: [
       'https://dl.dropboxusercontent.com/scl/fi/5wh9s1pm1xy81kk6w8tpn/spray-adhesivo-stencils-cadence.jpg?rlkey=dqth23sr3ip6jrbvp4vrprgih&st=51os782h&dl=0',
     ],
@@ -275,7 +275,7 @@ const initialProducts = [
   {
     id: 582,
     name: 'Barniz PLUS+ para pan de oro 100ml.',
-    price: '5.20',
+    price: '5.50',
     images: [
       'https://dl.dropboxusercontent.com/scl/fi/ik1fdluxmw5s3z74dh2zn/barniz-plus-para-pan-de-oro-cadence.jpg?rlkey=ufu2j00h4kp28ih0dq3xuz5qe&st=22nhglzd&dl=0',
     ],
@@ -286,7 +286,7 @@ const initialProducts = [
   {
     id: 756,
     name: 'PURPLE Colour On VARNISH 90ml.',
-    price: '4.60',
+    price: '4.90',
     images: [
       'https://dl.dropboxusercontent.com/scl/fi/dhq10sw5uq3g7i6f2w7j5/colour-on-varnish-purple-90ml.jpg?rlkey=wowazobtz60aft96wf1nm7xrf&st=har2dnvs&dl=0',
     ],
@@ -297,7 +297,7 @@ const initialProducts = [
   {
     id: 757,
     name: 'OAK Colour On VARNISH 90ml.',
-    price: '4.60',
+    price: '4.90',
     images: [
       'https://dl.dropboxusercontent.com/scl/fi/b0juznzwqlurul42vbovs/colour-on-varnish-oak-90ml.jpg?rlkey=ss2vaiv4g8454o9p870zm6mzt&st=47e07sns&dl=0',
     ],
@@ -308,7 +308,7 @@ const initialProducts = [
   {
     id: 758,
     name: 'GREEN Colour On VARNISH 90ml.',
-    price: '4.60',
+    price: '4.90',
     images: [
       'https://dl.dropboxusercontent.com/scl/fi/l8m8samyyqid667chqumq/colour-on-varnish-green-90ml.jpg?rlkey=edurb6coamvoosf4feve1uxzw&st=jy29e09n&dl=0',
     ],
@@ -319,7 +319,7 @@ const initialProducts = [
   {
     id: 759,
     name: 'BLUE Colour On VARNISH 90ml.',
-    price: '4.60',
+    price: '4.90',
     images: [
       'https://dl.dropboxusercontent.com/scl/fi/ad015g8gnomkbnl1b4nbw/colour-on-varnish-blue-90ml.jpg?rlkey=mgkifetesxg6tl43vm6ba51wt&st=rcw46tn3&dl=0',
     ],

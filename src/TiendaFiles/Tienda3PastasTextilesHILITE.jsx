@@ -26,7 +26,7 @@ const initialProducts = [
   {
     "id": 999,
     "name": "VERDE Pasta de relieve textil HI-LITE Cadence",
-    "price": "6.50",
+    "price": "6.80",
     "images": ["https://dl.dropboxusercontent.com/scl/fi/8lb9wxt7pkag354td9ir5/pasta-relieve-textil-hi-lite-VERDE.jpg?rlkey=t9htr9jtl84bz0v8m6fp58zsl&st=9p2vfb8e&dl=0"],
     "label": "150 ml.",
     "description": "Aplíca esta pasta para conseguir efectos dimensionales sobre tejidos y prendas. Sobre telas claras Hi-Lite es practicamente transparente, aportanto un poco de brillo. Todo su potencial se ve al aplicar esta pasta sobre tejidos y telas oscuras, resaltando así sus brillos irisados. Ideal para usar con stencils o libremente con espátula.",
@@ -35,7 +35,7 @@ const initialProducts = [
   {
     "id": 1000,
     "name": "ORO Pasta de relieve textil HI-LITE Cadence",
-    "price": "6.50",
+    "price": "6.80",
     "images": ["https://dl.dropboxusercontent.com/scl/fi/kbc60iaou18zwiod02sis/pasta-relieve-textil-hi-lite-ORO.jpg?rlkey=8k64qoddbqx7xbdsbn8o9hojn&st=rhd3f0d9&dl=0"],
     "label": "150 ml.",
     "description": "Aplíca esta pasta para conseguir efectos dimensionales sobre tejidos y prendas. Sobre telas claras Hi-Lite es practicamente transparente, aportanto un poco de brillo. Todo su potencial se ve al aplicar esta pasta sobre tejidos y telas oscuras, resaltando así sus brillos irisados. Ideal para usar con stencils o libremente con espátula.",
@@ -44,7 +44,7 @@ const initialProducts = [
   {
     "id": 1001,
     "name": "AZUL Pasta de relieve textil HI-LITE Cadence",
-    "price": "6.50",
+    "price": "6.80",
     "images": ["https://dl.dropboxusercontent.com/scl/fi/se2aqschhtmnii27akxov/pasta-relieve-textil-hi-lite-AZUL.jpg?rlkey=negib4go3lsn0gf8kniyc7nqd&st=wuosjgrv&dl=0"],
     "label": "150 ml.",
     "description": "Aplíca esta pasta para conseguir efectos dimensionales sobre tejidos y prendas. Sobre telas claras Hi-Lite es practicamente transparente, aportanto un poco de brillo. Todo su potencial se ve al aplicar esta pasta sobre tejidos y telas oscuras, resaltando así sus brillos irisados. Ideal para usar con stencils o libremente con espátula.",

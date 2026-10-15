@@ -21,7 +21,7 @@ const initialProducts = [
   {
     id: 515,
     name: "Patina ASFALTO 100ml.",
-    price: "3.40",
+    price: "3.50",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/5p0usxnnhxum3auyrmrtw/patina-asfalto-cadence.jpg?rlkey=sahb7wpdp389hvgtaej4o9l1f&st=n9mbxjyy&dl=0",
     ],
@@ -33,7 +33,7 @@ const initialProducts = [
   {
     id: 516,
     name: "Imprimación Multiadherente MONTEJO 750ml.",
-    price: "19.50",
+    price: "20.50",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/5di9qasebp5b8x1cxksgb/imprimacion-multiadherente-montejo-750ml.jpg?rlkey=2r6yzuzb71z2kkp97lxeosxvx&st=evmlctp8&dl=0",
     ],

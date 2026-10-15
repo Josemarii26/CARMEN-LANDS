@@ -111,7 +111,7 @@ export const Tienda3Transfers = () => {
 
           <WavyLink direction="up" to="/tienda/cadence/transfers/home-decor" color="#4593db">
             <div className="cadence-card">
-                            <span className="badge-novedad">Novedades</span>
+             {/*<span className="badge-novedad">Novedades</span> */}
 
               <img src='https://i.ibb.co/tQtmJYG/transfers-home-decor-cadence-14.jpg' alt='cadence'></img>
               <br></br>
@@ -122,7 +122,7 @@ export const Tienda3Transfers = () => {
 
           <WavyLink direction="up" to="/tienda/cadence/transfers/plata-y-oro" color="#4593db">
             <div className="cadence-card">
-                            <span className="badge-novedad">Novedades</span>
+             {/*<span className="badge-novedad">Novedades</span> */}
 
               <img src='https://dl.dropboxusercontent.com/scl/fi/5qrbmf6uyfpr8ccthxhy9/transfers-rub-on-goma-cadence.jpg?rlkey=chw02hl8p7n6ocmur90a7xmgc&st=y0vpwnio&dl=0' alt='cadence'></img>
               <br></br>

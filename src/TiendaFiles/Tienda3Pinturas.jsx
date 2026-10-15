@@ -141,7 +141,7 @@ export const Tienda3Pinturas = () => {
             color="#4593db"
           >
             <div className="cadence-card">
-                            <span className="badge-novedad">Novedades</span>
+             {/*<span className="badge-novedad">Novedades</span> */}
 
               <img
                 src="https://dl.dropboxusercontent.com/scl/fi/ggcc6bggtfs2fuolwlok0/matte-metallic-paint-cadence.jpg?rlkey=vw1rgfsps0570fsvhh5zhykyg&st=v7h96ajk&dl=0"

@@ -27,7 +27,7 @@ const initialProducts = [
   {
     "id": 1002,
     "name": "PLATA Pasta de Relieve METTALIC Cadence",
-    "price": "6.50",
+    "price": "6.80",
     "images": ["https://dl.dropboxusercontent.com/scl/fi/35bri88fwicgy5xs5plh8/pasta-de-relieve-textil-metallic-PLATA.jpg?rlkey=6qenbv2mi9bn9m2vzg0p1kc91&st=6nauxwyr&dl=0"],
     "label": "150 ml.",
     "description": "Aplíca esta pasta acrílica para conseguir efectos dimensionales sobre tejidos y prendas. Ideal para usar con stencils o libremente con espátula.",
@@ -36,7 +36,7 @@ const initialProducts = [
   {
     "id": 1003,
     "name": "PERLA Pasta de Relieve METTALIC Cadence",
-    "price": "6.50",
+    "price": "6.80",
     "images": ["https://dl.dropboxusercontent.com/scl/fi/gpfrhuzraeunfasnkdqqk/pasta-de-relieve-textil-metallic-PERLA.jpg?rlkey=om8qwqhjaeesdl1wof02u364s&st=a8xxx1mj&dl=0"],
     "label": "150 ml.",
     "description": "Aplíca esta pasta acrílica para conseguir efectos dimensionales sobre tejidos y prendas. Ideal para usar con stencils o libremente con espátula.",
@@ -45,7 +45,7 @@ const initialProducts = [
   {
     "id": 1004,
     "name": "ORO Pasta de Relieve METTALIC Cadence",
-    "price": "6.50",
+    "price": "6.80",
     "images": ["https://dl.dropboxusercontent.com/scl/fi/2j717ktd5l3l396obo5zj/pasta-de-relieve-textil-metallic-ORO.jpg?rlkey=lq1vaublu9fi1ubdnctx88fum&st=orlnp01a&dl=0"],
     "label": "150 ml.",
     "description": "Aplíca esta pasta acrílica para conseguir efectos dimensionales sobre tejidos y prendas. Ideal para usar con stencils o libremente con espátula.",
@@ -54,7 +54,7 @@ const initialProducts = [
   {
     "id": 1005,
     "name": "COBRE Pasta de Relieve METTALIC Cadence",
-    "price": "6.50",
+    "price": "6.80",
     "images": ["https://dl.dropboxusercontent.com/scl/fi/6l150sm464999veu3ol6o/pasta-de-relieve-textil-metallic-COBRE.jpg?rlkey=3usber946p7qjeafgoho7ab8x&st=n7xyh71x&dl=0"],
     "label": "150 ml.",
     "description": "Aplíca esta pasta acrílica para conseguir efectos dimensionales sobre tejidos y prendas. Ideal para usar con stencils o libremente con espátula.",
@@ -63,7 +63,7 @@ const initialProducts = [
   {
     "id": 1006,
     "name": "CHAMPAN Pasta de Relieve METTALIC Cadence",
-    "price": "6.50",
+    "price": "6.80",
     "images": ["https://dl.dropboxusercontent.com/scl/fi/svku6pw7drh1mmsgsqj6a/pasta-de-relieve-textil-metallic-CHAMPAN.jpg?rlkey=3zrtszwrei2pkuuljl43jh15b&st=tmli13rm&dl=0"],
     "label": "150 ml.",
     "description": "Aplíca esta pasta acrílica para conseguir efectos dimensionales sobre tejidos y prendas. Ideal para usar con stencils o libremente con espátula.",

@@ -26,7 +26,7 @@ const initialProducts = [
   {
     "id": 990,
     "name": "VIOLETA Pasta textil FASHION METALLIC Cadence",
-    "price": "5.50",
+    "price": "5.80",
     "images": ["https://dl.dropboxusercontent.com/scl/fi/bxdjqpo41chimd0jxqhmw/pasta-textil-fashion-metallic-cadence-VIOLETA.jpg?rlkey=rzlsd0m8o8nzab8xdr3mqd1mb&st=jjq5q7pp&dl=0"],
     "label": "50 ml.",
     "description": "Pasta Textil FASHION de CADENCE. Con base de agua y colores metalizados para crear efectos dimensionales sobre tejidos. Para su fijación en la tela es necesario planchar la prenda del revés 24h tras su secado. El tiempo de secado puede variar en función a la capa aplicada.",
@@ -35,7 +35,7 @@ const initialProducts = [
   {
     "id": 991,
     "name": "VERDE Pasta textil FASHION METALLIC Cadence",
-    "price": "5.50",
+    "price": "5.80",
     "images": ["https://dl.dropboxusercontent.com/scl/fi/8wmki0ktqi5zxcvtgc3pe/pasta-textil-fashion-metallic-cadence-VERDE.jpg?rlkey=vt86a2taojq2n46a99hg9kab8&st=5upn0pxr&dl=0"],
     "label": "50 ml.",
     "description": "Pasta Textil FASHION de CADENCE. Con base de agua y colores metalizados para crear efectos dimensionales sobre tejidos. Para su fijación en la tela es necesario planchar la prenda del revés 24h tras su secado. El tiempo de secado puede variar en función a la capa aplicada.",
@@ -44,7 +44,7 @@ const initialProducts = [
   {
     "id": 992,
     "name": "ROJO Pasta textil FASHION METALLIC Cadence",
-    "price": "5.50",
+    "price": "5.80",
     "images": ["https://dl.dropboxusercontent.com/scl/fi/750yumzbx6pq5w1653y9a/pasta-textil-fashion-metallic-cadence-ROJO.jpg?rlkey=36cmpdv23klvs8xt74u0pxmlf&st=reti4qc1&dl=0"],
     "label": "50 ml.",
     "description": "Pasta Textil FASHION de CADENCE. Con base de agua y colores metalizados para crear efectos dimensionales sobre tejidos. Para su fijación en la tela es necesario planchar la prenda del revés 24h tras su secado. El tiempo de secado puede variar en función a la capa aplicada.",
@@ -53,7 +53,7 @@ const initialProducts = [
   {
     "id": 993,
     "name": "PLATA Pasta textil FASHION METALLIC Cadence",
-    "price": "5.50",
+    "price": "5.80",
     "images": ["https://dl.dropboxusercontent.com/scl/fi/cvp887icynrk5rwwg6bf1/pasta-textil-fashion-metallic-cadence-PLATA.jpg?rlkey=alhbq0wvbxs5a48lqn8xxxcc2&st=2a970wjl&dl=0"],
     "label": "50 ml.",
     "description": "Pasta Textil FASHION de CADENCE. Con base de agua y colores metalizados para crear efectos dimensionales sobre tejidos. Para su fijación en la tela es necesario planchar la prenda del revés 24h tras su secado. El tiempo de secado puede variar en función a la capa aplicada.",
@@ -62,7 +62,7 @@ const initialProducts = [
   {
     "id": 994,
     "name": "ORO Pasta textil FASHION METALLIC Cadence",
-    "price": "5.50",
+    "price": "5.80",
     "images": ["https://dl.dropboxusercontent.com/scl/fi/3gnlg0upokn6npaohm3k0/pasta-textil-fashion-metallic-cadence-ORO.jpg?rlkey=k5rbr2l9mqd73ij8h1v1doqdd&st=uyq73jzf&dl=0"],
     "label": "50 ml.",
     "description": "Pasta Textil FASHION de CADENCE. Con base de agua y colores metalizados para crear efectos dimensionales sobre tejidos. Para su fijación en la tela es necesario planchar la prenda del revés 24h tras su secado. El tiempo de secado puede variar en función a la capa aplicada.",
@@ -71,7 +71,7 @@ const initialProducts = [
   {
     "id": 995,
     "name": "ORO-ANTIGUO Pasta textil FASHION METALLIC Cadence",
-    "price": "5.50",
+    "price": "5.80",
     "images": ["https://dl.dropboxusercontent.com/scl/fi/q3wspefb5yirvqt2l3gip/pasta-textil-fashion-metallic-cadence-ORO-ANTIGUO.jpg?rlkey=9pk068r0itq3gtxm1m9vac4xb&st=m4s9oy23&dl=0"],
     "label": "50 ml.",
     "description": "Pasta Textil FASHION de CADENCE. Con base de agua y colores metalizados para crear efectos dimensionales sobre tejidos. Para su fijación en la tela es necesario planchar la prenda del revés 24h tras su secado. El tiempo de secado puede variar en función a la capa aplicada.",
@@ -80,7 +80,7 @@ const initialProducts = [
   {
     "id": 996,
     "name": "NEGRO Pasta textil FASHION METALLIC Cadence",
-    "price": "5.50",
+    "price": "5.80",
     "images": ["https://dl.dropboxusercontent.com/scl/fi/ezs0lek1e98tmn064oazr/pasta-textil-fashion-metallic-cadence-NEGRO.jpg?rlkey=na5zz12jpiur28kecvwyg24mh&st=vfac44ku&dl=0"],
     "label": "50 ml.",
     "description": "Pasta Textil FASHION de CADENCE. Con base de agua y colores metalizados para crear efectos dimensionales sobre tejidos. Para su fijación en la tela es necesario planchar la prenda del revés 24h tras su secado. El tiempo de secado puede variar en función a la capa aplicada.",
@@ -89,7 +89,7 @@ const initialProducts = [
   {
     "id": 997,
     "name": "COBRE Pasta textil FASHION METALLIC Cadence",
-    "price": "5.50",
+    "price": "5.80",
     "images": ["https://dl.dropboxusercontent.com/scl/fi/rwand8o58m9f9qliofqve/pasta-textil-fashion-metallic-cadence-COBRE.jpg?rlkey=pz1kri07oqgnimnb033147jet&st=715zq0i0&dl=0"],
     "label": "50 ml.",
     "description": "Pasta Textil FASHION de CADENCE. Con base de agua y colores metalizados para crear efectos dimensionales sobre tejidos. Para su fijación en la tela es necesario planchar la prenda del revés 24h tras su secado. El tiempo de secado puede variar en función a la capa aplicada.",
@@ -98,7 +98,7 @@ const initialProducts = [
   {
     "id": 998,
     "name": "AZUL SAX Pasta textil FASHION METALLIC Cadence",
-    "price": "5.50",
+    "price": "5.80",
     "images": ["https://dl.dropboxusercontent.com/scl/fi/12vrgdr8qnc13nbzwmmdr/pasta-textil-fashion-metallic-cadence-AZUL-SAX.jpg?rlkey=3i22kk6xy52tmm4lckwrcg6ge&st=p0pak7za&dl=0"],
     "label": "50 ml.",
     "description": "Pasta Textil FASHION de CADENCE. Con base de agua y colores metalizados para crear efectos dimensionales sobre tejidos. Para su fijación en la tela es necesario planchar la prenda del revés 24h tras su secado. El tiempo de secado puede variar en función a la capa aplicada.",

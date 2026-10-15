@@ -26,7 +26,7 @@ const initialProducts = [
   {
     "id": 981,
     "name": "VERDE PISTACHO Pasta textil FASHION Cadence",
-    "price": "4.30",
+    "price": "4.50",
     "images": ["https://dl.dropboxusercontent.com/scl/fi/59d9knt3bd0ot0c7m1xnx/pasta-textil-fashion-cadence-VERDE-PISTACHO.jpg?rlkey=bxejhf5vfbmutleou0ljl06xp&st=nx181zuk&dl=0"],
     "label": "50 ml.",
     "description": "Pasta Textil FASHION de CADENCE. Con base de agua y colores muy vivos para crear efectos dimensionales sobre tejidos. Para su fijación en la tela es necesario planchar la prenda del revés 24h tras su secado. El tiempo de secado puede variar en función a la capa aplicada.",
@@ -35,7 +35,7 @@ const initialProducts = [
   {
     "id": 982,
     "name": "ROJO CARMESÍ Pasta textil FASHION Cadence",
-    "price": "4.30",
+    "price": "4.50",
     "images": ["https://dl.dropboxusercontent.com/scl/fi/nkq6dc3cglk4gaccr60yy/pasta-textil-fashion-cadence-ROJO-CARMESI.jpg?rlkey=i12egbq7fh0buth65r5cbukzk&st=t736edih&dl=0"],
     "label": "50 ml.",
     "description": "Pasta Textil FASHION de CADENCE. Con base de agua y colores muy vivos para crear efectos dimensionales sobre tejidos. Para su fijación en la tela es necesario planchar la prenda del revés 24h tras su secado. El tiempo de secado puede variar en función a la capa aplicada.",
@@ -44,7 +44,7 @@ const initialProducts = [
   {
     "id": 983,
     "name": "NEGRO Pasta textil FASHION Cadence",
-    "price": "4.30",
+    "price": "4.50",
     "images": ["https://dl.dropboxusercontent.com/scl/fi/s1qt2qdaagltjpgu9j6er/pasta-textil-fashion-cadence-NEGRO.jpg?rlkey=xfqhmqel5vdhwditir8102z3p&st=dw5j36ya&dl=0"],
     "label": "50 ml.",
     "description": "Pasta Textil FASHION de CADENCE. Con base de agua y colores muy vivos para crear efectos dimensionales sobre tejidos. Para su fijación en la tela es necesario planchar la prenda del revés 24h tras su secado. El tiempo de secado puede variar en función a la capa aplicada.",
@@ -53,7 +53,7 @@ const initialProducts = [
   {
     "id": 984,
     "name": "NARANJA Pasta textil FASHION Cadence",
-    "price": "4.30",
+    "price": "4.50",
     "images": ["https://dl.dropboxusercontent.com/scl/fi/io7l6ile8jy9hscc0qlfo/pasta-textil-fashion-cadence-NARANJA.jpg?rlkey=rt08omh4wz4o5ah84mi48r0ir&st=7wjjkvkw&dl=0"],
     "label": "50 ml.",
     "description": "Pasta Textil FASHION de CADENCE. Con base de agua y colores muy vivos para crear efectos dimensionales sobre tejidos. Para su fijación en la tela es necesario planchar la prenda del revés 24h tras su secado. El tiempo de secado puede variar en función a la capa aplicada.",
@@ -62,7 +62,7 @@ const initialProducts = [
   {
     "id": 985,
     "name": "FUCSIA Pasta textil FASHION Cadence",
-    "price": "4.30",
+    "price": "4.50",
     "images": ["https://dl.dropboxusercontent.com/scl/fi/i7vyv9wsfeu4k6jixuvaj/pasta-textil-fashion-cadence-FUCSIA.jpg?rlkey=hcpy6jtnki3jyca9jyz9e6kuo&st=kjekldk3&dl=0"],
     "label": "50 ml.",
     "description": "Pasta Textil FASHION de CADENCE. Con base de agua y colores muy vivos para crear efectos dimensionales sobre tejidos. Para su fijación en la tela es necesario planchar la prenda del revés 24h tras su secado. El tiempo de secado puede variar en función a la capa aplicada.",
@@ -71,7 +71,7 @@ const initialProducts = [
   {
     "id": 986,
     "name": "BLANCO Pasta textil FASHION Cadence",
-    "price": "4.30",
+    "price": "4.50",
     "images": ["https://dl.dropboxusercontent.com/scl/fi/uqejrz4ogo4n61am9b7un/pasta-textil-fashion-cadence-BLANCO.jpg?rlkey=7kppxkf9zohyhaudjr2cev4kr&st=bi2wl76e&dl=0"],
     "label": "50 ml.",
     "description": "Pasta Textil FASHION de CADENCE. Con base de agua y colores muy vivos para crear efectos dimensionales sobre tejidos. Para su fijación en la tela es necesario planchar la prenda del revés 24h tras su secado. El tiempo de secado puede variar en función a la capa aplicada.",
@@ -80,7 +80,7 @@ const initialProducts = [
   {
     "id": 987,
     "name": "BERENJENA Pasta textil FASHION Cadence",
-    "price": "4.30",
+    "price": "4.50",
     "images": ["https://dl.dropboxusercontent.com/scl/fi/cumayuo1pnqpxmu885gfc/pasta-textil-fashion-cadence-BERENJENA.jpg?rlkey=jqwlvbknc46m4dtc5zi7926r0&st=jsdzjmvi&dl=0"],
     "label": "50 ml.",
     "description": "Pasta Textil FASHION de CADENCE. Con base de agua y colores muy vivos para crear efectos dimensionales sobre tejidos. Para su fijación en la tela es necesario planchar la prenda del revés 24h tras su secado. El tiempo de secado puede variar en función a la capa aplicada.",
@@ -89,7 +89,7 @@ const initialProducts = [
   {
     "id": 988,
     "name": "AZUL REAL Pasta textil FASHION Cadence",
-    "price": "4.30",
+    "price": "4.50",
     "images": ["https://dl.dropboxusercontent.com/scl/fi/xyra9jvwjp1lysliwdzf4/pasta-textil-fashion-cadence-AZUL-REAL.jpg?rlkey=isq3r5a2daw3ud0t2f6yjl6hf&st=yjzryz29&dl=0"],
     "label": "50 ml.",
     "description": "Pasta Textil FASHION de CADENCE. Con base de agua y colores muy vivos para crear efectos dimensionales sobre tejidos. Para su fijación en la tela es necesario planchar la prenda del revés 24h tras su secado. El tiempo de secado puede variar en función a la capa aplicada.",
@@ -98,7 +98,7 @@ const initialProducts = [
   {
     "id": 989,
     "name": "AMARILLO LIMÓN Pasta textil FASHION Cadence",
-    "price": "4.30",
+    "price": "4.50",
     "images": ["https://dl.dropboxusercontent.com/scl/fi/pmf660bzmzhxut1xgm0z8/pasta-textil-fashion-cadence-AMARILLO-LIMON.jpg?rlkey=p444wx2alyy105y0xkak4z1r7&st=1w251b9x&dl=0"],
     "label": "50 ml.",
     "description": "Pasta Textil FASHION de CADENCE. Con base de agua y colores muy vivos para crear efectos dimensionales sobre tejidos. Para su fijación en la tela es necesario planchar la prenda del revés 24h tras su secado. El tiempo de secado puede variar en función a la capa aplicada.",

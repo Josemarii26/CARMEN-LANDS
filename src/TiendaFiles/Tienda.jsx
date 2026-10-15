@@ -2674,7 +2674,7 @@ const initialProducts = [
   {
     id: 377,
     name: "Blanco AMBIANTE WATER RESIST 250ml. + CATALIZADOR",
-    price: "13.25",
+    price: "14.00",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/9h15mwshp51ruk56lbd5p/ambiente-water-resist-white-250ml-cat.jpg?rlkey=ru4moi5wq1k3l3gk9u6esz8j6&st=7ryx8qy4&dl=0",
     ],
@@ -2686,7 +2686,7 @@ const initialProducts = [
   {
     id: 378,
     name: "Blanco Antiguo AMBIANTE WATER RESIST 250ml. + CATALIZADOR ",
-    price: "13.25",
+    price: "14.00",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/emd93gau1w9fhe90eb3am/ambiente-water-resist-ancient-white-250ml-cat.jpg?rlkey=lsl3kwulo8eopekx0kulfw1vh&st=wjbqqk8e&dl=0",
     ],
@@ -2698,7 +2698,7 @@ const initialProducts = [
   {
     id: 379,
     name: "Piedra AMBIANTE WATER RESIST 250ml. + CATALIZADOR ",
-    price: "13.25",
+    price: "14.00",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/d2wdhodnvlu6xt0f5pady/ambiente-water-resist-sandstone-250ml-cat.jpg?rlkey=92lxubnq77l4heq3c8qx428wf&st=pak22khs&dl=0",
     ],
@@ -2710,7 +2710,7 @@ const initialProducts = [
   {
     id: 380,
     name: "Marfil AMBIANTE WATER RESIST 250ml. + CATALIZADOR",
-    price: "13.25",
+    price: "14.00",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/p7qc4sj91nrn5odvx1j8g/ambiente-water-resist-ivory-coast-250ml-cat.jpg?rlkey=bcuv5tjb7gqb1g55hd0d8dibc&st=abjxo2pm&dl=0",
     ],
@@ -2722,7 +2722,7 @@ const initialProducts = [
   {
     id: 381,
     name: "Cartón AMBIANTE WATER RESIST 250ml. + CATALIZADOR ",
-    price: "13.25",
+    price: "14.00",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/c30h04ogir4egz7t2rtj2/ambiente-water-resist-cardboard-250ml-cat.jpg?rlkey=5twfykex0mi6ohv6t4miv98rp&st=wai346uy&dl=0",
     ],
@@ -2734,7 +2734,7 @@ const initialProducts = [
   {
     id: 382,
     name: "Verde Linden AMBIANTE WATER RESIST 250ml. + CATALIZADOR",
-    price: "13.25",
+    price: "14.00",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/123bbnn7xxr419klgop0n/ambiente-water-resist-linden-green-250ml-cat.jpg?rlkey=vnos7sav55ne649bf7i1a4yt7&st=bkperaop&dl=0",
     ],
@@ -2746,7 +2746,7 @@ const initialProducts = [
   {
     id: 383,
     name: "Verde Esmeralda AMBIANTE WATER RESIST 250ml. + CATALIZADOR",
-    price: "13.25",
+    price: "14.00",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/4zcnwr2smt5aukjywtoxr/ambiente-water-resist-emerald-green-250ml-cat.jpg?rlkey=y8umz0n80tomm7tlwjikalwn8&st=uf5480p3&dl=0",
     ],
@@ -2758,7 +2758,7 @@ const initialProducts = [
   {
     id: 384,
     name: "Nuez AMBIANTE WATER RESIST 250ml. + CATALIZADOR",
-    price: "13.25",
+    price: "14.00",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/z8n3qv9bvbw7rl6fidm5c/ambiente-water-resist-walnut-250ml-cat.jpg?rlkey=1ldlmvej9zh8yu2n5g6ykvo7l&st=17b6h5ne&dl=0",
     ],
@@ -2770,7 +2770,7 @@ const initialProducts = [
   {
     id: 385,
     name: "Azul Océano AMBIANTE WATER RESIST 250ml. + CATALIZADOR",
-    price: "13.25",
+    price: "14.00",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/pfykl01tnwxxe6pn2pfhq/ambiente-water-resist-ocean-250ml-cat.jpg?rlkey=5kro8qj1nhrg1nm0fzsu6eera&st=10ye0met&dl=0",
     ],
@@ -2782,7 +2782,7 @@ const initialProducts = [
   {
     id: 386,
     name: "Azul Fresco AMBIANTE WATER RESIST 250ml. + CATALIZADOR ",
-    price: "13.25",
+    price: "14.00",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/ezer8folivz2sxyqr1ta6/ambiente-water-resist-fresco-250ml-cat.jpg?rlkey=5vx24hbsjl8it8ehrflhxevvj&st=un4uhsgb&dl=0",
     ],
@@ -2794,7 +2794,7 @@ const initialProducts = [
   {
     id: 387,
     name: "Azul Medianoche AMBIANTE WATER RESIST 250ml. + CATALIZADOR",
-    price: "13.25",
+    price: "14.00",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/8wig775af6etncc3eastu/ambiente-water-resist-midnight-blue-250ml-cat.jpg?rlkey=vc9ow4fpvywkb67vo7nemjk7n&st=3jw8y9xw&dl=0",
     ],
@@ -2806,7 +2806,7 @@ const initialProducts = [
   {
     id: 388,
     name: "Gris Pizarra AMBIANTE WATER RESIST 250ml. + CATALIZADOR ",
-    price: "13.25",
+    price: "14.00",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/o0mh1zhegjzzfii46pwk5/ambiente-water-resist-dark-slate-gray-250ml-cat.jpg?rlkey=3ahld7wfa1xshayt3ge9ygwi3&st=1gys1j9w&dl=0",
     ],
@@ -2818,7 +2818,7 @@ const initialProducts = [
   {
     id: 389,
     name: "Gris Oscuro AMBIANTE WATER RESIST 250ml. + CATALIZADOR",
-    price: "13.25",
+    price: "14.00",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/v38vf7zhpbphutgm6bkz5/ambiente-water-resist-dark-gray-250ml-cat.jpg?rlkey=7jmc9h0i1w5df8kkmhst8uvcf&st=k0oz5ia1&dl=0",
     ],
@@ -2830,7 +2830,7 @@ const initialProducts = [
   {
     id: 390,
     name: "Gris Antracita AMBIANTE WATER RESIST 250ml. + CATALIZADOR",
-    price: "13.25",
+    price: "14.00",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/i165qnft5vf45cv9akot3/ambiente-water-resist-anthracite-black-250ml-cat.jpg?rlkey=78iz19exfq5dzzeh3l1wy6kc9&st=0uy57c2w&dl=0",
     ],
@@ -2842,7 +2842,7 @@ const initialProducts = [
   {
     id: 391,
     name: "Gris Grafitti AMBIANTE WATER RESIST 250ml. + CATALIZADOR ",
-    price: "13.25",
+    price: "14.00",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/v26wa4a60krarpkqu7jdb/ambiente-water-resist-grafitti-gray-250ml-cat.jpg?rlkey=6fs4prucaqgbghoa2jrwz40x6&st=fzh2fhy2&dl=0",
     ],
@@ -2854,7 +2854,7 @@ const initialProducts = [
   {
     id: 392,
     name: "Moka AMBIANTE WATER RESIST 250ml. + CATALIZADOR ",
-    price: "13.25",
+    price: "14.00",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/kwl6s4bxs7bsxv46mvrqe/ambiente-water-resist-mink-250ml-cat.jpg?rlkey=idbb38mot1ewj8r4tu3ftc4r3&st=jgb065m2&dl=0",
     ],
@@ -2974,7 +2974,7 @@ const initialProducts = [
   {
     id: 357,
     name: "Barníz CUERO 120ml.",
-    price: "8.40",
+    price: "8.70",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/hxi6bwkkxou20kvnwzfyo/barniz-cadence-cuero-120.jpg?rlkey=kxsejsrdnnvfwq1guotwy923g&st=tkftdp8g&dl=0",
     ],
@@ -2986,7 +2986,7 @@ const initialProducts = [
   {
     id: 358,
     name: "Barníz ULTIMATE GLAZE MATE 120ml.",
-    price: "5.90",
+    price: "6.10",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/s51i71fimuel1gxm8qm95/barniz-ultimate-mate-120-ml.jpg?rlkey=chpgcr3ryd3tcr0js76vo33oe&st=xddrwe4e&dl=0",
     ],
@@ -2998,7 +2998,7 @@ const initialProducts = [
   {
     id: 3540,
     name: "Barníz Aqua Stone MATE 120ml.",
-    price: "8.60",
+    price: "9.45",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/6sg758qnqz4bb3qvncgyd/barniz-exterior-aqua-stone-mate-120-ml.jpg?rlkey=6cvevkay8krth93pxc70ya9en&st=v5ge6mc6&dl=0",
     ],
@@ -3010,7 +3010,7 @@ const initialProducts = [
   {
     id: 3550,
     name: "Barníz Aqua Stone MATE 250ml.",
-    price: "15.20",
+    price: "16.10",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/tmhlcur7arulasd6fvngn/barniz-exterior-aqua-stone-mate-250-ml.jpg?rlkey=sdcvyixthuh0czw7291t8dn8u&st=frc22bck&dl=0",
     ],
@@ -3034,7 +3034,7 @@ const initialProducts = [
   {
     id: 3570,
     name: "Barníz Aqua Stone BRILLO 120ml.",
-    price: "8.60",
+    price: "9.45",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/reb769yuw1zi9fawriqg0/barniz-cadence-aqua-stone-120ml.jpg?rlkey=b9fb1a0485wcm5cv3ca2rhmwr&st=s2t4o2vb&dl=0",
     ],
@@ -3046,7 +3046,7 @@ const initialProducts = [
   {
     id: 3580,
     name: "Barníz Aqua Stone BRILLO 250ml.",
-    price: "15.20",
+    price: "16.10",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/cejswc75vi2y4q8vwjxhd/barniz-cadence-aqua-stone-250ml.jpg?rlkey=35v9g7mh4ejf2nxxtcg7rk8gt&st=0y7pj7wq&dl=0",
     ],
@@ -3082,7 +3082,7 @@ const initialProducts = [
   {
     id: 3592,
     name: "Barníz Craquelador DOS PASOS Cadence ",
-    price: "5.95",
+    price: "6.10",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/1ye0krnf5qnumkyev0tpx/craquelador-de-2-pasos-cadence.jpg?rlkey=ywnsyh16eighsedxi6btgjujb&st=ytwjqwdd&dl=0",
     ],
@@ -3094,7 +3094,7 @@ const initialProducts = [
   {
     id: 359,
     name: "Decoupage Textil Cadence 120ml.",
-    price: "5.50",
+    price: "5.60",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/x3rvxavuapl82j45nxb6z/decoupage-textil-cadence.jpg?rlkey=mi33pto292idez6e7g85ibyo2&st=t3i6o5yz&dl=0",
     ],
@@ -3118,7 +3118,7 @@ const initialProducts = [
   {
     id: 605,
     name: "Spray Adhesivo Stencils CADENCE",
-    price: "6.70",
+    price: "6.90",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/5wh9s1pm1xy81kk6w8tpn/spray-adhesivo-stencils-cadence.jpg?rlkey=dqth23sr3ip6jrbvp4vrprgih&st=51os782h&dl=0",
     ],
@@ -3142,7 +3142,7 @@ const initialProducts = [
   {
     id: 582,
     name: "Barniz PLUS+ para pan de oro 100ml.",
-    price: "5.20",
+    price: "5.50",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/ik1fdluxmw5s3z74dh2zn/barniz-plus-para-pan-de-oro-cadence.jpg?rlkey=ufu2j00h4kp28ih0dq3xuz5qe&st=22nhglzd&dl=0",
     ],
@@ -3154,7 +3154,7 @@ const initialProducts = [
   {
     id: 756,
     name: "PURPLE Colour On VARNISH 90ml.",
-    price: "4.60",
+    price: "4.90",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/dhq10sw5uq3g7i6f2w7j5/colour-on-varnish-purple-90ml.jpg?rlkey=wowazobtz60aft96wf1nm7xrf&st=har2dnvs&dl=0",
     ],
@@ -3166,7 +3166,7 @@ const initialProducts = [
   {
     id: 757,
     name: "OAK Colour On VARNISH 90ml.",
-    price: "4.60",
+    price: "4.90",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/b0juznzwqlurul42vbovs/colour-on-varnish-oak-90ml.jpg?rlkey=ss2vaiv4g8454o9p870zm6mzt&st=47e07sns&dl=0",
     ],
@@ -3178,7 +3178,7 @@ const initialProducts = [
   {
     id: 758,
     name: "GREEN Colour On VARNISH 90ml.",
-    price: "4.60",
+    price: "4.90",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/l8m8samyyqid667chqumq/colour-on-varnish-green-90ml.jpg?rlkey=edurb6coamvoosf4feve1uxzw&st=jy29e09n&dl=0",
     ],
@@ -3190,7 +3190,7 @@ const initialProducts = [
   {
     id: 759,
     name: "BLUE Colour On VARNISH 90ml.",
-    price: "4.60",
+    price: "4.90",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/ad015g8gnomkbnl1b4nbw/colour-on-varnish-blue-90ml.jpg?rlkey=mgkifetesxg6tl43vm6ba51wt&st=rcw46tn3&dl=0",
     ],
@@ -3202,7 +3202,7 @@ const initialProducts = [
   {
     id: 535,
     name: "TURQUESA Finger Wax Cadence ",
-    price: "4.50",
+    price: "4.80",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/xqarbo9gj4sv9ou6ut0mn/finger-wax-cadence-turquesa.jpg?rlkey=omwgwi4gueg0p4p42zx8qf72x&st=b1zi6w0r&dl=0",
     ],
@@ -3214,7 +3214,7 @@ const initialProducts = [
   {
     id: 535,
     name: "ROSA Finger Wax Cadence ",
-    price: "4.50",
+    price: "4.80",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/scvu179wmibt220e2r17z/finger-wax-cadence-rosa.jpg?rlkey=c02fptp76rys5tb1waaqhb6kb&st=zdybneeh&dl=0",
     ],
@@ -3226,7 +3226,7 @@ const initialProducts = [
   {
     id: 535,
     name: "PLATA Finger Wax Cadence ",
-    price: "4.50",
+    price: "4.80",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/wtncenxjb4k3hcjvfs7nr/finger-wax-cadence-plata.jpg?rlkey=vnrokuhqeoiujznro7pcne8zp&st=8fqxjjvm&dl=0",
     ],
@@ -3238,7 +3238,7 @@ const initialProducts = [
   {
     id: 535,
     name: "ORO INCA Finger Wax Cadence ",
-    price: "4.50",
+    price: "4.80",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/ufzdnpyym18jv80yrpc2z/finger-wax-cadence-oro-inca.jpg?rlkey=4ugos0ey4ioejqzokwm0fug8g&st=7e35n2w5&dl=0",
     ],
@@ -3250,7 +3250,7 @@ const initialProducts = [
   {
     id: 535,
     name: "ORO AZTECA Finger Wax Cadence ",
-    price: "4.50",
+    price: "4.80",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/2vuumszp59wrhbgsj06fh/finger-wax-cadence-oro-azteca.jpg?rlkey=ku3to4xa1o8i9hbioksruh3zc&st=mxp49s9w&dl=0",
     ],
@@ -3262,7 +3262,7 @@ const initialProducts = [
   {
     id: 535,
     name: "ORO ANTIGUO Finger Wax Cadence ",
-    price: "4.50",
+    price: "4.80",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/t5js2o4wnqymwtw2rve1z/finger-wax-cadence-oro-antiguo.jpg?rlkey=k8l2xnkgxndmkdvlnaonuefs8&st=nbnw7kj1&dl=0",
     ],
@@ -3274,7 +3274,7 @@ const initialProducts = [
   {
     id: 535,
     name: "COBRE Finger Wax Cadence ",
-    price: "4.50",
+    price: "4.80",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/f6d1zdy713cy5i61i9jz6/finger-wax-cadence-cobre.jpg?rlkey=9jx2jwp87iptb4ll0h8c03u5h&st=o7u8xt2g&dl=0",
     ],
@@ -3286,7 +3286,7 @@ const initialProducts = [
   {
     id: 535,
     name: "COBALTO Finger Wax Cadence ",
-    price: "4.50",
+    price: "4.80",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/zhkbqac1d9cwzt9xp624t/finger-wax-cadence-cobalto.jpg?rlkey=p5c7j2b6pi9s2pkx2vic1n6bn&st=0a1cc8ht&dl=0",
     ],
@@ -3298,7 +3298,7 @@ const initialProducts = [
   {
     id: 535,
     name: "BRONCE Finger Wax Cadence ",
-    price: "4.50",
+    price: "4.80",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/z58vy59h3d4iw4dtxm6vm/finger-wax-cadence-bronce.jpg?rlkey=rak6161obamzhasp0osdse6p3&st=zwn2wpth&dl=0",
     ],
@@ -3310,7 +3310,7 @@ const initialProducts = [
   {
     id: 535,
     name: "Cera Líquida Espresso Cadence ",
-    price: "6.65",
+    price: "6.95",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/xtjvhaqhxltr8p0s6d8te/cera-liquida-espresso.jpg?rlkey=dn1ta1c3q1ltw3jehq252j02o&st=6pqjfttz&dl=0",
     ],
@@ -3322,7 +3322,7 @@ const initialProducts = [
   {
     id: 361,
     name: "Negro COSMOS MATT CERAMIC EFFECT 150ml.",
-    price: "8.10",
+    price: "8.60",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/y1a651a0vf7ed2a6h7b3l/cosmos-matt-ceramic-effect-black-150-ml.jpg?rlkey=1sr9w119b5qgdcff72di814gf&st=dgu8cxrp&dl=0",
     ],
@@ -3334,7 +3334,7 @@ const initialProducts = [
   {
     id: 362,
     name: "Marrón COSMOS MATT CERAMIC EFFECT 150ml.",
-    price: "8.10",
+    price: "8.60",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/kb4rahmh9chq74vnxrvei/cosmos-matt-ceramic-effect-brown-150-ml.jpg?rlkey=xksxpzid4ohk3za5ovi9pwcys&st=b3wdvwnj&dl=0",
     ],
@@ -3346,7 +3346,7 @@ const initialProducts = [
   {
     id: 363,
     name: "Marrón Oxidado COSMOS MATT CERAMIC EFFECT 150ml.",
-    price: "8.10",
+    price: "8.60",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/ti9qwnfbjryq0sxlo58j2/cosmos-matt-ceramic-effect-rusty-brown-150-ml.jpg?rlkey=eszmdbmn3ej5nxbit0kftd1ud&st=7dfyjosu&dl=0",
     ],
@@ -3358,7 +3358,7 @@ const initialProducts = [
   {
     id: 364,
     name: "Cashmere COSMOS MATT CERAMIC EFFECT 150ml.",
-    price: "8.10",
+    price: "8.60",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/lz1d4ranh8wvtbzshr597/cosmos-matt-ceramic-effect-cashmere-150-ml.jpg?rlkey=80tcs0xr7wfwkk9xeybjd19cv&st=sjsz1w3m&dl=0",
     ],
@@ -3370,7 +3370,7 @@ const initialProducts = [
   {
     id: 365,
     name: "Verde Esmeralda COSMOS MATT CERAMIC EFFECT 150ml.",
-    price: "8.10",
+    price: "8.60",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/nbxv4ksh3n77j1zpf3xdc/cosmos-matt-ceramic-effect-emerald-green-150-ml.jpg?rlkey=gnhnj2ec875gjw49gp4qodrhn&st=maxo4dq4&dl=0",
     ],
@@ -3382,7 +3382,7 @@ const initialProducts = [
   {
     id: 366,
     name: "Gris Humo COSMOS MATT CERAMIC EFFECT 150ml.",
-    price: "8.10",
+    price: "8.60",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/0qkf9thmb73uegkt6zaq5/cosmos-matt-ceramic-effect-smoke-gray-150-ml.jpg?rlkey=7beb5vqaqzs6gvsesncynxldc&st=zkwa478a&dl=0",
     ],
@@ -3394,7 +3394,7 @@ const initialProducts = [
   {
     id: 367,
     name: "Molde Verde COSMOS MATT CERAMIC EFFECT 150ml.",
-    price: "8.10",
+    price: "8.60",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/rgjda0pbtv3n4gz79zcgz/cosmos-matt-ceramic-effect-mould-green-150-ml.jpg?rlkey=zjudgbzhpfw6azlyobql6tp2o&st=lc9mhyz1&dl=0",
     ],
@@ -3406,7 +3406,7 @@ const initialProducts = [
   {
     id: 368,
     name: "Verde Menta COSMOS MATT CERAMIC EFFECT 150ml.",
-    price: "8.10",
+    price: "8.60",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/lxjk2cuvx85bm6rraddl4/cosmos-matt-ceramic-effect-mint-green-150-ml.jpg?rlkey=6tz4tykx1r3uvqufimfb3akgb&st=sjejh244&dl=0",
     ],
@@ -3418,7 +3418,7 @@ const initialProducts = [
   {
     id: 369,
     name: "Azul Claro COSMOS MATT CERAMIC EFFECT 150ml.",
-    price: "8.10",
+    price: "8.60",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/tegksauravry2h95pslxs/cosmos-matt-ceramic-effect-light-blue-150-ml.jpg?rlkey=42dl2n7ativq3gnxui5ue9c51&st=qznksjj9&dl=0",
     ],
@@ -3430,7 +3430,7 @@ const initialProducts = [
   {
     id: 370,
     name: "Azul Ultramarino COSMOS MATT CERAMIC EFFECT 150ml.",
-    price: "8.10",
+    price: "8.60",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/jmgr0q7p6u65wspb8ypjj/cosmos-matt-ceramic-effect-ultramarine-blue-150-ml.jpg?rlkey=zw9gvvibfxpvdvs7zdnw1vsjm&st=o93hh6fu&dl=0",
     ],
@@ -3442,7 +3442,7 @@ const initialProducts = [
   {
     id: 371,
     name: "Azul Real COSMOS MATT CERAMIC EFFECT 150ml.",
-    price: "8.10",
+    price: "8.60",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/7ye57wdrv8evzvbuxm7v9/cosmos-matt-ceramic-effect-royal-blue-150-ml.jpg?rlkey=otcd2xuteu1fobxtsdrix3b90&st=j0xh29ig&dl=0",
     ],
@@ -3454,7 +3454,7 @@ const initialProducts = [
   {
     id: 372,
     name: "Manzana Caramelizada COSMOS MATT CERAMIC EFFECT  150ml.",
-    price: "8.10",
+    price: "8.60",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/wkq9dv6b44v1lxxde7ed0/cosmos-matt-ceramic-effect-candy-apple-150-ml.jpg?rlkey=5mbnvhm5xmcw19546hgltag5a&st=bc85dmop&dl=0",
     ],
@@ -3466,7 +3466,7 @@ const initialProducts = [
   {
     id: 373,
     name: "Naranja COSMOS MATT CERAMIC EFFECT 150ml.",
-    price: "8.10",
+    price: "8.60",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/qjc2m479k91n9a5nzcod8/cosmos-matt-ceramic-effect-orange-150-ml.jpg?rlkey=bqt48lc2ku59g76zxxo8p6hvm&st=8z768z9t&dl=0",
     ],
@@ -3478,7 +3478,7 @@ const initialProducts = [
   {
     id: 374,
     name: "Amarillo COSMOS MATT CERAMIC EFFECT 150ml.",
-    price: "8.10",
+    price: "8.60",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/c174md81ejvlloehgyp7d/cosmos-matt-ceramic-effect-yellow-150-ml.jpg?rlkey=ckctca66bw7ek4to3jj4cxrv2&st=4sv6gmlv&dl=0",
     ],
@@ -3490,7 +3490,7 @@ const initialProducts = [
   {
     id: 375,
     name: "Ecru COSMOS MATT CERAMIC EFFECT 150ml.",
-    price: "8.10",
+    price: "8.60",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/ozf90c24b4ltfbatr1fy6/cosmos-matt-ceramic-effect-ecru-150-ml.jpg?rlkey=ru07wq8ik78amn6isvm42uh9g&st=v9zpfk14&dl=0",
     ],
@@ -3502,7 +3502,7 @@ const initialProducts = [
   {
     id: 376,
     name: "Blanco COSMOS MATT CERAMIC EFFECT 150ml.",
-    price: "8.10",
+    price: "8.60",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/3c6x6tk074rhchyoiqmah/cosmos-matt-ceramic-effect-white-150-ml.jpg?rlkey=324s7kx2b866uved6t1x1v1uo&st=cqn8a00r&dl=0",
     ],
@@ -3756,7 +3756,7 @@ const initialProducts = [
   {
     id: 186,
     name: "Hybrid HAZERAN PURPLE 70ml.",
-    price: "2.60",
+    price: "2.70",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/gkcqu8y6pbssvj1vie2sq/hybrid-hazeran-purple-70ml.jpg?rlkey=5yezigfbitq8tpa6auw9okbgr&st=8vv8mieu&dl=0",
     ],
@@ -3768,7 +3768,7 @@ const initialProducts = [
   {
     id: 187,
     name: "Hybrid ENCAJE 70ml.",
-    price: "2.60",
+    price: "2.70",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/yse8ockkechppwo1400dy/hybrid-encaje-70ml.jpg?rlkey=y88dp3nb8c92c3y1lx03lg93l&st=yynj9nuu&dl=0",
     ],
@@ -3780,7 +3780,7 @@ const initialProducts = [
   {
     id: 188,
     name: "Hybrid BURDEOS 70ml.",
-    price: "2.60",
+    price: "2.70",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/ichw7w4t54tn9tr860vkf/hybrid-burdeos-70ml.jpg?rlkey=an6rj8mkmqn8peg1g991miu77&st=zeyzooeq&dl=0",
     ],
@@ -3792,7 +3792,7 @@ const initialProducts = [
   {
     id: 189,
     name: "Hybrid AZUL RÍO 70ml.",
-    price: "2.60",
+    price: "2.70",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/x07kshe6119r99rtiz3wi/hybrid-river-blue-70ml.jpg?rlkey=f4gtiu6kp98jv3ibt1szhbn00&st=s7gp4lb7&dl=0",
     ],
@@ -3804,7 +3804,7 @@ const initialProducts = [
   {
     id: 190,
     name: "Hybrid CEREZA 70ml.",
-    price: "2.60",
+    price: "2.70",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/35l9s00sdf64fv2ptxw1c/hybrid-cereza-70ml.jpg?rlkey=5caw2nmcooi1sxwuhtp2ra49o&st=e9c4hpw5&dl=0",
     ],
@@ -3816,7 +3816,7 @@ const initialProducts = [
   {
     id: 191,
     name: "Hybrid GRIS PIZARRA OSCURO 70ml.",
-    price: "2.60",
+    price: "2.70",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/ccao0u6uzux55xgpxwacx/hybrid-gris-pizarra-oscuro-70ml.jpg?rlkey=gdyy2jcouv6hy0pkaefh1nim3&st=k4glymbi&dl=0",
     ],
@@ -3828,7 +3828,7 @@ const initialProducts = [
   {
     id: 192,
     name: "Hybrid VERDE FINO 70ml.",
-    price: "2.60",
+    price: "2.70",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/ciiqi8ydfzac4pj2mlhre/hybrid-verde-fino-70ml.jpg?rlkey=raemnnhakyk2enuipu55y85yv&st=szpjahh0&dl=0",
     ],
@@ -3840,7 +3840,7 @@ const initialProducts = [
   {
     id: 193,
     name: "Hybrid VERDE MENTA 70ml.",
-    price: "2.60",
+    price: "2.70",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/559th4xsbaihie1clh225/hybrid-cerde-menta-70ml.jpg?rlkey=td56yv39ogmah336uhn0a5b4h&st=1igao8ti&dl=0",
     ],
@@ -3852,7 +3852,7 @@ const initialProducts = [
   {
     id: 194,
     name: "Hybrid AZUL NAPOLEÓN 70ml.",
-    price: "2.60",
+    price: "2.70",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/yawxevmkyuu4ub7xyirfb/hybrid-azul-napoleon-70ml.jpg?rlkey=4atx3ki5fvsb9xnjdf5t1vhfv&st=bqo3wv5r&dl=0",
     ],
@@ -3864,7 +3864,7 @@ const initialProducts = [
   {
     id: 195,
     name: "Hybrid Loft HUESO ANTIGUO 70ml.",
-    price: "2.60",
+    price: "2.70",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/uq2pqsxqgedjcajux2xam/hybrid-hueso-antiguo-70ml.jpg?rlkey=nvv9pha3bo30gecjha8adbrun&st=au5vvrl1&dl=0",
     ],
@@ -3876,7 +3876,7 @@ const initialProducts = [
   {
     id: 196,
     name: "Hybrid CIRUELA 70ml.",
-    price: "2.60",
+    price: "2.70",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/punr0hkm81pcm1fnvv8bq/hybrid-ciruela-70ml.jpg?rlkey=xk819f9xu9y41uicr6101nkqj&st=c5p7osmk&dl=0",
     ],
@@ -3888,7 +3888,7 @@ const initialProducts = [
   {
     id: 197,
     name: "Hybrid AZUL MEDIANOCHE 70ml.",
-    price: "2.60",
+    price: "2.70",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/7y4pcp322kzxwq8u0k5uf/hybrid-midnight-blue-70ml.jpg?rlkey=yi1zsbg7km4cc22fn1kma4ik9&st=h5j7b143&dl=0",
     ],
@@ -3900,7 +3900,7 @@ const initialProducts = [
   {
     id: 198,
     name: "Hybrid VERDE ESMERALDA 70ml.",
-    price: "2.60",
+    price: "2.70",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/q4dibnw79jzvcfeymmb8m/hybrid-emerald-green-70ml.jpg?rlkey=1t6kp6xbn2tpf8lwyc1s5ve3y&st=d1yugb5c&dl=0",
     ],
@@ -3912,7 +3912,7 @@ const initialProducts = [
   {
     id: 199,
     name: "Hybrid VERDE HOJA 70ml.",
-    price: "2.60",
+    price: "2.70",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/nynkpubwsgcg34uie5p3f/hybrid-verde-hoja-70ml.jpg?rlkey=z64be1uzqggh3iaqzrsk6siqt&st=84sdlapm&dl=0",
     ],
@@ -3924,7 +3924,7 @@ const initialProducts = [
   {
     id: 200,
     name: "Hybrid APPLE CANDY 70ml.",
-    price: "2.60",
+    price: "2.70",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/v1nbsl5w6b6ca1xe450gv/hybrid-apple-candy-70ml.jpg?rlkey=0b7gp9zvd93dejfbvzv4qhx6k&st=hpzy6rcr&dl=0",
     ],
@@ -3936,7 +3936,7 @@ const initialProducts = [
   {
     id: 201,
     name: "Hybrid OCÉANO 70ml.",
-    price: "2.60",
+    price: "2.70",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/cny4ybopkuzjytvsff251/hybrid-oceano-70ml.jpg?rlkey=5aqd25xdf5006mkxplagmy9eh&st=3ep8cfv0&dl=0",
     ],
@@ -3948,7 +3948,7 @@ const initialProducts = [
   {
     id: 202,
     name: "Hybrid AMARILLO SOL 70ml.",
-    price: "2.60",
+    price: "2.70",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/rkdgr35hvnkzfs7usntto/hybrid-sun-yellow-70ml.jpg?rlkey=tm6qf82qj8nj4wpfhw6d0u2bq&st=fzowvuwm&dl=0",
     ],
@@ -3960,7 +3960,7 @@ const initialProducts = [
   {
     id: 203,
     name: "Hybrid NEGRO 70ml.",
-    price: "2.60",
+    price: "2.70",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/be83ec5kilp34xnoijwf9/hybrid-negro-70ml.jpg?rlkey=j1pilaifuz34kv2q5sedux6os&st=kae4mnbp&dl=0",
     ],
@@ -3972,7 +3972,7 @@ const initialProducts = [
   {
     id: 204,
     name: "Hybrid CORAL 70ml.",
-    price: "2.60",
+    price: "2.70",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/wpv8d4wxrhqn9o54dau77/hybrid-coral-70ml.jpg?rlkey=tmttzpbqwqx1r88pf2au8nqdo&st=iyot9cbc&dl=0",
     ],
@@ -3984,7 +3984,7 @@ const initialProducts = [
   {
     id: 205,
     name: "Hybrid BLANCO 120ml.",
-    price: 4.0,
+    price: 4.20,
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/6jwtuqnbytvyhxmzd0f10/hybrid-blanco-120-ml.jpg?rlkey=qk6thgwxtmicqjt8artocsqyt&st=41t5oqm9&dl=0",
     ],
@@ -3996,7 +3996,7 @@ const initialProducts = [
   {
     id: 206,
     name: "Hybrid CENIZA 500 ml.",
-    price: "15.90",
+    price: "16.20",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/ncrpeo5fo56ob80khf7zq/hybrid-ceniza-500ml.jpg?rlkey=c5obzhykxppisebtggkv1ht5o&st=4tljrpdj&dl=0",
     ],
@@ -4008,7 +4008,7 @@ const initialProducts = [
   {
     id: 207,
     name: "Hybrid BLANCO ANTIGUO 500 ml.",
-    price: "15.90",
+    price: "16.20",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/l5jjrrsadguex4gf1dmak/hybrid-blanco-antiguo-500ml.jpg?rlkey=yjya0nvjsi8d8wbm5660tahzf&st=o5cwioyv&dl=0",
     ],
@@ -4020,7 +4020,7 @@ const initialProducts = [
   {
     id: 208,
     name: "Hybrid BLANCO 500 ml.",
-    price: "15.90",
+    price: "16.20",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/vs8z8op083gt0m5xwskxu/hybrid-blanco-500ml.jpg?rlkey=344n8183b5tz40c4jqb3gt3dy&st=r5s3bpuk&dl=0",
     ],
@@ -4032,7 +4032,7 @@ const initialProducts = [
   {
     id: 209,
     name: "Hybrid VERDE MOHO 70ml.",
-    price: "2.60",
+    price: "2.70",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/ymjk9p3ymbtxkha6jv2x6/hybrid-verde-moho-70ml.jpg?rlkey=dlk1combpzk5hqlrobblp43cn&st=dxmhauvz&dl=0",
     ],
@@ -4044,7 +4044,7 @@ const initialProducts = [
   {
     id: 210,
     name: "Hybrid LILA 70ml.",
-    price: "2.60",
+    price: "2.70",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/1ue6qq6hlqvwnnlnt9p4n/hybrid-lila-70ml.jpg?rlkey=27fpzq35ovj8bes4dprgg6pf0&st=ryizi36e&dl=0",
     ],
@@ -4056,7 +4056,7 @@ const initialProducts = [
   {
     id: 211,
     name: "Hybrid SPRING 70ml.",
-    price: "2.60",
+    price: "2.70",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/c0wc9f1lz4tk5rjrdo5le/hybrid-spring-70ml.jpg?rlkey=whvm79c71tu8yzxfr4mps03co&st=ivnqtevb&dl=0",
     ],
@@ -4068,7 +4068,7 @@ const initialProducts = [
   {
     id: 212,
     name: "Hybrid WALNUT 70ml.",
-    price: "2.60",
+    price: "2.70",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/iynlb5qk2jvsuqp9eanuw/hybrid-walnut-70ml.jpg?rlkey=wtxroce6yz8gw1l5mz26rp23v&st=tfycdr9l&dl=0",
     ],
@@ -4080,7 +4080,7 @@ const initialProducts = [
   {
     id: 213,
     name: "Hybrid CASHMERE 70ml.",
-    price: "2.60",
+    price: "2.70",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/yulpr2vr6mik6qdt4nlwg/hybrid-cashmere-70ml.jpg?rlkey=1v3twhdtsdqz6xrdllnzbibuu&st=ez4kt28g&dl=0",
     ],
@@ -4092,7 +4092,7 @@ const initialProducts = [
   {
     id: 214,
     name: "Hybrid FLOR DE GRANADA 70ml.",
-    price: "2.60",
+    price: "2.70",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/tidub46u3fu4hg2iieenf/hybrid-pomegranate-flower-70ml.jpg?rlkey=gpb6oga8mkkhct6imcu4zhfqk&st=mo4rn4kc&dl=0",
     ],
@@ -4104,7 +4104,7 @@ const initialProducts = [
   {
     id: 215,
     name: "Hybrid CALABAZA 70ml.",
-    price: "2.60",
+    price: "2.70",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/82m477xzksgrqg0ub3vgo/hybrid-pumkin-70ml.jpg?rlkey=8e05sazng0fxqv04b6dny82gm&st=2fe9pibf&dl=0",
     ],
@@ -4116,7 +4116,7 @@ const initialProducts = [
   {
     id: 216,
     name: "Hybrid CHAMPAIGNE 70ml.",
-    price: "2.60",
+    price: "2.70",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/4n20jewht93qshw8wdy3b/hybrid-champaigne-70ml.jpg?rlkey=s1uk2q6rrc38u9zi2ur0ctqly&st=lsye5g1n&dl=0",
     ],
@@ -4128,7 +4128,7 @@ const initialProducts = [
   {
     id: 217,
     name: "Hybrid WIND 70ml.",
-    price: "2.60",
+    price: "2.70",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/91anf81hb5qf9ggxqo0zt/hybrid-wind-70ml.jpg?rlkey=umkisvupiagz4gnxj6ve2r3eg&st=fych6jw0&dl=0",
     ],
@@ -4140,7 +4140,7 @@ const initialProducts = [
   {
     id: 218,
     name: "Hybrid ROBLE CLÁSICO 70ml.",
-    price: "2.60",
+    price: "2.70",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/53jcfmry6n50dmcgoxfns/hybrid-classic-oak-70ml.jpg?rlkey=pyht3bs1s9iwjjia78dyrbofd&st=acjpg3nn&dl=0",
     ],
@@ -4152,7 +4152,7 @@ const initialProducts = [
   {
     id: 219,
     name: "Hybrid EGEO 70ml.",
-    price: "2.60",
+    price: "2.70",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/8l62gwqay3ig1ho03658o/hybrid-egeo-70ml.jpg?rlkey=31qmg00vxybgvaprbxiz3o3pe&st=q19ete7d&dl=0",
     ],
@@ -4164,7 +4164,7 @@ const initialProducts = [
   {
     id: 220,
     name: "Hybrid SALMÓN 70ml.",
-    price: "2.60",
+    price: "2.70",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/p2qkoypgx3yix7trb9n6w/hybrid-salmon-70ml.jpg?rlkey=rf0weppjie8vvdu3tnwkksbw8&st=nr71vn5t&dl=0",
     ],
@@ -4176,7 +4176,7 @@ const initialProducts = [
   {
     id: 221,
     name: "Hybrid NEGRO ANTRACITA 70ml.",
-    price: "2.60",
+    price: "2.70",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/3e0dggs0r43y4x3gyup08/hybrid-negro-antracita-70ml.jpg?rlkey=oxzxjxcisim75l135jz7yk9aa&st=6hvg7nr8&dl=0",
     ],
@@ -4188,7 +4188,7 @@ const initialProducts = [
   {
     id: 222,
     name: "Hybrid SPRING 500ml.",
-    price: "15.90",
+    price: "16.20",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/flewe25oj73tcrynqz1kj/hybrid-spring-500ml.jpg?rlkey=9nkxtljpg1yrbxdkowvj4m6em&st=y2t69sw7&dl=0",
     ],
@@ -4200,7 +4200,7 @@ const initialProducts = [
   {
     id: 223,
     name: "Hybrid CHAMPAIGNE 500ml.",
-    price: "15.90",
+    price: "16.20",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/ewnrexp1ln1goshw1hfgn/hybrid-champaigne-500ml.jpg?rlkey=ipbmm758zp671ovmnbngudctg&st=awt5rs3s&dl=0",
     ],
@@ -4212,7 +4212,7 @@ const initialProducts = [
   {
     id: 224,
     name: "Hybrid OCÉANO 500ml.",
-    price: "15.90",
+    price: "16.20",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/wiyuipm8uidjwhbi44ocl/hybrid-oceano-500ml.jpg?rlkey=by8636q5o46teghxq6ihu46fj&st=hp5posjt&dl=0",
     ],
@@ -4224,7 +4224,7 @@ const initialProducts = [
   {
     id: 225,
     name: "Hybrid NEGRO ANTRACITA 500ml.",
-    price: "15.90",
+    price: "16.20",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/cny4ybopkuzjytvsff251/hybrid-oceano-70ml.jpg?rlkey=5aqd25xdf5006mkxplagmy9eh&st=3ep8cfv0&dl=0",
     ],
@@ -4236,7 +4236,7 @@ const initialProducts = [
   {
     id: 226,
     name: "Hybrid CENIZA 70ml.",
-    price: "2.60",
+    price: "2.70",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/hvwq7lssknoq5n1cr8ptm/hybrid-ceniza-70ml.jpg?rlkey=xtn1rhnnmx1858lr01a0myea5&st=n9o5rsi2&dl=0",
     ],
@@ -4248,7 +4248,7 @@ const initialProducts = [
   {
     id: 227,
     name: "Hybrid SISAL 70ml.",
-    price: "2.60",
+    price: "2.70",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/08ap8eknjff6dy3bc094n/hybrid-sisal-70ml.jpg?rlkey=sir0e1of0o6loduzolozgm1a8&st=hcdune94&dl=0",
     ],
@@ -4260,7 +4260,7 @@ const initialProducts = [
   {
     id: 228,
     name: "Hybrid SOHO 70ml.",
-    price: "2.60",
+    price: "2.70",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/w4di22nwx2a9whqyaqei3/hybrid-soho-70ml.jpg?rlkey=tze3f4mx8eop88zulexzfnhvs&st=vd3k0wmd&dl=0",
     ],
@@ -4272,7 +4272,7 @@ const initialProducts = [
   {
     id: 229,
     name: "Hybrid COSTA MARFIL 70ml.",
-    price: "2.60",
+    price: "2.70",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/xwidkvupilxz9xhpzgro8/hybrid-costa-marfil-70ml.jpg?rlkey=p6cyh18n7y8qtiyarfp8ti5xb&st=xad3iilu&dl=0",
     ],
@@ -4284,7 +4284,7 @@ const initialProducts = [
   {
     id: 230,
     name: "Hybrid VAHA 70ml.",
-    price: "2.60",
+    price: "2.70",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/pkl6kkzhd2llf10z3aw8v/hybrid-vaha-70ml.jpg?rlkey=6x2d82oqcj4sg3uealnpg6p2d&st=zrsldcnj&dl=0",
     ],
@@ -4296,7 +4296,7 @@ const initialProducts = [
   {
     id: 231,
     name: "Hybrid JARDÍN TIBETANO 70ml.",
-    price: "2.60",
+    price: "2.70",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/ebetjw8sm5s3or5gviwnq/hybrid-jardin-tibetano-70ml.jpg?rlkey=f30j5244lg3hus7pmz7fc9uiz&st=4daxwjaw&dl=0",
     ],
@@ -4308,7 +4308,7 @@ const initialProducts = [
   {
     id: 232,
     name: "Hybrid PALAMO 70ml.",
-    price: "2.60",
+    price: "2.70",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/re7alqmv1ah3077k9wj1e/hybrid-palamo-70ml.jpg?rlkey=c76jj5pzzv4l50t1dgg8ug6b0&st=c9ysexis&dl=0",
     ],
@@ -4320,7 +4320,7 @@ const initialProducts = [
   {
     id: 233,
     name: "Hybrid PIEDRA 70ml.",
-    price: "2.60",
+    price: "2.70",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/hf8bvrj7a9fxl94deqrd2/hybrid-piedra-70ml.jpg?rlkey=47w2ai3gyj62fz2n1sfx4jf74&st=k8kk2b3x&dl=0",
     ],
@@ -4332,7 +4332,7 @@ const initialProducts = [
   {
     id: 234,
     name: "Hybrid AZUL OSCURO 70ml.",
-    price: "2.60",
+    price: "2.70",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/o5603cygukpob8w3ygg5k/hybrid-azul-oscuro-70ml.jpg?rlkey=q5nb4lz2uwrcuamk6dhll8rqc&st=0xkrbqx6&dl=0",
     ],
@@ -4344,7 +4344,7 @@ const initialProducts = [
   {
     id: 235,
     name: "Hybrid VERDE TREBOL 70ml.",
-    price: "2.60",
+    price: "2.70",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/dds9f3pavy6x6tkexitma/hybrid-verde-trebol-70ml.jpg?rlkey=wi68cc90l6al6rynb9bbvck7f&st=93sg5dt0&dl=0",
     ],
@@ -4356,7 +4356,7 @@ const initialProducts = [
   {
     id: 236,
     name: "Hybrid VISÓN 70ml.",
-    price: "2.60",
+    price: "2.70",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/1aanf3oh1pxtuqkzpi9dw/hybrid-vison-70ml.jpg?rlkey=1a8uwzn9ihpsiyzhmtac2s22c&st=aecehu8l&dl=0",
     ],
@@ -4368,7 +4368,7 @@ const initialProducts = [
   {
     id: 237,
     name: "Hybrid ARDUVAZ GRIS 70ml.",
-    price: "2.60",
+    price: "2.70",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/jfkf7n8vsr422nqj3xcl8/hybrid-arduvaz-gris-70ml.jpg?rlkey=wgwazyn2o3mjz5efqthdvo6d9&st=b91czthi&dl=0",
     ],
@@ -4380,7 +4380,7 @@ const initialProducts = [
   {
     id: 238,
     name: "Hybrid ROJO SANGRE 70ml.",
-    price: "2.60",
+    price: "2.70",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/yjgi04m1ca1et1oygynjw/hybrid-rojo-sangre-70ml.jpg?rlkey=s35cqyqnd1a2xcrcj5qhbmo7l&st=k0f6nu97&dl=0",
     ],
@@ -4392,7 +4392,7 @@ const initialProducts = [
   {
     id: 239,
     name: "Hybrid ROJO CARMÍN 70ml.",
-    price: "2.60",
+    price: "2.70",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/n661srzsbxh9cknx6scg6/hybrid-rojo-carmin-70ml.jpg?rlkey=vgl3d9inae93bsox50dctfvoq&st=hhkuawwg&dl=0",
     ],
@@ -4404,7 +4404,7 @@ const initialProducts = [
   {
     id: 240,
     name: "Hybrid VERDE OXFORD 70ml.",
-    price: "2.60",
+    price: "2.70",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/2g0eteozgibjx0lco1xhp/hybrid-verde-oxford-70ml.jpg?rlkey=scu99i3oo1bjs7mx93mvi7dea&st=6ehckw86&dl=0",
     ],
@@ -4416,7 +4416,7 @@ const initialProducts = [
   {
     id: 241,
     name: "Hybrid VERDE MUSGO 70ml.",
-    price: "2.60",
+    price: "2.70",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/0szonwqrcmany813kb4ob/hybrid-verde-musgo-70ml.jpg?rlkey=23p8fxraqymg88memb54qo80b&st=neh7kf1u&dl=0",
     ],
@@ -4428,7 +4428,7 @@ const initialProducts = [
   {
     id: 242,
     name: "Hybrid VERDE TILO 70ml.",
-    price: 4.0,
+    price: 4.20,
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/ni77eueofjyvhpkr9b47t/hybrid-verde-tilo-70ml.jpg?rlkey=1iwt4j8by2goqhgs5rlm57ue0&st=6i7ga5tf&dl=0",
     ],
@@ -4440,7 +4440,7 @@ const initialProducts = [
   {
     id: 243,
     name: "Hybrid SALVIA CLARA 70ml.",
-    price: "15.90",
+    price: "16.20",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/i9rrl5b9vl2pqm4ctxgx1/hybrid-salvia-clara-70ml.jpg?rlkey=ogqqdubegnbxxbuzp5oy4xw1z&st=wubie8k9&dl=0",
     ],
@@ -4452,7 +4452,7 @@ const initialProducts = [
   {
     id: 244,
     name: "Hybrid VERDE PISTACHO 70ml.",
-    price: "15.90",
+    price: "16.20",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/n7992rd1rjic04o63s95z/hybrid-verde-pistacho-70ml.jpg?rlkey=mwtakblgrmogapqwmutd1rh9c&st=fsx9186v&dl=0",
     ],
@@ -4464,7 +4464,7 @@ const initialProducts = [
   {
     id: 245,
     name: "Hybrid VERDE CLARO 70ml.",
-    price: "15.90",
+    price: "16.20",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/f6uv93eyma2v5ny8gxe44/hybrid-verde-claro-70ml.jpg?rlkey=gvaqo2k2i9pq8e894eja7sxsm&st=c63vxjx3&dl=0",
     ],
@@ -4476,7 +4476,7 @@ const initialProducts = [
   {
     id: 246,
     name: "Hybrid TURQUESA 70ml.",
-    price: "2.60",
+    price: "2.70",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/ff4bqtxc2k7lddnhz14of/hybrid-turquesa-70ml.jpg?rlkey=mxso7igsewm4wy1ctg6j0z7j8&st=lnw93c90&dl=0",
     ],
@@ -4488,7 +4488,7 @@ const initialProducts = [
   {
     id: 247,
     name: "Hybrid JARDÍN TIBETANO 500ml.",
-    price: "15.90",
+    price: "16.20",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/ms3ok23x9o9qv2a85bzwg/hybrid-jardin-tibetano-500ml.jpg?rlkey=degsq6294w36fvn5gtpxnbcxh&st=v5cfniqn&dl=0",
     ],
@@ -4500,7 +4500,7 @@ const initialProducts = [
   {
     id: 248,
     name: "Hybrid PALAMO 500ml.",
-    price: "15.90",
+    price: "16.20",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/f9hfbexbux9c5xfjjvsyt/hybrid-palamo-500ml.jpg?rlkey=lmq2ahgfv7jteumqykuyr4p3s&st=8c86u4lf&dl=0",
     ],
@@ -4512,7 +4512,7 @@ const initialProducts = [
   {
     id: 249,
     name: "Hybrid PIEDRA 500ml.",
-    price: "15.90",
+    price: "16.20",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/rxnl66rwmakprxbmni8x6/hybrid-piedra-500ml.jpg?rlkey=y6a96wcfyqq5vrzbim3ejn90w&st=w0q3gxsl&dl=0",
     ],
@@ -4524,7 +4524,7 @@ const initialProducts = [
   {
     id: 250,
     name: "Hybrid AZUL OSCURO 500ml.",
-    price: "15.90",
+    price: "16.20",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/o5603cygukpob8w3ygg5k/hybrid-azul-oscuro-70ml.jpg?rlkey=q5nb4lz2uwrcuamk6dhll8rqc&st=g7cqlf46&dl=0",
     ],
@@ -4536,7 +4536,7 @@ const initialProducts = [
   {
     id: 251,
     name: "Hybrid NEGRO 500ml.",
-    price: "15.90",
+    price: "16.20",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/jikiuoy47tm6op07r8gil/hybrid-negro-500ml.jpg?rlkey=s1s17cwmh8gsl9xren203sgbk&st=mb32f95a&dl=0",
     ],
@@ -4548,7 +4548,7 @@ const initialProducts = [
   {
     id: 252,
     name: "Hybrid VISÓN 500ml.",
-    price: "15.90",
+    price: "16.20",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/fvqq77468beefrft0mz6p/hybrid-vison-500ml.jpg?rlkey=orlb9eysvxk8qe5lwnrjg1m36&st=8gfe3ykw&dl=0",
     ],
@@ -4560,7 +4560,7 @@ const initialProducts = [
   {
     id: 253,
     name: "Hybrid PIZARRA 500ml.",
-    price: "15.90",
+    price: "16.20",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/w7vntpbrea18a3th1lbs4/hybrid-gris-pizarra-500ml.jpg?rlkey=puouro3fxtowqdpy6f8u6btbt&st=2wlmc3yi&dl=0",
     ],
@@ -4572,7 +4572,7 @@ const initialProducts = [
   {
     id: 254,
     name: "Hybrid ARDUVAZ GRIS 500ml.",
-    price: "15.90",
+    price: "16.20",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/g8poz2caweww3d38fjece/hybrid-arduvaz-gris-500ml.jpg?rlkey=a0g824e9erhsl862kk7koq5pn&st=92fcbcjp&dl=0",
     ],
@@ -4584,7 +4584,7 @@ const initialProducts = [
   {
     id: 255,
     name: "Hybrid VERDE HOJA 500ml.",
-    price: "15.90",
+    price: "16.20",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/ouqrx2fiakhu6ty3bhtw6/hybrid-verde-hoja-500ml.jpg?rlkey=pcdp87154zru511elm9ecs6z2&st=fk4yv88w&dl=0",
     ],
@@ -4596,7 +4596,7 @@ const initialProducts = [
   {
     id: 256,
     name: "Hybrid VERDE OXFORD 500ml.",
-    price: "15.90",
+    price: "16.20",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/kjvqc1leh48viabuse68z/hybrid-verde-oxford-500ml.jpg?rlkey=v25q9i0fiydtb64hpkkupocmu&st=0ubwl9bx&dl=0",
     ],
@@ -4608,7 +4608,7 @@ const initialProducts = [
   {
     id: 257,
     name: "Hybrid VERDE MUSGO 500ml.",
-    price: "15.90",
+    price: "16.20",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/x6k9zdwn6wyoxyi1yyr40/hybrid-cadence-musgo-500ml.jpg?rlkey=a7gk04n7ct57ap16rcvh6bmip&st=zepcfe9e&dl=0",
     ],
@@ -4620,7 +4620,7 @@ const initialProducts = [
   {
     id: 258,
     name: "Hybrid VERDE TILO 500ml.",
-    price: "15.90",
+    price: "16.20",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/2at51h40l8uqa3soqzmoo/hybrid-verde-tilo-500ml.jpg?rlkey=3lefr4dsdqmojs5czh4oqv6jr&st=lpg06yxl&dl=0",
     ],
@@ -4632,7 +4632,7 @@ const initialProducts = [
   {
     id: 259,
     name: "Hybrid VERDE FINO 500ml.",
-    price: "15.90",
+    price: "16.20",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/zl0ypfc9iq52eunzinsr6/hybrid-verde-fino-500ml.jpg?rlkey=uu5kesd1tfjc8uje1c90ywx7r&st=8ay3k11a&dl=0",
     ],
@@ -4644,7 +4644,7 @@ const initialProducts = [
   {
     id: 260,
     name: "Hybrid SALVIA CLARA 500ml.",
-    price: "15.90",
+    price: "16.20",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/zolbru4jx0dedkxhz23hs/hybrid-salvia-clara-500ml.jpg?rlkey=vsp4bw4keidf57xmxjb3kn7t5&st=gyedfmn0&dl=0",
     ],
@@ -4656,7 +4656,7 @@ const initialProducts = [
   {
     id: 261,
     name: "Hybrid VERDE MENTA 500ml.",
-    price: "15.90",
+    price: "16.20",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/tflxhr0sceunuqr5lteac/hybrid-verde-menta-500ml.jpg?rlkey=80maq7y7paapyup11k8evy6hr&st=in07hpf7&dl=0",
     ],
@@ -4668,7 +4668,7 @@ const initialProducts = [
   {
     id: 262,
     name: "Hybrid VERDE CLARO 500ml.",
-    price: "15.90",
+    price: "16.20",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/d1yd5in1qg1gcil8chigh/hybrid-verde-claro-500ml.jpg?rlkey=op3m4besnkslf3r5up1y00xmx&st=pmb4k46s&dl=0",
     ],
@@ -4680,7 +4680,7 @@ const initialProducts = [
   {
     id: 263,
     name: "Hybrid AZUL NAPOLEÓN 500ml.",
-    price: "15.90",
+    price: "16.20",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/qj6bjp3jyaa42c48zrull/hybrid-azul-napoleon-500ml.jpg?rlkey=bapic92vbzhm82bla8pxzphze&st=7h15f1zm&dl=0",
     ],
@@ -4692,7 +4692,7 @@ const initialProducts = [
   {
     id: 264,
     name: "Hybrid NEGRO 120ml.",
-    price: 4.0,
+    price: 4.20,
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/huvatyz12acgghs88fstq/hybrid-negro-120ml.jpg?rlkey=ntgmvyhvtws8h4d2zqmlmnl2u&st=q2t4p5h6&dl=0",
     ],
@@ -4704,7 +4704,7 @@ const initialProducts = [
   {
     id: 265,
     name: "Hybrid AZUL LAGUNA 70ml.",
-    price: "2.60",
+    price: "2.70",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/7ox35vry7ttn6r48xijdu/hybrid-azul-laguna-70ml.jpg?rlkey=d6j6qmxxmeffr15074g9ludtw&st=pny1iznh&dl=0",
     ],
@@ -4716,7 +4716,7 @@ const initialProducts = [
   {
     id: 266,
     name: "Hybrid AZUL ULTRAMARINO 70ml.",
-    price: "2.60",
+    price: "2.70",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/7tdc96nb40vwfjwquaut7/hybrid-azul-ultramarino-70ml.jpg?rlkey=k70uspt0c159udlz2fmrwv22n&st=tbtmeagb&dl=0",
     ],
@@ -4728,7 +4728,7 @@ const initialProducts = [
   {
     id: 267,
     name: "Hybrid AZUL REAL 70ml.",
-    price: "2.60",
+    price: "2.70",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/i6wa5xs72a2bmounvl8vk/hybrid-azul-real-70ml.jpg?rlkey=40tyuw5kfxqyo99k7r8p8lh0m&st=4i9h346z&dl=0",
     ],
@@ -4740,7 +4740,7 @@ const initialProducts = [
   {
     id: 268,
     name: "Hybrid AZUL BEBÉ 70ml.",
-    price: "2.60",
+    price: "2.70",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/ii7ctvzsboi5p8rah5d4j/hybrid-azul-bebe-70ml.jpg?rlkey=v661dltjgt83hpu3vxhjgtnev&st=sa934pki&dl=0",
     ],
@@ -4752,7 +4752,7 @@ const initialProducts = [
   {
     id: 269,
     name: "Hybrid MORADO 70ml.",
-    price: "2.60",
+    price: "2.70",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/6zuy9n8sq3ciwqlre7b8g/hybrid-morado-70ml.jpg?rlkey=qn9qhxuo8ila2p6iiv29crn11&st=t3cpsp0w&dl=0",
     ],
@@ -4764,7 +4764,7 @@ const initialProducts = [
   {
     id: 270,
     name: "Hybrid IRIS 70ml.",
-    price: "2.60",
+    price: "2.70",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/sptqglp13sk8aqzp6n47m/hybrid-iris-70ml.jpg?rlkey=dlxhd4jkaykikqlk8awr2kr32&st=pfd9xfuj&dl=0",
     ],
@@ -4776,7 +4776,7 @@ const initialProducts = [
   {
     id: 271,
     name: "Hybrid MALVA CLARO 70ml.",
-    price: "2.60",
+    price: "2.70",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/m26cdvdbwq5mlk6wsf2cy/hybrid-malva-claro-70ml.jpg?rlkey=g0q0htwsl2e2p1cct8itb4j27&st=xz7q1sr2&dl=0",
     ],
@@ -4788,7 +4788,7 @@ const initialProducts = [
   {
     id: 272,
     name: "Hybrid LILA CLARO 70ml.",
-    price: "2.60",
+    price: "2.70",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/1ue6qq6hlqvwnnlnt9p4n/hybrid-lila-70ml.jpg?rlkey=27fpzq35ovj8bes4dprgg6pf0&st=cuxfqwht&dl=0",
     ],
@@ -4800,7 +4800,7 @@ const initialProducts = [
   {
     id: 273,
     name: "Hybrid CAMELOT 70ml.",
-    price: "2.60",
+    price: "2.70",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/ao2lfm2dqan20qu324hlk/hybrid-camelot-70ml.jpg?rlkey=2w1ef0ke2svzdzhwkzwgmryo8&st=po8xgg95&dl=0",
     ],
@@ -4812,7 +4812,7 @@ const initialProducts = [
   {
     id: 274,
     name: "Hybrid ROSA VICTORIA 70ml.",
-    price: "2.60",
+    price: "2.70",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/m2yrmhchups9yl64z5icm/hybrid-rosa-victoria-70ml.jpg?rlkey=lze13babe2f4tdlm0w6ae16x9&st=oyslrtqz&dl=0",
     ],
@@ -4824,7 +4824,7 @@ const initialProducts = [
   {
     id: 275,
     name: "Hybrid SEDONA 70ml.",
-    price: "2.60",
+    price: "2.70",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/sisiajxqxmjk8xi1qzoa5/hybrid-sedona-70ml.jpg?rlkey=q11057a2a0wjc2x6affuz53c3&st=q47i0rrf&dl=0",
     ],
@@ -4836,7 +4836,7 @@ const initialProducts = [
   {
     id: 276,
     name: "Hybrid FLOR DE CACTUS 70ml.",
-    price: "2.60",
+    price: "2.70",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/8ahruvx12v2ro4rji5dvz/hybrid-flor-cactus-70ml.jpg?rlkey=a265a6hgcr4t8rpokjgfdrcvp&st=onzrxl1q&dl=0",
     ],
@@ -4848,7 +4848,7 @@ const initialProducts = [
   {
     id: 277,
     name: "Hybrid FUCSIA 70ml.",
-    price: "2.60",
+    price: "2.70",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/dgvq4m2r7ujec78ntypqr/hybrid-fucsia-70ml.jpg?rlkey=t2bz5as7z7t7kcfu58zan81zg&st=hzgp1w5k&dl=0",
     ],
@@ -4860,7 +4860,7 @@ const initialProducts = [
   {
     id: 278,
     name: "Hybrid ROSA BEBÉ 70ml.",
-    price: "2.60",
+    price: "2.70",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/6adif7nyw0pgy8lo6yk39/hybrid-rosa-bebe-70ml.jpg?rlkey=5wqdo87d7p93y2o20ptx2ns9q&st=4o0do77h&dl=0",
     ],
@@ -4872,7 +4872,7 @@ const initialProducts = [
   {
     id: 279,
     name: "Hybrid ROSA PÁLIDO 70ml.",
-    price: "2.60",
+    price: "2.70",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/hnnn8v1uxkiy6n2jrsp3e/hybrid-rosa-palido-70ml.jpg?rlkey=anwewepur2h4r49r6boj5tj1t&st=85cl2oda&dl=0",
     ],
@@ -4884,7 +4884,7 @@ const initialProducts = [
   {
     id: 280,
     name: "Hybrid MARRÓN COLLIER 70ml.",
-    price: 4.0,
+    price: 4.20,
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/75lf6fsrc1s4bauktsaul/hybrid-marron-colier-70ml.jpg?rlkey=kpsgssltcsuzabzxgli5qzd6w&st=ksl386b8&dl=0",
     ],
@@ -4896,7 +4896,7 @@ const initialProducts = [
   {
     id: 281,
     name: "Hybrid AVELLANA CÁLIDO 70ml.",
-    price: "15.90",
+    price: "16.20",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/cxx6wap1tnizh1pafhjpa/hybrid-avellana-calido-70ml.jpg?rlkey=y6viiw5gg7xx6zvoffp3lm17q&st=ygtgvod8&dl=0",
     ],
@@ -4908,7 +4908,7 @@ const initialProducts = [
   {
     id: 282,
     name: "Hybrid CHOCOLATE OSCURO 70ml.",
-    price: "15.90",
+    price: "16.20",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/a6k55jyk99rjg9f49tunl/hybrid-chocolate-oscuro-70ml.jpg?rlkey=cvb9s69kky90n317n5oht07x3&st=z6kos8t9&dl=0",
     ],
@@ -4920,7 +4920,7 @@ const initialProducts = [
   {
     id: 283,
     name: "Hybrid CHOCOLATE 70ml.",
-    price: "15.90",
+    price: "16.20",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/l1g2osatsmqan8negiyql/hybrid-chocolate-70ml.jpg?rlkey=ubefhs8nrhszneaiu92184t3w&st=et1bgaex&dl=0",
     ],
@@ -4932,7 +4932,7 @@ const initialProducts = [
   {
     id: 284,
     name: "Hybrid MARRÓN CÁLIDO 70ml.",
-    price: "2.60",
+    price: "2.70",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/xitkum07zrfdiuyelaqrw/hybrid-marron-calido-70ml.jpg?rlkey=jaz5njwwboa6qr79cp0n6m8lp&st=a7hz5h7z&dl=0",
     ],
@@ -4944,7 +4944,7 @@ const initialProducts = [
   {
     id: 285,
     name: "Hybrid ARAROT 70ml.",
-    price: "2.60",
+    price: "2.70",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/jf3wmm1v0wkx9dllp1xqc/hybrid-ararot-70ml.jpg?rlkey=i8ell371vt0uf7k374odtfwek&st=0c4l81rn&dl=0",
     ],
@@ -4956,7 +4956,7 @@ const initialProducts = [
   {
     id: 286,
     name: "Hybrid ÁMBAR 70ml.",
-    price: "2.60",
+    price: "2.70",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/ptyzbdq1cslxqd4x32mka/hybrid-ambar-70ml.jpg?rlkey=m0lquyy0u2nu83ce15q66ftpy&st=emxekoag&dl=0",
     ],
@@ -4968,7 +4968,7 @@ const initialProducts = [
   {
     id: 287,
     name: "Hybrid NARANJA 70ml.",
-    price: "2.60",
+    price: "2.70",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/fzc8qo1qv1k7c36l5jmg7/hybrid-naranja-70ml.jpg?rlkey=6cssfcxy4chwr5d9zrax0sfnh&st=ktwt8jyz&dl=0",
     ],
@@ -4980,7 +4980,7 @@ const initialProducts = [
   {
     id: 288,
     name: "Hybrid NARANJA CLARO 70ml.",
-    price: "2.60",
+    price: "2.70",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/0wzz00ypnss70d9yawe4c/hybrid-naranja-claro-70ml.jpg?rlkey=0mmsgosltt1z7slgjhihqmht0&st=8iwct7de&dl=0",
     ],
@@ -4992,7 +4992,7 @@ const initialProducts = [
   {
     id: 289,
     name: "Hybrid AMARILLO 70ml.",
-    price: "2.60",
+    price: "2.70",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/7b57g59pee3hbaww44wzb/hybrid-amarillo-70ml.jpg?rlkey=vedshvdbe19535kixoopo6t2n&st=ci3xaana&dl=0",
     ],
@@ -5004,7 +5004,7 @@ const initialProducts = [
   {
     id: 290,
     name: "Hybrid CARAMELO 70ml.",
-    price: "2.60",
+    price: "2.70",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/5vvja1c5tffq4lcor5iyd/hybrid-caramelo-70ml.jpg?rlkey=0yocdycvjzewflgxjaydz4cav&st=gxzq60sv&dl=0",
     ],
@@ -5016,7 +5016,7 @@ const initialProducts = [
   {
     id: 291,
     name: "Hybrid BLANCO ANTIGUO 70ml.",
-    price: "2.60",
+    price: "2.70",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/39je79wde9qsi7utzpj08/hybrid-blanco-antiguo-70ml.jpg?rlkey=v2hc6qnmouao84d9jaja0e8y2&st=vguevlim&dl=0",
     ],
@@ -5028,7 +5028,7 @@ const initialProducts = [
   {
     id: 292,
     name: "Hybrid BLANCO 70ml.",
-    price: "2.60",
+    price: "2.70",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/ltzqszt95sao4wtb5rzm3/hybrid-blanco-70ml.jpg?rlkey=lc9l9oup827aadkb9i0p92unk&st=8ri3y549&dl=0",
     ],
@@ -5040,7 +5040,7 @@ const initialProducts = [
   {
     id: 293,
     name: "Hybrid AZUL LAGUNA 500ml.",
-    price: "15.90",
+    price: "16.20",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/1w2d0osyltzth8akgwb46/hybrid-azul-laguna-500ml.jpg?rlkey=0bz6cyejvle2jal3ooguah9pr&st=gmpcbi50&dl=0",
     ],
@@ -5052,7 +5052,7 @@ const initialProducts = [
   {
     id: 294,
     name: "Hybrid AZUL ULTRAMARINO 500ml.",
-    price: "15.90",
+    price: "16.20",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/yj25ag2hevw19zm9h33oa/hybrid-azul-ultramarino-500ml.jpg?rlkey=7g3vr9r62u02katrrmzhqo13j&st=pxdn9rxc&dl=0",
     ],
@@ -5064,7 +5064,7 @@ const initialProducts = [
   {
     id: 295,
     name: "Hybrid AZUL BEBÉ 500ml.",
-    price: "15.90",
+    price: "16.20",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/m4xquh3yqtfig7xzjb9rt/hybrid-azul-bebe-500ml.jpg?rlkey=f76hjq2s0tbb236d2nuss99xz&st=ifw633bh&dl=0",
     ],
@@ -5076,7 +5076,7 @@ const initialProducts = [
   {
     id: 296,
     name: "Hybrid MALVA CLARO 500ml.",
-    price: "15.90",
+    price: "16.20",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/7qcq45ozn0nhaw1ztgfu8/hybrid-malva-claro-500ml.jpg?rlkey=5r11fek10te68ggr4fpeurupr&st=2v7q7ncs&dl=0",
     ],
@@ -5088,7 +5088,7 @@ const initialProducts = [
   {
     id: 297,
     name: "Hybrid LILA CLARO 500ml.",
-    price: "15.90",
+    price: "16.20",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/uvlwbqux4eszm7x9xi0fe/hybrid-lila-claro-500ml.jpg?rlkey=8dg44bx124tjg0mewvt8gi9pn&st=bs92audh&dl=0",
     ],
@@ -5100,7 +5100,7 @@ const initialProducts = [
   {
     id: 298,
     name: "Hybrid CAMELOT 500ml.",
-    price: "15.90",
+    price: "16.20",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/4or3kglaggvn2ffjm2bx0/hybrid-camelot-500ml.jpg?rlkey=cdkwua7dqbsfigx7dlsioaao2&st=d5fuzpat&dl=0",
     ],
@@ -5112,7 +5112,7 @@ const initialProducts = [
   {
     id: 299,
     name: "Hybrid ROSA VICTORIA 500ml.",
-    price: "15.90",
+    price: "16.20",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/5m1a9yhgqtqkkz5r8p9n1/hybrid-rosa-victoria-500ml.jpg?rlkey=ruby4vho3pfvq367grzoclsq8&st=jqmmodv3&dl=0",
     ],
@@ -5124,7 +5124,7 @@ const initialProducts = [
   {
     id: 300,
     name: "Hybrid SEDONA 500ml.",
-    price: "15.90",
+    price: "16.20",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/gisusog2exub4ajkbkhfp/hybrid-sedona-500ml.jpg?rlkey=voqrjm5h0zekjo5myhdalz5w8&st=rexyi805&dl=0",
     ],
@@ -5136,7 +5136,7 @@ const initialProducts = [
   {
     id: 301,
     name: "Hybrid FLOR DE CACTUS 500ml.",
-    price: "15.90",
+    price: "16.20",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/9e0549j90kmcha8bfauvf/hybrid-flor-cactus-500ml.jpg?rlkey=6gag6s6fz9z3de029i0gjwryz&st=9w2emluz&dl=0",
     ],
@@ -5148,7 +5148,7 @@ const initialProducts = [
   {
     id: 302,
     name: "Hybrid ROSA BEBÉ 500ml.",
-    price: "15.90",
+    price: "16.20",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/rb470k3e97uryv79bg97b/hybrid-rosa-bebe-500ml.jpg?rlkey=mk9wyu4jiqwq4cglkdzkozimk&st=ocmjlstw&dl=0",
     ],
@@ -5160,7 +5160,7 @@ const initialProducts = [
   {
     id: 303,
     name: "Hybrid ROSA PÁLIDO 500ml.",
-    price: "15.90",
+    price: "16.20",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/qe3gy71qd0geagwg0jmwd/hybrid-rosa-palido-500ml.jpg?rlkey=9nhcfue9o9z64119pzflvliup&st=c1mycki9&dl=0",
     ],
@@ -5172,7 +5172,7 @@ const initialProducts = [
   {
     id: 304,
     name: "Hybrid MARRÓN COLLIER 500ml.",
-    price: "15.90",
+    price: "16.20",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/gyq3o2764v3py5an4w7f0/hybrid-marron-colier-500ml.jpg?rlkey=1gtu7jkq896xn0natbbordnq6&st=whnn1yhc&dl=0",
     ],
@@ -5184,7 +5184,7 @@ const initialProducts = [
   {
     id: 305,
     name: "Hybrid AVELLANA CÁLIDO 500ml.",
-    price: "15.90",
+    price: "16.20",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/o1qbbxub68q5g18ltvlnj/hybrid-avellana-calido-500ml.jpg?rlkey=39pujxgjjnbm9dn943qestz4w&st=i4hyl8qw&dl=0",
     ],
@@ -5196,7 +5196,7 @@ const initialProducts = [
   {
     id: 306,
     name: "Hybrid CHOCOLATE OSCURO 500ml.",
-    price: "15.90",
+    price: "16.20",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/zijf5ifiz4p1ntdobd9l6/hybrid-chocolate-oscuro-500ml.jpg?rlkey=qyfuwsfrbhw5k2s95e8j4umqk&st=lofz2aj7&dl=0",
     ],
@@ -5208,7 +5208,7 @@ const initialProducts = [
   {
     id: 307,
     name: "Hybrid CHOCOLATE 500ml.",
-    price: "15.90",
+    price: "16.20",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/k2ala72b0py0p2srqe0s9/hybrid-chocolate-500ml.jpg?rlkey=wa7ermd63va4gn3diulrlgy0k&st=751b1x68&dl=0",
     ],
@@ -5220,7 +5220,7 @@ const initialProducts = [
   {
     id: 308,
     name: "Hybrid MARRÓN CÁLIDO 500ml.",
-    price: "15.90",
+    price: "16.20",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/l1g2osatsmqan8negiyql/hybrid-chocolate-70ml.jpg?rlkey=ubefhs8nrhszneaiu92184t3w&st=0fq2u7jp&dl=0",
     ],
@@ -5232,7 +5232,7 @@ const initialProducts = [
   {
     id: 309,
     name: "Hybrid ARAROT 500ml.",
-    price: "15.90",
+    price: "16.20",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/dih5scb65cko8tykv80dd/hybrid-ararot-500ml.jpg?rlkey=x26v7lfmr1vrawxidyb5m7gud&st=r7t8kx1j&dl=0",
     ],
@@ -5244,7 +5244,7 @@ const initialProducts = [
   {
     id: 310,
     name: "Hybrid ÁMBAR 500ml.",
-    price: "15.90",
+    price: "16.20",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/ghfhwkyf4uif7a5ke2ppi/hybrid-ambar-500ml.jpg?rlkey=knyz4nu6bk2pkivfid2fgjbmp&st=b5jahyee&dl=0",
     ],
@@ -5256,7 +5256,7 @@ const initialProducts = [
   {
     id: 311,
     name: "Hybrid NARANJA 500ml.",
-    price: "15.90",
+    price: "16.20",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/4wd5g7ylxh0r1o6z9nik0/hybrid-naranja-500ml.jpg?rlkey=yqusmy9wl2qq3k5qkc90lsq02&st=wfdjodpg&dl=0",
     ],
@@ -5268,7 +5268,7 @@ const initialProducts = [
   {
     id: 312,
     name: "Hybrid NARANJA CLARO 500ml.",
-    price: "15.90",
+    price: "16.20",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/7t84mq0oynbzrjd89rt3o/hybrid-naranja-claro-500ml.jpg?rlkey=bx6skvcl8x8jstdg5v5vky6dl&st=9l9jziav&dl=0",
     ],
@@ -5280,7 +5280,7 @@ const initialProducts = [
   {
     id: 313,
     name: "Hybrid AMARILLO 500ml.",
-    price: "15.90",
+    price: "16.20",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/ua8uw6ys40be7b3udjwxm/hybrid-amarillo-500ml.jpg?rlkey=krxm7h1tpldgd7xsewtq560xc&st=al7cnlmd&dl=0",
     ],
@@ -5292,7 +5292,7 @@ const initialProducts = [
   {
     id: 314,
     name: "Hybrid ENCAJE 500ml.",
-    price: "15.90",
+    price: "16.20",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/da8b25kwsgz6u6d1w175r/hybrid-encaje-500ml.jpg?rlkey=vsurv4w50iyi7zcj7elmjqbbv&st=fs5cdxqf&dl=0",
     ],
@@ -5304,7 +5304,7 @@ const initialProducts = [
   {
     id: 315,
     name: "Hybrid CARAMELO 500ml.",
-    price: "15.90",
+    price: "16.20",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/nsqeyveab0viazd6tw3fc/hybrid-caramelo-500ml.jpg?rlkey=3g9kw1sw3p5wvx5fw1w8oyan8&st=ck9l19m1&dl=0",
     ],
@@ -5316,7 +5316,7 @@ const initialProducts = [
   {
     id: 316,
     name: "Hybrid ENCAJE 120ml.",
-    price: 4.0,
+    price: 4.20,
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/ot64hlq0qbxt3dvhfpo00/hybrid-encaje-120ml.jpg?rlkey=4kjsdbaxc3wvbzj48a5bm8eui&st=745vg90l&dl=0",
     ],
@@ -5328,7 +5328,7 @@ const initialProducts = [
   {
     id: 317,
     name: "Hybrid CARAMELO 120ml.",
-    price: 4.0,
+    price: 4.20,
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/hjjknqic2m488qh4g556m/hybrid-caramelo-120ml.jpg?rlkey=3vam07a0kbsswmkuthokoo4tb&st=t032ssdr&dl=0",
     ],
@@ -5340,7 +5340,7 @@ const initialProducts = [
   {
     id: 318,
     name: "Hybrid BLANCO ANTIGUO 120ml.",
-    price: 4.0,
+    price: 4.20,
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/ev6izui6h3sl2c5vbs8si/hybrid-blanco-antiguo-120ml.jpg?rlkey=a1tj2z7rw46gzymquqzm5pgqk&st=vesjd2nt&dl=0",
     ],
@@ -5352,7 +5352,7 @@ const initialProducts = [
   {
     id: 319,
     name: "Hybrid GRIS PIZARRA OSCURO 500ml.",
-    price: "15.90",
+    price: "16.20",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/w7vntpbrea18a3th1lbs4/hybrid-gris-pizarra-500ml.jpg?rlkey=puouro3fxtowqdpy6f8u6btbt&st=chn40fxe&dl=0",
     ],
@@ -5364,7 +5364,7 @@ const initialProducts = [
   {
     id: 320,
     name: "Hybrid Metallic NUEZ 70ml.",
-    price: "3.30",
+    price: "3.40",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/p9p0lw6p8j060i2pc6n21/hybrid-metallic-cadence-nuez.jpg?rlkey=6761jlhwd4ho8kswgkhwmlgt1&st=e00mkw73&dl=0",
     ],
@@ -5376,7 +5376,7 @@ const initialProducts = [
   {
     id: 321,
     name: "Hybrid Metallic LILA 70ml.",
-    price: "3.30",
+    price: "3.40",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/85exwovk0x4d0rh06omdi/hybrid-metallic-cadence-lila.jpg?rlkey=lg79bbi6sdjwruf4b2b7pvhd6&st=u1hmrpqo&dl=0",
     ],
@@ -5388,7 +5388,7 @@ const initialProducts = [
   {
     id: 322,
     name: "Hybrid Metallic AZUL BEBÉ 70ml.",
-    price: "3.30",
+    price: "3.40",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/1cvicd3gjjx5sphc67ocg/hybrid-metallic-cadence-azulbebe.jpg?rlkey=ygvra1yjkem7pcxgmevuj2ppf&st=gjhg72j6&dl=0",
     ],
@@ -5400,7 +5400,7 @@ const initialProducts = [
   {
     id: 323,
     name: "Hybrid Metallic ROSA BEBÉ 70ml.",
-    price: "3.30",
+    price: "3.40",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/sjjqiv7e912e3i6hzkk2f/hybrid-metallic-cadence-rosabebe.jpg?rlkey=aot7178x4so06jy33e28k8on4&st=r3u9g35x&dl=0",
     ],
@@ -5412,7 +5412,7 @@ const initialProducts = [
   {
     id: 324,
     name: "Hybrid Metallic PLATINO 70ml.",
-    price: "3.30",
+    price: "3.40",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/xw48sbi5aurz9okmdgxjc/hybrid-metallic-cadence-platino.jpg?rlkey=97mqbhtfyvjk3bwlq0pji9bfd&st=rgi4d166&dl=0",
     ],
@@ -5424,7 +5424,7 @@ const initialProducts = [
   {
     id: 325,
     name: "Hybrid Metallic BRONCE 70ml.",
-    price: "3.30",
+    price: "3.40",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/f4v093nkfskebyfh7n5g6/hybrid-metallic-cadence-bronce.jpg?rlkey=85biu824rz3mqbxmfovrddelk&st=a6y8pgi5&dl=0",
     ],
@@ -5436,7 +5436,7 @@ const initialProducts = [
   {
     id: 326,
     name: "Hybrid Metallic PLATA 70ml.",
-    price: "3.30",
+    price: "3.40",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/9dh7y1egdu77owh7cl6pb/hybrid-metallic-cadence-plata.jpg?rlkey=flc8b30m8626zyssbiinsqd2z&st=o6g9t8g6&dl=0",
     ],
@@ -5448,7 +5448,7 @@ const initialProducts = [
   {
     id: 327,
     name: "Hybrid Metallic CHAMPÁN 70ml.",
-    price: "3.30",
+    price: "3.40",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/mtrdbe2mfmixdolsi9yll/hybrid-metallic-cadence-champan-120.jpg?rlkey=g28n6w2djsn9nam3rflm5xy2p&st=qgkfoiaf&dl=0",
     ],
@@ -5460,7 +5460,7 @@ const initialProducts = [
   {
     id: 328,
     name: "Hybrid Metallic PERLA 70ml.",
-    price: "3.30",
+    price: "3.40",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/0x8l2ackq8oq89nwsefrj/hybrid-metallic-cadence-perla.jpg?rlkey=6hkyirf8ub7iv4ezlz80ra41t&st=y81gfmlm&dl=0",
     ],
@@ -5472,7 +5472,7 @@ const initialProducts = [
   {
     id: 329,
     name: "Hybrid Metallic ORO VIEJO 70ml.",
-    price: "3.30",
+    price: "3.40",
     images: ["https://i.ibb.co/JKB45bp/hybrid-metallic-cadence-oroviejo.jpg"],
     label: "70 ml.",
     description:
@@ -5482,7 +5482,7 @@ const initialProducts = [
   {
     id: 330,
     name: "Hybrid Metallic ORO 70ml.",
-    price: "3.30",
+    price: "3.40",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/6tgodn11cqst0ylb2hyhe/hybrid-metallic-cadence-oro.jpg?rlkey=8z6fraqx43jrsqy46cfk6md09&st=nornb28u&dl=0",
     ],
@@ -5494,7 +5494,7 @@ const initialProducts = [
   {
     id: 331,
     name: "Hybrid Metallic TOPACIO 70ml.",
-    price: "3.30",
+    price: "3.40",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/kn5e64mr5rx6w8ixadcyt/hybrid-metallic-cadence-topacio-70.jpg?rlkey=ejysmhb8g6vsrq9iq8a7lrzua&st=p01vjwt5&dl=0",
     ],
@@ -5506,7 +5506,7 @@ const initialProducts = [
   {
     id: 332,
     name: "Hybrid Metallic COBRE ANTIGUO OSCURO 70ml.",
-    price: "3.30",
+    price: "3.40",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/blul3jkdioa8sgaq6vh32/hybrid-metallic-cadence-cobreantiguo-70.jpg?rlkey=fh51oqkibhtngbr6uq395nzd7&st=o1rqajmu&dl=0",
     ],
@@ -5518,7 +5518,7 @@ const initialProducts = [
   {
     id: 333,
     name: "Hybrid Metallic MORADO ANTIGUO 70ml.",
-    price: "3.30",
+    price: "3.40",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/6ti3czpbfn7ati55xbeis/hybrid-metallic-cadence-moradoantiguo-70.jpg?rlkey=6hxe3fmh2hh6dhxxilrw05lov&st=z4va5p8b&dl=0",
     ],
@@ -5530,7 +5530,7 @@ const initialProducts = [
   {
     id: 334,
     name: "Hybrid Metallic ROJO ANTIGUO 70ml.",
-    price: "3.30",
+    price: "3.40",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/6k1i8ytd0ibmpflw52ovb/hybrid-metallic-cadence-rojoantiguo-70.jpg?rlkey=bylwag5u3ncrk400odhhen7sn&st=ijmy885u&dl=0",
     ],
@@ -5542,7 +5542,7 @@ const initialProducts = [
   {
     id: 335,
     name: "Hybrid Metallic ANTRACITA ANTIGUA 70ml.",
-    price: "3.30",
+    price: "3.40",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/0gbylqw7ku107cue92g3f/hybrid-metallic-cadence-antracitantigua-70.jpg?rlkey=7sk8etgaiprbqh6gmm4u9vt0t&st=1p5tywtn&dl=0",
     ],
@@ -5554,7 +5554,7 @@ const initialProducts = [
   {
     id: 336,
     name: "Hybrid Metallic ORO OSCURO 70ml.",
-    price: "3.30",
+    price: "3.40",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/mjzrlk1acat1kq1k60j4e/hybrid-metallic-cadence-oroscuro-70.jpg?rlkey=m2aog2szttoi0i9erqumx413v&st=v9va64b7&dl=0",
     ],
@@ -5566,7 +5566,7 @@ const initialProducts = [
   {
     id: 337,
     name: "Hybrid Metallic NEGRO 70ml.",
-    price: "3.30",
+    price: "3.40",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/w49nvg96brkpvz9kdi5hw/hybrid-metallic-cadence-negro-70.jpg?rlkey=eft8xy6ri0sv8dcf7pfdyy112&st=w651hqnn&dl=0",
     ],
@@ -5578,7 +5578,7 @@ const initialProducts = [
   {
     id: 338,
     name: "Hybrid Metallic ZAFIRO 70ml.",
-    price: "3.30",
+    price: "3.40",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/47mf62z0kp7uhn8i7562x/hybrid-metallic-cadence-zafiro-70.jpg?rlkey=6ppjkggfwuh4jl4c36fclh93o&st=swo9x1k4&dl=0",
     ],
@@ -5590,7 +5590,7 @@ const initialProducts = [
   {
     id: 339,
     name: "Hybrid Metallic TURQUESA 70ml.",
-    price: "3.30",
+    price: "3.40",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/ty8oys54dc76qmok3s6i2/hybrid-metallic-cadence-turquesa-70.jpg?rlkey=5v1bnwe7bgi3rmfm9qcssgboa&st=rx0s2rvr&dl=0",
     ],
@@ -5602,7 +5602,7 @@ const initialProducts = [
   {
     id: 340,
     name: "Hybrid Metallic COBRE 70ml.",
-    price: "3.30",
+    price: "3.40",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/rhb1w26ty411hpd13st6z/hybrid-metallic-cadence-cobre-70.jpg?rlkey=z642qn7lbiqtpy4r3hxmh836t&st=1cojlacu&dl=0",
     ],
@@ -5614,7 +5614,7 @@ const initialProducts = [
   {
     id: 341,
     name: "Hybrid Metallic ORO OSCURO 120ml.",
-    price: "5.30",
+    price: "5.70",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/oy6qj2s2mcy0fp4115w9a/hybrid-metallic-cadence-oroscuro-120.jpg?rlkey=j0k1qfj1cfnnihgs5x0iq7zzo&st=n4ulzt4y&dl=0",
     ],
@@ -5626,7 +5626,7 @@ const initialProducts = [
   {
     id: 342,
     name: "Hybrid Metallic PLATINO 120ml.",
-    price: "5.30",
+    price: "5.70",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/x74qk63mqwdin6094cj7z/hybrid-metallic-cadence-platino-120.jpg?rlkey=a41bnrahg9ogm7kgxv9msj3mi&st=qsaqdwj7&dl=0",
     ],
@@ -5638,7 +5638,7 @@ const initialProducts = [
   {
     id: 343,
     name: "Hybrid Metallic PLATA 120ml.",
-    price: "5.30",
+    price: "5.70",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/msqmr4ubes5iyy5o3kcod/hybrid-metallic-cadence-plata-120.jpg?rlkey=ep4fdkwoaobnsms8gtm7m5ij6&st=i0fcne7d&dl=0",
     ],
@@ -5650,7 +5650,7 @@ const initialProducts = [
   {
     id: 344,
     name: "Hybrid Metallic CHAMPÁN 120ml.",
-    price: "5.30",
+    price: "5.70",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/mtrdbe2mfmixdolsi9yll/hybrid-metallic-cadence-champan-120.jpg?rlkey=g28n6w2djsn9nam3rflm5xy2p&st=60ppirja&dl=0",
     ],
@@ -5662,7 +5662,7 @@ const initialProducts = [
   {
     id: 345,
     name: "Hybrid Metallic PERLA 120ml.",
-    price: "5.30",
+    price: "5.70",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/6xwjtz8cxbnqa51qfkinx/hybrid-metallic-cadence-perla-120.jpg?rlkey=gy84zmktcotnbghd1skqajojg&st=60b8kemz&dl=0",
     ],
@@ -5674,7 +5674,7 @@ const initialProducts = [
   {
     id: 346,
     name: "Hybrid Metallic ORO VIEJO 120ml.",
-    price: "5.30",
+    price: "5.70",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/gxmzc1elkum3mrhlrg2ng/hybrid-metallic-cadence-orobiejo-120.jpg?rlkey=vgs4vxi2rs6dgu8q1siojswi2&st=k9qm9zcy&dl=0",
     ],
@@ -5686,7 +5686,7 @@ const initialProducts = [
   {
     id: 347,
     name: "Hybrid Metallic ORO 120ml.",
-    price: "5.30",
+    price: "5.70",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/h9fw8rnjnmyesma1t0aoq/hybrid-metallic-cadence-oro-120.jpg?rlkey=27j2lt6h5hwycbuzn2rua8h8f&st=rtfx4zwp&dl=0",
     ],
@@ -5698,7 +5698,7 @@ const initialProducts = [
   {
     id: 557,
     name: "Caja DM Asa 14x12x20cm",
-    price: "16.80",
+    price: "21.40",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/dql0knxgfq4lqo9hafeqt/caja-dm-asa-14x12x20-cms.jpg?rlkey=igdqk946gcurjsnts5f35rysi&st=kxxpnysa&dl=0",
     ],
@@ -5722,7 +5722,7 @@ const initialProducts = [
   {
     id: 559,
     name: "Joyero 9 cajones 37.5x15.5x20cm",
-    price: "39.90",
+    price: "48.75",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/3g9c3mggp9o2r0wtcznjo/joyero-9-cajones-375x155x20-cm.jpg?rlkey=hze4axfipkpqniehr3wiap1ix&st=emt778l2&dl=0",
     ],
@@ -5733,7 +5733,7 @@ const initialProducts = [
   {
     id: 560,
     name: "Caja con patas 28x18x21cm",
-    price: "20.90",
+    price: "22.25",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/6e5ukpgw1dxki0rit7f5f/caja-patas-28x18x21-cm.jpg?rlkey=jnipfpsatknmo9h7gocgucw26&st=v78ca6ol&dl=0",
     ],
@@ -5744,7 +5744,7 @@ const initialProducts = [
   {
     id: 561,
     name: "Mueble 3 cajones Silvia 34x15x28cm",
-    price: "39.90",
+    price: "46.80",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/tlc9r694qppi7lrqcite5/mueble-3-cajones-silvia.jpg?rlkey=9ntk9a81nqmrarqr25i2q9p80&st=vnr4xmww&dl=0",
     ],
@@ -5767,7 +5767,7 @@ const initialProducts = [
   {
     id: 563,
     name: "Caja libro 21x17x5.3cm",
-    price: "8.50",
+    price: "11.60",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/u2nvxwz9rbdc890da1srl/caja-libro-21x17x53-cms.jpg?rlkey=gpxewex3h97tf0hnm3zw2l9uc&st=18reidpc&dl=0",
     ],
@@ -5778,7 +5778,7 @@ const initialProducts = [
   {
     id: 564,
     name: "Revistero 2 Espacios DM 38x41x18.5cm",
-    price: "27.10",
+    price: "29.90",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/xskfe5q28qotdwpau2ux1/revistero-2-espacios-dm.jpg?rlkey=pqdch94t69jx5fgjh7bnyfmep&st=eykvdmnw&dl=0",
     ],
@@ -5789,7 +5789,7 @@ const initialProducts = [
   {
     id: 565,
     name: "Huevera DM 12 unidades 25x13x34cm",
-    price: "19.90",
+    price: "27.20",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/44b3d3qedyw8hcjmoxjop/huevera-dm-12-unid.jpg?rlkey=gsyx8tz6v3gbl08kj7zi14kq4&st=qwurermy&dl=0",
     ],
@@ -5801,7 +5801,7 @@ const initialProducts = [
   {
     id: 566,
     name: "Pongotodo III 19x15x18cm",
-    price: "17.10",
+    price: "19.30",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/str794y5t1ywjq0y55y8p/Pongotodo-III.jpg?rlkey=t5viokrdbxgmklzx2oa8x2i93&st=zphrajwh&dl=0",
     ],
@@ -5813,7 +5813,7 @@ const initialProducts = [
   {
     id: 567,
     name: "Pongotodo II 21x17x20cm",
-    price: "20.60",
+    price: "26.40",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/2eoze8pax7wrz7z905lx3/Pongotodo-2-divisiones.jpg?rlkey=lv203nlks9hvbh0p1ylym029u&st=806k1i92&dl=0",
     ],
@@ -5825,7 +5825,7 @@ const initialProducts = [
   {
     id: 568,
     name: "Archivador Con Cajón 22x21x36cm",
-    price: "29.50",
+    price: "32.60",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/1rlqx8fqujsw0k3a1sqks/Archivador-con-cajon.jpg?rlkey=m91ssrbrp74idugb3gypnkfw6&st=f211gv4e&dl=0",
     ],
@@ -5849,7 +5849,7 @@ const initialProducts = [
   {
     id: 570,
     name: "Organizador Giratorio 22x26x22cm",
-    price: "32.50",
+    price: "35.00",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/487axgfcfdy9yq911o70i/madera-cadence-1.jpg?rlkey=vnst9bxmz8im9dze35vlkuv3n&st=eolb2xul&dl=0",
     ],
@@ -5860,7 +5860,7 @@ const initialProducts = [
   {
     id: 571,
     name: "Caja Combada 18x18x12cm",
-    price: "17.10",
+    price: "23.20",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/e5d5y3du3th5jgl3vraye/madera-cadence-2.jpg?rlkey=1jd4y33zreso4ulcmu8nwk8b1&st=8adn3iub&dl=0",
     ],
@@ -5871,7 +5871,7 @@ const initialProducts = [
   {
     id: 572,
     name: "Set Bandejas DM 45x34x5.5cm",
-    price: "24.80",
+    price: "31.00",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/aazbu8m9zy414imeklxun/madera-dm-cadence.jpg?rlkey=xwu25qott5jfmc5mw7016isyq&st=qc8xm2gm&dl=0",
     ],
@@ -5882,7 +5882,7 @@ const initialProducts = [
   {
     id: 573,
     name: "Set 2 Bandejas DM 43x30x7cm 34x25x7cm",
-    price: "15.00",
+    price: "20.90",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/pueum9iuwd9eb44365nkj/set-3-bandejas-dm-cadence.jpg?rlkey=2mg06dfevqmknxyu4pqmr7s6z&st=4e38zp4c&dl=0",
     ],
@@ -5893,7 +5893,7 @@ const initialProducts = [
   {
     id: 574,
     name: "Set 3 Bandejas DM 30x40x3cm 25x35x2.5cm 20x30x2.5cm",
-    price: "20.10",
+    price: "25.30",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/oso16pz44m2jpcs6yp4gz/set-3-bandejas-dm-cadence-1.jpg?rlkey=6la7z32tmjpdim7xodql3xbmw&st=4yq3s7wn&dl=0",
     ],
@@ -6120,7 +6120,7 @@ const initialProducts = [
   {
     id: 1007,
     name: "HEAT TRANSFER MEDIUM 90 ml.",
-    price: "5.70",
+    price: "5.95",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/uhj5p9fgf1g3zr33nxfj4/heat-transfer-medium-90ml.jpg?rlkey=8o0gobu90npwgup6cgdfzdco6&st=orjlar9e&dl=0",
     ],
@@ -6204,7 +6204,7 @@ const initialProducts = [
   {
     id: 1052,
     name: "TSC055-1 Papeles ROSSI 50x70cm, 2 uds.",
-    price: "5.30",
+    price: "5.70",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/t88lr0yypi95auh3qiui3/papeles-rossi-50x70cm-2-uds-TSC055-1.jpg?rlkey=yn53ogdg23m0vwe4jx5rwrxmf&st=mysiz2s0&dl=0",
     ],
@@ -6229,7 +6229,7 @@ const initialProducts = [
   {
     id: 1054,
     name: "TSC057 Papeles ROSSI 50x70cm, 2 uds.",
-    price: "5.30",
+    price: "5.70",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/rk5vgv6csrtmso17pe0zv/papeles-rossi-50x70-cm-2-uds-TSC057.jpg?rlkey=y91ncn1x5m2u9u4l4dkhc0rzg&st=noddpnm1&dl=0",
     ],
@@ -6254,7 +6254,7 @@ const initialProducts = [
   {
     id: 1056,
     name: "CRT678 Papeles ROSSI 50x70cm, 2 uds.",
-    price: "5.30",
+    price: "5.70",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/3ohbc0gax0c3hylx3gwuv/papeles-rossi-50x70-cm-2-uds-CRT678.jpg?rlkey=4zleg8v10co0iwst5vivvnttd&st=a6o1znbh&dl=0",
     ],
@@ -6302,7 +6302,7 @@ const initialProducts = [
   {
     id: 1060,
     name: "CRT675 Papeles ROSSI 50x70cm, 2 uds.",
-    price: "5.30",
+    price: "5.70",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/4swqmwthsn2htr0t7cqpn/papeles-rossi-50x70-cm-2-uds-CRT675.jpg?rlkey=1884r7t2srttex9oyas9z73t1&st=r3tzf0qj&dl=0",
     ],
@@ -6351,7 +6351,7 @@ const initialProducts = [
   {
     id: 1064,
     name: "CRT684 Papeles ROSSI 50x70cm, 2 uds.",
-    price: "5.30",
+    price: "5.70",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/mjvcbereocpnsgbk63ims/papeles-rossi-70x100-cm-2-uds-CRT684.jpg?rlkey=tg5tsg4meqrkzxonkl066hno4&st=6g0ygrtc&dl=0",
     ],
@@ -6399,7 +6399,7 @@ const initialProducts = [
   {
     id: 1068,
     name: "CRT687 Papeles ROSSI 50x70cm, 2 uds.",
-    price: "5.30",
+    price: "5.70",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/jh2z07nbjw2jq73920gny/rollo-2-papeles-rossi-CRT687.jpg?rlkey=8afuqiluyjfb8ulikau3esfrb&st=nnhxvtdh&dl=0",
     ],
@@ -6411,7 +6411,7 @@ const initialProducts = [
   {
     id: 1069,
     name: "TSC019 Papeles ROSSI 50x70cm, 2 uds.",
-    price: "5.30",
+    price: "5.70",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/r2mtejjfhk97r0jtc5kkf/rollo-2-papeles-rossi-TSC019.jpg?rlkey=xatetvm8vtmd3k64lmvc8juw3&st=erhak7n4&dl=0",
     ],
@@ -6424,7 +6424,7 @@ const initialProducts = [
   {
     id: 1070,
     name: "TSC037 Papeles ROSSI 50x70cm, 2 uds.",
-    price: "5.30",
+    price: "5.70",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/qhd3vohrlnr2sxg2dx54i/rollo-2-papeles-rossi-TSC037.jpg?rlkey=73jytbf3bx5crvq12rkq9v2og&st=o03pilxe&dl=0",
     ],
@@ -6437,7 +6437,7 @@ const initialProducts = [
   {
     id: 1071,
     name: "TSC042 Papeles ROSSI 50x70cm, 2 uds.",
-    price: "5.30",
+    price: "5.70",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/nblotuvs8lhx27whc05wa/rollo-2-papeles-rossi-TSC042.jpg?rlkey=msa5z543r5zllquzrtqe55ycj&st=8hshd9ad&dl=0",
     ],
@@ -6461,7 +6461,7 @@ const initialProducts = [
   {
     id: 1073,
     name: "CRT517 Papeles ROSSI 50x70cm, 2 uds.",
-    price: "5.30",
+    price: "5.70",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/zzqp0blrh7427sr27xf4v/rollo-2-papeles-rossi-CRT517.jpg?rlkey=8zdlpggjhz8ic0k2brb1cdlgk&st=d62t2u0e&dl=0",
     ],
@@ -6473,7 +6473,7 @@ const initialProducts = [
   {
     id: 1074,
     name: "CRT670 Papeles ROSSI 50x70cm, 2 uds.",
-    price: "5.30",
+    price: "5.70",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/vlcgol5womh88pv4ft021/rollo-2-papeles-rossi-CRT670.jpg?rlkey=asjkjf0b0euv2btnp7w0yeaxm&st=n9zau6x4&dl=0",
     ],
@@ -6485,7 +6485,7 @@ const initialProducts = [
   {
     id: 1075,
     name: "CRT679 Papeles ROSSI 50x70cm, 2 uds.",
-    price: "5.30",
+    price: "5.70",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/lfiu0ejxgije62kldmhfh/rollo-2-papeles-rossi-CRT679.jpg?rlkey=i72tv7ltcye1fbb0hszj8j0fk&st=5za1rws2&dl=0",
     ],
@@ -6606,7 +6606,7 @@ const initialProducts = [
   {
     id: 1085,
     name: "CRT519 Papeles ROSSI 50x70cm, 2 uds.",
-    price: "5.30",
+    price: "5.70",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/98sb4pc78amz7qcc666qm/rollo-2-papeles-rossi-CRT519.jpg?rlkey=shgmuw8nwv2dmb85pcot2s9do&st=yr77mwd5&dl=0",
     ],
@@ -6618,7 +6618,7 @@ const initialProducts = [
   {
     id: 1086,
     name: "CRT685 Papeles ROSSI 50x70cm, 2 uds.",
-    price: "5.30",
+    price: "5.70",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/pn0vtr6b95xqbp6nc22ou/rollo-2-papeles-rossi-CRT685.jpg?rlkey=1e7bdgom4hdhoufa4aeek5hzk&st=673ybnr2&dl=0",
     ],
@@ -7258,7 +7258,7 @@ const initialProducts = [
   {
     id: 535,
     name: "Marrón DISTRESS PASTE 150ml.",
-    price: "5.85",
+    price: "6.10",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/5nt9gfx4ec3gelm2dmn9x/distress-paste-negro-hollin.jpg?rlkey=g1h2a2bv4h1spvxlpqodhneue&st=j4nwf5l0&dl=0",
     ],
@@ -7270,7 +7270,7 @@ const initialProducts = [
   {
     id: 536,
     name: "Negro Hollín DISTRESS PASTE 150ml.",
-    price: "5.85",
+    price: "6.10",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/clbwhrntouv48o4fedtvl/distress-paste-negro-hollin-1.jpg?rlkey=rul61n5r23c1dc46jdlaf7rgj&st=fa7s4o1p&dl=0",
     ],
@@ -7282,7 +7282,7 @@ const initialProducts = [
   {
     id: 537,
     name: "Burdeos Antiguo DISTRESS PASTE 150ml.",
-    price: "5.85",
+    price: "6.10",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/jk6slpcdfzz02vvqfsgzq/distress-paste-burdeos-antiguo.jpg?rlkey=b3o6sde6g1d0j8j4nai849tsv&st=1blysjjq&dl=0",
     ],
@@ -7294,7 +7294,7 @@ const initialProducts = [
   {
     id: 538,
     name: "Verde Pino DISTRESS PASTE 150ml.",
-    price: "5.85",
+    price: "6.10",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/p93jwe87y3m0k6341elhp/distress-paste-verde-pino-1.jpg?rlkey=0i6md2hphovr9vpjy9opgp32s&st=q9a6gzv5&dl=0",
     ],
@@ -7306,7 +7306,7 @@ const initialProducts = [
   {
     id: 539,
     name: "Café Espresso DISTRESS PASTE 150ml.",
-    price: "5.85",
+    price: "6.10",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/e9wqmxyt3t6l9fm8ck4tm/distress-paste-verde-pino.jpg?rlkey=3pixnywmh6zowo5u0f7d7dx5k&st=pw8j1s3e&dl=0g",
     ],
@@ -7318,7 +7318,7 @@ const initialProducts = [
   {
     id: 540,
     name: "PEARL Pasta Flexible Metálica 150ml.",
-    price: "5.70",
+    price: "8.30",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/yb483sh1p1wqrhst80ut0/pasta-flexible-metalica-150ml-cadence.jpg?rlkey=32eijphtgkgj5aqeosi0og23q&st=ydil6owj&dl=0",
     ],
@@ -7390,7 +7390,7 @@ const initialProducts = [
   {
     id: 514,
     name: "Mixtion PAN DE ORO 70ml",
-    price: "3.25",
+    price: "3.40",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/0i35xqky6d8x30nuemtno/mixtion-foil-cadence-1.jpg?rlkey=cmzu6mdnu854mugzevhvdalvo&st=vzj04go3&dl=0",
     ],
@@ -7402,7 +7402,7 @@ const initialProducts = [
   {
     id: 515,
     name: "Patina ASFALTO 100ml.",
-    price: "3.40",
+    price: "3.50",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/5p0usxnnhxum3auyrmrtw/patina-asfalto-cadence.jpg?rlkey=sahb7wpdp389hvgtaej4o9l1f&st=n9mbxjyy&dl=0",
     ],
@@ -7414,7 +7414,7 @@ const initialProducts = [
   {
     id: 516,
     name: "Imprimación Multiadherente MONTEJO 750ml.",
-    price: "19.50",
+    price: "20.50",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/5di9qasebp5b8x1cxksgb/imprimacion-multiadherente-montejo-750ml.jpg?rlkey=2r6yzuzb71z2kkp97lxeosxvx&st=evmlctp8&dl=0",
     ],
@@ -7546,7 +7546,7 @@ const initialProducts = [
   {
     id: 777,
     name: "Light Green PATINA SPRAY 50+50 ml.",
-    price: "8.20",
+    price: "8.60",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/yplad4k1rp69ar4dpd6cg/patina-spray-50ml50ml-light-green.jpg?rlkey=dh5e2q1m8sllv54130wa0k3sg&st=rr3cawjq&dl=0",
     ],
@@ -7558,7 +7558,7 @@ const initialProducts = [
   {
     id: 778,
     name: "Light Green PATINA SPRAY 50+50 ml.",
-    price: "8.20",
+    price: "8.60",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/v6o5zjmhzlpmghh8bse8i/patina-spray-50ml50ml-rust.jpg?rlkey=xh9wxzwcxkf43u51jgyd5uyvc&st=t6idzab7&dl=0",
     ],
@@ -7570,7 +7570,7 @@ const initialProducts = [
   {
     id: 779,
     name: "Light Green PATINA SPRAY 50+50 ml.",
-    price: "8.20",
+    price: "8.60",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/8irkr19hjh3hag1di52n7/patina-spray-50ml50ml-dark-green.jpg?rlkey=6ef7ud7i302s8smcwxrwjj66s&st=ezg6kef9&dl=0",
     ],
@@ -7582,7 +7582,7 @@ const initialProducts = [
   {
     id: 780,
     name: "Light Green PATINA SPRAY 50+50 ml.",
-    price: "8.20",
+    price: "8.60",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/7nyfawkvek36usdg52k1m/patina-spray-50ml50ml-blue.jpg?rlkey=s5k79n6ikr7lgof72lnmknvbw&st=xp5douby&dl=0",
     ],
@@ -7751,7 +7751,7 @@ const initialProducts = [
   {
     id: 510,
     name: "Pasta de Relieve CLÁSICA Cadence 150ml.",
-    price: "4.50",
+    price: "4.70",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/mh9of6i3njj5pbax2g47z/pasta-de-relieve-clasica-lisa-250-cadence.jpg?rlkey=j25yl7bxp0rrzx0ekou9t6j6n&st=songdigb&dl=0",
     ],
@@ -7763,7 +7763,7 @@ const initialProducts = [
   {
     id: 511,
     name: "Pasta de Relieve FLEXIBLE Cadence 150ml.",
-    price: "6.50",
+    price: "6.80",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/nkobztsrr8h2beczx4osm/pasta-de-relieve-flexible-cadence.jpg?rlkey=cx9baj2eamcasalovbuwhcqev&st=2vzvidwg&dl=0",
     ],
@@ -7931,7 +7931,7 @@ const initialProducts = [
   {
     id: 981,
     name: "VERDE PISTACHO Pasta textil FASHION Cadence",
-    price: "4.30",
+    price: "4.50",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/59d9knt3bd0ot0c7m1xnx/pasta-textil-fashion-cadence-VERDE-PISTACHO.jpg?rlkey=bxejhf5vfbmutleou0ljl06xp&st=nx181zuk&dl=0",
     ],
@@ -7943,7 +7943,7 @@ const initialProducts = [
   {
     id: 982,
     name: "ROJO CARMESÍ Pasta textil FASHION Cadence",
-    price: "4.30",
+    price: "4.50",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/nkq6dc3cglk4gaccr60yy/pasta-textil-fashion-cadence-ROJO-CARMESI.jpg?rlkey=i12egbq7fh0buth65r5cbukzk&st=t736edih&dl=0",
     ],
@@ -7955,7 +7955,7 @@ const initialProducts = [
   {
     id: 983,
     name: "NEGRO Pasta textil FASHION Cadence",
-    price: "4.30",
+    price: "4.50",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/s1qt2qdaagltjpgu9j6er/pasta-textil-fashion-cadence-NEGRO.jpg?rlkey=xfqhmqel5vdhwditir8102z3p&st=dw5j36ya&dl=0",
     ],
@@ -7967,7 +7967,7 @@ const initialProducts = [
   {
     id: 984,
     name: "NARANJA Pasta textil FASHION Cadence",
-    price: "4.30",
+    price: "4.50",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/io7l6ile8jy9hscc0qlfo/pasta-textil-fashion-cadence-NARANJA.jpg?rlkey=rt08omh4wz4o5ah84mi48r0ir&st=7wjjkvkw&dl=0",
     ],
@@ -7979,7 +7979,7 @@ const initialProducts = [
   {
     id: 985,
     name: "FUCSIA Pasta textil FASHION Cadence",
-    price: "4.30",
+    price: "4.50",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/i7vyv9wsfeu4k6jixuvaj/pasta-textil-fashion-cadence-FUCSIA.jpg?rlkey=hcpy6jtnki3jyca9jyz9e6kuo&st=kjekldk3&dl=0",
     ],
@@ -7991,7 +7991,7 @@ const initialProducts = [
   {
     id: 986,
     name: "BLANCO Pasta textil FASHION Cadence",
-    price: "4.30",
+    price: "4.50",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/uqejrz4ogo4n61am9b7un/pasta-textil-fashion-cadence-BLANCO.jpg?rlkey=7kppxkf9zohyhaudjr2cev4kr&st=bi2wl76e&dl=0",
     ],
@@ -8003,7 +8003,7 @@ const initialProducts = [
   {
     id: 987,
     name: "BERENJENA Pasta textil FASHION Cadence",
-    price: "4.30",
+    price: "4.50",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/cumayuo1pnqpxmu885gfc/pasta-textil-fashion-cadence-BERENJENA.jpg?rlkey=jqwlvbknc46m4dtc5zi7926r0&st=jsdzjmvi&dl=0",
     ],
@@ -8015,7 +8015,7 @@ const initialProducts = [
   {
     id: 988,
     name: "AZUL REAL Pasta textil FASHION Cadence",
-    price: "4.30",
+    price: "4.50",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/xyra9jvwjp1lysliwdzf4/pasta-textil-fashion-cadence-AZUL-REAL.jpg?rlkey=isq3r5a2daw3ud0t2f6yjl6hf&st=yjzryz29&dl=0",
     ],
@@ -8027,7 +8027,7 @@ const initialProducts = [
   {
     id: 989,
     name: "AMARILLO LIMÓN Pasta textil FASHION Cadence",
-    price: "4.30",
+    price: "4.50",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/pmf660bzmzhxut1xgm0z8/pasta-textil-fashion-cadence-AMARILLO-LIMON.jpg?rlkey=p444wx2alyy105y0xkak4z1r7&st=1w251b9x&dl=0",
     ],
@@ -8039,7 +8039,7 @@ const initialProducts = [
   {
     id: 990,
     name: "VIOLETA Pasta textil FASHION METALLIC Cadence",
-    price: "5.50",
+    price: "5.80",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/bxdjqpo41chimd0jxqhmw/pasta-textil-fashion-metallic-cadence-VIOLETA.jpg?rlkey=rzlsd0m8o8nzab8xdr3mqd1mb&st=jjq5q7pp&dl=0",
     ],
@@ -8051,7 +8051,7 @@ const initialProducts = [
   {
     id: 991,
     name: "VERDE Pasta textil FASHION METALLIC Cadence",
-    price: "5.50",
+    price: "5.80",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/8wmki0ktqi5zxcvtgc3pe/pasta-textil-fashion-metallic-cadence-VERDE.jpg?rlkey=vt86a2taojq2n46a99hg9kab8&st=5upn0pxr&dl=0",
     ],
@@ -8063,7 +8063,7 @@ const initialProducts = [
   {
     id: 992,
     name: "ROJO Pasta textil FASHION METALLIC Cadence",
-    price: "5.50",
+    price: "5.80",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/750yumzbx6pq5w1653y9a/pasta-textil-fashion-metallic-cadence-ROJO.jpg?rlkey=36cmpdv23klvs8xt74u0pxmlf&st=reti4qc1&dl=0",
     ],
@@ -8075,7 +8075,7 @@ const initialProducts = [
   {
     id: 993,
     name: "PLATA Pasta textil FASHION METALLIC Cadence",
-    price: "5.50",
+    price: "5.80",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/cvp887icynrk5rwwg6bf1/pasta-textil-fashion-metallic-cadence-PLATA.jpg?rlkey=alhbq0wvbxs5a48lqn8xxxcc2&st=2a970wjl&dl=0",
     ],
@@ -8087,7 +8087,7 @@ const initialProducts = [
   {
     id: 994,
     name: "ORO Pasta textil FASHION METALLIC Cadence",
-    price: "5.50",
+    price: "5.80",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/3gnlg0upokn6npaohm3k0/pasta-textil-fashion-metallic-cadence-ORO.jpg?rlkey=k5rbr2l9mqd73ij8h1v1doqdd&st=uyq73jzf&dl=0",
     ],
@@ -8099,7 +8099,7 @@ const initialProducts = [
   {
     id: 995,
     name: "ORO-ANTIGUO Pasta textil FASHION METALLIC Cadence",
-    price: "5.50",
+    price: "5.80",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/q3wspefb5yirvqt2l3gip/pasta-textil-fashion-metallic-cadence-ORO-ANTIGUO.jpg?rlkey=9pk068r0itq3gtxm1m9vac4xb&st=m4s9oy23&dl=0",
     ],
@@ -8111,7 +8111,7 @@ const initialProducts = [
   {
     id: 996,
     name: "NEGRO Pasta textil FASHION METALLIC Cadence",
-    price: "5.50",
+    price: "5.80",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/ezs0lek1e98tmn064oazr/pasta-textil-fashion-metallic-cadence-NEGRO.jpg?rlkey=na5zz12jpiur28kecvwyg24mh&st=vfac44ku&dl=0",
     ],
@@ -8123,7 +8123,7 @@ const initialProducts = [
   {
     id: 997,
     name: "COBRE Pasta textil FASHION METALLIC Cadence",
-    price: "5.50",
+    price: "5.80",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/rwand8o58m9f9qliofqve/pasta-textil-fashion-metallic-cadence-COBRE.jpg?rlkey=pz1kri07oqgnimnb033147jet&st=715zq0i0&dl=0",
     ],
@@ -8135,7 +8135,7 @@ const initialProducts = [
   {
     id: 998,
     name: "AZUL SAX Pasta textil FASHION METALLIC Cadence",
-    price: "5.50",
+    price: "5.80",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/12vrgdr8qnc13nbzwmmdr/pasta-textil-fashion-metallic-cadence-AZUL-SAX.jpg?rlkey=3i22kk6xy52tmm4lckwrcg6ge&st=p0pak7za&dl=0",
     ],
@@ -8147,7 +8147,7 @@ const initialProducts = [
   {
     id: 999,
     name: "VERDE Pasta de relieve textil HI-LITE Cadence",
-    price: "6.50",
+    price: "6.80",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/8lb9wxt7pkag354td9ir5/pasta-relieve-textil-hi-lite-VERDE.jpg?rlkey=t9htr9jtl84bz0v8m6fp58zsl&st=9p2vfb8e&dl=0",
     ],
@@ -8159,7 +8159,7 @@ const initialProducts = [
   {
     id: 1000,
     name: "ORO Pasta de relieve textil HI-LITE Cadence",
-    price: "6.50",
+    price: "6.80",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/kbc60iaou18zwiod02sis/pasta-relieve-textil-hi-lite-ORO.jpg?rlkey=8k64qoddbqx7xbdsbn8o9hojn&st=rhd3f0d9&dl=0",
     ],
@@ -8171,7 +8171,7 @@ const initialProducts = [
   {
     id: 1001,
     name: "AZUL Pasta de relieve textil HI-LITE Cadence",
-    price: "6.50",
+    price: "6.80",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/se2aqschhtmnii27akxov/pasta-relieve-textil-hi-lite-AZUL.jpg?rlkey=negib4go3lsn0gf8kniyc7nqd&st=wuosjgrv&dl=0",
     ],
@@ -8183,7 +8183,7 @@ const initialProducts = [
   {
     id: 1002,
     name: "PLATA Pasta de Relieve METTALIC Cadence",
-    price: "6.50",
+    price: "6.80",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/35bri88fwicgy5xs5plh8/pasta-de-relieve-textil-metallic-PLATA.jpg?rlkey=6qenbv2mi9bn9m2vzg0p1kc91&st=6nauxwyr&dl=0",
     ],
@@ -8195,7 +8195,7 @@ const initialProducts = [
   {
     id: 1003,
     name: "PERLA Pasta de Relieve METTALIC Cadence",
-    price: "6.50",
+    price: "6.80",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/gpfrhuzraeunfasnkdqqk/pasta-de-relieve-textil-metallic-PERLA.jpg?rlkey=om8qwqhjaeesdl1wof02u364s&st=a8xxx1mj&dl=0",
     ],
@@ -8207,7 +8207,7 @@ const initialProducts = [
   {
     id: 1004,
     name: "ORO Pasta de Relieve METTALIC Cadence",
-    price: "6.50",
+    price: "6.80",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/2j717ktd5l3l396obo5zj/pasta-de-relieve-textil-metallic-ORO.jpg?rlkey=lq1vaublu9fi1ubdnctx88fum&st=orlnp01a&dl=0",
     ],
@@ -8219,7 +8219,7 @@ const initialProducts = [
   {
     id: 1005,
     name: "COBRE Pasta de Relieve METTALIC Cadence",
-    price: "6.50",
+    price: "6.80",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/6l150sm464999veu3ol6o/pasta-de-relieve-textil-metallic-COBRE.jpg?rlkey=3usber946p7qjeafgoho7ab8x&st=n7xyh71x&dl=0",
     ],
@@ -8231,7 +8231,7 @@ const initialProducts = [
   {
     id: 1006,
     name: "CHAMPAN Pasta de Relieve METTALIC Cadence",
-    price: "6.50",
+    price: "6.80",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/svku6pw7drh1mmsgsqj6a/pasta-de-relieve-textil-metallic-CHAMPAN.jpg?rlkey=3zrtszwrei2pkuuljl43jh15b&st=tmli13rm&dl=0",
     ],
@@ -8459,7 +8459,7 @@ const initialProducts = [
   {
     id: 760,
     name: "Sapphire MAT METALLIC PAINT 50ml.",
-    price: "3.75",
+    price: "3.90",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/kcjwa1v5046he5ea9xu3r/MATT-METALLIC-PAINT-50-ml-SAPPHIRE.jpg?rlkey=8hb1eww5urkt23swntnmvf0t5&st=mavyc86i&dl=0",
     ],
@@ -8471,7 +8471,7 @@ const initialProducts = [
   {
     id: 761,
     name: "Platinum MAT METALLIC PAINT 50ml.",
-    price: "3.75",
+    price: "3.90",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/hade1x28x4v0mk378dk04/MATT-METALLIC-PAINT-50-ml-PLATINIUM.jpg?rlkey=8lgw0vtd3vfh95xybw0iklb55&st=ytsz9lf0&dl=0",
     ],
@@ -8483,7 +8483,7 @@ const initialProducts = [
   {
     id: 762,
     name: "Pearl MAT METALLIC PAINT 50ml.",
-    price: "3.75",
+    price: "3.90",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/kgvzlf7n7dp8syi2hefh4/MATT-METALLIC-PAINT-50-ml-PEARL.jpg?rlkey=d6nroctgj3mt993qbmhf3z7un&st=pj7ugrxz&dl=0",
     ],
@@ -8495,7 +8495,7 @@ const initialProducts = [
   {
     id: 763,
     name: "Navy MAT METALLIC PAINT 50ml.",
-    price: "3.75",
+    price: "3.90",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/5ee6h2p5zdm6chl1nunsa/MATT-METALLIC-PAINT-50-ml-NAVY.jpg?rlkey=t4gypuk4yoo1wxgep4crx6rmc&st=3y49w95w&dl=0",
     ],
@@ -8507,7 +8507,7 @@ const initialProducts = [
   {
     id: 764,
     name: "Maroon MAT METALLIC PAINT 50ml.",
-    price: "3.75",
+    price: "3.90",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/j6ijvhj3lbnuj8vje84ms/MATT-METALLIC-PAINT-50-ml-MAROON.jpg?rlkey=p7iyn5m0g82lpj0sfdgugjase&st=2zf8fkfg&dl=0",
     ],
@@ -8519,7 +8519,7 @@ const initialProducts = [
   {
     id: 765,
     name: "Emerald MAT METALLIC PAINT 50ml.",
-    price: "3.75",
+    price: "3.90",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/6zrt4jeqxe829k4c9h6m7/MATT-METALLIC-PAINT-50-ml-EMERALD.jpg?rlkey=xukw4neflbqwjw9bs578fupu8&st=44le0ufe&dl=0",
     ],
@@ -8531,7 +8531,7 @@ const initialProducts = [
   {
     id: 766,
     name: "Copper MAT METALLIC PAINT 50ml.",
-    price: "3.75",
+    price: "3.90",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/4uc98ha271qoltsskhbbn/MATT-METALLIC-PAINT-50-ml-COPPER.jpg?rlkey=5aqhox10ndy5vvyu5o7p5xku4&st=th51zo59&dl=0",
     ],
@@ -8543,7 +8543,7 @@ const initialProducts = [
   {
     id: 767,
     name: "Champagne MAT METALLIC PAINT 50ml.",
-    price: "3.75",
+    price: "3.90",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/qedr0blz8az3yevh0w234/MATT-METALLIC-PAINT-50-ml-CHAMPAGNE.jpg?rlkey=bfnjsgem6wneucz1ksl2b404m&st=gyj9cpo6&dl=0",
     ],
@@ -8555,7 +8555,7 @@ const initialProducts = [
   {
     id: 768,
     name: "Brown Copper MAT METALLIC PAINT 50ml.",
-    price: "3.75",
+    price: "3.90",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/5qnc6aoxbtr1rxsy8vkc5/MATT-METALLIC-PAINT-50-ml-BROWN-COPPER.jpg?rlkey=r4bg5ruvvn5t5455kz6q99og6&st=9g57xbqn&dl=0",
     ],
@@ -8567,7 +8567,7 @@ const initialProducts = [
   {
     id: 769,
     name: "Black MAT METALLIC PAINT 50ml.",
-    price: "3.75",
+    price: "3.90",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/qt3p3iz1e4usgkn6oky80/MATT-METALLIC-PAINT-50-ml-BLACK.jpg?rlkey=t4ycqa8uu7pyqq1voquqhuzpo&st=p576gtvf&dl=0",
     ],
@@ -8579,7 +8579,7 @@ const initialProducts = [
   {
     id: 770,
     name: "Antique Silver MAT METALLIC PAINT 50ml.",
-    price: "3.75",
+    price: "3.90",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/qttzsv49m7y9zaupblmko/MATT-METALLIC-PAINT-50-ml-ANTIQUE-SILVER.jpg?rlkey=vuf5jy4m17xn9dw8pq98g6kbn&st=29r4d8ck&dl=0",
     ],
@@ -8591,7 +8591,7 @@ const initialProducts = [
   {
     id: 771,
     name: "Antique Red MAT METALLIC PAINT 50ml.",
-    price: "3.75",
+    price: "3.90",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/gck7o9kqpc1fkuw97vhue/MATT-METALLIC-PAINT-50-ml-ANTIQUE-RED.jpg?rlkey=6rf0h8xzloghabtiuv6076kcy&st=zarw8kfl&dl=0",
     ],
@@ -8603,7 +8603,7 @@ const initialProducts = [
   {
     id: 772,
     name: "Antique Purple MAT METALLIC PAINT 50ml.",
-    price: "3.75",
+    price: "3.90",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/gp04ifzxqn1n9y10d3fq7/MATT-METALLIC-PAINT-50-ml-ANTIQUE-PURPLE.jpg?rlkey=8o7979ox6q3fugtn6xmn92zyy&st=9mxi6cly&dl=0",
     ],
@@ -8615,7 +8615,7 @@ const initialProducts = [
   {
     id: 773,
     name: "Antique Olive MAT METALLIC PAINT 50ml.",
-    price: "3.75",
+    price: "3.90",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/epz1a76fvx6gj213or1pk/MATT-METALLIC-PAINT-50-ml-ANTIQUE-OLIVE.jpg?rlkey=dqbb3pvih8kvkw5jqfaymy03o&st=2krz4j4y&dl=0",
     ],
@@ -8627,7 +8627,7 @@ const initialProducts = [
   {
     id: 774,
     name: "Antique Green MAT METALLIC PAINT 50ml.",
-    price: "3.75",
+    price: "3.90",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/nmf7ce8eob8amqnwaaqqs/MATT-METALLIC-PAINT-50-ml-ANTIQUE-GREEN.jpg?rlkey=hb2f1wqwqm0qz3asgcmu96nm7&st=tryldq1l&dl=0",
     ],
@@ -8639,7 +8639,7 @@ const initialProducts = [
   {
     id: 775,
     name: "Antique Gold MAT METALLIC PAINT 50ml.",
-    price: "3.75",
+    price: "3.90",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/09f9ebvg88ikknksltt8e/MATT-METALLIC-PAINT-50-ml-ANTIQUE-GOLD.jpg?rlkey=8aw75ixa2xrj3qxt5zschiujn&st=6vd7ico5&dl=0",
     ],
@@ -8651,7 +8651,7 @@ const initialProducts = [
   {
     id: 776,
     name: "Antique Anthracite MAT METALLIC PAINT 50ml.",
-    price: "3.75",
+    price: "3.90",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/wu6l5e58ys94fjkr6tpw5/MATT-METALLIC-PAINT-50-ml-ANTIQUE-ANTHRACITE.jpg?rlkey=5soolk5urlahgwbmrsofpagwp&st=p9h2p407&dl=0",
     ],
@@ -8663,7 +8663,7 @@ const initialProducts = [
   {
     id: 776,
     name: "Set pan de oro liquido CADENCE",
-    price: "10.85",
+    price: "11.60",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/u7qg0uwfkp81v2aex80tx/set-pan-de-oro-liquido-cadence.jpg?rlkey=mimltwzqa0qvbyu8p1mi1xeqx&st=3jb8l7nj&dl=0",
     ],
@@ -8675,7 +8675,7 @@ const initialProducts = [
   {
     id: 918,
     name: "Matt Fabric VISON 59ml.",
-    price: "3.00",
+    price: "3.20",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/jxss7rnyow3aaac16h0se/style-matt-fabric-VISON.jpg?rlkey=vief4tb1im0ehm0etautf66gm&st=96l7enzo&dl=0",
     ],
@@ -8687,7 +8687,7 @@ const initialProducts = [
   {
     id: 919,
     name: "Matt Fabric VIOLETA 59ml.",
-    price: "3.00",
+    price: "3.20",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/ydil0tsbqm794gnv79hzl/style-matt-fabric-VIOLETA.jpg?rlkey=ze4k2ncno8594wjain5akal2j&st=25zbdmgi&dl=0",
     ],
@@ -8699,7 +8699,7 @@ const initialProducts = [
   {
     id: 920,
     name: "Matt Fabric VERDE-PISTACHO 59ml.",
-    price: "3.00",
+    price: "3.20",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/ty1cifamv7mluoxcckn53/style-matt-fabric-VERDE-PISTACHO.jpg?rlkey=cyt7ub1ba1xrc7oimqmkv2ly0&st=1y7xub96&dl=0",
     ],
@@ -8711,7 +8711,7 @@ const initialProducts = [
   {
     id: 921,
     name: "Matt Fabric VERDE-OSCURO 59ml.",
-    price: "3.00",
+    price: "3.20",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/qy8quuezotql32332fsjx/style-matt-fabric-VERDE-OSCURO.jpg?rlkey=q5fr2tq7zimqywt0yo5zb603w&st=4aai8imd&dl=0",
     ],
@@ -8723,7 +8723,7 @@ const initialProducts = [
   {
     id: 922,
     name: "Matt Fabric VERDE-MENTA-CLARO 59ml.",
-    price: "3.00",
+    price: "3.20",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/pmb41as3xgs2yqclnoguj/style-matt-fabric-VERDE-MENTA-CLARO.jpg?rlkey=qa4chbx5a1nh7l9jj12y11y1q&st=3ub1kbl1&dl=0",
     ],
@@ -8735,7 +8735,7 @@ const initialProducts = [
   {
     id: 923,
     name: "Matt Fabric VERDE-MAR-CLARO 59ml.",
-    price: "3.00",
+    price: "3.20",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/0wu0sz2gsepp73srxofr8/style-matt-fabric-VERDE-MAR-CLARO.jpg?rlkey=6lzt7qjlb1xr1d3b8n4tkxk3z&st=6uzb98hn&dl=0",
     ],
@@ -8747,7 +8747,7 @@ const initialProducts = [
   {
     id: 924,
     name: "Matt Fabric VERDE-GRANJA 59ml.",
-    price: "3.00",
+    price: "3.20",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/y9cjhoesd0zb8gf1lf79i/style-matt-fabric-VERDE-GRANJA.jpg?rlkey=fwp08zmbxs6b0jeow9b0cyuay&st=dduifymi&dl=0",
     ],
@@ -8759,7 +8759,7 @@ const initialProducts = [
   {
     id: 925,
     name: "Matt Fabric VERDE-CAMUFLAJE 59ml.",
-    price: "3.00",
+    price: "3.20",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/uwesgvnco6ynqz3mylvku/style-matt-fabric-VERDE-CAMUFLAJE.jpg?rlkey=1s1edyxo4iece5fweb8jgo57l&st=1rxboffk&dl=0",
     ],
@@ -8771,7 +8771,7 @@ const initialProducts = [
   {
     id: 926,
     name: "Matt Fabric ULTRA-MARINO 59ml.",
-    price: "3.00",
+    price: "3.20",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/dqfsii4xd7or5g9kq4vma/style-matt-fabric-ULTRA-MARINO.jpg?rlkey=ougyfpn9lg4q10yzmif05g2lz&st=18lv4zgf&dl=0",
     ],
@@ -8783,7 +8783,7 @@ const initialProducts = [
   {
     id: 927,
     name: "Matt Fabric TURQUESA 59ml.",
-    price: "3.00",
+    price: "3.20",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/vyqkpccbcy640l6s617ws/style-matt-fabric-TURQUESA.jpg?rlkey=uvvxhx08tcsqzjeolo1nfb89i&st=z40ca0it&dl=0",
     ],
@@ -8795,7 +8795,7 @@ const initialProducts = [
   {
     id: 928,
     name: "Matt Fabric TILO 59ml.",
-    price: "3.00",
+    price: "3.20",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/fm442k82qg6mu65cg72sf/style-matt-fabric-TILO.jpg?rlkey=hh748ocr7inedw3b65g1g7gmx&st=luigfhab&dl=0",
     ],
@@ -8807,7 +8807,7 @@ const initialProducts = [
   {
     id: 929,
     name: "Matt Fabric TERRACOTA 59ml.",
-    price: "3.00",
+    price: "3.20",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/dmo9yg2l2f85k7zr7t1hc/style-matt-fabric-TERRACOTA.jpg?rlkey=imnb25lfhjfyuu07skiod77e6&st=36ywt9n0&dl=0",
     ],
@@ -8819,7 +8819,7 @@ const initialProducts = [
   {
     id: 930,
     name: "Matt Fabric SALVIA 59ml.",
-    price: "3.00",
+    price: "3.20",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/3g6d3ls4vj51wh9wy8gym/style-matt-fabric-SALVIA.jpg?rlkey=k334egei5c6mzk0nb922uyng1&st=5tes5b4a&dl=0",
     ],
@@ -8831,7 +8831,7 @@ const initialProducts = [
   {
     id: 931,
     name: "Matt Fabric ROSA-PASTEL 59ml.",
-    price: "3.00",
+    price: "3.20",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/3bcim7heid5db6iuqnnnq/style-matt-fabric-ROSA-PASTEL.jpg?rlkey=sqmt3zeyklsr2zdwo744ue54k&st=xlinh4c4&dl=0",
     ],
@@ -8843,7 +8843,7 @@ const initialProducts = [
   {
     id: 932,
     name: "Matt Fabric ROSA-CENIZA 59ml.",
-    price: "3.00",
+    price: "3.20",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/o75yqcrvrdpb7htj65z38/style-matt-fabric-ROSA-CENIZA.jpg?rlkey=29wni95l0pyralkxymd36k2o9&st=2wjocjaq&dl=0",
     ],
@@ -8855,7 +8855,7 @@ const initialProducts = [
   {
     id: 933,
     name: "Matt Fabric ROSA-BEIGE 59ml.",
-    price: "3.00",
+    price: "3.20",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/moey0g5uahkgz4a2g4r01/style-matt-fabric-ROSA-BEIGE.jpg?rlkey=zfewg6ri3lax6rmwh9j79hy1v&st=flti86uz&dl=0",
     ],
@@ -8867,7 +8867,7 @@ const initialProducts = [
   {
     id: 934,
     name: "Matt Fabric ROSA-BEBE 59ml.",
-    price: "3.00",
+    price: "3.20",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/u2mnhv0ll3ozvb6xq46b1/style-matt-fabric-ROSA-BEBE.jpg?rlkey=lf0wkawei3kozu157n203bo2z&st=15mf8y6b&dl=0",
     ],
@@ -8879,7 +8879,7 @@ const initialProducts = [
   {
     id: 935,
     name: "Matt Fabric ROJO-CORAL 59ml.",
-    price: "3.00",
+    price: "3.20",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/52ooc9vwn5q8j11hv0emx/style-matt-fabric-ROJO-CORAL.jpg?rlkey=1f1brvkdl98vzmhjv08267i9c&st=3x2eefvq&dl=0",
     ],
@@ -8891,7 +8891,7 @@ const initialProducts = [
   {
     id: 936,
     name: "Matt Fabric ROJO-CARMIN 59ml.",
-    price: "3.00",
+    price: "3.20",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/20ikhkm46vzb6q02il3uw/style-matt-fabric-ROJO-CARMIN.jpg?rlkey=ng0h7b65xigzvb5a64mo1xx0p&st=bci7tkrv&dl=0",
     ],
@@ -8903,7 +8903,7 @@ const initialProducts = [
   {
     id: 937,
     name: "Matt Fabric PURPURA-OSCURO 59ml.",
-    price: "3.00",
+    price: "3.20",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/bhzt9ie90iq5me02lmjb9/style-matt-fabric-PURPURA-OSCURO.jpg?rlkey=fwkneir8b62dbti1yokqy3q8b&st=am4fq269&dl=0",
     ],
@@ -8915,7 +8915,7 @@ const initialProducts = [
   {
     id: 938,
     name: "Matt Fabric PARLAMENTO 59ml.",
-    price: "3.00",
+    price: "3.20",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/n1d32otzlw0ur038h6nz9/style-matt-fabric-PARLAMENTO.jpg?rlkey=0d59zlit590f5tf75nb4uh8sk&st=ss328cc7&dl=0",
     ],
@@ -8927,7 +8927,7 @@ const initialProducts = [
   {
     id: 939,
     name: "Matt Fabric NEGRO 59ml.",
-    price: "3.00",
+    price: "3.20",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/ui6ua6p30rced2kcmgw3f/style-matt-fabric-NEGRO.jpg?rlkey=8liwohtjbrldqfckbkpwfuwq1&st=tn88fd9f&dl=0",
     ],
@@ -8939,7 +8939,7 @@ const initialProducts = [
   {
     id: 940,
     name: "Matt Fabric NARANJA 59ml.",
-    price: "3.00",
+    price: "3.20",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/cygb4yqcd3832ae4jjcea/style-matt-fabric-NARANJA.jpg?rlkey=awawbbjcwnrj4qb7clsvom4n4&st=yd5e1px9&dl=0",
     ],
@@ -8951,7 +8951,7 @@ const initialProducts = [
   {
     id: 941,
     name: "Matt Fabric MORADO 59ml.",
-    price: "3.00",
+    price: "3.20",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/uzwar2ywf40xwpji8wsrd/style-matt-fabric-MORADO.jpg?rlkey=p72i60h1s4ma36i9o0a2edvzl&st=z8fx4jpb&dl=0",
     ],
@@ -8963,7 +8963,7 @@ const initialProducts = [
   {
     id: 942,
     name: "Matt Fabric MORA 59ml.",
-    price: "3.00",
+    price: "3.20",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/n63np8siv40cmxb617305/style-matt-fabric-MORA.jpg?rlkey=e9iildt3yeb33mxbsgauep48c&st=gzq179fy&dl=0",
     ],
@@ -8976,7 +8976,7 @@ const initialProducts = [
   {
     id: 943,
     name: "Matt Fabric MARRON-OSCURO 59ml.",
-    price: "3.00",
+    price: "3.20",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/q2cf005y6q6emysoqshrz/style-matt-fabric-MARRON-OSCURO.jpg?rlkey=2yinwsqe0zuvqmvyyrl9lsmcg&st=73spfb55&dl=0",
     ],
@@ -8988,7 +8988,7 @@ const initialProducts = [
   {
     id: 944,
     name: "Matt Fabric LILA-PURPURA 59ml.",
-    price: "3.00",
+    price: "3.20",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/m5m73sigx8dztqegdx8zn/style-matt-fabric-LILA-PURPURA.jpg?rlkey=sfvvat5g7cztdffe8snrv4tvf&st=pt5mxxat&dl=0",
     ],
@@ -9000,7 +9000,7 @@ const initialProducts = [
   {
     id: 945,
     name: "Matt Fabric GRIS 59ml.",
-    price: "3.00",
+    price: "3.20",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/niv6cu2zqdf8amtcxjyvz/style-matt-fabric-GRIS.jpg?rlkey=ceqmtq4xgjt51bvyyr11c4ew3&st=dfw5zh2e&dl=0",
     ],
@@ -9012,7 +9012,7 @@ const initialProducts = [
   {
     id: 946,
     name: "Matt Fabric FUCSIA 59ml.",
-    price: "3.00",
+    price: "3.20",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/edq4pbjyfv6m40pf593nk/style-matt-fabric-FUCSIA.jpg?rlkey=19pt5mlbirbu698k0i64cwoh6&st=32640d8y&dl=0",
     ],
@@ -9024,7 +9024,7 @@ const initialProducts = [
   {
     id: 947,
     name: "Matt Fabric FRESA 59ml.",
-    price: "3.00",
+    price: "3.20",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/a1u8h6b8twz83i2kugyo1/style-matt-fabric-FRESA.jpg?rlkey=za6ucwbr9ccutio59rf836uzl&st=x0uc80qk&dl=0",
     ],
@@ -9036,7 +9036,7 @@ const initialProducts = [
   {
     id: 948,
     name: "Matt Fabric CORAL-CLARO 59ml.",
-    price: "3.00",
+    price: "3.20",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/2ikudv1e7iyocl5sdsbd9/style-matt-fabric-CORAL-CLARO.jpg?rlkey=5u1el050awrjns3dv1sac4r8h&st=17pa8dt8&dl=0",
     ],
@@ -9048,7 +9048,7 @@ const initialProducts = [
   {
     id: 949,
     name: "Matt Fabric CESPED 59ml.",
-    price: "3.00",
+    price: "3.20",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/hx67vmemzj6v6p464lolr/style-matt-fabric-CESPED.jpg?rlkey=ozxse22jdyynct8c367oedlrc&st=j2uik5gr&dl=0",
     ],
@@ -9060,7 +9060,7 @@ const initialProducts = [
   {
     id: 950,
     name: "Matt Fabric CARAMELO 59ml.",
-    price: "3.00",
+    price: "3.20",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/f0d4aqc1fdms44ftjtezr/style-matt-fabric-CARAMELO.jpg?rlkey=wyyl5c7q2p76n790j97wfm1nu&st=99ix58sa&dl=0",
     ],
@@ -9072,7 +9072,7 @@ const initialProducts = [
   {
     id: 951,
     name: "Matt Fabric CAPUCHINO 59ml.",
-    price: "3.00",
+    price: "3.20",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/fmwziv5qbsfa57e85fbmm/style-matt-fabric-CAPUCHINO.jpg?rlkey=7gl9wxq9kzozh6cileuojit35&st=q7amzu3i&dl=0",
     ],
@@ -9084,7 +9084,7 @@ const initialProducts = [
   {
     id: 952,
     name: "Matt Fabric CALABAZA 59ml.",
-    price: "3.00",
+    price: "3.20",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/q8gdf5ywrkx056z9k6ihv/style-matt-fabric-CALABAZA.jpg?rlkey=60s4rrhdbdixpbhtbw3jezjv7&st=0xemgb74&dl=0",
     ],
@@ -9096,7 +9096,7 @@ const initialProducts = [
   {
     id: 953,
     name: "Matt Fabric CACAO 59ml.",
-    price: "3.00",
+    price: "3.20",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/02t72m4u8r4ru0jked28d/style-matt-fabric-CACAO.jpg?rlkey=5e07mbbyxej5vvgmhf3e2zdrr&st=dd4yuh31&dl=0",
     ],
@@ -9108,7 +9108,7 @@ const initialProducts = [
   {
     id: 954,
     name: "Matt Fabric BURDEOS 59ml.",
-    price: "3.00",
+    price: "3.20",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/tqpckcyg7gp05l6nkyu5g/style-matt-fabric-BURDEOS.jpg?rlkey=jruljjpkshkzbf6kapnq8oayh&st=tc4t963i&dl=0",
     ],
@@ -9120,7 +9120,7 @@ const initialProducts = [
   {
     id: 955,
     name: "Matt Fabric BLANCO 59ml.",
-    price: "3.00",
+    price: "3.20",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/7fjp8nedu7q9mjoi992kp/style-matt-fabric-BLANCO.jpg?rlkey=4zjbu7tpzo9tm5doqltpzeqis&st=nb470v0p&dl=0",
     ],
@@ -9132,7 +9132,7 @@ const initialProducts = [
   {
     id: 956,
     name: "Matt Fabric AZUL-TUFIS 59ml.",
-    price: "3.00",
+    price: "3.20",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/04jeu2noxa89w30b5thc8/style-matt-fabric-AZUL-TUFIS.jpg?rlkey=9jvp2nqmm5ir1rv6by3g5aimg&st=hgqp8t9f&dl=0",
     ],
@@ -9144,7 +9144,7 @@ const initialProducts = [
   {
     id: 957,
     name: "Matt Fabric AZUL-ROYAL 59ml.",
-    price: "3.00",
+    price: "3.20",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/b0dwnkza76x9oqfhkswqm/style-matt-fabric-AZUL-ROYAL.jpg?rlkey=2imigrknudjs4qizf098t4b62&st=38zn9buu&dl=0",
     ],
@@ -9156,7 +9156,7 @@ const initialProducts = [
   {
     id: 958,
     name: "Matt Fabric AZUL-OSCURO 59ml.",
-    price: "3.00",
+    price: "3.20",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/1ftktque06t7jj6m3eo58/style-matt-fabric-AZUL-OSCURO.jpg?rlkey=5pdoblco2ohf2m9zlyfdyruid&st=2vmn1rm1&dl=0",
     ],
@@ -9169,7 +9169,7 @@ const initialProducts = [
   {
     id: 959,
     name: "Matt Fabric AZUL-LAVANDA 59ml.",
-    price: "3.00",
+    price: "3.20",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/n1gz77j1iji47qokyy5rf/style-matt-fabric-AZUL-LAVANDA.jpg?rlkey=f1yt8tcpz5g6okcygwqb34473&st=2k5ymb9j&dl=0",
     ],
@@ -9182,7 +9182,7 @@ const initialProducts = [
   {
     id: 960,
     name: "Matt Fabric AZUL-BEBE 59ml.",
-    price: "3.00",
+    price: "3.20",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/i32krz1r6ccf2h00hu1mo/style-matt-fabric-AZUL-BEBE.jpg?rlkey=3lhlgnwj6bt0e11sp6ka5t4se&st=6sx18yed&dl=0",
     ],
@@ -9195,7 +9195,7 @@ const initialProducts = [
   {
     id: 961,
     name: "Matt Fabric AZUCAR-ROSA 59ml.",
-    price: "3.00",
+    price: "3.20",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/hl8235gxl8dfew8rrdbmf/style-matt-fabric-AZUCAR-ROSA.jpg?rlkey=35eqypzfyx4blnialviru5hqm&st=7a18qhpw&dl=0",
     ],
@@ -9208,7 +9208,7 @@ const initialProducts = [
   {
     id: 962,
     name: "Matt Fabric ARENA-BEIGE 59ml.",
-    price: "3.00",
+    price: "3.20",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/bq1l6ct1qkh5qoeqo01nf/style-matt-fabric-ARENA-BEIGE.jpg?rlkey=ic8a1iog2lvj7wvtqy0kud807&st=w8mzvvos&dl=0",
     ],
@@ -9221,7 +9221,7 @@ const initialProducts = [
   {
     id: 963,
     name: "Matt Fabric AMBAR 59ml.",
-    price: "3.00",
+    price: "3.20",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/lq9ask7b44hjijmi4o93i/style-matt-fabric-AMBAR.jpg?rlkey=6xq8dzm0lsjgkm6zk4438g2eb&st=eq1qvrp6&dl=0",
     ],
@@ -9234,7 +9234,7 @@ const initialProducts = [
   {
     id: 964,
     name: "Matt Fabric AMARILLO 59ml.",
-    price: "3.00",
+    price: "3.20",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/f04isoie5ixzj5jhx35ys/style-matt-fabric-AMARILLO.jpg?rlkey=xvj1bkgp6hx5ks10r0qg3mf72&st=3g96dx99&dl=0",
     ],
@@ -9247,7 +9247,7 @@ const initialProducts = [
   {
     id: 965,
     name: "Matt Fabric AMARILLO-VAINILLA 59ml.",
-    price: "3.00",
+    price: "3.20",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/e4u1iknwoh19c7c129a4f/style-matt-fabric-AMARILLO-VAINILLA.jpg?rlkey=57ruq4xj0csuv644xjy6qqie4&st=c5jmbdhp&dl=0",
     ],
@@ -9259,7 +9259,7 @@ const initialProducts = [
   {
     id: 966,
     name: "Matt Fabric AMARILLO-LIMON 59ml.",
-    price: "3.00",
+    price: "3.20",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/mrk5it1v1l5o99ywu73ek/style-matt-fabric-AMARILLO-LIMON.jpg?rlkey=pz1llhpn8op66e4jf0ny4m241&st=ilagccc7&dl=0",
     ],
@@ -9440,7 +9440,7 @@ const initialProducts = [
   {
     id: 799,
     name: "Mandala 45cm diámetro",
-    price: "32.60",
+    price: "32.70",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/kvsfb3olvji8r594occn1/resina-cadence-mandala-45.jpg?rlkey=1aomzuk9izw01tgwmnzoai2d4&st=faoche78&dl=0",
     ],
@@ -9620,7 +9620,7 @@ const initialProducts = [
   {
     id: 971,
     name: "Spray textil VERDE HOJA 100 ml.",
-    price: "4.60",
+    price: "4.80",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/84nb62sdc895f6cyu1af3/spray-textil-cadence-VERDE-HOJA.jpg?rlkey=4ugppvd17ytcir37yotyokdpa&st=oxi9s6d0&dl=0",
     ],
@@ -9632,7 +9632,7 @@ const initialProducts = [
   {
     id: 972,
     name: "Spray textil TURQUESA 100 ml.",
-    price: "4.60",
+    price: "4.80",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/sq07wg94incr2ccc8jd1r/spray-textil-cadence-TURQUESA.jpg?rlkey=z1u1lbsmxgt7dcrk4j42setzw&st=uybpeb0u&dl=0",
     ],
@@ -9644,7 +9644,7 @@ const initialProducts = [
   {
     id: 973,
     name: "Spray textil PETRÓLEO 100 ml.",
-    price: "4.60",
+    price: "4.80",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/0fwsl9ocb9elu672gfsud/spray-textil-cadence-PETROLEO.jpg?rlkey=6orypx1l5teut0txn0e9pgswq&st=mqbx0iwo&dl=0",
     ],
@@ -9656,7 +9656,7 @@ const initialProducts = [
   {
     id: 974,
     name: "Spray textil NARANJA 100 ml.",
-    price: "4.60",
+    price: "4.80",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/0dpagyo6r7icujd8withl/spray-textil-cadence-NARANJA.jpg?rlkey=0859lq77kue4xmymz2zmwhppp&st=q64p2x86&dl=0",
     ],
@@ -9668,7 +9668,7 @@ const initialProducts = [
   {
     id: 975,
     name: "Spray textil MORADO 100 ml.",
-    price: "4.60",
+    price: "4.80",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/1gzrvcx9yr9mehx2nf4dq/spray-textil-cadence-MORADO.jpg?rlkey=1n2188n3ukn1b4wtthgeh0y1j&st=3oz1euwp&dl=0",
     ],
@@ -9680,7 +9680,7 @@ const initialProducts = [
   {
     id: 976,
     name: "Spray textil CARMÍN 100 ml.",
-    price: "4.60",
+    price: "4.80",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/ildbqqfv7yxkru4r3mhqb/spray-textil-cadence-CARMIN.jpg?rlkey=bgd2znp5jzqdnq0pyqqy7upzk&st=9rymc0ws&dl=0",
     ],
@@ -9692,7 +9692,7 @@ const initialProducts = [
   {
     id: 977,
     name: "Spray textil BURDEOS 100 ml.",
-    price: "4.60",
+    price: "4.80",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/txpujytb3efvgmqjfwfna/spray-textil-cadence-BURDEOS.jpg?rlkey=rwhy4xupr8dsz3edhzjw6603p&st=ssgltyfa&dl=0",
     ],
@@ -9704,7 +9704,7 @@ const initialProducts = [
   {
     id: 978,
     name: "Spray textil BLANCO 100 ml.",
-    price: "4.60",
+    price: "4.80",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/7n9bhvmwfupkky4s7hehs/spray-textil-cadence-BLANCO.jpg?rlkey=p5fa3rh8hsr6wwjmyc93c4iww&st=jvcpdlk0&dl=0",
     ],
@@ -9716,7 +9716,7 @@ const initialProducts = [
   {
     id: 979,
     name: "Spray textil AZUL-MAR 100 ml.",
-    price: "4.60",
+    price: "4.80",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/zztnnoinp3nq367u65ydc/spray-textil-cadence-AZUL-MAR.jpg?rlkey=pbtrpno0tovqznt8gy6e4e0ps&st=w87lfoo1&dl=0",
     ],
@@ -9728,7 +9728,7 @@ const initialProducts = [
   {
     id: 980,
     name: "Spray textil AMARILLO-ATARDECER 100 ml.",
-    price: "4.60",
+    price: "4.80",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/bt6x2nmpso9b02pifpwig/spray-textil-cadence-AMARILLO-ATARDECER.jpg?rlkey=9mvo1ovly92jap3g8ajku5ixq&st=qeisbng2&dl=0",
     ],
@@ -9764,7 +9764,7 @@ const initialProducts = [
   {
     id: 442,
     name: "Stencil CADENCE cenefa 6x20cm K165",
-    price: "1.80",
+    price: "2.40",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/jbs0x5q8rl6a3lx80gdb3/stencil-cadence-k165-6x20cm.jpg?rlkey=zr4noksoukni8ax1f6m06v50u&st=l5lkbwg2&dl=0",
     ],
@@ -9777,7 +9777,7 @@ const initialProducts = [
   {
     id: 443,
     name: "Stencil CADENCE cenefa 6x20cm K163",
-    price: "1.80",
+    price: "2.40",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/0cbde8olzf6cwcztafje1/Stencil-CADENCE-K163-6x20cm.jpg?rlkey=4jgq2hjr9fcvtsro5w7od8lip&st=3g6u1f44&dl=0",
     ],
@@ -9790,7 +9790,7 @@ const initialProducts = [
   {
     id: 444,
     name: "Stencil CADENCE cenefa 6x20cm K120",
-    price: "1.80",
+    price: "2.40",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/e4sipa0wsgjvre3n9128w/stencil-cadence-k120-6x20cm.jpg?rlkey=3tpdxtfomp3hahifqac4hkoos&st=20y057il&dl=0",
     ],
@@ -9802,7 +9802,7 @@ const initialProducts = [
   {
     id: 393,
     name: "Stencil HOME DECOR 45x45cm HD146",
-    price: "13.10",
+    price: "13.60",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/5pzq0mi207z9p71n1sa0c/stencil-cadence-45x45cm.jpg?rlkey=q4fqb8fjm0fikud50wklnbxg2&st=a0v7cygv&dl=0",
     ],
@@ -9814,7 +9814,7 @@ const initialProducts = [
   {
     id: 394,
     name: "Stencil HOME DECOR 45x45cm HD69",
-    price: "13.10",
+    price: "13.60",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/hd6s9vgbjqvmexv3qr807/stencil-cadence-45x45cm-1.jpg?rlkey=lyllmen44daq52kswtx1wrxpt&st=a3rzhar0&dl=0",
     ],
@@ -9826,7 +9826,7 @@ const initialProducts = [
   {
     id: 395,
     name: "Stencil HOME DECOR 45x45cm HD158",
-    price: "13.10",
+    price: "13.60",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/d8slpytscip16uhoh3jpg/stencil-cadence-45x45cm-2.jpg?rlkey=qlgdrtu1unrhfb6364n7qvdh6&st=47ujy5ty&dl=0",
     ],
@@ -9838,7 +9838,7 @@ const initialProducts = [
   {
     id: 396,
     name: "Stencil HOME DECOR 45x45cm HD156",
-    price: "13.10",
+    price: "13.60",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/q1scp4q10urnicvj74ck6/stencil-cadence-45x45cm-3.jpg?rlkey=5ubz7s9exlarca07edlmnvtkh&st=yvrfv4la&dl=0",
     ],
@@ -9850,7 +9850,7 @@ const initialProducts = [
   {
     id: 397,
     name: "Stencil HOME DECOR 45x45cm HD121",
-    price: "13.10",
+    price: "13.60",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/k0yh7ixh9wuk8w67lv461/stencil-cadence-45x45cm-4.jpg?rlkey=rf1gyai4m69z6n6dvcq7dw07j&st=wqswqi7s&dl=0",
     ],
@@ -9862,7 +9862,7 @@ const initialProducts = [
   {
     id: 398,
     name: "Stencil MANDALA 2 45x45cm",
-    price: "13.10",
+    price: "13.60",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/iy4gwlpps6xd7234c375u/stencil-cadence-45x45cm-5.png?rlkey=rq7rmnwexhxmhfviim56oxbfl&st=paukr8rs&dl=0",
     ],
@@ -9874,7 +9874,7 @@ const initialProducts = [
   {
     id: 399,
     name: "Stencil ART NOUVEAU 45x45cm",
-    price: "13.10",
+    price: "13.60",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/rfm0gdgaqc12y00tfpipa/stencil-cadence-45x45cm-6.png?rlkey=vd478ax73khjpdrwk1fl4221n&st=qa2sgtjr&dl=0",
     ],
@@ -9886,7 +9886,7 @@ const initialProducts = [
   {
     id: 400,
     name: "Stencil ADAMASCADO 2 45x45cm",
-    price: "13.10",
+    price: "13.60",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/cznr4wozwkylqoy2wlgfe/stencil-cadence-45x45cm-7.png?rlkey=fj2lypn6lni1zzxzzfme9dedo&st=q5lid62d&dl=0",
     ],
@@ -9898,7 +9898,7 @@ const initialProducts = [
   {
     id: 401,
     name: "Stencil ADAMASCADO 45x45cm",
-    price: "13.10",
+    price: "13.60",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/q390dvs4yz0x0wapdqzw8/stencil-cadence-45x45cm-8.png?rlkey=d2n09hazrrd7uup1x1pghgo9o&st=agsc2g73&dl=0",
     ],
@@ -9910,7 +9910,7 @@ const initialProducts = [
   {
     id: 402,
     name: "Stencil DECO5 45x45cm",
-    price: "13.10",
+    price: "13.60",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/s1tgyrr5u1ee11bu4qojy/stencil-cadence-45x45cm-9.jpg?rlkey=dj4lyuw6r2v7in7nky2hnbvhs&st=yl1yo8um&dl=0",
     ],
@@ -9922,7 +9922,7 @@ const initialProducts = [
   {
     id: 403,
     name: "Stencil MANDALA 3 45x45cm",
-    price: "13.10",
+    price: "13.60",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/mm96ihouplgbec9yo0tzs/stencil-cadence-45x45cm-10.png?rlkey=w116zle220u7w4pqgx2rlc2re&st=otd23g6c&dl=0",
     ],
@@ -9934,7 +9934,7 @@ const initialProducts = [
   {
     id: 404,
     name: "Stencil VEGETAL 2 45x45cm",
-    price: "13.10",
+    price: "13.60",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/iiiy76iyabha8wcum6i1h/stencil-cadence-45x45cm-11.png?rlkey=vwo25yhl1uq92e6ob041pjy3d&st=qhrr003d&dl=0",
     ],
@@ -9946,7 +9946,7 @@ const initialProducts = [
   {
     id: 405,
     name: "Stencil HOME DECOR MIDI 25x25cm HDM73",
-    price: "7.10",
+    price: "7.40",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/0nw06tbkrocpxk6zvveeg/stencil-cadence-25x25-cm.jpg?rlkey=wx55crh8ad3dsxvpeq5893327&st=2fx5fcmy&dl=0",
     ],
@@ -9958,7 +9958,7 @@ const initialProducts = [
   {
     id: 406,
     name: "Stencil HOME DECOR MIDI 25x25cm HDM67",
-    price: "7.10",
+    price: "7.40",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/23nbcmqcsaqusjoo3e0m5/stencil-cadence-25x25cm.jpg?rlkey=1ctf4h2p63qtubwkj7xrwsoq8&st=78usel00&dl=0",
     ],
@@ -9970,7 +9970,7 @@ const initialProducts = [
   {
     id: 407,
     name: "Stencil FONDO CIRCULOS 25x25cm",
-    price: "7.10",
+    price: "7.40",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/8krbqcjev7drrgtpt41w0/stencil-cadence-25x25cm-1.jpg?rlkey=0guoh500z9wjj3tmv1qmxa9y6&st=0f0qzygw&dl=0",
     ],
@@ -9982,7 +9982,7 @@ const initialProducts = [
   {
     id: 408,
     name: "Stencil FONDO 2 TAMAÑOS 25x25cm",
-    price: "7.10",
+    price: "7.40",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/eaet4pacfwz7s5ov08b0o/stencil-cadence-25x25cm-2.jpg?rlkey=048xp08knzx4b03nju7m8t1rm&st=xq6w4e38&dl=0",
     ],
@@ -9994,7 +9994,7 @@ const initialProducts = [
   {
     id: 409,
     name: "Stencil HOME MIDI 25x25cm HDM70",
-    price: "7.10",
+    price: "7.40",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/v5cn9d2vhp2f822qjc4vs/stencil-cadence-25x25cm-3.jpg?rlkey=w058r4xf1k6zjqhykdzhabvy4&st=1usz7qc7&dl=0",
     ],
@@ -10007,7 +10007,7 @@ const initialProducts = [
     id: 410,
 
     name: "Stencil FONDO PUNTITOS 25x25cm",
-    price: "7.10",
+    price: "7.40",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/xsref8tvpt0i6sbpqw8z6/stencil-cadence-25x25cm-4.jpg?rlkey=2ij7gqbbbd1chkte7170hf8nz&st=obc8ttmm&dl=0",
     ],
@@ -10019,7 +10019,7 @@ const initialProducts = [
   {
     id: 411,
     name: "Stencil SELLOS POSTALES 25x25cm",
-    price: "7.10",
+    price: "7.40",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/sz7d5ajwgi37pbqnmalv3/stencil-cadence-25x25cm-5.jpg?rlkey=g23zlrp3cyaa2lrlnmuwwlypg&st=g5t9rt42&dl=0",
     ],
@@ -10031,7 +10031,7 @@ const initialProducts = [
   {
     id: 412,
     name: "Stencil DAMERO 25x25cm",
-    price: "7.10",
+    price: "7.40",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/de3gui24oaa665a9kdk2w/stencil-cadence-25x25cm-6.jpg?rlkey=w1lq05z5fyz2p3uyziv1t6yn3&st=yil98vf5&dl=0",
     ],
@@ -10043,7 +10043,7 @@ const initialProducts = [
   {
     id: 413,
     name: "Stencil FLEURA 25x25cm",
-    price: "7.10",
+    price: "7.40",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/znkdd5tzuc3dgyjckxhqu/stencil-cadence-25x25cm-7.jpg?rlkey=m6lqtym3bd621yni8gkdjskd4&st=er4ybv9n&dl=0",
     ],
@@ -10055,7 +10055,7 @@ const initialProducts = [
   {
     id: 414,
     name: "Stencil BALDOSAS 25x25cm",
-    price: "7.10",
+    price: "7.40",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/2dl2h81v1a1ow7jkrkcak/stencil-cadence-25x25cm-8.jpg?rlkey=i5i3c2tvwonr0rlcmsxcflt68&st=fwxqfuxd&dl=0",
     ],
@@ -10067,7 +10067,7 @@ const initialProducts = [
   {
     id: 415,
     name: "Stencil BALDOSA GRANDE 25x25cm",
-    price: "7.10",
+    price: "7.40",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/h6m9tfcz7901tyonrabvh/stencil-cadence-25x25cm-9.jpg?rlkey=pgwmcxvvnbpk5df2dw5sml3su&st=e97vldqr&dl=0",
     ],
@@ -10079,7 +10079,7 @@ const initialProducts = [
   {
     id: 416,
     name: "Stencil ADAMASCO 25x25cm",
-    price: "7.10",
+    price: "7.40",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/4a8p4o9o4tfmy54dxps23/stencil-cadence-25x25cm-10.jpg?rlkey=czzjzylauyjhy0mq3dsx05ylc&st=lsghgr9c&dl=0",
     ],
@@ -10091,7 +10091,7 @@ const initialProducts = [
   {
     id: 417,
     name: "Stencil NÚMEROS 25x25cm",
-    price: "7.10",
+    price: "7.40",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/jtsbos1v7teh4x6dnxk6y/stencil-cadence-25x25cm-11.jpg?rlkey=za801in6sjdtxl5w5p0kue7fv&st=nu2h5vyq&dl=0",
     ],
@@ -10103,7 +10103,7 @@ const initialProducts = [
   {
     id: 418,
     name: "Stencil CADENCE 25x25cm HDM197",
-    price: "7.10",
+    price: "7.40",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/bmo6e4niwkqlhh54yydje/stencil-cadence-25x25-cm-hdm197.png?rlkey=jxp2vzq3l9orn74kc3awqv2kn&st=3wc8fdkp&dl=0",
     ],
@@ -10115,7 +10115,7 @@ const initialProducts = [
   {
     id: 419,
     name: "Stencil CADENCE 25x25cm HDM196",
-    price: "7.10",
+    price: "7.40",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/uuh4vcyqh73to6f569ypb/stencil-cadence-25x25-cm-hdm196.png?rlkey=o0t6hnzpz9by2onw37fokzna1&st=c1fdqwgb&dl=0",
     ],
@@ -10127,7 +10127,7 @@ const initialProducts = [
   {
     id: 428,
     name: "Stencil ZEPPELIN 21x30cm ",
-    price: "4.15",
+    price: "4.35",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/c3z3ije6ijh3iz8cgm71r/stencil-cadence.jpg?rlkey=e79docwwce5foai5v1ephzcgd&st=wdtknzgx&dl=0",
     ],
@@ -10139,7 +10139,7 @@ const initialProducts = [
   {
     id: 429,
     name: "Stencil GEOMÉTRICOS 21x30cm ",
-    price: "4.15",
+    price: "4.35",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/lpor95b3835hx8eoroefx/stencil-cadence-1.jpg?rlkey=mnciqu94gwbvvx00dyclmahuj&st=425rhm36&dl=0",
     ],
@@ -10151,7 +10151,7 @@ const initialProducts = [
   {
     id: 430,
     name: "Stencil FILIGRANAS GRANDE 21x30cm ",
-    price: "4.15",
+    price: "4.35",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/dl5ylgelhjao1a32qdy2x/stencil-textura-floral.jpg?rlkey=f0gf2fnmgmnkc2dr9q1fcsidu&st=bifq5598&dl=0",
     ],
@@ -10163,7 +10163,7 @@ const initialProducts = [
   {
     id: 431,
     name: "Stencil FONDOS FLORES 21x30cm ",
-    price: "4.15",
+    price: "4.35",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/wmtfip8uwgi9190qcf3mc/stencil-textura-floral-2.jpg?rlkey=fgqgukvsq8vse9t1ubv6qqa10&st=9r032p3l&dl=0",
     ],
@@ -10175,7 +10175,7 @@ const initialProducts = [
   {
     id: 432,
     name: "Stencil MARIPOSAS Y ESTRELLAS 21x30cm ",
-    price: "4.15",
+    price: "4.35",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/silmoax16mll0473rv7uj/stencil-textura-floral-1.jpg?rlkey=y0pu5ez6q1jh9b4opc9k309gi&st=drladqs4&dl=0",
     ],
@@ -10187,7 +10187,7 @@ const initialProducts = [
   {
     id: 433,
     name: "Stencil RELIEVE METÁLICO 21x30cm ",
-    price: "4.15",
+    price: "4.35",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/235vdu3dld4fllb8613tj/stencil-textura-floral-6.jpg?rlkey=cn9ae72g8ujwa87hgaosmrwo4&st=e3xnxebu&dl=0",
     ],
@@ -10199,7 +10199,7 @@ const initialProducts = [
   {
     id: 434,
     name: "Stencil MOTHER 21x30cm ",
-    price: "4.15",
+    price: "4.35",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/c17e0n5tg7g1rt7lrwkn1/stencil-textura-floral-4.jpg?rlkey=xjolkmkro5okwzh96jqf845d5&st=g2mapsms&dl=0",
     ],
@@ -10211,7 +10211,7 @@ const initialProducts = [
   {
     id: 435,
     name: "Stencil TIJERAS VINTAGE 21x30cm ",
-    price: "4.15",
+    price: "4.35",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/adtq7xxloap7ss1rtutsz/stencil-textura-floral-5.jpg?rlkey=4f3fxu2zksfazv409n72irpoa&st=4f8e92c1&dl=0",
     ],
@@ -10223,7 +10223,7 @@ const initialProducts = [
   {
     id: 436,
     name: "Stencil ROSA DE LOS VIENTOS 21x30cm ",
-    price: "4.15",
+    price: "4.35",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/m7py9xxvxknugsp42p37m/stencil-lavande.jpg?rlkey=a8dpgcmk9jak41789lcrm13x5&st=f2xm5x63&dl=0",
     ],
@@ -10235,7 +10235,7 @@ const initialProducts = [
   {
     id: 437,
     name: "Stencil FILIGRANA 21x30cm ",
-    price: "4.15",
+    price: "4.35",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/m7py9xxvxknugsp42p37m/stencil-lavande.jpg?rlkey=a8dpgcmk9jak41789lcrm13x5&st=f2xm5x63&dl=0",
     ],
@@ -10247,7 +10247,7 @@ const initialProducts = [
   {
     id: 438,
     name: "Stencil 3 ROSAS 21x30cm ",
-    price: "4.15",
+    price: "4.35",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/3a97uyl6hi7qes1nccn8v/stencil-lavande-2.jpg?rlkey=0roovtsocaazeq9uvak3eh50v&st=fn6tlhdg&dl=0",
     ],
@@ -10259,7 +10259,7 @@ const initialProducts = [
   {
     id: 439,
     name: "Stencil LÁMPARAS 21x30cm ",
-    price: "4.15",
+    price: "4.35",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/6whhxb8cogef1brsl8d1z/stencil-lamparas.jpg?rlkey=w0zmwm0lcgmlnr19rbhbi9jrq&st=ue2ojr1f&dl=0",
     ],
@@ -10271,7 +10271,7 @@ const initialProducts = [
   {
     id: 425,
     name: "Stencil PRIVATE 25x35cm OS45",
-    price: "6.35",
+    price: "6.70",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/8xfkkodjmhsgbniq49cmf/private-stencils-cadence-25x35cm-0s45.jpg?rlkey=zj1buxeec2fgjcl7f9e9fwc8k&st=qj7292jw&dl=0",
     ],
@@ -10283,7 +10283,7 @@ const initialProducts = [
   {
     id: 426,
     name: "Stencil PRIVATE 25x35cm OS43",
-    price: "6.35",
+    price: "6.70",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/tdn8g1zgrxtsygixw8vhl/private-stencils-cadence-25x35cm-0s43.jpg?rlkey=cs6yqh6kq51w1ionk2pinnlr8&st=fzbsapke&dl=0",
     ],
@@ -10295,7 +10295,7 @@ const initialProducts = [
   {
     id: 427,
     name: "Stencil PRIVATE 25x35cm OS54",
-    price: "6.35",
+    price: "6.70",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/o2r7k7xvct0pofe7vkzyh/private-stencils-cadence-25x35cm-0s54.jpg?rlkey=0ybxeez48fk6dnpv80ysv6ad3&st=2ychkdu2&dl=0",
     ],
@@ -10307,7 +10307,7 @@ const initialProducts = [
   {
     id: 420,
     name: "Stencil DETALLE Cadence BN98",
-    price: "5.90",
+    price: "6.10",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/eym70gobraugs2kcg3whf/stencils-cadence-25x36cm-bn098.jpg?rlkey=splkewpq60ursy8ilomy7fhxc&st=95ih8wih&dl=0",
     ],
@@ -10319,7 +10319,7 @@ const initialProducts = [
   {
     id: 421,
     name: "Stencil DETALLE Cadence BN88",
-    price: "5.90",
+    price: "6.10",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/k0rbvvw7im08nqa6xcd7t/stencils-cadence-25x36cm-bn088.jpg?rlkey=kq9przg19y96njsky92g72bjy&st=gn7pznxw&dl=0",
     ],
@@ -10332,7 +10332,7 @@ const initialProducts = [
   {
     id: 422,
     name: "Stencil VEGETAL Cadence BN175",
-    price: "5.90",
+    price: "6.10",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/fwln44cpka35uvzflgvyu/stencil-vegetal-cadence.jpg?rlkey=8reshma78wxok7umgmqa3wjsf&st=riokw6hf&dl=0",
     ],
@@ -10345,7 +10345,7 @@ const initialProducts = [
   {
     id: 423,
     name: "Stencil FONDO Cadence",
-    price: "5.90",
+    price: "6.10",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/p7gpzdxw8hv0ecvr9y73c/stencil-vegetal-cadence-1.jpg?rlkey=1o41gna3c4v8vhduyi95xi8zn&st=0q2g4i8o&dl=0",
     ],
@@ -10358,7 +10358,7 @@ const initialProducts = [
   {
     id: 424,
     name: "Stencil VEGETAL Cadence BN160",
-    price: "5.90",
+    price: "6.10",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/7jb5hbrx8oee69zkobe65/stencil-vegetal-cadence-2.jpg?rlkey=av123tlnees2tabha0v9h7dvx&st=4szop2o1&dl=0",
     ],
@@ -10983,7 +10983,7 @@ const initialProducts = [
   {
     id: 482,
     name: "Transfer TELA W&B 21x30cm KTS05",
-    price: "5.30",
+    price: "4.90",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/r8ol51srtcjbz8hvvdlqp/transfer-tela-cadence.jpg?rlkey=t17wjx8yqslgcqvsu5ffumzas&st=4z60dxwb&dl=0",
     ],
@@ -10995,7 +10995,7 @@ const initialProducts = [
   {
     id: 483,
     name: "Transfer TELA W&B 21x30cm KTS06",
-    price: "5.30",
+    price: "4.90",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/1orl92mgnzqiiys0rujiq/transfer-tela-cadence-1.jpg?rlkey=onom93xa4ibo81h8kezi6eafz&st=cpv4fm0h&dl=0",
     ],
@@ -11007,7 +11007,7 @@ const initialProducts = [
   {
     id: 484,
     name: "Transfer TELA Animal Portrait 25x35cm PAFT08",
-    price: "5.30",
+    price: "4.90",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/3ztgfgueye41foskcng0p/transfer-tela-cadence-2.jpg?rlkey=816rv1zu774x0vxmh4q3fmkcr&st=bim3259e&dl=0",
     ],
@@ -11019,7 +11019,7 @@ const initialProducts = [
   {
     id: 485,
     name: "Transfer TELA Animal Portrait 25x35cm PAFT07",
-    price: "5.30",
+    price: "4.90",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/ox8rrcad3hxzc6gel6htl/transfer-tela-cadence-3.jpg?rlkey=6o6i0sl7e63tftvarfv3dssj8&st=7nvwix3z&dl=0",
     ],
@@ -11031,7 +11031,7 @@ const initialProducts = [
   {
     id: 486,
     name: "Transfer TELA Animal Portrait 25x35cm PAFT06",
-    price: "5.30",
+    price: "4.90",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/m555xfpjidt82dq5cr8u2/transfer-tela-cadence-4.jpg?rlkey=k17quqkz122uy90p7agj7x2nn&st=qptgkpdx&dl=0",
     ],
@@ -11043,7 +11043,7 @@ const initialProducts = [
   {
     id: 487,
     name: "Transfer TELA Animal Portrait 25x35cm PAFT05",
-    price: "5.30",
+    price: "4.90",
     images: ["https://i.ibb.co/BZc23m2/transfer-tela-cadence-5.jpg"],
     label: "25x35cm",
     description:
@@ -11053,7 +11053,7 @@ const initialProducts = [
   {
     id: 488,
     name: "Transfer TELA Animal Portrait 25x35cm PAFT03",
-    price: "5.30",
+    price: "4.90",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/b9h406cniqgi10hwg15ol/transfer-tela-cadence-6.jpg?rlkey=8yv0l939dyujgesl4b850sclp&st=enbbe9ud&dl=0",
     ],
@@ -11065,7 +11065,7 @@ const initialProducts = [
   {
     id: 489,
     name: "Transfer TELA Siluetas 25x35cm FT069",
-    price: "5.30",
+    price: "4.90",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/wovntoqyp1130h303hhu9/transfer-tela-cadence-7.jpg?rlkey=kli80dhm4srtg1cw45b8iw8oc&st=9qt6cp1z&dl=0",
     ],
@@ -11077,7 +11077,7 @@ const initialProducts = [
   {
     id: 490,
     name: "Transfer TELA Siluetas 25x35cm FT068",
-    price: "5.30",
+    price: "4.90",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/ttf6gg2618l2rl8q9s3yf/transfer-tela-cadence-8.jpg?rlkey=xd4ealsveh1dtxlklil4pbuiz&st=baa8jxek&dl=0",
     ],
@@ -11089,7 +11089,7 @@ const initialProducts = [
   {
     id: 491,
     name: "Transfer TELA Siluetas 25x35cm FT067",
-    price: "5.30",
+    price: "4.90",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/fgdxzjz5dup0fiksrvzya/transfer-tela-cadence-9.jpg?rlkey=46o8mf1n2cb6sfmldkgnck1w9&st=c4mla4fo&dl=0",
     ],
@@ -11101,7 +11101,7 @@ const initialProducts = [
   {
     id: 492,
     name: "Transfer TELA Siluetas 25x35cm FT064",
-    price: "5.30",
+    price: "4.90",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/2tqm59fysvuiptopbisxw/transfer-tela-cadence-10.jpg?rlkey=kr3ig52tngodp3wbq3rlnucjt&st=ti08cays&dl=0",
     ],
@@ -11113,7 +11113,7 @@ const initialProducts = [
   {
     id: 493,
     name: "Transfer TELA Siluetas 25x35cm FT065",
-    price: "5.30",
+    price: "4.90",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/gb38ofuvmjlu7q7kjqpjr/transfer-tela-cadence-11.jpg?rlkey=2440gb83ls58xvp97yr3vqsmu&st=gw5r53a6&dl=0",
     ],
@@ -11125,7 +11125,7 @@ const initialProducts = [
   {
     id: 494,
     name: "Transfer TELA Siluetas 25x35cm FT063",
-    price: "5.30",
+    price: "4.90",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/csmdwq64fs6i7shml6p08/transfer-tela-cadence-12.jpg?rlkey=8g3aqwetlldj7iwbdii8o4ym6&st=bmmwciqg&dl=0",
     ],
@@ -11137,7 +11137,7 @@ const initialProducts = [
   {
     id: 495,
     name: "Transfer TELA W&B 21x30cm KTS13",
-    price: "5.30",
+    price: "4.90",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/ek3cudyrvvezezhgge22y/transfer-tela-cadence-14.jpg?rlkey=4pof1h1ozvbdftzfolswbbrh1&st=uindi5iq&dl=0",
     ],
@@ -11149,7 +11149,7 @@ const initialProducts = [
   {
     id: 496,
     name: "Transfer TELA W&B 21x30cm KTS14",
-    price: "5.30",
+    price: "4.90",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/4qzkaw9bsxm3t0jacoses/transfer-tela-cadence-13.jpg?rlkey=zkcot4y4w92w2zxr0hemb8lz3&st=mdaj27rf&dl=0",
     ],
@@ -11161,7 +11161,7 @@ const initialProducts = [
   {
     id: 814,
     name: "Transfer TELA Joy of Life 21x30cm JLFT20",
-    price: "5.30",
+    price: "4.90",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/yfe1uoh7f3f0sxszso7z8/transfer-textil-joy-of-life-21x30cm-JLFT20.jpg?rlkey=jcea8c1h7qdly5uxbfgo8e5nm&st=wyda5pat&dl=0",
     ],
@@ -11173,7 +11173,7 @@ const initialProducts = [
   {
     id: 815,
     name: "Transfer TELA Joy-of-life-21x30cm JLFT19",
-    price: "5.30",
+    price: "4.90",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/81l65o96v75qpwc8b2vjj/transfer-textil-joy-of-life-21x30cm-JLFT19.jpg?rlkey=df1wq3ti1jgijl103vpln2isn&st=pl0cxrme&dl=0",
     ],
@@ -11185,7 +11185,7 @@ const initialProducts = [
   {
     id: 816,
     name: "Transfer TELA Joy-of-life-21x30cm JLFT18",
-    price: "5.30",
+    price: "4.90",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/7152l9uccvqngh330dup3/transfer-textil-joy-of-life-21x30cm-JLFT18.jpg?rlkey=8nwj7q68b5ysd1pssnu5939az&st=5e6sixtx&dl=0",
     ],
@@ -11197,7 +11197,7 @@ const initialProducts = [
   {
     id: 817,
     name: "Transfer TELA Joy-of-life-21x30cm JLFT17",
-    price: "5.30",
+    price: "4.90",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/52mco4k6ik2yiiqqn89o0/transfer-textil-joy-of-life-21x30cm-JLFT17.jpg?rlkey=o8wmsscmysvfuxan3aozefphe&st=ed7r0185&dl=0",
     ],
@@ -11209,7 +11209,7 @@ const initialProducts = [
   {
     id: 818,
     name: "Transfer TELA Joy-of-life-21x30cm JLFT16",
-    price: "5.30",
+    price: "4.90",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/ybvmrh913avsqe0twsz5o/transfer-textil-joy-of-life-21x30cm-JLFT16.jpg?rlkey=7goo7urtq411w4ogrfoagmjme&st=vc3rgp57&dl=0",
     ],
@@ -11221,7 +11221,7 @@ const initialProducts = [
   {
     id: 819,
     name: "Transfer TELA Joy-of-life-21x30cm JLFT15",
-    price: "5.30",
+    price: "4.90",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/26m2so5783qft1hjxbhbw/transfer-textil-joy-of-life-21x30cm-JLFT15.jpg?rlkey=hnbf2pnfldznfwdcorihxvvf1&st=f4jonhc9&dl=0",
     ],
@@ -11233,7 +11233,7 @@ const initialProducts = [
   {
     id: 820,
     name: "Transfer TELA Joy-of-life-21x30cm JLFT14",
-    price: "5.30",
+    price: "4.90",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/h1xacgtrj9nyj8vdhfw44/transfer-textil-joy-of-life-21x30cm-JLFT14.jpg?rlkey=s3e0wmotl4tlfne79sbq32vvd&st=gax198q0&dl=0",
     ],
@@ -11245,7 +11245,7 @@ const initialProducts = [
   {
     id: 821,
     name: "Transfer TELA Joy-of-life-21x30cm JLFT13",
-    price: "5.30",
+    price: "4.90",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/5gd7x8g8f9rqooaaoohh3/transfer-textil-joy-of-life-21x30cm-JLFT13.jpg?rlkey=ri7yefbtf1s31bo2ew1yvomg5&st=b7tbr5aq&dl=0",
     ],
@@ -11257,7 +11257,7 @@ const initialProducts = [
   {
     id: 822,
     name: "Transfer TELA Joy-of-life-21x30cm JLFT12",
-    price: "5.30",
+    price: "4.90",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/y1imx85yu038vnnf3cesp/transfer-textil-joy-of-life-21x30cm-JLFT12.jpg?rlkey=0ucod1offdo52l18jbdwqgfhm&st=k8vo69ao&dl=0",
     ],
@@ -11269,7 +11269,7 @@ const initialProducts = [
   {
     id: 823,
     name: "Transfer TELA Joy-of-life-21x30cm JLFT11",
-    price: "5.30",
+    price: "4.90",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/2on0vooi75j56459ytk74/Transfer-TEXTIL-Joy-of-Life-21x30cm-JLFT11.jpg?rlkey=flpcx4pgfylg6hqiapyfpnx0d&st=ongnjz27&dl=0",
     ],
@@ -11281,7 +11281,7 @@ const initialProducts = [
   {
     id: 824,
     name: "Transfer TELA Joy-of-life-21x30cm JLFT10",
-    price: "5.30",
+    price: "4.90",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/8uulnr0t8e5opo1ic2ufn/transfer-textil-joy-of-life-21x30cm-JLFT10.jpg?rlkey=v8y233anwcr8of2vv3ks86aul&st=flu67p6o&dl=0",
     ],
@@ -11293,7 +11293,7 @@ const initialProducts = [
   {
     id: 825,
     name: "Transfer TELA Joy-of-life-21x30cm JLFT09",
-    price: "5.30",
+    price: "4.90",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/c422twdg36rlhmu879dxf/transfer-textil-joy-of-life-21x30cm-JLFT09.jpg?rlkey=79gxeqykzrzcb9u74m7hro8ba&st=pw5fxc35&dl=0",
     ],
@@ -11305,7 +11305,7 @@ const initialProducts = [
   {
     id: 826,
     name: "Transfer TELA Joy-of-life-21x30cm JLFT08",
-    price: "5.30",
+    price: "4.90",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/j04m0j8vnf2u0rgze81nm/transfer-textil-joy-of-life-21x30cm-JLFT08.jpg?rlkey=bozkygyk9vn7ex0jlt2zll4x4&st=2st5c4ky&dl=0",
     ],
@@ -11317,7 +11317,7 @@ const initialProducts = [
   {
     id: 827,
     name: "Transfer TELA Joy-of-life-21x30cm JLFT07",
-    price: "5.30",
+    price: "4.90",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/d3378lfumrzz9khy6hulm/transfer-textil-joy-of-life-21x30cm-JLFT07.jpg?rlkey=i5vmv5ft5m9rbmu0du2to3dkv&st=jyebvhz6&dl=0",
     ],
@@ -11329,7 +11329,7 @@ const initialProducts = [
   {
     id: 828,
     name: "Transfer TELA Joy-of-life-21x30cm JLFT06",
-    price: "5.30",
+    price: "4.90",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/nymqu91fq1x2z6y8mqf2r/transfer-textil-joy-of-life-21x30cm-JLFT06.jpg?rlkey=iltd8qtpa3iyn2cfgfjdyk1mo&st=f7mms27m&dl=0",
     ],
@@ -11341,7 +11341,7 @@ const initialProducts = [
   {
     id: 829,
     name: "Transfer TELA Joy-of-life-21x30cm JLFT05",
-    price: "5.30",
+    price: "4.90",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/ymvz2yeb7ho5f2imeuozf/transfer-textil-joy-of-life-21x30cm-JLFT05.jpg?rlkey=vwz58p5itmut1bgawfnc33243&st=vgjgjujo&dl=0",
     ],
@@ -11353,7 +11353,7 @@ const initialProducts = [
   {
     id: 830,
     name: "Transfer TELA Joy-of-life-21x30cm JLFT04",
-    price: "5.30",
+    price: "4.90",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/jh6zpcivdb3142ft4hq8y/transfer-textil-joy-of-life-21x30cm-JLFT04.jpg?rlkey=tm20lk5u97pwgn62vj8xthb37&st=7wps7vz9&dl=0",
     ],
@@ -11365,7 +11365,7 @@ const initialProducts = [
   {
     id: 831,
     name: "Transfer TELA Joy-of-life-21x30cm JLFT03",
-    price: "5.30",
+    price: "4.90",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/ec6ugo6nl6xqvy6iz0eug/transfer-textil-joy-of-life-21x30cm-JLFT03.jpg?rlkey=9m1ovju4m5sx7yigrxmfkx3qj&st=i6dnb94v&dl=0",
     ],
@@ -11377,7 +11377,7 @@ const initialProducts = [
   {
     id: 832,
     name: "Transfer TELA Joy-of-life-21x30cm JLFT02",
-    price: "5.30",
+    price: "4.90",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/ly7k9o4llva3riyzy7wa3/transfer-textil-joy-of-life-21x30cm-JLFT02.jpg?rlkey=vii6v1sllb10qpdjdiigr0ydw&st=wwz4yse7&dl=0",
     ],
@@ -11389,7 +11389,7 @@ const initialProducts = [
   {
     id: 833,
     name: "Transfer TELA Joy-of-life-21x30cm JLFT01",
-    price: "5.30",
+    price: "4.90",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/99yi9s1clf0ghzceh0nxk/transfer-textil-joy-of-life-21x30cm-JLFT01.jpg?rlkey=blhjlsm31keg2t4tfitz4kzdv&st=tdjxg1kw&dl=0",
     ],
@@ -11401,7 +11401,7 @@ const initialProducts = [
   {
     id: 834,
     name: "Transfer TELA Coutout-25x35cm C0008",
-    price: "5.30",
+    price: "4.90",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/ndbtda46xre7269onp1p7/transfer-textil-coutout-25x35cm-CO008.jpg?rlkey=33v03iahc7i43nk9gvn8auk26&st=hukn2b8z&dl=0",
     ],
@@ -11413,7 +11413,7 @@ const initialProducts = [
   {
     id: 835,
     name: "Transfer TELA Coutout-25x35cm C0007",
-    price: "5.30",
+    price: "4.90",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/1723eu1niwt5qaupyep3w/transfer-textil-coutout-25x35cm-CO007.jpg?rlkey=zoz2ssgitfyvwbwnul542i9u3&st=tx9eps23&dl=0",
     ],
@@ -11425,7 +11425,7 @@ const initialProducts = [
   {
     id: 836,
     name: "Transfer TELA Coutout-25x35cm C0002",
-    price: "5.30",
+    price: "4.90",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/1t6fgxw8rycsk2l7q1uyy/transfer-textil-coutout-25x35cm-CO002.jpg?rlkey=o8hxsyo306cl8u540vhuudxzs&st=cy9qmeni&dl=0",
     ],
@@ -11437,7 +11437,7 @@ const initialProducts = [
   {
     id: 837,
     name: "Transfer TELA Coutout-25x35cm C0001",
-    price: "5.30",
+    price: "4.90",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/wabnmp8ayq19t3npqotqd/transfer-textil-coutout-25x35cm-CO001.jpg?rlkey=axbhjsc4b0l7463ltwmgprvbu&st=1yj8aumf&dl=0",
     ],
@@ -11449,7 +11449,7 @@ const initialProducts = [
   {
     id: 838,
     name: "Transfer TELA Wb-21x30cm KTS21",
-    price: "5.30",
+    price: "4.90",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/1egvf7hrsihhmzit5v98x/transfer-tela-wb-21x30cm-KTS21.jpg?rlkey=ozw6iqa6dzur6u9rszizs8nhv&st=60bnv5oz&dl=0",
     ],
@@ -11461,7 +11461,7 @@ const initialProducts = [
   {
     id: 839,
     name: "Transfer TELA Wb-21x30cm KTS19",
-    price: "5.30",
+    price: "4.90",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/dczzg981man6v168448ie/transfer-tela-wb-21x30cm-KTS19.jpg?rlkey=rb5ndi7m2bc14v4x91nsta3b5&st=pi5erq0k&dl=0",
     ],
@@ -11473,7 +11473,7 @@ const initialProducts = [
   {
     id: 840,
     name: "Transfer TELA Wb-21x30cm KTS18",
-    price: "5.30",
+    price: "4.90",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/bxidd318n36d654v8fiye/transfer-tela-wb-21x30cm-KTS18.jpg?rlkey=n2i53nchaow7is7q7xjdz7k0f&st=oyijkywt&dl=0",
     ],
@@ -11485,7 +11485,7 @@ const initialProducts = [
   {
     id: 841,
     name: "Transfer TELA Wb-21x30cm KTS08",
-    price: "5.30",
+    price: "4.90",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/ndi2sk2kmvxwdwtyio8g1/transfer-tela-wb-21x30cm-KTS08.jpg?rlkey=xu83051ks7b40ghrgd0padtff&st=pimrrmsz&dl=0",
     ],
@@ -11497,7 +11497,7 @@ const initialProducts = [
   {
     id: 842,
     name: "Transfer TELA Cadence WFFTC007",
-    price: "5.30",
+    price: "4.90",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/grjldsn550ouof5tgfqrv/transfer-tela-cadence-WFFTC007.jpg?rlkey=1ktffjpcsb9bwwjbit12gggp7&st=osp4ihlv&dl=0",
     ],
@@ -11509,7 +11509,7 @@ const initialProducts = [
   {
     id: 843,
     name: "Transfer TELA Cadence WFFTC006",
-    price: "5.30",
+    price: "4.90",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/qgf75umg8asr4wxbylzo1/transfer-tela-cadence-WFFTC006.jpg?rlkey=0k18t933pt75pczvzdkdif2p2&st=tvbm6mod&dl=0",
     ],
@@ -11521,7 +11521,7 @@ const initialProducts = [
   {
     id: 844,
     name: "Transfer TELA Cadence WFFTC005",
-    price: "5.30",
+    price: "4.90",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/dggzuv8czmdwmgbzbs0gv/transfer-tela-cadence-WFFTC005.jpg?rlkey=98la8xgvhbqtxumvn2szx3q0u&st=6bocumz9&dl=0",
     ],
@@ -11533,7 +11533,7 @@ const initialProducts = [
   {
     id: 845,
     name: "Transfer TELA Cadence WFFTC004",
-    price: "5.30",
+    price: "4.90",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/64v0ob090yqwyk8iz33ak/transfer-tela-cadence-WFFTC004.jpg?rlkey=kgmts45m4vcmxosmguk3g5r4b&st=0jtnp4fw&dl=0",
     ],
@@ -11545,7 +11545,7 @@ const initialProducts = [
   {
     id: 846,
     name: "Transfer TELA Cadence WFFTC003",
-    price: "5.30",
+    price: "4.90",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/sxj7unptw4edxfe9h2mi8/transfer-tela-cadence-WFFTC003.jpg?rlkey=9m1u1hvh1insqb59u38ohrnxa&st=mb3810hb&dl=0",
     ],
@@ -11557,7 +11557,7 @@ const initialProducts = [
   {
     id: 847,
     name: "Transfer TELA Cadence WFFTC002",
-    price: "5.30",
+    price: "4.90",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/owoovdtcqa1hufljpz54s/transfer-tela-cadence-WFFTC002.jpg?rlkey=layoikf1dy8jzny4d7r1yx92o&st=9ckmqyca&dl=0",
     ],
@@ -11569,7 +11569,7 @@ const initialProducts = [
   {
     id: 848,
     name: "Transfer TELA Cadence WFFTC001",
-    price: "5.30",
+    price: "4.90",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/vc0kscvv4s2wi87vzs7ey/transfer-tela-cadence-WFFTC001.jpg?rlkey=d3v4uepqp02aujhvpv7ro1k2l&st=cvjr4lql&dl=0",
     ],
@@ -11581,7 +11581,7 @@ const initialProducts = [
   {
     id: 849,
     name: "Transfer TELA Cadence PAFT04",
-    price: "5.30",
+    price: "4.90",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/0wrsga31toiixaz0dv8zf/transfer-tela-cadence-PAFT04.jpg?rlkey=taujclrizj55c096d11nhrbva&st=q9uj3n09&dl=0",
     ],
@@ -11593,7 +11593,7 @@ const initialProducts = [
   {
     id: 850,
     name: "Transfer TELA Cadence PAFT02",
-    price: "5.30",
+    price: "4.90",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/du3dh2l045ap8w9lwiaoj/transfer-tela-cadence-PAFT02.jpg?rlkey=pd096bu4m30kllb2608ilx8se&st=exxi9cqx&dl=0",
     ],
@@ -11605,7 +11605,7 @@ const initialProducts = [
   {
     id: 851,
     name: "Transfer TELA Cadence PAFT01",
-    price: "5.30",
+    price: "4.90",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/of1v8ga5gnib10by39k5u/transfer-tela-cadence-PAFT01.jpg?rlkey=ehzgedqbd4jfen7s9am0yzhnf&st=0ohfzxow&dl=0",
     ],
@@ -11617,7 +11617,7 @@ const initialProducts = [
   {
     id: 852,
     name: "Transfer TELA Cadence KTSB015",
-    price: "5.30",
+    price: "4.90",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/o7h3mhj9mf17qvtra947b/transfer-tela-cadence-KTSB015.jpg?rlkey=rjv3loaq1nvyrfqnu3dacu48e&st=2245bymi&dl=0",
     ],
@@ -11629,7 +11629,7 @@ const initialProducts = [
   {
     id: 853,
     name: "Transfer TELA Cadence KTSB014",
-    price: "5.30",
+    price: "4.90",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/exgqtv7kt57lofs2dmvma/transfer-tela-cadence-KTSB014.jpg?rlkey=uiab95cldycaefb0f3mvsafjg&st=9pzcb2d0&dl=0",
     ],
@@ -11641,7 +11641,7 @@ const initialProducts = [
   {
     id: 854,
     name: "Transfer TELA Cadence KTSB013",
-    price: "5.30",
+    price: "4.90",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/2lh7wp0x8htogfm89txqc/transfer-tela-cadence-KTSB013.jpg?rlkey=jb74p99z2zssawxaevjnulstm&st=gnk3kmrl&dl=0",
     ],
@@ -11653,7 +11653,7 @@ const initialProducts = [
   {
     id: 855,
     name: "Transfer TELA Cadence KTSB012",
-    price: "5.30",
+    price: "4.90",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/ibg5ktd5n6kyhrlv8byvf/transfer-tela-cadence-KTSB012.jpg?rlkey=baltnvr3o6s4gu69aa3gflgeo&st=3e0s0vkl&dl=0",
     ],
@@ -11665,7 +11665,7 @@ const initialProducts = [
   {
     id: 856,
     name: "Transfer TELA Cadence KTSB011",
-    price: "5.30",
+    price: "4.90",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/amf6udzbvu69wg1ktnicg/transfer-tela-cadence-KTSB011.jpg?rlkey=c9fnd7j5wjpzfkwxiiyb60awh&st=pqc9par1&dl=0",
     ],
@@ -11677,7 +11677,7 @@ const initialProducts = [
   {
     id: 857,
     name: "Transfer TELA Cadence KTSB010",
-    price: "5.30",
+    price: "4.90",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/zduwfv2nx46qmi0nfwi55/transfer-tela-cadence-KTSB010.jpg?rlkey=5nfxio45ikb24prqeumckdqac&st=7m1mde47&dl=0",
     ],
@@ -11689,7 +11689,7 @@ const initialProducts = [
   {
     id: 858,
     name: "Transfer TELA Cadence KTSB009",
-    price: "5.30",
+    price: "4.90",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/w3jhm1ny8arxs5qtlja7i/transfer-tela-cadence-KTSB009.jpg?rlkey=1t6da8qrh3do8l0c6byochx4w&st=u79mz1f7&dl=0",
     ],
@@ -11701,7 +11701,7 @@ const initialProducts = [
   {
     id: 859,
     name: "Transfer TELA Cadence KTSB008",
-    price: "5.30",
+    price: "4.90",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/tpehzojpyphadzzubmnwm/transfer-tela-cadence-KTSB008.jpg?rlkey=l9kuxqekxpjezy8weiw8gkk8i&st=u7ox2x80&dl=0",
     ],
@@ -11713,7 +11713,7 @@ const initialProducts = [
   {
     id: 860,
     name: "Transfer TELA Cadence KTSB007",
-    price: "5.30",
+    price: "4.90",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/6io7q5e90vq3y8o4ddm4r/transfer-tela-cadence-KTSB007.jpg?rlkey=y2of0jbq0bmezzyg7ropg9nds&st=2ei6fxsx&dl=0",
     ],
@@ -11725,7 +11725,7 @@ const initialProducts = [
   {
     id: 861,
     name: "Transfer TELA Cadence KTSB006",
-    price: "5.30",
+    price: "4.90",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/aklhmatx6o0cqcpp6osrt/transfer-tela-cadence-KTSB006.jpg?rlkey=378civkqbjmmi2erwez6ww3q5&st=u9qekwfr&dl=0",
     ],
@@ -11737,7 +11737,7 @@ const initialProducts = [
   {
     id: 862,
     name: "Transfer TELA Cadence KTSB005",
-    price: "5.30",
+    price: "4.90",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/wl4p5ws60q756b2bsxvxt/transfer-tela-cadence-KTSB005.jpg?rlkey=i7mjst2kgn8ovrvuky4w45jha&st=xtme9e6s&dl=0",
     ],
@@ -11749,7 +11749,7 @@ const initialProducts = [
   {
     id: 864,
     name: "Transfer TELA Cadence KTSB003",
-    price: "5.30",
+    price: "4.90",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/w7g8ummj7eumonjvgk8cv/transfer-tela-cadence-KTSB003.jpg?rlkey=zn63mczx4xfkusdeg3rlpf7if&st=ksxoznkz&dl=0",
     ],
@@ -11761,7 +11761,7 @@ const initialProducts = [
   {
     id: 865,
     name: "Transfer TELA Cadence KTSB002",
-    price: "5.30",
+    price: "4.90",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/1e5k66w900jofmc7y95b5/transfer-tela-cadence-KTSB002.jpg?rlkey=lscvmc21mlmamn62cbjp2gefl&st=oeujhwtf&dl=0",
     ],
@@ -11773,7 +11773,7 @@ const initialProducts = [
   {
     id: 866,
     name: "Transfer TELA Cadence KTSB001",
-    price: "5.30",
+    price: "4.90",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/n861lz7m08zxi32nhcioj/transfer-tela-cadence-KTSB001.jpg?rlkey=diaeyg9m7b9l7kox93w2e9oue&st=0lv9ajc4&dl=0",
     ],
@@ -11785,7 +11785,7 @@ const initialProducts = [
   {
     id: 867,
     name: "Transfer TELA Cadence KTS20",
-    price: "5.30",
+    price: "4.90",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/h70dlnaonlthhe72hltx4/transfer-tela-cadence-KTS20.jpg?rlkey=miqnixl22gl251sdp8iqfjje8&st=eg2hdbol&dl=0",
     ],
@@ -11797,7 +11797,7 @@ const initialProducts = [
   {
     id: 868,
     name: "Transfer TELA Cadence KTS17",
-    price: "5.30",
+    price: "4.90",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/ajlyi90uxkuph5ut81ppb/transfer-tela-cadence-KTS17.jpg?rlkey=1jvwp6btky70i5jx6j5n0yzx5&st=w6ut8clc&dl=0",
     ],
@@ -11809,7 +11809,7 @@ const initialProducts = [
   {
     id: 869,
     name: "Transfer TELA Cadence KTS12",
-    price: "5.30",
+    price: "4.90",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/xz70sa2ndr8365k9h6eia/transfer-tela-cadence-KTS12.jpg?rlkey=1oax7i5wc1fstjmv7vqm5i0cf&st=wqnkt4m2&dl=0",
     ],
@@ -11821,7 +11821,7 @@ const initialProducts = [
   {
     id: 870,
     name: "Transfer TELA Cadence KTS10",
-    price: "5.30",
+    price: "4.90",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/uxkt6qe74th475qo7s44v/transfer-tela-cadence-KTS10.jpg?rlkey=ot2tcd0du675s42a2rld3tynq&st=u01je9s9&dl=0",
     ],
@@ -11833,7 +11833,7 @@ const initialProducts = [
   {
     id: 871,
     name: "Transfer TELA Cadence KTS09",
-    price: "5.30",
+    price: "4.90",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/69wg9xeebe5o0qb2s5g1r/transfer-tela-cadence-KTS09.jpg?rlkey=puwzkxj3whoi8jarqpqij6g9p&st=w8tcg15l&dl=0",
     ],
@@ -11845,7 +11845,7 @@ const initialProducts = [
   {
     id: 872,
     name: "Transfer TELA Cadence KTS06",
-    price: "5.30",
+    price: "4.90",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/c3n62baq2p8xq7d6237ce/transfer-tela-cadence-KTS06.jpg?rlkey=vyxwsl7n8aw87skx4jzz0s3nz&st=zsux8nm5&dl=0",
     ],
@@ -11857,7 +11857,7 @@ const initialProducts = [
   {
     id: 873,
     name: "Transfer TELA Cadence KTS05",
-    price: "5.30",
+    price: "4.90",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/qodicyxkr4t9eykzl6iw1/transfer-tela-cadence-KTS05.jpg?rlkey=ovjupn7br96m6ka3p113ims89&st=88scvoxk&dl=0",
     ],
@@ -11869,7 +11869,7 @@ const initialProducts = [
   {
     id: 874,
     name: "Transfer TELA Cadence KTS04",
-    price: "5.30",
+    price: "4.90",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/2q7fof26e7q3hifkc2qkv/transfer-tela-cadence-KTS04.jpg?rlkey=hqukk4pscxlvicke1siivggv4&st=7h05sary&dl=0",
     ],
@@ -11881,7 +11881,7 @@ const initialProducts = [
   {
     id: 875,
     name: "Transfer TELA Cadence KTS02",
-    price: "5.30",
+    price: "4.90",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/w80ys3lfrqb4qgief8ef5/transfer-tela-cadence-KTS02.jpg?rlkey=ozp0slxr2qt5j50qxb7e634nu&st=ijpqjue3&dl=0",
     ],
@@ -11893,7 +11893,7 @@ const initialProducts = [
   {
     id: 876,
     name: "Transfer TELA Cadence KTS01",
-    price: "5.30",
+    price: "4.90",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/8rnt52u8y14yw81xjvk6w/transfer-tela-cadence-KTS01.jpg?rlkey=60g8it3ptgh1emhfxqhnnvng0&st=5gtz1m1l&dl=0",
     ],
@@ -11905,7 +11905,7 @@ const initialProducts = [
   {
     id: 877,
     name: "Transfer TELA Cadence-gold-VT024-21x30 cm",
-    price: "5.30",
+    price: "4.90",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/m966ps4c8os6tvq2kkdrh/transfer-tela-cadence-gold-vt024-21x30-cm.jpg?rlkey=n72h2skve612tsorht0ld1s80&st=pqzevb5q&dl=0",
     ],
@@ -11917,7 +11917,7 @@ const initialProducts = [
   {
     id: 878,
     name: "Transfer TELA Cadence FT207",
-    price: "5.30",
+    price: "4.90",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/tjv1hcbp2hhgns2gyutpq/transfer-tela-cadence-FT207.jpg?rlkey=lqwcvwxg1vs2f3msteuiqy36d&st=5fb22yhk&dl=0",
     ],
@@ -11929,7 +11929,7 @@ const initialProducts = [
   {
     id: 879,
     name: "Transfer TELA Cadence FT070",
-    price: "5.30",
+    price: "4.90",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/m7jokuk6mj2bntg9wc6dp/transfer-tela-cadence-FT070.jpg?rlkey=f5wzn6a21gu85yvlkbot2xnk6&st=uu4xiqk5&dl=0",
     ],
@@ -11941,7 +11941,7 @@ const initialProducts = [
   {
     id: 880,
     name: "Transfer TELA Cadence FT066",
-    price: "5.30",
+    price: "4.90",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/xkdxf2kq46brbdncs5hjw/transfer-tela-cadence-FT066.jpg?rlkey=dxdfv0mmxea5q6k04l2s7wj3a&st=1xos35fi&dl=0",
     ],
@@ -11953,7 +11953,7 @@ const initialProducts = [
   {
     id: 881,
     name: "Transfer TELA Cadence FT062",
-    price: "5.30",
+    price: "4.90",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/whgiwgcvg9saaq2pj807m/transfer-tela-cadence-FT062.jpg?rlkey=x0405q4u4150v37fcgcqgw8qc&st=mgm6v0sq&dl=0",
     ],
@@ -11965,7 +11965,7 @@ const initialProducts = [
   {
     id: 882,
     name: "Transfer TELA Cadence FT051",
-    price: "5.30",
+    price: "4.90",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/xal52c4fvaagp0zdo3p5z/transfer-tela-cadence-FT051.jpg?rlkey=mt41ify0cqbq8uqulv9ogfk79&st=1iljcg5f&dl=0",
     ],
@@ -11977,7 +11977,7 @@ const initialProducts = [
   {
     id: 883,
     name: "Transfer TELA Cadence FT050",
-    price: "5.30",
+    price: "4.90",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/k83bf2p9u5bzq8b0fhuaq/transfer-tela-cadence-FT050.jpg?rlkey=0jnfvnqe4lj3qp2p3l0yjk0fn&st=pyhuziye&dl=0",
     ],
@@ -11989,7 +11989,7 @@ const initialProducts = [
   {
     id: 884,
     name: "Transfer TELA Cadence FT049",
-    price: "5.30",
+    price: "4.90",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/4nhycp79yizvanzve1ao5/transfer-tela-cadence-FT049.jpg?rlkey=gsdbc919a65ysc6rkodtougqu&st=bfl74yoy&dl=0",
     ],
@@ -12001,7 +12001,7 @@ const initialProducts = [
   {
     id: 885,
     name: "Transfer TELA Cadence FT046",
-    price: "5.30",
+    price: "4.90",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/rjto3uoss2qrmobbtmlc2/transfer-tela-cadence-FT046.jpg?rlkey=ay86qms6p5brlk8npmhd1y3aj&st=z483ypty&dl=0",
     ],
@@ -12013,7 +12013,7 @@ const initialProducts = [
   {
     id: 886,
     name: "Transfer TELA Cadence FT043",
-    price: "5.30",
+    price: "4.90",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/4cfprgbhe65vyxj0mzuen/transfer-tela-cadence-FT043.jpg?rlkey=jhcxdbtv33kxulok3vyjbf9xy&st=afxbciis&dl=0",
     ],
@@ -12025,7 +12025,7 @@ const initialProducts = [
   {
     id: 887,
     name: "Transfer TELA Cadence FT042",
-    price: "5.30",
+    price: "4.90",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/0uvzj8x5c9pul99ymqf4p/transfer-tela-cadence-FT042.jpg?rlkey=l4f222fk45iw3lgen0bf5mr7j&st=dmd18n3m&dl=0",
     ],
@@ -12037,7 +12037,7 @@ const initialProducts = [
   {
     id: 888,
     name: "Transfer TELA Cadence FT041",
-    price: "5.30",
+    price: "4.90",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/qgp2p6ob05bvu1uu6kn4v/transfer-tela-cadence-FT041.jpg?rlkey=eg6qw8wuikvzcrgqr0kzv6ylq&st=wai66roj&dl=0",
     ],
@@ -12049,7 +12049,7 @@ const initialProducts = [
   {
     id: 889,
     name: "Transfer TELA Cadence FT040",
-    price: "5.30",
+    price: "4.90",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/557cfruf5bvjpq0bnvprv/transfer-tela-cadence-FT040.jpg?rlkey=n6j6ewgt66x1sk4jnjkwzk5qd&st=zybd0cql&dl=0",
     ],
@@ -12061,7 +12061,7 @@ const initialProducts = [
   {
     id: 890,
     name: "Transfer TELA Cadence FT039",
-    price: "5.30",
+    price: "4.90",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/6zvbf54m81wwsl0mq1hzy/transfer-tela-cadence-FT039.jpg?rlkey=5a5h485jqrtns0cpjlaowrmym&st=mtbnblkl&dl=0",
     ],
@@ -12073,7 +12073,7 @@ const initialProducts = [
   {
     id: 891,
     name: "Transfer TELA Cadence FT038",
-    price: "5.30",
+    price: "4.90",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/14nikrk4fwk70c03wdfem/transfer-tela-cadence-FT038.jpg?rlkey=9pvh404zfrqql1wtflpn6y36f&st=7vwkf4zh&dl=0",
     ],
@@ -12085,7 +12085,7 @@ const initialProducts = [
   {
     id: 892,
     name: "Transfer TELA Cadence FT037",
-    price: "5.30",
+    price: "4.90",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/zr1l7krrphrq56fzfj33j/transfer-tela-cadence-FT037.jpg?rlkey=ay6gchgiaxmsgw1so7mk815bq&st=7no9mpud&dl=0",
     ],
@@ -12097,7 +12097,7 @@ const initialProducts = [
   {
     id: 893,
     name: "Transfer TELA Cadence FT036",
-    price: "5.30",
+    price: "4.90",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/mk7a1dwy7y05fran3rdps/transfer-tela-cadence-FT036.jpg?rlkey=v5j3kipj1cy8sng3tlnnma6lj&st=miev0u38&dl=0",
     ],
@@ -12109,7 +12109,7 @@ const initialProducts = [
   {
     id: 894,
     name: "Transfer TELA Cadence FT035",
-    price: "5.30",
+    price: "4.90",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/hxieglnvt7398iq5gzg2r/transfer-tela-cadence-FT035.jpg?rlkey=4srebahho75c5gyzf6dmdhjne&st=pk6d59ky&dl=0",
     ],
@@ -12121,7 +12121,7 @@ const initialProducts = [
   {
     id: 895,
     name: "Transfer TELA Cadence FT029",
-    price: "5.30",
+    price: "4.90",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/bct5w2hl7reym74zwy5zt/transfer-tela-cadence-FT029.jpg?rlkey=fcsbp72itth59f8hmazkdmpp7&st=pqgu8jic&dl=0",
     ],
@@ -12133,7 +12133,7 @@ const initialProducts = [
   {
     id: 896,
     name: "Transfer TELA Cadence FT026",
-    price: "5.30",
+    price: "4.90",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/2rmos4ymwstz15oaqbcaq/transfer-tela-cadence-FT026.jpg?rlkey=eqem4ovmx7vnavsw2ji64bl0h&st=qr2xwiwf&dl=0",
     ],
@@ -12145,7 +12145,7 @@ const initialProducts = [
   {
     id: 897,
     name: "Transfer TELA Cadence FT024",
-    price: "5.30",
+    price: "4.90",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/5wran3uu1h6jw04vm2g5h/transfer-tela-cadence-FT024.jpg?rlkey=i5381cww2cs7iibwr2grpk0rc&st=3ftftfno&dl=0",
     ],
@@ -12157,7 +12157,7 @@ const initialProducts = [
   {
     id: 898,
     name: "Transfer TELA Cadence FT023",
-    price: "5.30",
+    price: "4.90",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/h544pkoyrudyt4foipw6v/transfer-tela-cadence-FT023.jpg?rlkey=e9hd1obu7pjqfkgnh4igua5jx&st=kkag6cm6&dl=0",
     ],
@@ -12169,7 +12169,7 @@ const initialProducts = [
   {
     id: 899,
     name: "Transfer TELA Cadence FT021",
-    price: "5.30",
+    price: "4.90",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/92hesceqfbhgd301ay4rv/transfer-tela-cadence-FT021.jpg?rlkey=784iyzewv6qv54ize5ekhx8n3&st=xzs0owu1&dl=0",
     ],
@@ -12181,7 +12181,7 @@ const initialProducts = [
   {
     id: 900,
     name: "Transfer TELA Cadence FT020",
-    price: "5.30",
+    price: "4.90",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/ow8liostmddhz0r4i7cun/transfer-tela-cadence-FT020.jpg?rlkey=7a6hrzl93qywlr47233s1k6iq&st=0m5uj5n4&dl=0",
     ],
@@ -12193,7 +12193,7 @@ const initialProducts = [
   {
     id: 901,
     name: "Transfer TELA Cadence FT019",
-    price: "5.30",
+    price: "4.90",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/0db3kcrz0x5wkcruodhby/transfer-tela-cadence-FT019.jpg?rlkey=l3odc2pbldwm8lyy68ky532m9&st=u7sngfeg&dl=0",
     ],
@@ -12205,7 +12205,7 @@ const initialProducts = [
   {
     id: 902,
     name: "Transfer TELA Cadence FT017",
-    price: "5.30",
+    price: "4.90",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/97bpjpq669gbkcss06cm1/transfer-tela-cadence-FT017.jpg?rlkey=1xbc6hfsfg9xtawchacaih72x&st=u5oeirc0&dl=0",
     ],
@@ -12217,7 +12217,7 @@ const initialProducts = [
   {
     id: 903,
     name: "Transfer TELA Cadence FT016",
-    price: "5.30",
+    price: "4.90",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/uted7u2lw4bmeltnm30l6/transfer-tela-cadence-FT016.jpg?rlkey=i5qqk4xpst6ru5w7nx744zwiw&st=c9j7serj&dl=0",
     ],
@@ -12229,7 +12229,7 @@ const initialProducts = [
   {
     id: 904,
     name: "Transfer TELA Cadence FT015",
-    price: "5.30",
+    price: "4.90",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/nntj4yufep5t74hup0qm4/transfer-tela-cadence-FT015.jpg?rlkey=gllgp38rakn89wwilf8ou2qhg&st=w0knhau4&dl=0",
     ],
@@ -12241,7 +12241,7 @@ const initialProducts = [
   {
     id: 905,
     name: "Transfer TELA Cadence FT014",
-    price: "5.30",
+    price: "4.90",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/lqpiy8n1synj2rvmhj1rh/transfer-tela-cadence-FT014.jpg?rlkey=z3fss8om6klnf2pzbka02468u&st=sy9ggqr0&dl=0",
     ],
@@ -12253,7 +12253,7 @@ const initialProducts = [
   {
     id: 906,
     name: "Transfer TELA Cadence FT013",
-    price: "5.30",
+    price: "4.90",
     images: [""],
     label: "25x35cm",
     description:
@@ -12263,7 +12263,7 @@ const initialProducts = [
   {
     id: 907,
     name: "Transfer TELA Cadence FT012",
-    price: "5.30",
+    price: "4.90",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/y9uxy24rhy46z00uy99kh/transfer-tela-cadence-FT012.jpg?rlkey=cf42den1alv0v1suokbc14ag1&st=jtfq5tzb&dl=0",
     ],
@@ -12275,7 +12275,7 @@ const initialProducts = [
   {
     id: 908,
     name: "Transfer TELA Cadence FT010",
-    price: "5.30",
+    price: "4.90",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/gzcik0dq3r0mx7apxbpc3/transfer-tela-cadence-FT010.jpg?rlkey=a6jgbc4aphj0zjg8s5mujskqg&st=90wxos12&dl=0",
     ],
@@ -12287,7 +12287,7 @@ const initialProducts = [
   {
     id: 909,
     name: "Transfer TELA Cadence FT009",
-    price: "5.30",
+    price: "4.90",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/if5mukx7oghipw5n3tjzo/transfer-tela-cadence-FT009.jpg?rlkey=g3dacrpj2koof7lvof4s336gh&st=vj6jfr16&dl=0",
     ],
@@ -12299,7 +12299,7 @@ const initialProducts = [
   {
     id: 910,
     name: "Transfer TELA Cadence FT007",
-    price: "5.30",
+    price: "4.90",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/2wzfkkyz429s7qqmorjuy/transfer-tela-cadence-FT007.jpg?rlkey=24b1pjrc4mg1lru0nsbw1p5cx&st=bap9bjy3&dl=0",
     ],
@@ -12311,7 +12311,7 @@ const initialProducts = [
   {
     id: 911,
     name: "Transfer TELA Cadence FT006",
-    price: "5.30",
+    price: "4.90",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/66dxxobm79jlwl0tpkzvx/transfer-tela-cadence-FT006.jpg?rlkey=snm1wybcv8yw5zzzxccbqnpyc&st=rudemf35&dl=0",
     ],
@@ -12323,7 +12323,7 @@ const initialProducts = [
   {
     id: 912,
     name: "Transfer TELA Cadence FT005",
-    price: "5.30",
+    price: "4.90",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/cdkhjs9xh55pr3y6atrox/transfer-tela-cadence-FT005.jpg?rlkey=hyotrgp6a2cqmjcyvdjn6ryp0&st=8o9qiv4m&dl=0",
     ],
@@ -12335,7 +12335,7 @@ const initialProducts = [
   {
     id: 913,
     name: "Transfer TELA Cadence FT004",
-    price: "5.30",
+    price: "4.90",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/qfv3uzt7msfv9hudld8sl/transfer-tela-cadence-FT004.jpg?rlkey=hb0ot871gqkjj26sqn8jlni7g&st=anarn6y6&dl=0",
     ],
@@ -12347,7 +12347,7 @@ const initialProducts = [
   {
     id: 914,
     name: "Transfer TELA Cadence FT003",
-    price: "5.30",
+    price: "4.90",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/b72vd0f74s2sjex5shv4w/transfer-tela-cadence-FT003.jpg?rlkey=wm24gi2sca24w32htpxrouwgx&st=ouhieonx&dl=0",
     ],
@@ -12359,7 +12359,7 @@ const initialProducts = [
   {
     id: 915,
     name: "Transfer TELA Cadence FT002",
-    price: "5.30",
+    price: "4.90",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/75ma2z7a0b2gyxcccq8ec/transfer-tela-cadence-FT002.jpg?rlkey=vcsjsxl1kyccku6fsw19t868x&st=nl1xp4zw&dl=0",
     ],
@@ -12371,7 +12371,7 @@ const initialProducts = [
   {
     id: 916,
     name: "Transfer TELA Cadence FT001",
-    price: "5.30",
+    price: "4.90",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/2biyr1teboapobrixyswk/transfer-tela-cadence-FT001.jpg?rlkey=ft5n9xhj4l8emrfwg7tctyl0h&st=17pxbz2z&dl=0",
     ],
@@ -12383,7 +12383,7 @@ const initialProducts = [
   {
     id: 917,
     name: "Transfer TELA Cadence-crunge plata",
-    price: "5.30",
+    price: "4.90",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/3ayj8imkjv2dge54p6qv4/transfer-tela-cadence-crunge-plata.jpg?rlkey=x9wdi5ws85s2rmknvqqcpeh4f&st=05cu8lfv&dl=0",
     ],
@@ -12395,7 +12395,7 @@ const initialProducts = [
   {
     id: 575,
     name: "Ácido Magic Glass 70ml.",
-    price: "5.80",
+    price: "6.00",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/mwy5bjy358xjkvy8l0r2u/acido-magic-glass-cadence.jpg?rlkey=w74m5k1anbokvupauqxpe2b42&st=hysvf9j9&dl=0",
     ],
@@ -12407,7 +12407,7 @@ const initialProducts = [
   {
     id: 576,
     name: "Aqua Block Coat Repellent Oil 250ml.",
-    price: "11.80",
+    price: "12.20",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/hrg6n29q6ll9xhlq25wfs/aqua-block-coat-repellent-oil-250-ml.jpg?rlkey=n15fhdaanhh0t18hhfxuk3nm3&st=4p83xs5k&dl=0",
     ],
@@ -12419,7 +12419,7 @@ const initialProducts = [
   {
     id: 577,
     name: "Gel Enmascarador 100ml.",
-    price: "3.20",
+    price: "4.10",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/31bfxitf80irdg5mo1vtp/gel-enmascarador-cadence.jpg?rlkey=dlqi7kalairism8f3ckdzxsx5&st=j0pwawus&dl=0",
     ],
@@ -12431,7 +12431,7 @@ const initialProducts = [
   {
     id: 578,
     name: "Pan de Oro Cadence: Librito 25 Hojas",
-    price: "5.85",
+    price: "6.20",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/vk92y0tmttesexn06l2r9/pan-de-oro-cadence.jpg?rlkey=2tgyuf9zyp5njyzwjia9pypeg&st=geluwj5d&dl=0",
     ],
@@ -12479,7 +12479,7 @@ const initialProducts = [
   {
     id: 607,
     name: "Smarta - White 100g",
-    price: "2.80",
+    price: "2.95",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/bhvlws5rxeekfhi2wybpp/smarta-white-100g.jpg?rlkey=rc32knqko5syysrgfjx16o8kr&st=byos65lg&dl=0",
     ],
@@ -12491,7 +12491,7 @@ const initialProducts = [
   {
     id: 608,
     name: "Smarta BOLD - White 500g",
-    price: "3.30",
+    price: "3.50",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/1gd5ol0qk7vld9d26ysfy/smarta-bold-white-500g.jpg?rlkey=9yyqkzozroksl13t5mrsddhxw&st=ybtl1c8r&dl=0",
     ],
@@ -12502,14 +12502,14 @@ const initialProducts = [
   },
   {
     id: 609,
-    name: "Cola BLOK 70g",
-    price: "5.90",
+    name: "Cola BLOCK 70g",
+    price: "6.00",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/cp1ouuq30y2vbtyxr2zpd/cola-blok.jpg?rlkey=v8axzwporo0t33ck82msnfwa9&st=ov505tie&dl=0",
     ],
     label: "70g",
     description:
-      "Adhesivo universal BLOK de acetovinílico incoloro de rápido secado y transparente. La cola BLOK es ideal para tus trabajos de cartonaje, scrapbook, mix media, manualidades, proyectos home decor... por su gran variedad de usos y su agarre excepcional.",
+      "Adhesivo universal BLOCK de acetovinílico incoloro de rápido secado y transparente. La cola BLOK es ideal para tus trabajos de cartonaje, scrapbook, mix media, manualidades, proyectos home decor... por su gran variedad de usos y su agarre excepcional.",
     selected: false,
   },
   {
@@ -13053,7 +13053,7 @@ const initialProducts = [
   {
     id: 1052,
     name: "TSC055-1 Papeles ROSSI 50x70cm, 2 uds.",
-    price: "5.30",
+    price: "5.70",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/t88lr0yypi95auh3qiui3/papeles-rossi-50x70cm-2-uds-TSC055-1.jpg?rlkey=yn53ogdg23m0vwe4jx5rwrxmf&st=mysiz2s0&dl=0",
     ],
@@ -13078,7 +13078,7 @@ const initialProducts = [
   {
     id: 1054,
     name: "TSC057 Papeles ROSSI 50x70cm, 2 uds.",
-    price: "5.30",
+    price: "5.70",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/rk5vgv6csrtmso17pe0zv/papeles-rossi-50x70-cm-2-uds-TSC057.jpg?rlkey=y91ncn1x5m2u9u4l4dkhc0rzg&st=noddpnm1&dl=0",
     ],
@@ -13103,7 +13103,7 @@ const initialProducts = [
   {
     id: 1056,
     name: "CRT678 Papeles ROSSI 50x70cm, 2 uds.",
-    price: "5.30",
+    price: "5.70",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/3ohbc0gax0c3hylx3gwuv/papeles-rossi-50x70-cm-2-uds-CRT678.jpg?rlkey=4zleg8v10co0iwst5vivvnttd&st=a6o1znbh&dl=0",
     ],
@@ -13151,7 +13151,7 @@ const initialProducts = [
   {
     id: 1060,
     name: "CRT675 Papeles ROSSI 50x70cm, 2 uds.",
-    price: "5.30",
+    price: "5.70",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/4swqmwthsn2htr0t7cqpn/papeles-rossi-50x70-cm-2-uds-CRT675.jpg?rlkey=1884r7t2srttex9oyas9z73t1&st=r3tzf0qj&dl=0",
     ],
@@ -13200,7 +13200,7 @@ const initialProducts = [
   {
     id: 1064,
     name: "CRT684 Papeles ROSSI 50x70cm, 2 uds.",
-    price: "5.30",
+    price: "5.70",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/mjvcbereocpnsgbk63ims/papeles-rossi-70x100-cm-2-uds-CRT684.jpg?rlkey=tg5tsg4meqrkzxonkl066hno4&st=6g0ygrtc&dl=0",
     ],
@@ -13248,7 +13248,7 @@ const initialProducts = [
   {
     id: 1068,
     name: "CRT687 Papeles ROSSI 50x70cm, 2 uds.",
-    price: "5.30",
+    price: "5.70",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/jh2z07nbjw2jq73920gny/rollo-2-papeles-rossi-CRT687.jpg?rlkey=8afuqiluyjfb8ulikau3esfrb&st=nnhxvtdh&dl=0",
     ],
@@ -13260,7 +13260,7 @@ const initialProducts = [
   {
     id: 1069,
     name: "TSC019 Papeles ROSSI 50x70cm, 2 uds.",
-    price: "5.30",
+    price: "5.70",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/r2mtejjfhk97r0jtc5kkf/rollo-2-papeles-rossi-TSC019.jpg?rlkey=xatetvm8vtmd3k64lmvc8juw3&st=erhak7n4&dl=0",
     ],
@@ -13273,7 +13273,7 @@ const initialProducts = [
   {
     id: 1070,
     name: "TSC037 Papeles ROSSI 50x70cm, 2 uds.",
-    price: "5.30",
+    price: "5.70",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/qhd3vohrlnr2sxg2dx54i/rollo-2-papeles-rossi-TSC037.jpg?rlkey=73jytbf3bx5crvq12rkq9v2og&st=o03pilxe&dl=0",
     ],
@@ -13286,7 +13286,7 @@ const initialProducts = [
   {
     id: 1071,
     name: "TSC042 Papeles ROSSI 50x70cm, 2 uds.",
-    price: "5.30",
+    price: "5.70",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/nblotuvs8lhx27whc05wa/rollo-2-papeles-rossi-TSC042.jpg?rlkey=msa5z543r5zllquzrtqe55ycj&st=8hshd9ad&dl=0",
     ],
@@ -13310,7 +13310,7 @@ const initialProducts = [
   {
     id: 1073,
     name: "CRT517 Papeles ROSSI 50x70cm, 2 uds.",
-    price: "5.30",
+    price: "5.70",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/zzqp0blrh7427sr27xf4v/rollo-2-papeles-rossi-CRT517.jpg?rlkey=8zdlpggjhz8ic0k2brb1cdlgk&st=d62t2u0e&dl=0",
     ],
@@ -13322,7 +13322,7 @@ const initialProducts = [
   {
     id: 1074,
     name: "CRT670 Papeles ROSSI 50x70cm, 2 uds.",
-    price: "5.30",
+    price: "5.70",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/vlcgol5womh88pv4ft021/rollo-2-papeles-rossi-CRT670.jpg?rlkey=asjkjf0b0euv2btnp7w0yeaxm&st=n9zau6x4&dl=0",
     ],
@@ -13334,7 +13334,7 @@ const initialProducts = [
   {
     id: 1075,
     name: "CRT679 Papeles ROSSI 50x70cm, 2 uds.",
-    price: "5.30",
+    price: "5.70",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/lfiu0ejxgije62kldmhfh/rollo-2-papeles-rossi-CRT679.jpg?rlkey=i72tv7ltcye1fbb0hszj8j0fk&st=5za1rws2&dl=0",
     ],
@@ -13455,7 +13455,7 @@ const initialProducts = [
   {
     id: 1085,
     name: "CRT519 Papeles ROSSI 50x70cm, 2 uds.",
-    price: "5.30",
+    price: "5.70",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/98sb4pc78amz7qcc666qm/rollo-2-papeles-rossi-CRT519.jpg?rlkey=shgmuw8nwv2dmb85pcot2s9do&st=yr77mwd5&dl=0",
     ],
@@ -13467,7 +13467,7 @@ const initialProducts = [
   {
     id: 1086,
     name: "CRT685 Papeles ROSSI 50x70cm, 2 uds.",
-    price: "5.30",
+    price: "5.70",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/pn0vtr6b95xqbp6nc22ou/rollo-2-papeles-rossi-CRT685.jpg?rlkey=1e7bdgom4hdhoufa4aeek5hzk&st=673ybnr2&dl=0",
     ],
@@ -15316,7 +15316,7 @@ const initialProducts = [
   {
     id: 1244,
     name: "Stucco Cadence GRIS FINO 250ml",
-    price: 5.2,
+    price: 5.50,
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/qtft6bsgrzfwxqwdjtlur/stucco-cadence-gris-fino-250-ml.jpg?rlkey=fob9mcg1ai5x1mwjk82fmisjh&st=qwbq96np&dl=0",
     ],
@@ -15328,7 +15328,7 @@ const initialProducts = [
   {
     id: 1245,
     name: "Stucco Cadence BLANCO FINO 250ml",
-    price: 5.2,
+    price: 5.50,
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/2agx663nngoie90cnruyp/stucco-cadence-blanco-fino-250-ml.jpg?rlkey=m37wm6s8ipqh3dpgwrn51rl3s&st=wqvziacp&dl=0",
     ],
@@ -15515,6 +15515,283 @@ const initialProducts = [
     label: "30x30cm",
     description:
       "Láminas adhesivas mates para muebles, pared, cristal, papel y madera, es decir, SUPERFICIES DURAS,  muy fáciles de aplicar y con un resultado de gran calidad. Todos los kits incluyen un palito de madera para facilitar su trabajo.",
+    selected: false,
+  },
+  
+  {
+    id: 1260,
+    name: "LEATHER VOGUE Black 50ml",
+    price: "3.80",
+    images: [
+      "https://dl.dropboxusercontent.com/scl/fi/94dntiuf4e3d4nh9fwrep/leather-vogue-pintura-cuero.jpg?rlkey=q32dvz2m971ncj21q4ke730co&st=b8167uw5&dl=0",
+    ],
+    label: "50ml",
+    description:
+      "Pintura acrílica a base de agua especialmente formulada para cuero o similares al cuero, textiles sintéticos, bolsos, zapatos, cinturones… La película de pintura seca es elástica y resistente a la abrasión con un acabado satinado. Para una mejor adhesión de la pintura, la superficie debe estar limpia, sin polvo ni grasa.",
+    selected: false,
+  },
+  {
+    id: 1260,
+    name: "LEATHER VOGUE Black 50ml",
+    price: "3.80",
+    images: [
+      "https://dl.dropboxusercontent.com/scl/fi/70x6b6a0cpo63hywsede4/leather-vogue-paint-lv-12-black-50-ml.jpg?rlkey=9cto0d1yt8tmm7ceq2bmj8xzr&st=ulkoympc&dl=0",
+    ],
+    label: "50ml",
+    description:
+      "Pintura acrílica a base de agua especialmente formulada para cuero o similares al cuero, textiles sintéticos, bolsos, zapatos, cinturones… La película de pintura seca es elástica y resistente a la abrasión con un acabado satinado. Para una mejor adhesión de la pintura, la superficie debe estar limpia, sin polvo ni grasa.",
+    selected: false,
+  },
+  {
+    id: 1261,
+    name: "LEATHER VOGUE White 50ml",
+    price: "3.80",
+    images: [
+      "https://dl.dropboxusercontent.com/scl/fi/u8nnxfw2bzgpt7kt2bz2j/leather-vogue-paint-lv-01-white-50-ml.jpg?rlkey=lmdpz44bi426hob8hj9bl4kd1&st=sipbv2jj&dl=0",
+    ],
+    label: "50ml",
+    description:
+      "Pintura acrílica a base de agua especialmente formulada para cuero o similares al cuero, textiles sintéticos, bolsos, zapatos, cinturones… La película de pintura seca es elástica y resistente a la abrasión con un acabado satinado. Para una mejor adhesión de la pintura, la superficie debe estar limpia, sin polvo ni grasa.",
+    selected: false,
+  },
+  {
+    id: 1262,
+    name: "LEATHER VOGUE Yellow 50ml",
+    price: "3.80",
+    images: [
+      "https://dl.dropboxusercontent.com/scl/fi/gebj1f7ocn9t5epm912ey/leather-vogue-paint-lv-02-yellow-50-ml.jpg?rlkey=ycrramiv2wam5ursm8pblvmgh&st=9fjx1mml&dl=0",
+    ],
+    label: "50ml",
+    description:
+      "Pintura acrílica a base de agua especialmente formulada para cuero o similares al cuero, textiles sintéticos, bolsos, zapatos, cinturones… La película de pintura seca es elástica y resistente a la abrasión con un acabado satinado. Para una mejor adhesión de la pintura, la superficie debe estar limpia, sin polvo ni grasa.",
+    selected: false,
+  },
+  {
+    id: 1263,
+    name: "LEATHER VOGUE Orange 50ml",
+    price: "3.80",
+    images: [
+      "https://dl.dropboxusercontent.com/scl/fi/h6fgspvivgqqedsncgqa8/leather-vogue-paint-lv-03-orange-50-ml.jpg?rlkey=ripbqt7mekp3u1e7vlbye85hz&st=3oti8bfp&dl=0",
+    ],
+    label: "50ml",
+    description:
+      "Pintura acrílica a base de agua especialmente formulada para cuero o similares al cuero, textiles sintéticos, bolsos, zapatos, cinturones… La película de pintura seca es elástica y resistente a la abrasión con un acabado satinado. Para una mejor adhesión de la pintura, la superficie debe estar limpia, sin polvo ni grasa.",
+    selected: false,
+  },
+  {
+    id: 1264,
+    name: "LEATHER VOGUE Red 50ml",
+    price: "3.80",
+    images: [
+      "https://dl.dropboxusercontent.com/scl/fi/ehr7gmgjcdcrzglaouheq/leather-vogue-paint-lv-04-red-50-ml.jpg?rlkey=7b13ppf8wmi2abiwmijhifo7p&st=qd79pmbb&dl=0",
+    ],
+    label: "50ml",
+    description:
+      "Pintura acrílica a base de agua especialmente formulada para cuero o similares al cuero, textiles sintéticos, bolsos, zapatos, cinturones… La película de pintura seca es elástica y resistente a la abrasión con un acabado satinado. Para una mejor adhesión de la pintura, la superficie debe estar limpia, sin polvo ni grasa.",
+    selected: false,
+  },
+  {
+    id: 1265,
+    name: "LEATHER VOGUE Pink 50ml",
+    price: "3.80",
+    images: [
+      "https://dl.dropboxusercontent.com/scl/fi/o3atkjsn9bumpbeml3aif/leather-vogue-paint-lv-05-pink-50-ml.jpg?rlkey=d2jhsar0nxvei8ej2ndmgplou&st=0ypsocd1&dl=0",
+    ],
+    label: "50ml",
+    description:
+      "Pintura acrílica a base de agua especialmente formulada para cuero o similares al cuero, textiles sintéticos, bolsos, zapatos, cinturones… La película de pintura seca es elástica y resistente a la abrasión con un acabado satinado. Para una mejor adhesión de la pintura, la superficie debe estar limpia, sin polvo ni grasa.",
+    selected: false,
+  },
+  {
+    id: 1266,
+    name: "LEATHER VOGUE Fuchsia 50ml",
+    price: "3.80",
+    images: [
+      "https://dl.dropboxusercontent.com/scl/fi/5grfmk21162q0cj34k3sb/leather-vogue-paint-lv-06-fuchsia-50-ml.jpg?rlkey=p15ia1n44tq3xuxprg1r5eah2&st=hi5wbnw8&dl=0",
+    ],
+    label: "50ml",
+    description:
+      "Pintura acrílica a base de agua especialmente formulada para cuero o similares al cuero, textiles sintéticos, bolsos, zapatos, cinturones… La película de pintura seca es elástica y resistente a la abrasión con un acabado satinado. Para una mejor adhesión de la pintura, la superficie debe estar limpia, sin polvo ni grasa.",
+    selected: false,
+  },
+  {
+    id: 1267,
+    name: "LEATHER VOGUE Purple 50ml",
+    price: "3.80",
+    images: [
+      "https://dl.dropboxusercontent.com/scl/fi/jpf1num4ozystvnbph3a6/leather-vogue-paint-lv-07-purple-50-ml.jpg?rlkey=tvid5bevlr6wwf7znkq51229e&st=1j4zspiy&dl=0",
+    ],
+    label: "50ml",
+    description:
+      "Pintura acrílica a base de agua especialmente formulada para cuero o similares al cuero, textiles sintéticos, bolsos, zapatos, cinturones… La película de pintura seca es elástica y resistente a la abrasión con un acabado satinado. Para una mejor adhesión de la pintura, la superficie debe estar limpia, sin polvo ni grasa.",
+    selected: false,
+  },
+  {
+    id: 1268,
+    name: "LEATHER VOGUE Light Turquoise 50ml",
+    price: "3.80",
+    images: [
+      "https://dl.dropboxusercontent.com/scl/fi/u4n704ngyi5ho698v93sc/leather-vogue-paint-lv-08-light-turquoise-50-ml.jpg?rlkey=zdlvn28slo91heldzjaa66qy4&st=m6qv65pv&dl=0",
+    ],
+    label: "50ml",
+    description:
+      "Pintura acrílica a base de agua especialmente formulada para cuero o similares al cuero, textiles sintéticos, bolsos, zapatos, cinturones… La película de pintura seca es elástica y resistente a la abrasión con un acabado satinado. Para una mejor adhesión de la pintura, la superficie debe estar limpia, sin polvo ni grasa.",
+    selected: false,
+  },
+  {
+    id: 1269,
+    name: "LEATHER VOGUE Blue 50ml",
+    price: "3.80",
+    images: [
+      "https://dl.dropboxusercontent.com/scl/fi/udo8zy0p70qzwydr5y4ca/leather-vogue-paint-lv-09-blue-50-ml.jpg?rlkey=2050ez5ldevcj3asw41x6o6c7&st=rpenghsq&dl=0",
+    ],
+    label: "50ml",
+    description:
+      "Pintura acrílica a base de agua especialmente formulada para cuero o similares al cuero, textiles sintéticos, bolsos, zapatos, cinturones… La película de pintura seca es elástica y resistente a la abrasión con un acabado satinado. Para una mejor adhesión de la pintura, la superficie debe estar limpia, sin polvo ni grasa.",
+    selected: false,
+  },
+  {
+    id: 1270,
+    name: "LEATHER VOGUE Green 50ml",
+    price: "3.80",
+    images: [
+      "https://dl.dropboxusercontent.com/scl/fi/co8wsl2iyhqfedhq061xq/leather-vogue-paint-lv-10-green-50-ml.jpg?rlkey=qp2b8yw1enr3863bisj7bv4g1&st=mkvindwo&dl=0",
+    ],
+    label: "50ml",
+    description:
+      "Pintura acrílica a base de agua especialmente formulada para cuero o similares al cuero, textiles sintéticos, bolsos, zapatos, cinturones… La película de pintura seca es elástica y resistente a la abrasión con un acabado satinado. Para una mejor adhesión de la pintura, la superficie debe estar limpia, sin polvo ni grasa.",
+    selected: false,
+  },
+  {
+    id: 1271,
+    name: "LEATHER VOGUE Brown 50ml",
+    price: "3.80",
+    images: [
+      "https://dl.dropboxusercontent.com/scl/fi/no027d0p9uxmlecmt6yqp/leather-vogue-paint-lv-11-brown-50-ml.jpg?rlkey=fu3zlg35gc47ybgdvzgskswg6&st=zotwyapx&dl=0",
+    ],
+    label: "50ml",
+    description:
+      "Pintura acrílica a base de agua especialmente formulada para cuero o similares al cuero, textiles sintéticos, bolsos, zapatos, cinturones… La película de pintura seca es elástica y resistente a la abrasión con un acabado satinado. Para una mejor adhesión de la pintura, la superficie debe estar limpia, sin polvo ni grasa.",
+    selected: false,
+  },
+  {
+    id: 1272,
+    name: "LEATHER VOGUE Black 50ml",
+    price: "3.80",
+    images: [
+      "https://dl.dropboxusercontent.com/scl/fi/70x6b6a0cpo63hywsede4/leather-vogue-paint-lv-12-black-50-ml.jpg?rlkey=9cto0d1yt8tmm7ceq2bmj8xzr&st=ul3bi1p9&dl=0",
+    ],
+    label: "50ml",
+    description:
+      "Pintura acrílica a base de agua especialmente formulada para cuero o similares al cuero, textiles sintéticos, bolsos, zapatos, cinturones… La película de pintura seca es elástica y resistente a la abrasión con un acabado satinado. Para una mejor adhesión de la pintura, la superficie debe estar limpia, sin polvo ni grasa.",
+    selected: false,
+  },
+  {
+    id: 1273,
+    name: "LEATHER VOGUE METALLIC Pearl 50ml",
+    price: "4.70",
+    images: [
+      "https://dl.dropboxusercontent.com/scl/fi/y1la45c2zxvt46ccfgnu4/leather-vogue-metallic-lvm-01-pearl-50-ml.jpg?rlkey=24q85334i3jrmu73pgil890dn&st=6vt6oib8&dl=0",
+    ],
+    label: "50ml",
+    description:
+      "Pintura acrílica a base de agua especialmente formulada para cuero o similares al cuero, textiles sintéticos, bolsos, zapatos, cinturones… La película de pintura seca es elástica y resistente a la abrasión con un acabado satinado. Para una mejor adhesión de la pintura, la superficie debe estar limpia, sin polvo ni grasa.",
+    selected: false,
+  },
+  {
+    id: 1274,
+    name: "LEATHER VOGUE METALLIC Antique Gold 50ml",
+    price: "4.70",
+    images: [
+      "https://dl.dropboxusercontent.com/scl/fi/49223er1nd404ev3ez7nb/leather-vogue-metallic-lvm-03-antique-gold-50-ml.jpg?rlkey=itoy7wflqjxiocrku205h4pe9&st=uln4hb1o&dl=0",
+    ],
+    label: "50ml",
+    description:
+      "Pintura acrílica a base de agua especialmente formulada para cuero o similares al cuero, textiles sintéticos, bolsos, zapatos, cinturones… La película de pintura seca es elástica y resistente a la abrasión con un acabado satinado. Para una mejor adhesión de la pintura, la superficie debe estar limpia, sin polvo ni grasa.",
+    selected: false,
+  },
+  {
+    id: 1275,
+    name: "LEATHER VOGUE METALLIC Gold 50ml",
+    price: "4.70",
+    images: [
+      "https://dl.dropboxusercontent.com/scl/fi/jt5a0t9qzczggj6qh6k1x/leather-vogue-metallic-lvm-04-gold-50-ml.jpg?rlkey=67j0ho8uj2sx9pste1fc2jltt&st=xd0u2c5f&dl=0",
+    ],
+    label: "50ml",
+    description:
+      "Pintura acrílica a base de agua especialmente formulada para cuero o similares al cuero, textiles sintéticos, bolsos, zapatos, cinturones… La película de pintura seca es elástica y resistente a la abrasión con un acabado satinado. Para una mejor adhesión de la pintura, la superficie debe estar limpia, sin polvo ni grasa.",
+    selected: false,
+  },
+  {
+    id: 1276,
+    name: "LEATHER VOGUE METALLIC Bronze 50ml",
+    price: "4.70",
+    images: [
+      "https://dl.dropboxusercontent.com/scl/fi/0cldvw949eydyv7kyotp9/leather-vogue-metallic-lvm-05-bronze-50-ml.jpg?rlkey=724h9u1alckq1xgo7z6zkk0xw&st=51xpcvuz&dl=0",
+    ],
+    label: "50ml",
+    description:
+      "Pintura acrílica a base de agua especialmente formulada para cuero o similares al cuero, textiles sintéticos, bolsos, zapatos, cinturones… La película de pintura seca es elástica y resistente a la abrasión con un acabado satinado. Para una mejor adhesión de la pintura, la superficie debe estar limpia, sin polvo ni grasa.",
+    selected: false,
+  },
+  {
+    id: 1277,
+    name: "LEATHER VOGUE METALLIC Dried Rose 50ml",
+    price: "4.70",
+    images: [
+      "https://dl.dropboxusercontent.com/scl/fi/wxgzrp7eptqqtnjsaq6yz/leather-vogue-metallic-lvm-06-dried-rose-50-ml.jpg?rlkey=oxgmd5u3nmesa2h33xqbvzfo4&st=1jtwccjj&dl=0",
+    ],
+    label: "50ml",
+    description:
+      "Pintura acrílica a base de agua especialmente formulada para cuero o similares al cuero, textiles sintéticos, bolsos, zapatos, cinturones… La película de pintura seca es elástica y resistente a la abrasión con un acabado satinado. Para una mejor adhesión de la pintura, la superficie debe estar limpia, sin polvo ni grasa.",
+    selected: false,
+  },
+  {
+    id: 1279,
+    name: "LEATHER VOGUE METALLIC Silver 50ml",
+    price: "4.70",
+    images: [
+      "https://dl.dropboxusercontent.com/scl/fi/u31bdocwow22aicxiocd7/leather-vogue-metallic-lvm-07-silver-50-ml.jpg?rlkey=2720st19jv1p6ovcl53imzjbn&st=68ctiao3&dl=0",
+    ],
+    label: "50ml",
+    description:
+      "Pintura acrílica a base de agua especialmente formulada para cuero o similares al cuero, textiles sintéticos, bolsos, zapatos, cinturones… La película de pintura seca es elástica y resistente a la abrasión con un acabado satinado. Para una mejor adhesión de la pintura, la superficie debe estar limpia, sin polvo ni grasa.",
+    selected: false,
+  },
+  {
+    id: 1280,
+    name: "LEATHER VOGUE METALLIC Anthracite 50ml",
+    price: "4.70",
+    images: [
+      "https://dl.dropboxusercontent.com/scl/fi/336sqwr3ko6df1iw0ndzu/leather-vogue-metallic-lvm-08-anthracite-50-ml.jpg?rlkey=4eg5qz3tqn98dlut57sibot82&st=y4y3yn14&dl=0",
+    ],
+    label: "50ml",
+    description:
+      "Pintura acrílica a base de agua especialmente formulada para cuero o similares al cuero, textiles sintéticos, bolsos, zapatos, cinturones… La película de pintura seca es elástica y resistente a la abrasión con un acabado satinado. Para una mejor adhesión de la pintura, la superficie debe estar limpia, sin polvo ni grasa.",
+    selected: false,
+  },
+  {
+    id: 1281,
+    name: "LEATHER VOGUE METALLIC Platinium 50ml",
+    price: "4.70",
+    images: [
+      "https://dl.dropboxusercontent.com/scl/fi/pv3ax5rrolltgn8p0bx3z/leather-vogue-metallic-lvm-02-platinium-50-ml.jpg?rlkey=q7s4hh148ewub0edhgj4q740t&st=3pz7uifi&dl=0",
+    ],
+    label: "50ml",
+    description:
+      "Pintura acrílica a base de agua especialmente formulada para cuero o similares al cuero, textiles sintéticos, bolsos, zapatos, cinturones… La película de pintura seca es elástica y resistente a la abrasión con un acabado satinado. Para una mejor adhesión de la pintura, la superficie debe estar limpia, sin polvo ni grasa.",
+    selected: false,
+  },
+  {
+    id: 1282,
+    name: "LEATHER VOGUE METALLIC Black 50ml",
+    price: "4.70",
+    images: [
+      "https://dl.dropboxusercontent.com/scl/fi/rwu1lqbarqeoxr9s539qs/leather-vogue-metallic-lvm-09-black-50-ml.jpg?rlkey=8zwhcf0428aarphup09q3m5ms&st=k8l24nlw&dl=0",
+    ],
+    label: "50ml",
+    description:
+      "Pintura acrílica a base de agua especialmente formulada para cuero o similares al cuero, textiles sintéticos, bolsos, zapatos, cinturones… La película de pintura seca es elástica y resistente a la abrasión con un acabado satinado. Para una mejor adhesión de la pintura, la superficie debe estar limpia, sin polvo ni grasa.",
     selected: false,
   },
 ];
@@ -15761,11 +16038,14 @@ export const Tienda = () => {
             Bienvenidos a la tienda de CarmenLands, aquí encontrareis una gran
             variedad de productos con los que yo personalmente trabajo y
             recomiendo. <br />
-            Pulsa en{" "}
-            <Link to="/tienda/mint-by-michelle">
+            Pulsa {" "}
+            {/* 
+          <Link to="/tienda/mint-by-michelle">
               <span id="mint-text">Mint by Michelle</span>
             </Link>
-            , en{" "}
+          */}
+            
+            en{" "}
             <Link to="/tienda/cadence">
               <span id="cadence-text">Cadence</span>
             </Link>{" "}
@@ -15789,13 +16069,17 @@ export const Tienda = () => {
           </h3>
 
           <div className="marcas">
-            <WavyLink
+            {/* 
+          <WavyLink
               direction="up"
               to="/tienda/mint-by-michelle"
               color="#6aee75"
             >
               <div className="mint"></div>
             </WavyLink>
+          */}
+            
+            
             <WavyLink direction="up" to="/tienda/cadence" color="#4593db">
               <div className="cadence"></div>
             </WavyLink>

@@ -26,7 +26,7 @@ const initialProducts = [
   {
     "id": 971,
     "name": "Spray textil VERDE HOJA 100 ml.",
-    "price": "4.60",
+    "price": "4.80",
     "images": ["https://dl.dropboxusercontent.com/scl/fi/84nb62sdc895f6cyu1af3/spray-textil-cadence-VERDE-HOJA.jpg?rlkey=4ugppvd17ytcir37yotyokdpa&st=oxi9s6d0&dl=0"],
     "label": "100 ml.",
     "description": "Pintura en spray textil perlada permanente a base de agua de alta calidad para crear su propia moda en tonos brillantes y brillantes.",
@@ -35,7 +35,7 @@ const initialProducts = [
   {
     "id": 972,
     "name": "Spray textil TURQUESA 100 ml.",
-    "price": "4.60",
+    "price": "4.80",
     "images": ["https://dl.dropboxusercontent.com/scl/fi/sq07wg94incr2ccc8jd1r/spray-textil-cadence-TURQUESA.jpg?rlkey=z1u1lbsmxgt7dcrk4j42setzw&st=uybpeb0u&dl=0"],
     "label": "100 ml.",
     "description": "Pintura en spray textil perlada permanente a base de agua de alta calidad para crear su propia moda en tonos brillantes y brillantes.",
@@ -44,7 +44,7 @@ const initialProducts = [
   {
     "id": 973,
     "name": "Spray textil PETRÓLEO 100 ml.",
-    "price": "4.60",
+    "price": "4.80",
     "images": ["https://dl.dropboxusercontent.com/scl/fi/0fwsl9ocb9elu672gfsud/spray-textil-cadence-PETROLEO.jpg?rlkey=6orypx1l5teut0txn0e9pgswq&st=mqbx0iwo&dl=0"],
     "label": "100 ml.",
     "description": "Pintura en spray textil perlada permanente a base de agua de alta calidad para crear su propia moda en tonos brillantes y brillantes.",
@@ -53,7 +53,7 @@ const initialProducts = [
   {
     "id": 974,
     "name": "Spray textil NARANJA 100 ml.",
-    "price": "4.60",
+    "price": "4.80",
     "images": ["https://dl.dropboxusercontent.com/scl/fi/0dpagyo6r7icujd8withl/spray-textil-cadence-NARANJA.jpg?rlkey=0859lq77kue4xmymz2zmwhppp&st=q64p2x86&dl=0"],
     "label": "100 ml.",
     "description": "Pintura en spray textil perlada permanente a base de agua de alta calidad para crear su propia moda en tonos brillantes y brillantes.",
@@ -62,7 +62,7 @@ const initialProducts = [
   {
     "id": 975,
     "name": "Spray textil MORADO 100 ml.",
-    "price": "4.60",
+    "price": "4.80",
     "images": ["https://dl.dropboxusercontent.com/scl/fi/1gzrvcx9yr9mehx2nf4dq/spray-textil-cadence-MORADO.jpg?rlkey=1n2188n3ukn1b4wtthgeh0y1j&st=3oz1euwp&dl=0"],
     "label": "100 ml.",
     "description": "Pintura en spray textil perlada permanente a base de agua de alta calidad para crear su propia moda en tonos brillantes y brillantes.",
@@ -71,7 +71,7 @@ const initialProducts = [
   {
     "id": 976,
     "name": "Spray textil CARMÍN 100 ml.",
-    "price": "4.60",
+    "price": "4.80",
     "images": ["https://dl.dropboxusercontent.com/scl/fi/ildbqqfv7yxkru4r3mhqb/spray-textil-cadence-CARMIN.jpg?rlkey=bgd2znp5jzqdnq0pyqqy7upzk&st=9rymc0ws&dl=0"],
     "label": "100 ml.",
     "description": "Pintura en spray textil perlada permanente a base de agua de alta calidad para crear su propia moda en tonos brillantes y brillantes.",
@@ -80,7 +80,7 @@ const initialProducts = [
   {
     "id": 977,
     "name": "Spray textil BURDEOS 100 ml.",
-    "price": "4.60",
+    "price": "4.80",
     "images": ["https://dl.dropboxusercontent.com/scl/fi/txpujytb3efvgmqjfwfna/spray-textil-cadence-BURDEOS.jpg?rlkey=rwhy4xupr8dsz3edhzjw6603p&st=ssgltyfa&dl=0"],
     "label": "100 ml.",
     "description": "Pintura en spray textil perlada permanente a base de agua de alta calidad para crear su propia moda en tonos brillantes y brillantes.",
@@ -89,7 +89,7 @@ const initialProducts = [
   {
     "id": 978,
     "name": "Spray textil BLANCO 100 ml.",
-    "price": "4.60",
+    "price": "4.80",
     "images": ["https://dl.dropboxusercontent.com/scl/fi/7n9bhvmwfupkky4s7hehs/spray-textil-cadence-BLANCO.jpg?rlkey=p5fa3rh8hsr6wwjmyc93c4iww&st=jvcpdlk0&dl=0"],
     "label": "100 ml.",
     "description": "Pintura en spray textil perlada permanente a base de agua de alta calidad para crear su propia moda en tonos brillantes y brillantes.",
@@ -98,7 +98,7 @@ const initialProducts = [
   {
     "id": 979,
     "name": "Spray textil AZUL-MAR 100 ml.",
-    "price": "4.60",
+    "price": "4.80",
     "images": ["https://dl.dropboxusercontent.com/scl/fi/zztnnoinp3nq367u65ydc/spray-textil-cadence-AZUL-MAR.jpg?rlkey=pbtrpno0tovqznt8gy6e4e0ps&st=w87lfoo1&dl=0"],
     "label": "100 ml.",
     "description": "Pintura en spray textil perlada permanente a base de agua de alta calidad para crear su propia moda en tonos brillantes y brillantes.",
@@ -107,7 +107,7 @@ const initialProducts = [
   {
     "id": 980,
     "name": "Spray textil AMARILLO-ATARDECER 100 ml.",
-    "price": "4.60",
+    "price": "4.80",
     "images": ["https://dl.dropboxusercontent.com/scl/fi/bt6x2nmpso9b02pifpwig/spray-textil-cadence-AMARILLO-ATARDECER.jpg?rlkey=9mvo1ovly92jap3g8ajku5ixq&st=qeisbng2&dl=0"],
     "label": "100 ml.",
     "description": "Pintura en spray textil perlada permanente a base de agua de alta calidad para crear su propia moda en tonos brillantes y brillantes.",

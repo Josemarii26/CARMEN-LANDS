@@ -17,7 +17,7 @@ const initialProducts = [
   {
     id: 557,
     name: "Caja DM Asa 14x12x20cm",
-    price: "16.80",
+    price: "21.40",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/dql0knxgfq4lqo9hafeqt/caja-dm-asa-14x12x20-cms.jpg?rlkey=igdqk946gcurjsnts5f35rysi&st=kxxpnysa&dl=0",
     ],
@@ -41,7 +41,7 @@ const initialProducts = [
   {
     id: 559,
     name: "Joyero 9 cajones 37.5x15.5x20cm",
-    price: "39.90",
+    price: "48.75",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/3g9c3mggp9o2r0wtcznjo/joyero-9-cajones-375x155x20-cm.jpg?rlkey=hze4axfipkpqniehr3wiap1ix&st=emt778l2&dl=0",
     ],
@@ -52,7 +52,7 @@ const initialProducts = [
   {
     id: 560,
     name: "Caja con patas 28x18x21cm",
-    price: "20.90",
+    price: "22.25",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/6e5ukpgw1dxki0rit7f5f/caja-patas-28x18x21-cm.jpg?rlkey=jnipfpsatknmo9h7gocgucw26&st=v78ca6ol&dl=0",
     ],
@@ -63,7 +63,7 @@ const initialProducts = [
   {
     id: 561,
     name: "Mueble 3 cajones Silvia 34x15x28cm",
-    price: "39.90",
+    price: "46.80",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/tlc9r694qppi7lrqcite5/mueble-3-cajones-silvia.jpg?rlkey=9ntk9a81nqmrarqr25i2q9p80&st=vnr4xmww&dl=0",
     ],
@@ -86,7 +86,7 @@ const initialProducts = [
   {
     id: 563,
     name: "Caja libro 21x17x5.3cm",
-    price: "8.50",
+    price: "11.60",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/u2nvxwz9rbdc890da1srl/caja-libro-21x17x53-cms.jpg?rlkey=gpxewex3h97tf0hnm3zw2l9uc&st=18reidpc&dl=0",
     ],
@@ -97,7 +97,7 @@ const initialProducts = [
   {
     id: 564,
     name: "Revistero 2 Espacios DM 38x41x18.5cm",
-    price: "27.10",
+    price: "29.90",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/xskfe5q28qotdwpau2ux1/revistero-2-espacios-dm.jpg?rlkey=pqdch94t69jx5fgjh7bnyfmep&st=eykvdmnw&dl=0",
     ],
@@ -108,7 +108,7 @@ const initialProducts = [
   {
     id: 565,
     name: "Huevera DM 12 unidades 25x13x34cm",
-    price: "19.90",
+    price: "27.20",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/44b3d3qedyw8hcjmoxjop/huevera-dm-12-unid.jpg?rlkey=gsyx8tz6v3gbl08kj7zi14kq4&st=qwurermy&dl=0",
     ],
@@ -120,7 +120,7 @@ const initialProducts = [
   {
     id: 566,
     name: "Pongotodo III 19x15x18cm",
-    price: "17.10",
+    price: "19.30",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/str794y5t1ywjq0y55y8p/Pongotodo-III.jpg?rlkey=t5viokrdbxgmklzx2oa8x2i93&st=zphrajwh&dl=0",
     ],
@@ -132,7 +132,7 @@ const initialProducts = [
   {
     id: 567,
     name: "Pongotodo II 21x17x20cm",
-    price: "20.60",
+    price: "26.40",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/2eoze8pax7wrz7z905lx3/Pongotodo-2-divisiones.jpg?rlkey=lv203nlks9hvbh0p1ylym029u&st=806k1i92&dl=0",
     ],
@@ -144,7 +144,7 @@ const initialProducts = [
   {
     id: 568,
     name: "Archivador Con Cajón 22x21x36cm",
-    price: "29.50",
+    price: "32.60",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/1rlqx8fqujsw0k3a1sqks/Archivador-con-cajon.jpg?rlkey=m91ssrbrp74idugb3gypnkfw6&st=f211gv4e&dl=0",
     ],
@@ -168,7 +168,7 @@ const initialProducts = [
   {
     id: 570,
     name: "Organizador Giratorio 22x26x22cm",
-    price: "32.50",
+    price: "35.00",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/487axgfcfdy9yq911o70i/madera-cadence-1.jpg?rlkey=vnst9bxmz8im9dze35vlkuv3n&st=eolb2xul&dl=0",
     ],
@@ -179,7 +179,7 @@ const initialProducts = [
   {
     id: 571,
     name: "Caja Combada 18x18x12cm",
-    price: "17.10",
+    price: "23.20",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/e5d5y3du3th5jgl3vraye/madera-cadence-2.jpg?rlkey=1jd4y33zreso4ulcmu8nwk8b1&st=8adn3iub&dl=0",
     ],
@@ -190,7 +190,7 @@ const initialProducts = [
   {
     id: 572,
     name: "Set Bandejas DM 45x34x5.5cm",
-    price: "24.80",
+    price: "31.00",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/aazbu8m9zy414imeklxun/madera-dm-cadence.jpg?rlkey=xwu25qott5jfmc5mw7016isyq&st=qc8xm2gm&dl=0",
     ],
@@ -201,7 +201,7 @@ const initialProducts = [
   {
     id: 573,
     name: "Set 2 Bandejas DM 43x30x7cm 34x25x7cm",
-    price: "15.00",
+    price: "20.90",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/pueum9iuwd9eb44365nkj/set-3-bandejas-dm-cadence.jpg?rlkey=2mg06dfevqmknxyu4pqmr7s6z&st=4e38zp4c&dl=0",
     ],
@@ -212,7 +212,7 @@ const initialProducts = [
   {
     id: 574,
     name: "Set 3 Bandejas DM 30x40x3cm 25x35x2.5cm 20x30x2.5cm",
-    price: "20.10",
+    price: "25.30",
     images: [
       "https://dl.dropboxusercontent.com/scl/fi/oso16pz44m2jpcs6yp4gz/set-3-bandejas-dm-cadence-1.jpg?rlkey=6la7z32tmjpdim7xodql3xbmw&st=4yq3s7wn&dl=0",
     ],

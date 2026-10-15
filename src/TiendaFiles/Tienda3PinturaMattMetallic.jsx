@@ -25,7 +25,7 @@ const initialProducts = [
   {
     id: 760,
     name: 'Sapphire MAT METALLIC PAINT 50ml.',
-    price: '3.75',
+    price: '3.90',
     images: [
       'https://dl.dropboxusercontent.com/scl/fi/kcjwa1v5046he5ea9xu3r/MATT-METALLIC-PAINT-50-ml-SAPPHIRE.jpg?rlkey=8hb1eww5urkt23swntnmvf0t5&st=mavyc86i&dl=0',
     ],
@@ -36,7 +36,7 @@ const initialProducts = [
   {
     id: 761,
     name: 'Platinum MAT METALLIC PAINT 50ml.',
-    price: '3.75',
+    price: '3.90',
     images: [
       'https://dl.dropboxusercontent.com/scl/fi/hade1x28x4v0mk378dk04/MATT-METALLIC-PAINT-50-ml-PLATINIUM.jpg?rlkey=8lgw0vtd3vfh95xybw0iklb55&st=ytsz9lf0&dl=0',
     ],
@@ -47,7 +47,7 @@ const initialProducts = [
   {
     id: 762,
     name: 'Pearl MAT METALLIC PAINT 50ml.',
-    price: '3.75',
+    price: '3.90',
     images: [
       'https://dl.dropboxusercontent.com/scl/fi/kgvzlf7n7dp8syi2hefh4/MATT-METALLIC-PAINT-50-ml-PEARL.jpg?rlkey=d6nroctgj3mt993qbmhf3z7un&st=pj7ugrxz&dl=0',
     ],
@@ -58,7 +58,7 @@ const initialProducts = [
   {
     id: 763,
     name: 'Navy MAT METALLIC PAINT 50ml.',
-    price: '3.75',
+    price: '3.90',
     images: [
       'https://dl.dropboxusercontent.com/scl/fi/5ee6h2p5zdm6chl1nunsa/MATT-METALLIC-PAINT-50-ml-NAVY.jpg?rlkey=t4gypuk4yoo1wxgep4crx6rmc&st=3y49w95w&dl=0',
     ],
@@ -69,7 +69,7 @@ const initialProducts = [
   {
     id: 764,
     name: 'Maroon MAT METALLIC PAINT 50ml.',
-    price: '3.75',
+    price: '3.90',
     images: [
       'https://dl.dropboxusercontent.com/scl/fi/j6ijvhj3lbnuj8vje84ms/MATT-METALLIC-PAINT-50-ml-MAROON.jpg?rlkey=p7iyn5m0g82lpj0sfdgugjase&st=2zf8fkfg&dl=0',
     ],
@@ -80,7 +80,7 @@ const initialProducts = [
   {
     id: 765,
     name: 'Emerald MAT METALLIC PAINT 50ml.',
-    price: '3.75',
+    price: '3.90',
     images: [
       'https://dl.dropboxusercontent.com/scl/fi/6zrt4jeqxe829k4c9h6m7/MATT-METALLIC-PAINT-50-ml-EMERALD.jpg?rlkey=xukw4neflbqwjw9bs578fupu8&st=44le0ufe&dl=0',
     ],
@@ -91,7 +91,7 @@ const initialProducts = [
   {
     id: 766,
     name: 'Copper MAT METALLIC PAINT 50ml.',
-    price: '3.75',
+    price: '3.90',
     images: [
       'https://dl.dropboxusercontent.com/scl/fi/4uc98ha271qoltsskhbbn/MATT-METALLIC-PAINT-50-ml-COPPER.jpg?rlkey=5aqhox10ndy5vvyu5o7p5xku4&st=th51zo59&dl=0',
     ],
@@ -102,7 +102,7 @@ const initialProducts = [
   {
     id: 767,
     name: 'Champagne MAT METALLIC PAINT 50ml.',
-    price: '3.75',
+    price: '3.90',
     images: [
       'https://dl.dropboxusercontent.com/scl/fi/qedr0blz8az3yevh0w234/MATT-METALLIC-PAINT-50-ml-CHAMPAGNE.jpg?rlkey=bfnjsgem6wneucz1ksl2b404m&st=gyj9cpo6&dl=0',
     ],
@@ -113,7 +113,7 @@ const initialProducts = [
   {
     id: 768,
     name: 'Brown Copper MAT METALLIC PAINT 50ml.',
-    price: '3.75',
+    price: '3.90',
     images: [
       'https://dl.dropboxusercontent.com/scl/fi/5qnc6aoxbtr1rxsy8vkc5/MATT-METALLIC-PAINT-50-ml-BROWN-COPPER.jpg?rlkey=r4bg5ruvvn5t5455kz6q99og6&st=9g57xbqn&dl=0',
     ],
@@ -124,7 +124,7 @@ const initialProducts = [
   {
     id: 769,
     name: 'Black MAT METALLIC PAINT 50ml.',
-    price: '3.75',
+    price: '3.90',
     images: [
       'https://dl.dropboxusercontent.com/scl/fi/qt3p3iz1e4usgkn6oky80/MATT-METALLIC-PAINT-50-ml-BLACK.jpg?rlkey=t4ycqa8uu7pyqq1voquqhuzpo&st=p576gtvf&dl=0',
     ],
@@ -135,7 +135,7 @@ const initialProducts = [
   {
     id: 770,
     name: 'Antique Silver MAT METALLIC PAINT 50ml.',
-    price: '3.75',
+    price: '3.90',
     images: [
       'https://dl.dropboxusercontent.com/scl/fi/qttzsv49m7y9zaupblmko/MATT-METALLIC-PAINT-50-ml-ANTIQUE-SILVER.jpg?rlkey=vuf5jy4m17xn9dw8pq98g6kbn&st=29r4d8ck&dl=0',
     ],
@@ -146,7 +146,7 @@ const initialProducts = [
   {
     id: 771,
     name: 'Antique Red MAT METALLIC PAINT 50ml.',
-    price: '3.75',
+    price: '3.90',
     images: [
       'https://dl.dropboxusercontent.com/scl/fi/gck7o9kqpc1fkuw97vhue/MATT-METALLIC-PAINT-50-ml-ANTIQUE-RED.jpg?rlkey=6rf0h8xzloghabtiuv6076kcy&st=zarw8kfl&dl=0',
     ],
@@ -157,7 +157,7 @@ const initialProducts = [
   {
     id: 772,
     name: 'Antique Purple MAT METALLIC PAINT 50ml.',
-    price: '3.75',
+    price: '3.90',
     images: [
       'https://dl.dropboxusercontent.com/scl/fi/gp04ifzxqn1n9y10d3fq7/MATT-METALLIC-PAINT-50-ml-ANTIQUE-PURPLE.jpg?rlkey=8o7979ox6q3fugtn6xmn92zyy&st=9mxi6cly&dl=0',
     ],
@@ -168,7 +168,7 @@ const initialProducts = [
   {
     id: 773,
     name: 'Antique Olive MAT METALLIC PAINT 50ml.',
-    price: '3.75',
+    price: '3.90',
     images: [
       'https://dl.dropboxusercontent.com/scl/fi/epz1a76fvx6gj213or1pk/MATT-METALLIC-PAINT-50-ml-ANTIQUE-OLIVE.jpg?rlkey=dqbb3pvih8kvkw5jqfaymy03o&st=2krz4j4y&dl=0',
     ],
@@ -179,7 +179,7 @@ const initialProducts = [
   {
     id: 774,
     name: 'Antique Green MAT METALLIC PAINT 50ml.',
-    price: '3.75',
+    price: '3.90',
     images: [
       'https://dl.dropboxusercontent.com/scl/fi/nmf7ce8eob8amqnwaaqqs/MATT-METALLIC-PAINT-50-ml-ANTIQUE-GREEN.jpg?rlkey=hb2f1wqwqm0qz3asgcmu96nm7&st=tryldq1l&dl=0',
     ],
@@ -190,7 +190,7 @@ const initialProducts = [
   {
     id: 775,
     name: 'Antique Gold MAT METALLIC PAINT 50ml.',
-    price: '3.75',
+    price: '3.90',
     images: [
       'https://dl.dropboxusercontent.com/scl/fi/09f9ebvg88ikknksltt8e/MATT-METALLIC-PAINT-50-ml-ANTIQUE-GOLD.jpg?rlkey=8aw75ixa2xrj3qxt5zschiujn&st=6vd7ico5&dl=0',
     ],
@@ -201,7 +201,7 @@ const initialProducts = [
   {
     id: 776,
     name: 'Antique Anthracite MAT METALLIC PAINT 50ml.',
-    price: '3.75',
+    price: '3.90',
     images: [
       'https://dl.dropboxusercontent.com/scl/fi/wu6l5e58ys94fjkr6tpw5/MATT-METALLIC-PAINT-50-ml-ANTIQUE-ANTHRACITE.jpg?rlkey=5soolk5urlahgwbmrsofpagwp&st=p9h2p407&dl=0',
     ],

@@ -82,7 +82,7 @@ export const Tienda3TextilCadence = () => {
         <div className="marcas2">
           <WavyLink direction="up" to="/tienda/cadence/transfers-textiles" color="#4593db">
             <div className="cadence-card">
-                            <span className="badge-novedad">Novedades</span>
+             {/*<span className="badge-novedad">Novedades</span> */}
 
               <img src='https://i.ibb.co/C6s5fwX/transfers-para-tela-cadence.jpg' alt='cadence'></img>
               <br></br>
@@ -97,7 +97,7 @@ export const Tienda3TextilCadence = () => {
             color="#4593db"
           >
             <div className="cadence-card">
-                            <span className="badge-novedad">Novedades</span>
+             <span className="badge-novedad">Novedades</span> 
 
               <img
                 src="https://dl.dropboxusercontent.com/scl/fi/edygy24jtxl1buk4asa2a/pintura-textil-style-matt-fabric-cadence.jpg?rlkey=d34637ji4onpsglu72407yjyg&st=gdiwu1eo&dl=0"
@@ -114,7 +114,7 @@ export const Tienda3TextilCadence = () => {
             color="#4593db"
           >
             <div className="cadence-card">
-                            <span className="badge-novedad">Novedades</span>
+             {/*<span className="badge-novedad">Novedades</span> */}
 
               <img
                 src="https://dl.dropboxusercontent.com/scl/fi/x93vb86dzp6ln0ijew9c2/your-fashion-spray-textil-cadence.jpg?rlkey=bgljdbd2t3bnh2ku7plfxttu7&st=rieutuew&dl=0"
@@ -131,7 +131,7 @@ export const Tienda3TextilCadence = () => {
             color="#4593db"
           >
             <div className="cadence-card">
-                            <span className="badge-novedad">Novedades</span>
+             {/*<span className="badge-novedad">Novedades</span> */}
 
               <img
                 src="https://dl.dropboxusercontent.com/scl/fi/xvm2wlq0uvt6jh3fk66be/pasta-textil-fashion-cadence.jpg?rlkey=0ijqh8rcrou7hqmnqfk9p1mut&st=8noxkluo&dl=0"
@@ -147,7 +147,7 @@ export const Tienda3TextilCadence = () => {
             color="#4593db"
           >
             <div className="cadence-card">
-                            <span className="badge-novedad">Novedades</span>
+             {/*<span className="badge-novedad">Novedades</span> */}
 
               <img
                 src="https://i.ibb.co/MVyFh7M/transfers-cadence.jpg"
@@ -163,7 +163,7 @@ export const Tienda3TextilCadence = () => {
             color="#4593db"
           >
             <div className="cadence-card">
-                            <span className="badge-novedad">Novedades</span>
+             {/*<span className="badge-novedad">Novedades</span> */}
 
               <img
                 src="https://dl.dropboxusercontent.com/scl/fi/rir75vxd82xwtwt0ahp1e/foil-y-pan-de-oro-cadence.jpg?rlkey=k3u9xdz6d534y48iax7euw6oo&st=mb9mpgqf&dl=0"
@@ -173,6 +173,7 @@ export const Tienda3TextilCadence = () => {
               <p>Foil Textil Cadence</p>
             </div>
           </WavyLink>
+          
         </div>
         <br></br>
         <br></br>

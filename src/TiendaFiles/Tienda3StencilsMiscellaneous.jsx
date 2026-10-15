@@ -25,7 +25,7 @@ const initialProducts = [
   {
     id: 428,
     name: 'Stencil ZEPPELIN 21x30cm ',
-    price: '4.15',
+    price: '4.35',
     images: [
       'https://dl.dropboxusercontent.com/scl/fi/c3z3ije6ijh3iz8cgm71r/stencil-cadence.jpg?rlkey=e79docwwce5foai5v1ephzcgd&st=wdtknzgx&dl=0',
     ],
@@ -36,7 +36,7 @@ const initialProducts = [
   {
     id: 429,
     name: 'Stencil GEOMÉTRICOS 21x30cm ',
-    price: '4.15',
+    price: '4.35',
     images: [
       'https://dl.dropboxusercontent.com/scl/fi/lpor95b3835hx8eoroefx/stencil-cadence-1.jpg?rlkey=mnciqu94gwbvvx00dyclmahuj&st=425rhm36&dl=0',
     ],
@@ -47,7 +47,7 @@ const initialProducts = [
   {
     id: 430,
     name: 'Stencil FILIGRANAS GRANDE 21x30cm ',
-    price: '4.15',
+    price: '4.35',
     images: [
       'https://dl.dropboxusercontent.com/scl/fi/dl5ylgelhjao1a32qdy2x/stencil-textura-floral.jpg?rlkey=f0gf2fnmgmnkc2dr9q1fcsidu&st=bifq5598&dl=0',
     ],
@@ -58,7 +58,7 @@ const initialProducts = [
   {
     id: 431,
     name: 'Stencil FONDOS FLORES 21x30cm ',
-    price: '4.15',
+    price: '4.35',
     images: [
       'https://dl.dropboxusercontent.com/scl/fi/wmtfip8uwgi9190qcf3mc/stencil-textura-floral-2.jpg?rlkey=fgqgukvsq8vse9t1ubv6qqa10&st=9r032p3l&dl=0',
     ],
@@ -69,7 +69,7 @@ const initialProducts = [
   {
     id: 432,
     name: 'Stencil MARIPOSAS Y ESTRELLAS 21x30cm ',
-    price: '4.15',
+    price: '4.35',
     images: [
       'https://dl.dropboxusercontent.com/scl/fi/silmoax16mll0473rv7uj/stencil-textura-floral-1.jpg?rlkey=y0pu5ez6q1jh9b4opc9k309gi&st=drladqs4&dl=0',
     ],
@@ -80,7 +80,7 @@ const initialProducts = [
   {
     id: 433,
     name: 'Stencil RELIEVE METÁLICO 21x30cm ',
-    price: '4.15',
+    price: '4.35',
     images: [
       'https://dl.dropboxusercontent.com/scl/fi/235vdu3dld4fllb8613tj/stencil-textura-floral-6.jpg?rlkey=cn9ae72g8ujwa87hgaosmrwo4&st=e3xnxebu&dl=0',
     ],
@@ -91,7 +91,7 @@ const initialProducts = [
   {
     id: 434,
     name: 'Stencil MOTHER 21x30cm ',
-    price: '4.15',
+    price: '4.35',
     images: [
       'https://dl.dropboxusercontent.com/scl/fi/c17e0n5tg7g1rt7lrwkn1/stencil-textura-floral-4.jpg?rlkey=xjolkmkro5okwzh96jqf845d5&st=g2mapsms&dl=0',
     ],
@@ -102,7 +102,7 @@ const initialProducts = [
   {
     id: 435,
     name: 'Stencil TIJERAS VINTAGE 21x30cm ',
-    price: '4.15',
+    price: '4.35',
     images: [
       'https://dl.dropboxusercontent.com/scl/fi/adtq7xxloap7ss1rtutsz/stencil-textura-floral-5.jpg?rlkey=4f3fxu2zksfazv409n72irpoa&st=4f8e92c1&dl=0',
     ],
@@ -113,7 +113,7 @@ const initialProducts = [
   {
     id: 436,
     name: 'Stencil ROSA DE LOS VIENTOS 21x30cm ',
-    price: '4.15',
+    price: '4.35',
     images: [
       'https://dl.dropboxusercontent.com/scl/fi/m7py9xxvxknugsp42p37m/stencil-lavande.jpg?rlkey=a8dpgcmk9jak41789lcrm13x5&st=f2xm5x63&dl=0',
     ],
@@ -124,7 +124,7 @@ const initialProducts = [
   {
     id: 437,
     name: 'Stencil FILIGRANA 21x30cm ',
-    price: '4.15',
+    price: '4.35',
     images: [
       'https://dl.dropboxusercontent.com/scl/fi/m7py9xxvxknugsp42p37m/stencil-lavande.jpg?rlkey=a8dpgcmk9jak41789lcrm13x5&st=f2xm5x63&dl=0',
     ],
@@ -135,7 +135,7 @@ const initialProducts = [
   {
     id: 438,
     name: 'Stencil 3 ROSAS 21x30cm ',
-    price: '4.15',
+    price: '4.35',
     images: [
       'https://dl.dropboxusercontent.com/scl/fi/3a97uyl6hi7qes1nccn8v/stencil-lavande-2.jpg?rlkey=0roovtsocaazeq9uvak3eh50v&st=fn6tlhdg&dl=0',
     ],
@@ -146,7 +146,7 @@ const initialProducts = [
   {
     id: 439,
     name: 'Stencil LÁMPARAS 21x30cm ',
-    price: '4.15',
+    price: '4.35',
     images: [
       'https://dl.dropboxusercontent.com/scl/fi/6whhxb8cogef1brsl8d1z/stencil-lamparas.jpg?rlkey=w0zmwm0lcgmlnr19rbhbi9jrq&st=ue2ojr1f&dl=0',
     ],

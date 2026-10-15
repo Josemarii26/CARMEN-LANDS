@@ -22,7 +22,7 @@ const initialProducts = [
   {
     id: 320,
     name: 'Hybrid Metallic NUEZ 70ml.',
-    price: '3.30',
+    price: '3.40',
     images: [
       'https://dl.dropboxusercontent.com/scl/fi/p9p0lw6p8j060i2pc6n21/hybrid-metallic-cadence-nuez.jpg?rlkey=6761jlhwd4ho8kswgkhwmlgt1&st=e00mkw73&dl=0',
     ],
@@ -33,7 +33,7 @@ const initialProducts = [
   {
     id: 321,
     name: 'Hybrid Metallic LILA 70ml.',
-    price: '3.30',
+    price: '3.40',
     images: [
       'https://dl.dropboxusercontent.com/scl/fi/85exwovk0x4d0rh06omdi/hybrid-metallic-cadence-lila.jpg?rlkey=lg79bbi6sdjwruf4b2b7pvhd6&st=u1hmrpqo&dl=0',
     ],
@@ -44,7 +44,7 @@ const initialProducts = [
   {
     id: 322,
     name: 'Hybrid Metallic AZUL BEBÉ 70ml.',
-    price: '3.30',
+    price: '3.40',
     images: [
       'https://dl.dropboxusercontent.com/scl/fi/1cvicd3gjjx5sphc67ocg/hybrid-metallic-cadence-azulbebe.jpg?rlkey=ygvra1yjkem7pcxgmevuj2ppf&st=gjhg72j6&dl=0',
     ],
@@ -55,7 +55,7 @@ const initialProducts = [
   {
     id: 323,
     name: 'Hybrid Metallic ROSA BEBÉ 70ml.',
-    price: '3.30',
+    price: '3.40',
     images: [
       'https://dl.dropboxusercontent.com/scl/fi/sjjqiv7e912e3i6hzkk2f/hybrid-metallic-cadence-rosabebe.jpg?rlkey=aot7178x4so06jy33e28k8on4&st=r3u9g35x&dl=0',
     ],
@@ -66,7 +66,7 @@ const initialProducts = [
   {
     id: 324,
     name: 'Hybrid Metallic PLATINO 70ml.',
-    price: '3.30',
+    price: '3.40',
     images: [
       'https://dl.dropboxusercontent.com/scl/fi/xw48sbi5aurz9okmdgxjc/hybrid-metallic-cadence-platino.jpg?rlkey=97mqbhtfyvjk3bwlq0pji9bfd&st=rgi4d166&dl=0',
     ],
@@ -77,7 +77,7 @@ const initialProducts = [
   {
     id: 325,
     name: 'Hybrid Metallic BRONCE 70ml.',
-    price: '3.30',
+    price: '3.40',
     images: [
       'https://dl.dropboxusercontent.com/scl/fi/f4v093nkfskebyfh7n5g6/hybrid-metallic-cadence-bronce.jpg?rlkey=85biu824rz3mqbxmfovrddelk&st=a6y8pgi5&dl=0',
     ],
@@ -88,7 +88,7 @@ const initialProducts = [
   {
     id: 326,
     name: 'Hybrid Metallic PLATA 70ml.',
-    price: '3.30',
+    price: '3.40',
     images: [
       'https://dl.dropboxusercontent.com/scl/fi/9dh7y1egdu77owh7cl6pb/hybrid-metallic-cadence-plata.jpg?rlkey=flc8b30m8626zyssbiinsqd2z&st=o6g9t8g6&dl=0',
     ],
@@ -99,7 +99,7 @@ const initialProducts = [
   {
     id: 327,
     name: 'Hybrid Metallic CHAMPÁN 70ml.',
-    price: '3.30',
+    price: '3.40',
     images: [
       'https://dl.dropboxusercontent.com/scl/fi/mtrdbe2mfmixdolsi9yll/hybrid-metallic-cadence-champan-120.jpg?rlkey=g28n6w2djsn9nam3rflm5xy2p&st=qgkfoiaf&dl=0',
     ],
@@ -110,7 +110,7 @@ const initialProducts = [
   {
     id: 328,
     name: 'Hybrid Metallic PERLA 70ml.',
-    price: '3.30',
+    price: '3.40',
     images: [
       'https://dl.dropboxusercontent.com/scl/fi/0x8l2ackq8oq89nwsefrj/hybrid-metallic-cadence-perla.jpg?rlkey=6hkyirf8ub7iv4ezlz80ra41t&st=y81gfmlm&dl=0',
     ],
@@ -121,7 +121,7 @@ const initialProducts = [
   {
     id: 329,
     name: 'Hybrid Metallic ORO VIEJO 70ml.',
-    price: '3.30',
+    price: '3.40',
     images: [
       'https://i.ibb.co/JKB45bp/hybrid-metallic-cadence-oroviejo.jpg',
     ],
@@ -132,7 +132,7 @@ const initialProducts = [
   {
     id: 330,
     name: 'Hybrid Metallic ORO 70ml.',
-    price: '3.30',
+    price: '3.40',
     images: [
       'https://dl.dropboxusercontent.com/scl/fi/6tgodn11cqst0ylb2hyhe/hybrid-metallic-cadence-oro.jpg?rlkey=8z6fraqx43jrsqy46cfk6md09&st=nornb28u&dl=0',
     ],
@@ -143,7 +143,7 @@ const initialProducts = [
   {
     id: 331,
     name: 'Hybrid Metallic TOPACIO 70ml.',
-    price: '3.30',
+    price: '3.40',
     images: [
       'https://dl.dropboxusercontent.com/scl/fi/kn5e64mr5rx6w8ixadcyt/hybrid-metallic-cadence-topacio-70.jpg?rlkey=ejysmhb8g6vsrq9iq8a7lrzua&st=p01vjwt5&dl=0',
     ],
@@ -154,7 +154,7 @@ const initialProducts = [
   {
     id: 332,
     name: 'Hybrid Metallic COBRE ANTIGUO OSCURO 70ml.',
-    price: '3.30',
+    price: '3.40',
     images: [
       'https://dl.dropboxusercontent.com/scl/fi/blul3jkdioa8sgaq6vh32/hybrid-metallic-cadence-cobreantiguo-70.jpg?rlkey=fh51oqkibhtngbr6uq395nzd7&st=o1rqajmu&dl=0',
     ],
@@ -165,7 +165,7 @@ const initialProducts = [
   {
     id: 333,
     name: 'Hybrid Metallic MORADO ANTIGUO 70ml.',
-    price: '3.30',
+    price: '3.40',
     images: [
       'https://dl.dropboxusercontent.com/scl/fi/6ti3czpbfn7ati55xbeis/hybrid-metallic-cadence-moradoantiguo-70.jpg?rlkey=6hxe3fmh2hh6dhxxilrw05lov&st=z4va5p8b&dl=0',
     ],
@@ -176,7 +176,7 @@ const initialProducts = [
   {
     id: 334,
     name: 'Hybrid Metallic ROJO ANTIGUO 70ml.',
-    price: '3.30',
+    price: '3.40',
     images: [
       'https://dl.dropboxusercontent.com/scl/fi/6k1i8ytd0ibmpflw52ovb/hybrid-metallic-cadence-rojoantiguo-70.jpg?rlkey=bylwag5u3ncrk400odhhen7sn&st=ijmy885u&dl=0',
     ],
@@ -187,7 +187,7 @@ const initialProducts = [
   {
     id: 335,
     name: 'Hybrid Metallic ANTRACITA ANTIGUA 70ml.',
-    price: '3.30',
+    price: '3.40',
     images: [
       'https://dl.dropboxusercontent.com/scl/fi/0gbylqw7ku107cue92g3f/hybrid-metallic-cadence-antracitantigua-70.jpg?rlkey=7sk8etgaiprbqh6gmm4u9vt0t&st=1p5tywtn&dl=0',
     ],
@@ -198,7 +198,7 @@ const initialProducts = [
   {
     id: 336,
     name: 'Hybrid Metallic ORO OSCURO 70ml.',
-    price: '3.30',
+    price: '3.40',
     images: [
       'https://dl.dropboxusercontent.com/scl/fi/mjzrlk1acat1kq1k60j4e/hybrid-metallic-cadence-oroscuro-70.jpg?rlkey=m2aog2szttoi0i9erqumx413v&st=v9va64b7&dl=0',
     ],
@@ -209,7 +209,7 @@ const initialProducts = [
   {
     id: 337,
     name: 'Hybrid Metallic NEGRO 70ml.',
-    price: '3.30',
+    price: '3.40',
     images: [
       'https://dl.dropboxusercontent.com/scl/fi/w49nvg96brkpvz9kdi5hw/hybrid-metallic-cadence-negro-70.jpg?rlkey=eft8xy6ri0sv8dcf7pfdyy112&st=w651hqnn&dl=0',
     ],
@@ -220,7 +220,7 @@ const initialProducts = [
   {
     id: 338,
     name: 'Hybrid Metallic ZAFIRO 70ml.',
-    price: '3.30',
+    price: '3.40',
     images: [
       'https://dl.dropboxusercontent.com/scl/fi/47mf62z0kp7uhn8i7562x/hybrid-metallic-cadence-zafiro-70.jpg?rlkey=6ppjkggfwuh4jl4c36fclh93o&st=swo9x1k4&dl=0',
     ],
@@ -231,7 +231,7 @@ const initialProducts = [
   {
     id: 339,
     name: 'Hybrid Metallic TURQUESA 70ml.',
-    price: '3.30',
+    price: '3.40',
     images: [
       'https://dl.dropboxusercontent.com/scl/fi/ty8oys54dc76qmok3s6i2/hybrid-metallic-cadence-turquesa-70.jpg?rlkey=5v1bnwe7bgi3rmfm9qcssgboa&st=rx0s2rvr&dl=0',
     ],
@@ -242,7 +242,7 @@ const initialProducts = [
   {
     id: 340,
     name: 'Hybrid Metallic COBRE 70ml.',
-    price: '3.30',
+    price: '3.40',
     images: [
       'https://dl.dropboxusercontent.com/scl/fi/rhb1w26ty411hpd13st6z/hybrid-metallic-cadence-cobre-70.jpg?rlkey=z642qn7lbiqtpy4r3hxmh836t&st=1cojlacu&dl=0',
     ],
@@ -253,7 +253,7 @@ const initialProducts = [
   {
     id: 341,
     name: 'Hybrid Metallic ORO OSCURO 120ml.',
-    price: "5.30",
+    price: "5.70",
     images: [
       'https://dl.dropboxusercontent.com/scl/fi/oy6qj2s2mcy0fp4115w9a/hybrid-metallic-cadence-oroscuro-120.jpg?rlkey=j0k1qfj1cfnnihgs5x0iq7zzo&st=n4ulzt4y&dl=0',
     ],
@@ -264,7 +264,7 @@ const initialProducts = [
   {
     id: 342,
     name: 'Hybrid Metallic PLATINO 120ml.',
-    price: "5.30",
+    price: "5.70",
     images: [
       'https://dl.dropboxusercontent.com/scl/fi/x74qk63mqwdin6094cj7z/hybrid-metallic-cadence-platino-120.jpg?rlkey=a41bnrahg9ogm7kgxv9msj3mi&st=qsaqdwj7&dl=0',
     ],
@@ -275,7 +275,7 @@ const initialProducts = [
   {
     id: 343,
     name: 'Hybrid Metallic PLATA 120ml.',
-    price: "5.30",
+    price: "5.70",
     images: [
       'https://dl.dropboxusercontent.com/scl/fi/msqmr4ubes5iyy5o3kcod/hybrid-metallic-cadence-plata-120.jpg?rlkey=ep4fdkwoaobnsms8gtm7m5ij6&st=i0fcne7d&dl=0',
     ],
@@ -286,7 +286,7 @@ const initialProducts = [
   {
     id: 344,
     name: 'Hybrid Metallic CHAMPÁN 120ml.',
-    price: "5.30",
+    price: "5.70",
     images: [
       'https://dl.dropboxusercontent.com/scl/fi/mtrdbe2mfmixdolsi9yll/hybrid-metallic-cadence-champan-120.jpg?rlkey=g28n6w2djsn9nam3rflm5xy2p&st=60ppirja&dl=0',
     ],
@@ -297,7 +297,7 @@ const initialProducts = [
   {
     id: 345,
     name: 'Hybrid Metallic PERLA 120ml.',
-    price: "5.30",
+    price: "5.70",
     images: [
       'https://dl.dropboxusercontent.com/scl/fi/6xwjtz8cxbnqa51qfkinx/hybrid-metallic-cadence-perla-120.jpg?rlkey=gy84zmktcotnbghd1skqajojg&st=60b8kemz&dl=0',
     ],
@@ -308,7 +308,7 @@ const initialProducts = [
   {
     id: 346,
     name: 'Hybrid Metallic ORO VIEJO 120ml.',
-    price: "5.30",
+    price: "5.70",
     images: [
       'https://dl.dropboxusercontent.com/scl/fi/gxmzc1elkum3mrhlrg2ng/hybrid-metallic-cadence-orobiejo-120.jpg?rlkey=vgs4vxi2rs6dgu8q1siojswi2&st=k9qm9zcy&dl=0',
     ],
@@ -319,7 +319,7 @@ const initialProducts = [
   {
     id: 347,
     name: 'Hybrid Metallic ORO 120ml.',
-    price: "5.30",
+    price: "5.70",
     images: [
       'https://dl.dropboxusercontent.com/scl/fi/h9fw8rnjnmyesma1t0aoq/hybrid-metallic-cadence-oro-120.jpg?rlkey=27j2lt6h5hwycbuzn2rua8h8f&st=rtfx4zwp&dl=0',
     ],

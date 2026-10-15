@@ -87,7 +87,7 @@ export const Tienda6Transfers = () => {
             color="#de95e7ff"
           >
             <div className="cadence-card">
-              <span className="badge-novedad">Novedades</span>
+             {/*<span className="badge-novedad">Novedades</span> */}
 
               <img
                 src="https://dl.dropboxusercontent.com/scl/fi/gaxwvgd349ythiqtjlbkl/CAT-DECORATIVE-TRANSFERS-250x250.jpg?rlkey=t9mucami9mvp9um2zo8zqv0mk&st=4odfwa86&dl=0"
@@ -104,7 +104,7 @@ export const Tienda6Transfers = () => {
             color="#de95e7ff"
           >
             <div className="cadence-card">
-              <span className="badge-novedad">Novedades</span>
+             {/*<span className="badge-novedad">Novedades</span> */}
 
               <img
                 src="https://dl.dropboxusercontent.com/scl/fi/gaxwvgd349ythiqtjlbkl/CAT-DECORATIVE-TRANSFERS-250x250.jpg?rlkey=t9mucami9mvp9um2zo8zqv0mk&st=4odfwa86&dl=0"
@@ -120,7 +120,7 @@ export const Tienda6Transfers = () => {
             color="#de95e7ff"
           >
             <div className="cadence-card">
-              <span className="badge-novedad">Novedades</span>
+             {/*<span className="badge-novedad">Novedades</span> */}
 
               <img
                 src="https://dl.dropboxusercontent.com/scl/fi/gaxwvgd349ythiqtjlbkl/CAT-DECORATIVE-TRANSFERS-250x250.jpg?rlkey=t9mucami9mvp9um2zo8zqv0mk&st=4odfwa86&dl=0"
@@ -136,7 +136,7 @@ export const Tienda6Transfers = () => {
             color="#de95e7ff"
           >
             <div className="cadence-card">
-              <span className="badge-novedad">Novedades</span>
+             {/*<span className="badge-novedad">Novedades</span> */}
 
               <img
                 src="https://dl.dropboxusercontent.com/scl/fi/gaxwvgd349ythiqtjlbkl/CAT-DECORATIVE-TRANSFERS-250x250.jpg?rlkey=t9mucami9mvp9um2zo8zqv0mk&st=4odfwa86&dl=0"
